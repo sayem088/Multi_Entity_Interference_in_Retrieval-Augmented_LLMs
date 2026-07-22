@@ -1,0 +1,54 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_high_count_004",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "Grand Museum 80": {
+      "name": "Grand Museum 80",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Museum 29": {
+      "name": "Grand Museum 29",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Museum 3": {
+      "name": "Grand Museum 3",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Museum 63": {
+      "name": "Grand Museum 63",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Museum 89": {
+      "name": "Grand Museum 89",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Museum 92": {
+      "name": "Grand Museum 92",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Museum 36": {
+      "name": "Grand Museum 36",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Museum 14": {
+      "name": "Grand Museum 14",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    }
+  }
+}

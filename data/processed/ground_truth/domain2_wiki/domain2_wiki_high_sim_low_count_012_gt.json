@@ -1,0 +1,18 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_low_count_012",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Grand Spacecraft 9": {
+      "name": "Grand Spacecraft 9",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Spacecraft 8": {
+      "name": "Grand Spacecraft 8",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_high_count_001",
+  "domain_id": "domain2_wiki",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "wiki_bridge_31",
+      "category": "bridge",
+      "name": "Grand Bridge 31",
+      "attributes": {
+        "name": "Grand Bridge 31",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_bridge_67",
+      "category": "bridge",
+      "name": "Grand Bridge 67",
+      "attributes": {
+        "name": "Grand Bridge 67",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_bridge_66",
+      "category": "bridge",
+      "name": "Grand Bridge 66",
+      "attributes": {
+        "name": "Grand Bridge 66",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_bridge_62",
+      "category": "bridge",
+      "name": "Grand Bridge 62",
+      "attributes": {
+        "name": "Grand Bridge 62",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_bridge_18",
+      "category": "bridge",
+      "name": "Grand Bridge 18",
+      "attributes": {
+        "name": "Grand Bridge 18",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_bridge_40",
+      "category": "bridge",
+      "name": "Grand Bridge 40",
+      "attributes": {
+        "name": "Grand Bridge 40",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_bridge_49",
+      "category": "bridge",
+      "name": "Grand Bridge 49",
+      "attributes": {
+        "name": "Grand Bridge 49",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_bridge_13",
+      "category": "bridge",
+      "name": "Grand Bridge 13",
+      "attributes": {
+        "name": "Grand Bridge 13",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    }
+  ]
+}

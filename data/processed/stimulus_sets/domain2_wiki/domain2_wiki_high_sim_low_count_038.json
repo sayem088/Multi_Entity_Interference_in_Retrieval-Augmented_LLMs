@@ -1,0 +1,32 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_low_count_038",
+  "domain_id": "domain2_wiki",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "wiki_museum_9",
+      "category": "museum",
+      "name": "Grand Museum 9",
+      "attributes": {
+        "name": "Grand Museum 9",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_museum_25",
+      "category": "museum",
+      "name": "Grand Museum 25",
+      "attributes": {
+        "name": "Grand Museum 25",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    }
+  ]
+}

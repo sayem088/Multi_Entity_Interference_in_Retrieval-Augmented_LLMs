@@ -1,0 +1,32 @@
+# 2x2 Factorial Experimental Design Configuration
+# Factor 1: Schema Similarity (Low vs High)
+# Factor 2: Entity Count (Low = 2 entities, High = 8 entities)
+
+cells:
+  - id: "low_sim_low_count"
+    similarity: "low"
+    count: 2
+    similarity_threshold_max: 0.40
+    description: "2 entities from distinct categories with low schema overlap"
+
+  - id: "high_sim_low_count"
+    similarity: "high"
+    count: 2
+    similarity_threshold_min: 0.70
+    description: "2 entities from same category with high schema overlap"
+
+  - id: "low_sim_high_count"
+    similarity: "low"
+    count: 8
+    similarity_threshold_max: 0.40
+    description: "8 entities from mixed categories with low schema overlap"
+
+  - id: "high_sim_high_count"
+    similarity: "high"
+    count: 8
+    similarity_threshold_min: 0.70
+    description: "8 entities from same category with high schema overlap"
+
+target_n_per_cell: 40
+schema_similarity_metric: "jaccard_attribute_keys"
+seed: 42

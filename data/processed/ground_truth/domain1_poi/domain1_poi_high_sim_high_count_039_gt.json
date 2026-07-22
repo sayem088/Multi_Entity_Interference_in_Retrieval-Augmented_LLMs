@@ -1,0 +1,54 @@
+{
+  "scenario_id": "domain1_poi_high_sim_high_count_039",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "School Site 44": {
+      "name": "School Site 44",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "School Site 24": {
+      "name": "School Site 24",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "School Site 13": {
+      "name": "School Site 13",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "School Site 40": {
+      "name": "School Site 40",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "School Site 46": {
+      "name": "School Site 46",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "School Site 23": {
+      "name": "School Site 23",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "School Site 91": {
+      "name": "School Site 91",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "School Site 56": {
+      "name": "School Site 56",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    }
+  }
+}

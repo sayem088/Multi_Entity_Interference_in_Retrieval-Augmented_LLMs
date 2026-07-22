@@ -1,0 +1,32 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_low_count_003",
+  "domain_id": "domain2_wiki",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "wiki_river_74",
+      "category": "river",
+      "name": "Grand River 74",
+      "attributes": {
+        "name": "Grand River 74",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_river_44",
+      "category": "river",
+      "name": "Grand River 44",
+      "attributes": {
+        "name": "Grand River 44",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    }
+  ]
+}

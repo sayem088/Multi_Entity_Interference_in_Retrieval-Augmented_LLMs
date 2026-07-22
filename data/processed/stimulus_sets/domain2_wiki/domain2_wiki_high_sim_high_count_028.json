@@ -1,0 +1,122 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_high_count_028",
+  "domain_id": "domain2_wiki",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "wiki_country_38",
+      "category": "country",
+      "name": "Grand Country 38",
+      "attributes": {
+        "name": "Grand Country 38",
+        "established": "1776",
+        "location": "North America",
+        "students_or_employees": "330 million residents",
+        "budget_or_gdp": "$25 trillion",
+        "motto": "In God We Trust",
+        "website": "https://gov.portal"
+      }
+    },
+    {
+      "entity_id": "wiki_country_85",
+      "category": "country",
+      "name": "Grand Country 85",
+      "attributes": {
+        "name": "Grand Country 85",
+        "established": "1776",
+        "location": "North America",
+        "students_or_employees": "330 million residents",
+        "budget_or_gdp": "$25 trillion",
+        "motto": "In God We Trust",
+        "website": "https://gov.portal"
+      }
+    },
+    {
+      "entity_id": "wiki_country_65",
+      "category": "country",
+      "name": "Grand Country 65",
+      "attributes": {
+        "name": "Grand Country 65",
+        "established": "1776",
+        "location": "North America",
+        "students_or_employees": "330 million residents",
+        "budget_or_gdp": "$25 trillion",
+        "motto": "In God We Trust",
+        "website": "https://gov.portal"
+      }
+    },
+    {
+      "entity_id": "wiki_country_59",
+      "category": "country",
+      "name": "Grand Country 59",
+      "attributes": {
+        "name": "Grand Country 59",
+        "established": "1776",
+        "location": "North America",
+        "students_or_employees": "330 million residents",
+        "budget_or_gdp": "$25 trillion",
+        "motto": "In God We Trust",
+        "website": "https://gov.portal"
+      }
+    },
+    {
+      "entity_id": "wiki_country_68",
+      "category": "country",
+      "name": "Grand Country 68",
+      "attributes": {
+        "name": "Grand Country 68",
+        "established": "1776",
+        "location": "North America",
+        "students_or_employees": "330 million residents",
+        "budget_or_gdp": "$25 trillion",
+        "motto": "In God We Trust",
+        "website": "https://gov.portal"
+      }
+    },
+    {
+      "entity_id": "wiki_country_28",
+      "category": "country",
+      "name": "Grand Country 28",
+      "attributes": {
+        "name": "Grand Country 28",
+        "established": "1776",
+        "location": "North America",
+        "students_or_employees": "330 million residents",
+        "budget_or_gdp": "$25 trillion",
+        "motto": "In God We Trust",
+        "website": "https://gov.portal"
+      }
+    },
+    {
+      "entity_id": "wiki_country_9",
+      "category": "country",
+      "name": "Grand Country 9",
+      "attributes": {
+        "name": "Grand Country 9",
+        "established": "1776",
+        "location": "North America",
+        "students_or_employees": "330 million residents",
+        "budget_or_gdp": "$25 trillion",
+        "motto": "In God We Trust",
+        "website": "https://gov.portal"
+      }
+    },
+    {
+      "entity_id": "wiki_country_3",
+      "category": "country",
+      "name": "Grand Country 3",
+      "attributes": {
+        "name": "Grand Country 3",
+        "established": "1776",
+        "location": "North America",
+        "students_or_employees": "330 million residents",
+        "budget_or_gdp": "$25 trillion",
+        "motto": "In God We Trust",
+        "website": "https://gov.portal"
+      }
+    }
+  ]
+}

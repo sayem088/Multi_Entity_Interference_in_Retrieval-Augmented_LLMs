@@ -1,0 +1,18 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_low_count_027",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Grand Bridge 57": {
+      "name": "Grand Bridge 57",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Bridge 77": {
+      "name": "Grand Bridge 77",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    }
+  }
+}

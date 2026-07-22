@@ -1,0 +1,23 @@
+{
+  "scenario_id": "domain1_poi_low_sim_low_count_005",
+  "cell_label": "low_sim_low_count",
+  "entity_map": {
+    "Hotel Site 58": {
+      "name": "Hotel Site 58",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Restaurant Site 76": {
+      "name": "Restaurant Site 76",
+      "cuisine": "italian",
+      "opening_hours": "11:00-23:00",
+      "takeaway": "yes",
+      "wheelchair": "yes",
+      "phone": "+1-555-0144",
+      "website": "https://bistro.com",
+      "postcode": "10002",
+      "rating": "4.0 stars"
+    }
+  }
+}

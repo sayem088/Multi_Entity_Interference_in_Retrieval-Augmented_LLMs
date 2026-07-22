@@ -1,0 +1,18 @@
+{
+  "scenario_id": "domain1_poi_high_sim_low_count_017",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Supermarket Site 62": {
+      "name": "Supermarket Site 62",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Supermarket Site 28": {
+      "name": "Supermarket Site 28",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    }
+  }
+}

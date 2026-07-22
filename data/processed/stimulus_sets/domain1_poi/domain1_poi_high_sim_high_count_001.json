@@ -1,0 +1,98 @@
+{
+  "scenario_id": "domain1_poi_high_sim_high_count_001",
+  "domain_id": "domain1_poi",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "osm_supermarket_98",
+      "category": "supermarket",
+      "name": "Supermarket Site 98",
+      "attributes": {
+        "name": "Supermarket Site 98",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_supermarket_38",
+      "category": "supermarket",
+      "name": "Supermarket Site 38",
+      "attributes": {
+        "name": "Supermarket Site 38",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_supermarket_29",
+      "category": "supermarket",
+      "name": "Supermarket Site 29",
+      "attributes": {
+        "name": "Supermarket Site 29",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_supermarket_67",
+      "category": "supermarket",
+      "name": "Supermarket Site 67",
+      "attributes": {
+        "name": "Supermarket Site 67",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_supermarket_14",
+      "category": "supermarket",
+      "name": "Supermarket Site 14",
+      "attributes": {
+        "name": "Supermarket Site 14",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_supermarket_12",
+      "category": "supermarket",
+      "name": "Supermarket Site 12",
+      "attributes": {
+        "name": "Supermarket Site 12",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_supermarket_94",
+      "category": "supermarket",
+      "name": "Supermarket Site 94",
+      "attributes": {
+        "name": "Supermarket Site 94",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_supermarket_78",
+      "category": "supermarket",
+      "name": "Supermarket Site 78",
+      "attributes": {
+        "name": "Supermarket Site 78",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    }
+  ]
+}

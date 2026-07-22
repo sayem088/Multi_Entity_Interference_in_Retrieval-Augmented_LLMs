@@ -1,0 +1,22 @@
+experiment_name: "stage1_measurement_mei"
+version: "1.0.0"
+domains:
+  - "domain1_poi"
+  - "domain2_wiki"
+
+paths:
+  raw_data_dir: "data/raw"
+  interim_data_dir: "data/interim"
+  processed_data_dir: "data/processed"
+  raw_responses_dir: "results/stage1/raw_responses"
+  scored_responses_dir: "results/stage1/scored_responses"
+  tables_dir: "results/stage1/tables"
+  figures_dir: "results/stage1/figures"
+  run_logs_dir: "results/stage1/run_logs"
+  hand_annotations_dir: "validation/hand_annotations"
+
+scoring:
+  compute_ber_k: true
+  compute_ea_f1: true
+  compute_ragas_faithfulness: true
+  confidence_interval_level: 0.95

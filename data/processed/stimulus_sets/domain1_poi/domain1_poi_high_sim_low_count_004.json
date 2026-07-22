@@ -1,0 +1,32 @@
+{
+  "scenario_id": "domain1_poi_high_sim_low_count_004",
+  "domain_id": "domain1_poi",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "osm_hotel_25",
+      "category": "hotel",
+      "name": "Hotel Site 25",
+      "attributes": {
+        "name": "Hotel Site 25",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_hotel_13",
+      "category": "hotel",
+      "name": "Hotel Site 13",
+      "attributes": {
+        "name": "Hotel Site 13",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    }
+  ]
+}

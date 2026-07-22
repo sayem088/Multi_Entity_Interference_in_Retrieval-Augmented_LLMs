@@ -1,0 +1,24 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_low_count_006",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Grand Company 31": {
+      "name": "Grand Company 31",
+      "established": "2063",
+      "location": "Mountain View, CA",
+      "students_or_employees": "67000 employees",
+      "budget_or_gdp": "$280 billion revenue",
+      "motto": "Organize the world's information",
+      "website": "https://company.com"
+    },
+    "Grand Company 76": {
+      "name": "Grand Company 76",
+      "established": "2198",
+      "location": "Mountain View, CA",
+      "students_or_employees": "157000 employees",
+      "budget_or_gdp": "$280 billion revenue",
+      "motto": "Organize the world's information",
+      "website": "https://company.com"
+    }
+  }
+}

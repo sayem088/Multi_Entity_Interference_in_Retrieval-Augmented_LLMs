@@ -1,0 +1,54 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Large Model Weights (do not commit 15GB model files to git!)
+models/
+*.safetensors
+*.bin
+*.pt
+*.onnx
+
+# Environments & Virtualenvs
+env/
+venv/
+.venv/
+ENV/
+.env
+
+# Distribution / packaging
+build/
+devel/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & Run Artifacts
+*.log
+results/stage1/raw_responses/*
+results/stage1/scored_responses/*
+!results/stage1/raw_responses/.gitkeep
+!results/stage1/scored_responses/.gitkeep
+results/
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini

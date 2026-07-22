@@ -1,0 +1,122 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_high_count_018",
+  "domain_id": "domain2_wiki",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "wiki_university_90",
+      "category": "university",
+      "name": "Grand University 90",
+      "attributes": {
+        "name": "Grand University 90",
+        "established": "2250",
+        "location": "Cambridge, MA",
+        "students_or_employees": "145000 students",
+        "budget_or_gdp": "$19.0 billion",
+        "motto": "Veritas",
+        "website": "https://university.edu"
+      }
+    },
+    {
+      "entity_id": "wiki_university_20",
+      "category": "university",
+      "name": "Grand University 20",
+      "attributes": {
+        "name": "Grand University 20",
+        "established": "1900",
+        "location": "Cambridge, MA",
+        "students_or_employees": "40000 students",
+        "budget_or_gdp": "$5.0 billion",
+        "motto": "Veritas",
+        "website": "https://university.edu"
+      }
+    },
+    {
+      "entity_id": "wiki_university_49",
+      "category": "university",
+      "name": "Grand University 49",
+      "attributes": {
+        "name": "Grand University 49",
+        "established": "2045",
+        "location": "Cambridge, MA",
+        "students_or_employees": "83500 students",
+        "budget_or_gdp": "$10.8 billion",
+        "motto": "Veritas",
+        "website": "https://university.edu"
+      }
+    },
+    {
+      "entity_id": "wiki_university_87",
+      "category": "university",
+      "name": "Grand University 87",
+      "attributes": {
+        "name": "Grand University 87",
+        "established": "2235",
+        "location": "Cambridge, MA",
+        "students_or_employees": "140500 students",
+        "budget_or_gdp": "$18.4 billion",
+        "motto": "Veritas",
+        "website": "https://university.edu"
+      }
+    },
+    {
+      "entity_id": "wiki_university_81",
+      "category": "university",
+      "name": "Grand University 81",
+      "attributes": {
+        "name": "Grand University 81",
+        "established": "2205",
+        "location": "Cambridge, MA",
+        "students_or_employees": "131500 students",
+        "budget_or_gdp": "$17.2 billion",
+        "motto": "Veritas",
+        "website": "https://university.edu"
+      }
+    },
+    {
+      "entity_id": "wiki_university_76",
+      "category": "university",
+      "name": "Grand University 76",
+      "attributes": {
+        "name": "Grand University 76",
+        "established": "2180",
+        "location": "Cambridge, MA",
+        "students_or_employees": "124000 students",
+        "budget_or_gdp": "$16.2 billion",
+        "motto": "Veritas",
+        "website": "https://university.edu"
+      }
+    },
+    {
+      "entity_id": "wiki_university_16",
+      "category": "university",
+      "name": "Grand University 16",
+      "attributes": {
+        "name": "Grand University 16",
+        "established": "1880",
+        "location": "Cambridge, MA",
+        "students_or_employees": "34000 students",
+        "budget_or_gdp": "$4.2 billion",
+        "motto": "Veritas",
+        "website": "https://university.edu"
+      }
+    },
+    {
+      "entity_id": "wiki_university_34",
+      "category": "university",
+      "name": "Grand University 34",
+      "attributes": {
+        "name": "Grand University 34",
+        "established": "1970",
+        "location": "Cambridge, MA",
+        "students_or_employees": "61000 students",
+        "budget_or_gdp": "$7.8 billion",
+        "motto": "Veritas",
+        "website": "https://university.edu"
+      }
+    }
+  ]
+}

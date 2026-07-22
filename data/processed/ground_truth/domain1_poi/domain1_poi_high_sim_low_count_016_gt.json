@@ -1,0 +1,24 @@
+{
+  "scenario_id": "domain1_poi_high_sim_low_count_016",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Bank Site 22": {
+      "name": "Bank Site 22",
+      "atm": "yes",
+      "opening_hours": "09:00-17:00",
+      "drive_through": "no",
+      "wheelchair": "yes",
+      "phone": "+1-555-0188",
+      "postcode": "10003"
+    },
+    "Bank Site 53": {
+      "name": "Bank Site 53",
+      "atm": "yes",
+      "opening_hours": "09:00-17:00",
+      "drive_through": "no",
+      "wheelchair": "yes",
+      "phone": "+1-555-0188",
+      "postcode": "10003"
+    }
+  }
+}

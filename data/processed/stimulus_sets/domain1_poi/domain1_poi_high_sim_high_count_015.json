@@ -1,0 +1,138 @@
+{
+  "scenario_id": "domain1_poi_high_sim_high_count_015",
+  "domain_id": "domain1_poi",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "osm_restaurant_82",
+      "category": "restaurant",
+      "name": "Restaurant Site 82",
+      "attributes": {
+        "name": "Restaurant Site 82",
+        "cuisine": "italian",
+        "opening_hours": "11:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0144",
+        "website": "https://bistro.com",
+        "postcode": "10002",
+        "rating": "4.0 stars"
+      }
+    },
+    {
+      "entity_id": "osm_restaurant_52",
+      "category": "restaurant",
+      "name": "Restaurant Site 52",
+      "attributes": {
+        "name": "Restaurant Site 52",
+        "cuisine": "italian",
+        "opening_hours": "11:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0144",
+        "website": "https://bistro.com",
+        "postcode": "10002",
+        "rating": "4.0 stars"
+      }
+    },
+    {
+      "entity_id": "osm_restaurant_41",
+      "category": "restaurant",
+      "name": "Restaurant Site 41",
+      "attributes": {
+        "name": "Restaurant Site 41",
+        "cuisine": "italian",
+        "opening_hours": "11:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0144",
+        "website": "https://bistro.com",
+        "postcode": "10002",
+        "rating": "4.5 stars"
+      }
+    },
+    {
+      "entity_id": "osm_restaurant_80",
+      "category": "restaurant",
+      "name": "Restaurant Site 80",
+      "attributes": {
+        "name": "Restaurant Site 80",
+        "cuisine": "italian",
+        "opening_hours": "11:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0144",
+        "website": "https://bistro.com",
+        "postcode": "10002",
+        "rating": "4.5 stars"
+      }
+    },
+    {
+      "entity_id": "osm_restaurant_64",
+      "category": "restaurant",
+      "name": "Restaurant Site 64",
+      "attributes": {
+        "name": "Restaurant Site 64",
+        "cuisine": "italian",
+        "opening_hours": "11:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0144",
+        "website": "https://bistro.com",
+        "postcode": "10002",
+        "rating": "4.0 stars"
+      }
+    },
+    {
+      "entity_id": "osm_restaurant_24",
+      "category": "restaurant",
+      "name": "Restaurant Site 24",
+      "attributes": {
+        "name": "Restaurant Site 24",
+        "cuisine": "italian",
+        "opening_hours": "11:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0144",
+        "website": "https://bistro.com",
+        "postcode": "10002",
+        "rating": "3.5 stars"
+      }
+    },
+    {
+      "entity_id": "osm_restaurant_97",
+      "category": "restaurant",
+      "name": "Restaurant Site 97",
+      "attributes": {
+        "name": "Restaurant Site 97",
+        "cuisine": "italian",
+        "opening_hours": "11:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0144",
+        "website": "https://bistro.com",
+        "postcode": "10002",
+        "rating": "4.0 stars"
+      }
+    },
+    {
+      "entity_id": "osm_restaurant_49",
+      "category": "restaurant",
+      "name": "Restaurant Site 49",
+      "attributes": {
+        "name": "Restaurant Site 49",
+        "cuisine": "italian",
+        "opening_hours": "11:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0144",
+        "website": "https://bistro.com",
+        "postcode": "10002",
+        "rating": "4.0 stars"
+      }
+    }
+  ]
+}

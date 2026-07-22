@@ -1,0 +1,24 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_low_count_024",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Grand University 94": {
+      "name": "Grand University 94",
+      "established": "2270",
+      "location": "Cambridge, MA",
+      "students_or_employees": "151000 students",
+      "budget_or_gdp": "$19.8 billion",
+      "motto": "Veritas",
+      "website": "https://university.edu"
+    },
+    "Grand University 48": {
+      "name": "Grand University 48",
+      "established": "2040",
+      "location": "Cambridge, MA",
+      "students_or_employees": "82000 students",
+      "budget_or_gdp": "$10.6 billion",
+      "motto": "Veritas",
+      "website": "https://university.edu"
+    }
+  }
+}

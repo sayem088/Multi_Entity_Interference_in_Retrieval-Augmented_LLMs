@@ -1,0 +1,39 @@
+{
+  "scenario_id": "domain1_poi_low_sim_low_count_030",
+  "domain_id": "domain1_poi",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.5,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "osm_bank_31",
+      "category": "bank",
+      "name": "Bank Site 31",
+      "attributes": {
+        "name": "Bank Site 31",
+        "atm": "yes",
+        "opening_hours": "09:00-17:00",
+        "drive_through": "no",
+        "wheelchair": "yes",
+        "phone": "+1-555-0188",
+        "postcode": "10003"
+      }
+    },
+    {
+      "entity_id": "osm_hospital_73",
+      "category": "hospital",
+      "name": "Hospital Site 73",
+      "attributes": {
+        "name": "Hospital Site 73",
+        "capacity": "1925 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0183",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    }
+  ]
+}

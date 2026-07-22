@@ -1,0 +1,22 @@
+{
+  "scenario_id": "domain1_poi_low_sim_low_count_026",
+  "cell_label": "low_sim_low_count",
+  "entity_map": {
+    "Supermarket Site 93": {
+      "name": "Supermarket Site 93",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Hospital Site 93": {
+      "name": "Hospital Site 93",
+      "capacity": "2425 beds",
+      "opening_hours": "24/7",
+      "emergency": "yes",
+      "wheelchair": "yes",
+      "phone": "+1-555-01103",
+      "website": "https://hospital.org",
+      "postcode": "10001"
+    }
+  }
+}

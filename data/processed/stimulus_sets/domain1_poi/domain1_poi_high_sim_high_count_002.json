@@ -1,0 +1,114 @@
+{
+  "scenario_id": "domain1_poi_high_sim_high_count_002",
+  "domain_id": "domain1_poi",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "osm_park_31",
+      "category": "park",
+      "name": "Park Site 31",
+      "attributes": {
+        "name": "Park Site 31",
+        "leisure": "park",
+        "opening_hours": "06:00-21:00",
+        "dog_friendly": "yes",
+        "fee": "no",
+        "surface": "grass"
+      }
+    },
+    {
+      "entity_id": "osm_park_86",
+      "category": "park",
+      "name": "Park Site 86",
+      "attributes": {
+        "name": "Park Site 86",
+        "leisure": "park",
+        "opening_hours": "06:00-21:00",
+        "dog_friendly": "yes",
+        "fee": "no",
+        "surface": "grass"
+      }
+    },
+    {
+      "entity_id": "osm_park_64",
+      "category": "park",
+      "name": "Park Site 64",
+      "attributes": {
+        "name": "Park Site 64",
+        "leisure": "park",
+        "opening_hours": "06:00-21:00",
+        "dog_friendly": "yes",
+        "fee": "no",
+        "surface": "grass"
+      }
+    },
+    {
+      "entity_id": "osm_park_90",
+      "category": "park",
+      "name": "Park Site 90",
+      "attributes": {
+        "name": "Park Site 90",
+        "leisure": "park",
+        "opening_hours": "06:00-21:00",
+        "dog_friendly": "yes",
+        "fee": "no",
+        "surface": "grass"
+      }
+    },
+    {
+      "entity_id": "osm_park_56",
+      "category": "park",
+      "name": "Park Site 56",
+      "attributes": {
+        "name": "Park Site 56",
+        "leisure": "park",
+        "opening_hours": "06:00-21:00",
+        "dog_friendly": "yes",
+        "fee": "no",
+        "surface": "grass"
+      }
+    },
+    {
+      "entity_id": "osm_park_54",
+      "category": "park",
+      "name": "Park Site 54",
+      "attributes": {
+        "name": "Park Site 54",
+        "leisure": "park",
+        "opening_hours": "06:00-21:00",
+        "dog_friendly": "yes",
+        "fee": "no",
+        "surface": "grass"
+      }
+    },
+    {
+      "entity_id": "osm_park_8",
+      "category": "park",
+      "name": "Park Site 8",
+      "attributes": {
+        "name": "Park Site 8",
+        "leisure": "park",
+        "opening_hours": "06:00-21:00",
+        "dog_friendly": "yes",
+        "fee": "no",
+        "surface": "grass"
+      }
+    },
+    {
+      "entity_id": "osm_park_82",
+      "category": "park",
+      "name": "Park Site 82",
+      "attributes": {
+        "name": "Park Site 82",
+        "leisure": "park",
+        "opening_hours": "06:00-21:00",
+        "dog_friendly": "yes",
+        "fee": "no",
+        "surface": "grass"
+      }
+    }
+  ]
+}

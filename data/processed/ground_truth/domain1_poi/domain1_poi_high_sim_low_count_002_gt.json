@@ -1,0 +1,18 @@
+{
+  "scenario_id": "domain1_poi_high_sim_low_count_002",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "School Site 93": {
+      "name": "School Site 93",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "School Site 74": {
+      "name": "School Site 74",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    }
+  }
+}

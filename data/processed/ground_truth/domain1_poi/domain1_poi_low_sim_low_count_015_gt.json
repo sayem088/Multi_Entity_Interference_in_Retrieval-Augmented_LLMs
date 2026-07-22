@@ -1,0 +1,26 @@
+{
+  "scenario_id": "domain1_poi_low_sim_low_count_015",
+  "cell_label": "low_sim_low_count",
+  "entity_map": {
+    "Bank Site 60": {
+      "name": "Bank Site 60",
+      "atm": "yes",
+      "opening_hours": "09:00-17:00",
+      "drive_through": "no",
+      "wheelchair": "yes",
+      "phone": "+1-555-0188",
+      "postcode": "10003"
+    },
+    "Restaurant Site 49": {
+      "name": "Restaurant Site 49",
+      "cuisine": "italian",
+      "opening_hours": "11:00-23:00",
+      "takeaway": "yes",
+      "wheelchair": "yes",
+      "phone": "+1-555-0144",
+      "website": "https://bistro.com",
+      "postcode": "10002",
+      "rating": "4.0 stars"
+    }
+  }
+}

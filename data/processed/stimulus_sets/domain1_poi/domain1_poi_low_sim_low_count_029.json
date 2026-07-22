@@ -1,0 +1,36 @@
+{
+  "scenario_id": "domain1_poi_low_sim_low_count_029",
+  "domain_id": "domain1_poi",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.5,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "osm_hospital_47",
+      "category": "hospital",
+      "name": "Hospital Site 47",
+      "attributes": {
+        "name": "Hospital Site 47",
+        "capacity": "1275 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0157",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    },
+    {
+      "entity_id": "osm_supermarket_40",
+      "category": "supermarket",
+      "name": "Supermarket Site 40",
+      "attributes": {
+        "name": "Supermarket Site 40",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "scenario_id": "domain1_poi_high_sim_high_count_016",
+  "domain_id": "domain1_poi",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "osm_bank_34",
+      "category": "bank",
+      "name": "Bank Site 34",
+      "attributes": {
+        "name": "Bank Site 34",
+        "atm": "yes",
+        "opening_hours": "09:00-17:00",
+        "drive_through": "no",
+        "wheelchair": "yes",
+        "phone": "+1-555-0188",
+        "postcode": "10003"
+      }
+    },
+    {
+      "entity_id": "osm_bank_91",
+      "category": "bank",
+      "name": "Bank Site 91",
+      "attributes": {
+        "name": "Bank Site 91",
+        "atm": "yes",
+        "opening_hours": "09:00-17:00",
+        "drive_through": "no",
+        "wheelchair": "yes",
+        "phone": "+1-555-0188",
+        "postcode": "10003"
+      }
+    },
+    {
+      "entity_id": "osm_bank_63",
+      "category": "bank",
+      "name": "Bank Site 63",
+      "attributes": {
+        "name": "Bank Site 63",
+        "atm": "yes",
+        "opening_hours": "09:00-17:00",
+        "drive_through": "no",
+        "wheelchair": "yes",
+        "phone": "+1-555-0188",
+        "postcode": "10003"
+      }
+    },
+    {
+      "entity_id": "osm_bank_45",
+      "category": "bank",
+      "name": "Bank Site 45",
+      "attributes": {
+        "name": "Bank Site 45",
+        "atm": "yes",
+        "opening_hours": "09:00-17:00",
+        "drive_through": "no",
+        "wheelchair": "yes",
+        "phone": "+1-555-0188",
+        "postcode": "10003"
+      }
+    },
+    {
+      "entity_id": "osm_bank_44",
+      "category": "bank",
+      "name": "Bank Site 44",
+      "attributes": {
+        "name": "Bank Site 44",
+        "atm": "yes",
+        "opening_hours": "09:00-17:00",
+        "drive_through": "no",
+        "wheelchair": "yes",
+        "phone": "+1-555-0188",
+        "postcode": "10003"
+      }
+    },
+    {
+      "entity_id": "osm_bank_57",
+      "category": "bank",
+      "name": "Bank Site 57",
+      "attributes": {
+        "name": "Bank Site 57",
+        "atm": "yes",
+        "opening_hours": "09:00-17:00",
+        "drive_through": "no",
+        "wheelchair": "yes",
+        "phone": "+1-555-0188",
+        "postcode": "10003"
+      }
+    },
+    {
+      "entity_id": "osm_bank_47",
+      "category": "bank",
+      "name": "Bank Site 47",
+      "attributes": {
+        "name": "Bank Site 47",
+        "atm": "yes",
+        "opening_hours": "09:00-17:00",
+        "drive_through": "no",
+        "wheelchair": "yes",
+        "phone": "+1-555-0188",
+        "postcode": "10003"
+      }
+    },
+    {
+      "entity_id": "osm_bank_97",
+      "category": "bank",
+      "name": "Bank Site 97",
+      "attributes": {
+        "name": "Bank Site 97",
+        "atm": "yes",
+        "opening_hours": "09:00-17:00",
+        "drive_through": "no",
+        "wheelchair": "yes",
+        "phone": "+1-555-0188",
+        "postcode": "10003"
+      }
+    }
+  ]
+}

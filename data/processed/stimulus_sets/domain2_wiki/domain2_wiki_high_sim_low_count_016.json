@@ -1,0 +1,38 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_low_count_016",
+  "domain_id": "domain2_wiki",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "wiki_university_7",
+      "category": "university",
+      "name": "Grand University 7",
+      "attributes": {
+        "name": "Grand University 7",
+        "established": "1835",
+        "location": "Cambridge, MA",
+        "students_or_employees": "20500 students",
+        "budget_or_gdp": "$2.4 billion",
+        "motto": "Veritas",
+        "website": "https://university.edu"
+      }
+    },
+    {
+      "entity_id": "wiki_university_9",
+      "category": "university",
+      "name": "Grand University 9",
+      "attributes": {
+        "name": "Grand University 9",
+        "established": "1845",
+        "location": "Cambridge, MA",
+        "students_or_employees": "23500 students",
+        "budget_or_gdp": "$2.8 billion",
+        "motto": "Veritas",
+        "website": "https://university.edu"
+      }
+    }
+  ]
+}

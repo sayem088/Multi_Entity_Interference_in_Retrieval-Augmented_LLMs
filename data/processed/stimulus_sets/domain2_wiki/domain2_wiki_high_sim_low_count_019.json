@@ -1,0 +1,38 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_low_count_019",
+  "domain_id": "domain2_wiki",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "wiki_country_95",
+      "category": "country",
+      "name": "Grand Country 95",
+      "attributes": {
+        "name": "Grand Country 95",
+        "established": "1776",
+        "location": "North America",
+        "students_or_employees": "330 million residents",
+        "budget_or_gdp": "$25 trillion",
+        "motto": "In God We Trust",
+        "website": "https://gov.portal"
+      }
+    },
+    {
+      "entity_id": "wiki_country_42",
+      "category": "country",
+      "name": "Grand Country 42",
+      "attributes": {
+        "name": "Grand Country 42",
+        "established": "1776",
+        "location": "North America",
+        "students_or_employees": "330 million residents",
+        "budget_or_gdp": "$25 trillion",
+        "motto": "In God We Trust",
+        "website": "https://gov.portal"
+      }
+    }
+  ]
+}

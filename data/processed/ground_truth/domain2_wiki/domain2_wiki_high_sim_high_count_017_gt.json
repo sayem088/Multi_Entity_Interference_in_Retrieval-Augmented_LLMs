@@ -1,0 +1,54 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_high_count_017",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "Grand Bridge 31": {
+      "name": "Grand Bridge 31",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Bridge 60": {
+      "name": "Grand Bridge 60",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Bridge 10": {
+      "name": "Grand Bridge 10",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Bridge 39": {
+      "name": "Grand Bridge 39",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Bridge 47": {
+      "name": "Grand Bridge 47",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Bridge 6": {
+      "name": "Grand Bridge 6",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Bridge 29": {
+      "name": "Grand Bridge 29",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Bridge 15": {
+      "name": "Grand Bridge 15",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "scenario_id": "domain1_poi_high_sim_high_count_006",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "Supermarket Site 72": {
+      "name": "Supermarket Site 72",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Supermarket Site 78": {
+      "name": "Supermarket Site 78",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Supermarket Site 73": {
+      "name": "Supermarket Site 73",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Supermarket Site 49": {
+      "name": "Supermarket Site 49",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Supermarket Site 67": {
+      "name": "Supermarket Site 67",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Supermarket Site 86": {
+      "name": "Supermarket Site 86",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Supermarket Site 6": {
+      "name": "Supermarket Site 6",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Supermarket Site 14": {
+      "name": "Supermarket Site 14",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    }
+  }
+}

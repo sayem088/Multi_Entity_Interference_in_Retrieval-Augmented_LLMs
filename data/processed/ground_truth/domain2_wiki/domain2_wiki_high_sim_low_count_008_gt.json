@@ -1,0 +1,24 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_low_count_008",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Grand University 4": {
+      "name": "Grand University 4",
+      "established": "1820",
+      "location": "Cambridge, MA",
+      "students_or_employees": "16000 students",
+      "budget_or_gdp": "$1.8 billion",
+      "motto": "Veritas",
+      "website": "https://university.edu"
+    },
+    "Grand University 22": {
+      "name": "Grand University 22",
+      "established": "1910",
+      "location": "Cambridge, MA",
+      "students_or_employees": "43000 students",
+      "budget_or_gdp": "$5.4 billion",
+      "motto": "Veritas",
+      "website": "https://university.edu"
+    }
+  }
+}

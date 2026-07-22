@@ -1,0 +1,24 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_low_count_032",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Grand Company 45": {
+      "name": "Grand Company 45",
+      "established": "2105",
+      "location": "Mountain View, CA",
+      "students_or_employees": "95000 employees",
+      "budget_or_gdp": "$280 billion revenue",
+      "motto": "Organize the world's information",
+      "website": "https://company.com"
+    },
+    "Grand Company 3": {
+      "name": "Grand Company 3",
+      "established": "1979",
+      "location": "Mountain View, CA",
+      "students_or_employees": "11000 employees",
+      "budget_or_gdp": "$280 billion revenue",
+      "motto": "Organize the world's information",
+      "website": "https://company.com"
+    }
+  }
+}

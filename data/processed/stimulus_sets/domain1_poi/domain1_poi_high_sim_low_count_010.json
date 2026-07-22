@@ -1,0 +1,38 @@
+{
+  "scenario_id": "domain1_poi_high_sim_low_count_010",
+  "domain_id": "domain1_poi",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "osm_bank_25",
+      "category": "bank",
+      "name": "Bank Site 25",
+      "attributes": {
+        "name": "Bank Site 25",
+        "atm": "yes",
+        "opening_hours": "09:00-17:00",
+        "drive_through": "no",
+        "wheelchair": "yes",
+        "phone": "+1-555-0188",
+        "postcode": "10003"
+      }
+    },
+    {
+      "entity_id": "osm_bank_69",
+      "category": "bank",
+      "name": "Bank Site 69",
+      "attributes": {
+        "name": "Bank Site 69",
+        "atm": "yes",
+        "opening_hours": "09:00-17:00",
+        "drive_through": "no",
+        "wheelchair": "yes",
+        "phone": "+1-555-0188",
+        "postcode": "10003"
+      }
+    }
+  ]
+}

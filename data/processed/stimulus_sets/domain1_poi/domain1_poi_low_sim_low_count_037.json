@@ -1,0 +1,38 @@
+{
+  "scenario_id": "domain1_poi_low_sim_low_count_037",
+  "domain_id": "domain1_poi",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.16666666666666666,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "osm_park_76",
+      "category": "park",
+      "name": "Park Site 76",
+      "attributes": {
+        "name": "Park Site 76",
+        "leisure": "park",
+        "opening_hours": "06:00-21:00",
+        "dog_friendly": "yes",
+        "fee": "no",
+        "surface": "grass"
+      }
+    },
+    {
+      "entity_id": "osm_hospital_71",
+      "category": "hospital",
+      "name": "Hospital Site 71",
+      "attributes": {
+        "name": "Hospital Site 71",
+        "capacity": "1875 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0181",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "scenario_id": "domain2_wiki_high_sim_high_count_040",
+  "domain_id": "domain2_wiki",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "wiki_spacecraft_100",
+      "category": "spacecraft",
+      "name": "Grand Spacecraft 100",
+      "attributes": {
+        "name": "Grand Spacecraft 100",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_spacecraft_82",
+      "category": "spacecraft",
+      "name": "Grand Spacecraft 82",
+      "attributes": {
+        "name": "Grand Spacecraft 82",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_spacecraft_75",
+      "category": "spacecraft",
+      "name": "Grand Spacecraft 75",
+      "attributes": {
+        "name": "Grand Spacecraft 75",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_spacecraft_67",
+      "category": "spacecraft",
+      "name": "Grand Spacecraft 67",
+      "attributes": {
+        "name": "Grand Spacecraft 67",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_spacecraft_76",
+      "category": "spacecraft",
+      "name": "Grand Spacecraft 76",
+      "attributes": {
+        "name": "Grand Spacecraft 76",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_spacecraft_35",
+      "category": "spacecraft",
+      "name": "Grand Spacecraft 35",
+      "attributes": {
+        "name": "Grand Spacecraft 35",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_spacecraft_66",
+      "category": "spacecraft",
+      "name": "Grand Spacecraft 66",
+      "attributes": {
+        "name": "Grand Spacecraft 66",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_spacecraft_33",
+      "category": "spacecraft",
+      "name": "Grand Spacecraft 33",
+      "attributes": {
+        "name": "Grand Spacecraft 33",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    }
+  ]
+}
