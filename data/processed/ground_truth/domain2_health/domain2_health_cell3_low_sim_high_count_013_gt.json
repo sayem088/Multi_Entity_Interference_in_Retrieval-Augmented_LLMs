@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_013",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT00778908: Late-Course Accelerated Hyperfractionated IMRT for Locoregionally Advanced Na...": {
+      "name": "NCT00778908: Late-Course Accelerated Hyperfractionated IMRT for Locoregionally Advanced Na...",
+      "category": "oncology_trial",
+      "nct_id": "NCT00778908",
+      "phase": "PHASE2, PHASE3",
+      "target_condition": "Nasopharyngeal Carcinoma",
+      "intervention_dosage": "Late-course accelerated hyperfractionated IMRT, Concomitant cisplatin chemotherapy, Conventionally fractionated IMRT",
+      "sample_size": "120 patients",
+      "primary_endpoint": "Local/regional control rate, Acute and late toxicities",
+      "lead_sponsor": "Guangxi Medical University",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "31.2 months",
+      "grade3_toxicity_rate": "36.4%"
+    },
+    "NCT00238836: Anticipatory & Preventive Team Care (APTCare): At Risk Patients of Family Hea...": {
+      "name": "NCT00238836: Anticipatory & Preventive Team Care (APTCare): At Risk Patients of Family Hea...",
+      "category": "cardiology_trial",
+      "nct_id": "NCT00238836",
+      "phase": "PHASE2, PHASE3",
+      "target_condition": "Diabetes",
+      "intervention_dosage": "Self-management of chronic illness",
+      "sample_size": "240 patients",
+      "primary_endpoint": "Clinical Response Rate",
+      "lead_sponsor": "C. T. Lamont Primary Care Research Centre",
+      "study_status": "UNKNOWN"
+    },
+    "NCT01900665: Progress of Mild Alzheimer's Disease in Participants on Solanezumab Versus Pl...": {
+      "name": "NCT01900665: Progress of Mild Alzheimer's Disease in Participants on Solanezumab Versus Pl...",
+      "category": "neurology_trial",
+      "nct_id": "NCT01900665",
+      "phase": "PHASE3",
+      "target_condition": "Alzheimer's Disease",
+      "intervention_dosage": "Solanezumab, Placebo",
+      "sample_size": "2129 patients",
+      "primary_endpoint": "Change From Baseline in Alzheimer's Disease Assessment Sc...",
+      "lead_sponsor": "Eli Lilly and Company",
+      "study_status": "TERMINATED"
+    },
+    "NCT00230958: Study of Viramidine to Ribavirin in Patients With Chronic Hepatitis C Who Are...": {
+      "name": "NCT00230958: Study of Viramidine to Ribavirin in Patients With Chronic Hepatitis C Who Are...",
+      "category": "infectious_disease",
+      "nct_id": "NCT00230958",
+      "phase": "PHASE3",
+      "target_condition": "Chronic Hepatitis C",
+      "intervention_dosage": "Viramidine, Ribavirin, pegylated interferon alfa-2b",
+      "sample_size": "900 patients",
+      "primary_endpoint": "- Efficacy: Undetectable plasma HCV RNA (less than 100 co...",
+      "lead_sponsor": "Bausch Health Americas, Inc.",
+      "study_status": "COMPLETED"
+    },
+    "NCT00127010: Immunogenicity and Safety of a Combined Vaccine to Prevent Measles, Mumps, Ru...": {
+      "name": "NCT00127010: Immunogenicity and Safety of a Combined Vaccine to Prevent Measles, Mumps, Ru...",
+      "category": "vaccine_study",
+      "nct_id": "NCT00127010",
+      "phase": "PHASE3",
+      "target_condition": "Measles",
+      "intervention_dosage": "Measles, Mumps, Rubella and Chickenpox (live vaccine)",
+      "sample_size": "750 patients",
+      "primary_endpoint": "Antibody levels after vaccination",
+      "lead_sponsor": "GlaxoSmithKline",
+      "study_status": "COMPLETED"
+    },
+    "NCT04630626: Post-Approval Study Protocol for the Simplify Cervical Artificial Disc": {
+      "name": "NCT04630626: Post-Approval Study Protocol for the Simplify Cervical Artificial Disc",
+      "category": "medical_device",
+      "nct_id": "NCT04630626",
+      "phase": "NA",
+      "target_condition": "Cervical Degenerative Disc Disorder",
+      "intervention_dosage": "Simplify Disc, ACDF",
+      "sample_size": "145 patients",
+      "primary_endpoint": "Number of Participants With Clinical Composite Success, P...",
+      "lead_sponsor": "NuVasive",
+      "study_status": "COMPLETED"
+    },
+    "NCT01155388: A Trial of Ferumoxytol for the Treatment of Iron Deficiency Anemia in Pediatr...": {
+      "name": "NCT01155388: A Trial of Ferumoxytol for the Treatment of Iron Deficiency Anemia in Pediatr...",
+      "category": "pediatric_study",
+      "nct_id": "NCT01155388",
+      "phase": "PHASE3",
+      "target_condition": "Iron Deficiency Anemia",
+      "intervention_dosage": "Ferumoxytol, Oral Iron",
+      "sample_size": "14 patients",
+      "primary_endpoint": "Mean Change In Hemoglobin From Baseline To Week 5",
+      "lead_sponsor": "AMAG Pharmaceuticals, Inc.",
+      "study_status": "TERMINATED"
+    },
+    "NCT00960232: Vitamin D, Blood Pressure, Lipids, Infection and Depression": {
+      "name": "NCT00960232: Vitamin D, Blood Pressure, Lipids, Infection and Depression",
+      "category": "mental_health",
+      "nct_id": "NCT00960232",
+      "phase": "PHASE3",
+      "target_condition": "Hypovitaminosis D",
+      "intervention_dosage": "Cholecalciferol, placebo",
+      "sample_size": "250 patients",
+      "primary_endpoint": "Depression score",
+      "lead_sponsor": "University of Tromso",
+      "study_status": "COMPLETED"
+    }
+  }
+}

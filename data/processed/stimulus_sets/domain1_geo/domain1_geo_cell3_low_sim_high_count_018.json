@@ -1,0 +1,157 @@
+{
+  "scenario_id": "domain1_geo_cell3_low_sim_high_count_018",
+  "domain_id": "domain1_geo",
+  "domain_name": "GeoAI & Spatial Infrastructure (London)",
+  "cell_id": "cell3_low_sim_high_count",
+  "cell_label": "low_sim_high_count",
+  "cell_description": "8 entities from mixed distinct categories with low schema overlap.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "geo_hospital_12",
+      "category": "hospital",
+      "name": "Optimal Vision",
+      "attributes": {
+        "name": "Optimal Vision",
+        "category": "hospital",
+        "distance_km": "1.3 km",
+        "bearing": "North",
+        "travel_time": "3 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "WC1E 6HA",
+        "hospital_capacity": "800 beds",
+        "emergency_department": "no",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    },
+    {
+      "entity_id": "geo_park_10",
+      "category": "park",
+      "name": "Primrose Gardens",
+      "attributes": {
+        "name": "Primrose Gardens",
+        "category": "park",
+        "distance_km": "5.0 km",
+        "bearing": "North-West",
+        "travel_time": "12 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "SW1A 10AA",
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    },
+    {
+      "entity_id": "geo_bank_10",
+      "category": "bank",
+      "name": "Punjab National Bank",
+      "attributes": {
+        "name": "Punjab National Bank",
+        "category": "bank",
+        "distance_km": "2.8 km",
+        "bearing": "East",
+        "travel_time": "7 mins",
+        "borough": "Leadenhall Market",
+        "postcode": "EC2R 6JH",
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    },
+    {
+      "entity_id": "geo_pharmacy_08",
+      "category": "pharmacy",
+      "name": "Primrose Pharmacy",
+      "attributes": {
+        "name": "Primrose Pharmacy",
+        "category": "pharmacy",
+        "distance_km": "4.3 km",
+        "bearing": "North-West",
+        "travel_time": "10 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW1 8UR",
+        "prescription_dispensing": "yes",
+        "vaccination_service": "available",
+        "pharmacist_on_duty": "yes",
+        "operating_hours": "08:00-20:00"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_04",
+      "category": "restaurant",
+      "name": "Garfunkel's",
+      "attributes": {
+        "name": "Garfunkel's",
+        "category": "restaurant",
+        "distance_km": "0.1 km",
+        "bearing": "South-East",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "WC2N 5BW",
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_08",
+      "category": "fire_station",
+      "name": "Kentish Town Fire Station",
+      "attributes": {
+        "name": "Kentish Town Fire Station",
+        "category": "fire_station",
+        "distance_km": "5.1 km",
+        "bearing": "North",
+        "travel_time": "12 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW5 1NS",
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    },
+    {
+      "entity_id": "geo_museum_07",
+      "category": "museum",
+      "name": "Victoria and Albert Museum",
+      "attributes": {
+        "name": "Victoria and Albert Museum",
+        "category": "museum",
+        "distance_km": "3.3 km",
+        "bearing": "West",
+        "travel_time": "8 mins",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW7 2RL",
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    },
+    {
+      "entity_id": "geo_university_04",
+      "category": "university",
+      "name": "Imperial College London",
+      "attributes": {
+        "name": "Imperial College London",
+        "category": "university",
+        "distance_km": "3.4 km",
+        "bearing": "West",
+        "travel_time": "8 mins",
+        "borough": "Brompton",
+        "postcode": "SW7 2AZ",
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    }
+  ]
+}

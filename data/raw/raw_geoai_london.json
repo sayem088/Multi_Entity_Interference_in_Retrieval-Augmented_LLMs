@@ -1,0 +1,2216 @@
+{
+  "hospital": [
+    {
+      "osm_id": 43514739,
+      "osm_type": "way",
+      "category": "hospital",
+      "name": "Homerton University Hospital",
+      "coordinates": {
+        "latitude": 51.5507996,
+        "longitude": -0.0454798
+      },
+      "address": {
+        "road": "Fisher Close",
+        "suburb": "Homerton",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6DH"
+      },
+      "raw_tags": {
+        "website": "https://www.homerton.nhs.uk/",
+        "wikidata": "Q19654384",
+        "emergency": "yes",
+        "wikipedia": "en:Homerton University Hospital",
+        "healthcare": "hospital",
+        "ref:GB:nhs_ods": "RQXM1",
+        "ref:GB:cqc_location": "RQXM1"
+      }
+    },
+    {
+      "osm_id": 3641021,
+      "osm_type": "relation",
+      "category": "hospital",
+      "name": "City & Hackney Centre for Mental Health",
+      "coordinates": {
+        "latitude": 51.5503216,
+        "longitude": -0.0448355
+      },
+      "address": {
+        "road": "Homerton Grove",
+        "suburb": "Homerton",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6BX"
+      },
+      "raw_tags": {
+        "building": "hospital",
+        "healthcare": "hospital",
+        "roof:shape": "quadruple_saltbox",
+        "roof:levels": "0",
+        "nohousenumber": "yes",
+        "building:levels": "2",
+        "ref:GB:cqc_location": "RWK62"
+      }
+    },
+    {
+      "osm_id": 12873245976,
+      "osm_type": "node",
+      "category": "hospital",
+      "name": "Until SOHO",
+      "coordinates": {
+        "latitude": 51.5145533,
+        "longitude": -0.1299683
+      },
+      "address": {
+        "road": "Charing Cross Road",
+        "suburb": "Bloomsbury",
+        "borough": "London Borough of Camden",
+        "postcode": "WC2H 0DT"
+      },
+      "raw_tags": {
+        "check_date": "2025-05-29",
+        "healthcare": "hospital",
+        "ref:GB:cqc_location": "1-14429388915"
+      }
+    },
+    {
+      "osm_id": 12886273770,
+      "osm_type": "node",
+      "category": "hospital",
+      "name": "Tunica Diagnostics",
+      "coordinates": {
+        "latitude": 51.5145501,
+        "longitude": -0.1300121
+      },
+      "address": {
+        "road": "Charing Cross Road",
+        "suburb": "Bloomsbury",
+        "borough": "London Borough of Camden",
+        "postcode": "WC2H 0DT"
+      },
+      "raw_tags": {
+        "operator": "Tunica Diagnostics ltd",
+        "healthcare": "hospital",
+        "ref:GB:cqc_location": "1-15125385272",
+        "healthcare:speciality": "diagnostics"
+      }
+    },
+    {
+      "osm_id": 170732745,
+      "osm_type": "way",
+      "category": "hospital",
+      "name": "St Bartholomew's Hospital",
+      "coordinates": {
+        "latitude": 51.5175315,
+        "longitude": -0.0998302
+      },
+      "address": {
+        "road": "Giltspur Street",
+        "suburb": "West Smithfield",
+        "borough": null,
+        "postcode": "EC1A 9DE"
+      },
+      "raw_tags": {
+        "wikidata": "Q164946",
+        "wikipedia": "en:St Bartholomew's Hospital",
+        "healthcare": "hospital",
+        "wheelchair": "limited",
+        "ref:GB:nhs_ods": "R1HM0",
+        "ref:GB:cqc_location": "R1HM0"
+      }
+    },
+    {
+      "osm_id": 463924137,
+      "osm_type": "way",
+      "category": "hospital",
+      "name": "Cassel Hospital",
+      "coordinates": {
+        "latitude": 51.4323599,
+        "longitude": -0.3093309
+      },
+      "address": {
+        "road": "Ham Common",
+        "suburb": "Ham",
+        "borough": "London Borough of Richmond upon Thames",
+        "postcode": "TW10 7JF"
+      },
+      "raw_tags": {
+        "fhrs:id": "1575152",
+        "website": "https://www.nhs.uk/services/hospitals/overview/defaultview.aspx?id=3086",
+        "operator": "West London NHS Trust",
+        "wikidata": "Q5049284",
+        "wikipedia": "en:Cassel Hospital",
+        "healthcare": "hospital",
+        "operator:website": "https://www.westlondon.nhs.uk/our-services/adult/mental-health-services/cassel-hospital",
+        "not:addr:postcode": "TW10 7JL"
+      }
+    },
+    {
+      "osm_id": 326277354,
+      "osm_type": "way",
+      "category": "hospital",
+      "name": "John Howard Centre",
+      "coordinates": {
+        "latitude": 51.5480147,
+        "longitude": -0.039225
+      },
+      "address": {
+        "road": "Kenworthy Road",
+        "suburb": "Homerton",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 5TD"
+      },
+      "raw_tags": {
+        "phone": "+44 20 8510 2003",
+        "operator": "East London NHS Foundation Trust",
+        "healthcare": "hospital",
+        "operator:type": "public",
+        "ref:GB:nhs_ods": "RWK60",
+        "ref:GB:cqc_location": "RWK60",
+        "healthcare:speciality": "psychiatry"
+      }
+    },
+    {
+      "osm_id": 818779914,
+      "osm_type": "way",
+      "category": "hospital",
+      "name": "Royal Free Hospital",
+      "coordinates": {
+        "latitude": 51.5529389,
+        "longitude": -0.1654964
+      },
+      "address": {
+        "road": "Pond Street",
+        "suburb": "Belsize Park",
+        "borough": "London Borough of Camden",
+        "postcode": "NW3 2QG"
+      },
+      "raw_tags": {
+        "phone": "+44 20 7794 0500",
+        "website": "https://www.royalfree.nhs.uk/our-locations/royal-free-hospital",
+        "operator": "Royal Free London",
+        "wikidata": "Q7374196",
+        "emergency": "yes",
+        "wikipedia": "en:Royal Free Hospital",
+        "check_date": "2024-01-15",
+        "healthcare": "hospital",
+        "wheelchair": "yes",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "osm_id": 85472885,
+      "osm_type": "way",
+      "category": "hospital",
+      "name": "The Royal Marsden Hospital",
+      "coordinates": {
+        "latitude": 51.4905689,
+        "longitude": -0.1726214
+      },
+      "address": {
+        "road": "Guthrie Street",
+        "suburb": "Chelsea",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW3 6PT"
+      },
+      "raw_tags": {
+        "wikidata": "Q7761706",
+        "healthcare": "hospital"
+      }
+    },
+    {
+      "osm_id": 85472872,
+      "osm_type": "way",
+      "category": "hospital",
+      "name": "Royal Brompton Hospital",
+      "coordinates": {
+        "latitude": 51.4893805,
+        "longitude": -0.1710046
+      },
+      "address": {
+        "road": "Sydney Street",
+        "suburb": "Chelsea",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW3 6PY"
+      },
+      "raw_tags": {
+        "operator": "Guy's and St Thomas' NHS Foundation Trust",
+        "wikidata": "Q7373850",
+        "emergency": "no",
+        "healthcare": "hospital"
+      }
+    },
+    {
+      "osm_id": 122227536,
+      "osm_type": "way",
+      "category": "hospital",
+      "name": "St Thomas' Hospital",
+      "coordinates": {
+        "latitude": 51.4990645,
+        "longitude": -0.1186968
+      },
+      "address": {
+        "road": "Westminster Bridge Road",
+        "suburb": "Lambeth",
+        "borough": "London Borough of Lambeth",
+        "postcode": "SE1 7EH"
+      },
+      "raw_tags": {
+        "phone": "+44 20 7188 7188",
+        "website": "https://www.guysandstthomas.nhs.uk/",
+        "operator": "Guy's and St Thomas' NHS Foundation Trust",
+        "wikidata": "Q1143779",
+        "emergency": "yes",
+        "wikipedia": "en:St Thomas' Hospital",
+        "check_date": "2024-11-05",
+        "healthcare": "hospital",
+        "wheelchair": "yes",
+        "wikimedia_commons": "Category:St Thomas' Hospital"
+      }
+    },
+    {
+      "osm_id": 12873180107,
+      "osm_type": "node",
+      "category": "hospital",
+      "name": "Optimal Vision",
+      "coordinates": {
+        "latitude": 51.5199661,
+        "longitude": -0.1302119
+      },
+      "address": {
+        "road": "Gower Mews",
+        "suburb": "Bloomsbury",
+        "borough": "London Borough of Camden",
+        "postcode": "WC1E 6HA"
+      },
+      "raw_tags": {
+        "operator": "Optimal Vision Ltd",
+        "healthcare": "hospital",
+        "ref:GB:cqc_location": "1-13932164067",
+        "healthcare:speciality": "ophthalmology"
+      }
+    }
+  ],
+  "park": [
+    {
+      "osm_id": 164202180,
+      "osm_type": "way",
+      "category": "park",
+      "name": "Church Yard of St Mary Aldermanbury",
+      "coordinates": {
+        "latitude": 51.5164532,
+        "longitude": -0.0931018
+      },
+      "address": {
+        "road": null,
+        "suburb": null,
+        "borough": null,
+        "postcode": null
+      },
+      "raw_tags": null
+    },
+    {
+      "osm_id": 1427175723,
+      "osm_type": "way",
+      "category": "park",
+      "name": "Primrose Hill Court Open Space",
+      "coordinates": {
+        "latitude": 51.5419967,
+        "longitude": -0.1597912
+      },
+      "address": {
+        "road": null,
+        "suburb": "Chalk Farm",
+        "borough": "London Borough of Camden",
+        "postcode": null
+      },
+      "raw_tags": null
+    },
+    {
+      "osm_id": 5579381,
+      "osm_type": "relation",
+      "category": "park",
+      "name": "Westminster",
+      "coordinates": {
+        "latitude": 51.5056965,
+        "longitude": -0.1301123
+      },
+      "address": {
+        "road": null,
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": null
+      },
+      "raw_tags": {
+        "surface": "grass"
+      }
+    },
+    {
+      "osm_id": 206556281,
+      "osm_type": "way",
+      "category": "park",
+      "name": "Petersham",
+      "coordinates": {
+        "latitude": 51.4422612,
+        "longitude": -0.3103567
+      },
+      "address": {
+        "road": null,
+        "suburb": "Petersham",
+        "borough": "London Borough of Richmond upon Thames",
+        "postcode": null
+      },
+      "raw_tags": null
+    },
+    {
+      "osm_id": 49775883,
+      "osm_type": "way",
+      "category": "park",
+      "name": "Moorgate",
+      "coordinates": {
+        "latitude": 51.5175284,
+        "longitude": -0.0890356
+      },
+      "address": {
+        "road": null,
+        "suburb": null,
+        "borough": null,
+        "postcode": null
+      },
+      "raw_tags": {
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "osm_id": 4082666,
+      "osm_type": "way",
+      "category": "park",
+      "name": "Primrose Hill",
+      "coordinates": {
+        "latitude": 51.539048,
+        "longitude": -0.1624569
+      },
+      "address": {
+        "road": null,
+        "suburb": "Chalk Farm",
+        "borough": "London Borough of Camden",
+        "postcode": "NW8 7LS"
+      },
+      "raw_tags": {
+        "access": "yes",
+        "operator": "The Royal Parks",
+        "wikidata": "Q149942",
+        "wikipedia": "en:Primrose Hill",
+        "operator:wikidata": "Q7761716"
+      }
+    },
+    {
+      "osm_id": 4082589,
+      "osm_type": "way",
+      "category": "park",
+      "name": "Leicester Square",
+      "coordinates": {
+        "latitude": 51.5104338,
+        "longitude": -0.1301524
+      },
+      "address": {
+        "road": null,
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": null
+      },
+      "raw_tags": {
+        "layer": "0",
+        "tourism": "attraction",
+        "wikidata": "Q848912",
+        "wikipedia": "en:Leicester Square",
+        "wheelchair": "yes",
+        "opening_hours": "sunrise-sunset",
+        "name:etymology:wikidata": "Q26898080"
+      }
+    },
+    {
+      "osm_id": 1078768194,
+      "osm_type": "way",
+      "category": "park",
+      "name": "Lower Clapton",
+      "coordinates": {
+        "latitude": 51.5457798,
+        "longitude": -0.0500464
+      },
+      "address": {
+        "road": null,
+        "suburb": "Hackney",
+        "borough": "London Borough of Hackney",
+        "postcode": null
+      },
+      "raw_tags": {
+        "dog": "no"
+      }
+    },
+    {
+      "osm_id": 273178739,
+      "osm_type": "way",
+      "category": "park",
+      "name": "Build Up Hackney",
+      "coordinates": {
+        "latitude": 51.5451461,
+        "longitude": -0.0457962
+      },
+      "address": {
+        "road": null,
+        "suburb": "Hackney",
+        "borough": "London Borough of Hackney",
+        "postcode": null
+      },
+      "raw_tags": {
+        "website": "https://www.buildup.org.uk/flanders-way/",
+        "start_date": "2019"
+      }
+    },
+    {
+      "osm_id": 121991247,
+      "osm_type": "way",
+      "category": "park",
+      "name": "Primrose Gardens",
+      "coordinates": {
+        "latitude": 51.5470216,
+        "longitude": -0.1629705
+      },
+      "address": {
+        "road": null,
+        "suburb": "Belsize Park",
+        "borough": "London Borough of Camden",
+        "postcode": null
+      },
+      "raw_tags": null
+    },
+    {
+      "osm_id": 25799965,
+      "osm_type": "way",
+      "category": "park",
+      "name": "Homerton Grove",
+      "coordinates": {
+        "latitude": 51.5496828,
+        "longitude": -0.0434509
+      },
+      "address": {
+        "road": null,
+        "suburb": "Homerton",
+        "borough": "London Borough of Hackney",
+        "postcode": null
+      },
+      "raw_tags": {
+        "dog": "leashed",
+        "smoking": "no",
+        "website": "https://hackney.gov.uk/homerton-grove",
+        "operator": "Hackney Council",
+        "check_date": "2023-06-20",
+        "description": "Hackney’s first voluntary smoke-free park",
+        "opening_hours": "24/7",
+        "operator:type": "government",
+        "operator:wikidata": "Q5637369"
+      }
+    },
+    {
+      "osm_id": 116405294,
+      "osm_type": "way",
+      "category": "park",
+      "name": "St Anne & St Agnes",
+      "coordinates": {
+        "latitude": 51.5164043,
+        "longitude": -0.096347
+      },
+      "address": {
+        "road": null,
+        "suburb": null,
+        "borough": null,
+        "postcode": null
+      },
+      "raw_tags": null
+    }
+  ],
+  "bank": [
+    {
+      "osm_id": 156167669,
+      "osm_type": "way",
+      "category": "bank",
+      "name": "State Bank of India",
+      "coordinates": {
+        "latitude": 51.5147521,
+        "longitude": -0.0919456
+      },
+      "address": {
+        "road": "King Street",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 8EG"
+      },
+      "raw_tags": {
+        "atm": "no",
+        "building": "office",
+        "roof:colour": "grey",
+        "brand:wikidata": "Q1340361",
+        "building:levels": "5"
+      }
+    },
+    {
+      "osm_id": 156167653,
+      "osm_type": "way",
+      "category": "bank",
+      "name": "Barclays",
+      "coordinates": {
+        "latitude": 51.5141314,
+        "longitude": -0.09209
+      },
+      "address": {
+        "road": "Prudent Passage",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 8EA"
+      },
+      "raw_tags": {
+        "area": "yes",
+        "operator": "Barclays Bank PLC",
+        "brand:wikidata": "Q245343"
+      }
+    },
+    {
+      "osm_id": 1717643541,
+      "osm_type": "node",
+      "category": "bank",
+      "name": "BOC",
+      "coordinates": {
+        "latitude": 51.5145539,
+        "longitude": -0.090534
+      },
+      "address": {
+        "road": "Old Jewry",
+        "suburb": "Leadenhall Market",
+        "borough": null,
+        "postcode": "EC2R 8DQ"
+      },
+      "raw_tags": {
+        "operator": "Bank of China",
+        "brand:wikidata": "Q790068"
+      }
+    },
+    {
+      "osm_id": 156167663,
+      "osm_type": "way",
+      "category": "bank",
+      "name": "Lloyds Bank",
+      "coordinates": {
+        "latitude": 51.5136452,
+        "longitude": -0.0920899
+      },
+      "address": {
+        "road": "Cheapside",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 8HE"
+      },
+      "raw_tags": {
+        "atm": "yes",
+        "website": "https://branches.lloydsbank.com/london/70-71-cheapside",
+        "check_date": "2025-11-01",
+        "opening_hours": "Mo,Tu,Th,Fr 09:30-15:30",
+        "brand:wikidata": "Q1152847",
+        "check_date:opening_hours": "2025-11-01"
+      }
+    },
+    {
+      "osm_id": 160093296,
+      "osm_type": "way",
+      "category": "bank",
+      "name": "Santander",
+      "coordinates": {
+        "latitude": 51.5136942,
+        "longitude": -0.0924895
+      },
+      "address": {
+        "road": "Cheapside",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 6AZ"
+      },
+      "raw_tags": {
+        "atm": "yes",
+        "area": "yes",
+        "level": "0",
+        "check_date": "2025-06-28",
+        "wheelchair": "yes",
+        "brand:wikidata": "Q7420065"
+      }
+    },
+    {
+      "osm_id": 160093287,
+      "osm_type": "way",
+      "category": "bank",
+      "name": "Ghana International Bank",
+      "coordinates": {
+        "latitude": 51.513697,
+        "longitude": -0.0925056
+      },
+      "address": {
+        "road": "Cheapside",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 6AZ"
+      },
+      "raw_tags": {
+        "area": "yes",
+        "level": "1",
+        "website": "https://www.ghanabank.co.uk/"
+      }
+    },
+    {
+      "osm_id": 7783123002,
+      "osm_type": "node",
+      "category": "bank",
+      "name": "ICBC",
+      "coordinates": {
+        "latitude": 51.5150448,
+        "longitude": -0.0939055
+      },
+      "address": {
+        "road": "Gresham Street",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 7JE"
+      },
+      "raw_tags": {
+        "fhrs:id": "294726",
+        "brand:wikidata": "Q26463"
+      }
+    },
+    {
+      "osm_id": 160093290,
+      "osm_type": "way",
+      "category": "bank",
+      "name": "Nationwide",
+      "coordinates": {
+        "latitude": 51.5137734,
+        "longitude": -0.0929136
+      },
+      "address": {
+        "road": "Cheapside",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 6BP"
+      },
+      "raw_tags": {
+        "atm": "yes",
+        "website": "https://www.nationwide.co.uk/branches/london/62/63-cheapside",
+        "building": "yes",
+        "operator": "Nationwide",
+        "check_date": "2025-06-28",
+        "building:name": "Cheyne House",
+        "opening_hours": "Mo-Sa 09:00-16:30; We 10:00-16:30",
+        "brand:wikidata": "Q846735"
+      }
+    },
+    {
+      "osm_id": 159844951,
+      "osm_type": "way",
+      "category": "bank",
+      "name": "ABC International Bank plc",
+      "coordinates": {
+        "latitude": 51.5150718,
+        "longitude": -0.0899156
+      },
+      "address": {
+        "road": "Moorgate",
+        "suburb": "Leadenhall Market",
+        "borough": null,
+        "postcode": "EC2R 6JH"
+      },
+      "raw_tags": {
+        "building": "commercial",
+        "check_date": "2025-08-10"
+      }
+    },
+    {
+      "osm_id": 13069947961,
+      "osm_type": "node",
+      "category": "bank",
+      "name": "Punjab National Bank",
+      "coordinates": {
+        "latitude": 51.514984,
+        "longitude": -0.0897658
+      },
+      "address": {
+        "road": "Moorgate",
+        "suburb": "Leadenhall Market",
+        "borough": null,
+        "postcode": "EC2R 6JH"
+      },
+      "raw_tags": {
+        "check_date": "2025-08-10"
+      }
+    },
+    {
+      "osm_id": 517030140,
+      "osm_type": "way",
+      "category": "bank",
+      "name": "Metro Bank",
+      "coordinates": {
+        "latitude": 51.5144148,
+        "longitude": -0.094208
+      },
+      "address": {
+        "road": "Cheapside",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 7JB"
+      },
+      "raw_tags": {
+        "atm": "yes",
+        "check_date": "2025-06-28",
+        "opening_hours": "Mo-Su 09:00-20:00; Su 09:00-18:00",
+        "brand:wikidata": "Q6824499"
+      }
+    },
+    {
+      "osm_id": 517066111,
+      "osm_type": "way",
+      "category": "bank",
+      "name": "TSB",
+      "coordinates": {
+        "latitude": 51.5138979,
+        "longitude": -0.0939572
+      },
+      "address": {
+        "road": "Cheapside",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 6AU"
+      },
+      "raw_tags": {
+        "atm": "yes",
+        "phone": "+44 20 3162 0500",
+        "branch": "London Cheapside",
+        "website": "https://branches.tsb.co.uk/london/london-cheapside.html",
+        "check_date": "2025-06-28",
+        "opening_hours": "Mo-Tu,Th-Fr 09:00-16:00; We 10:00-16:00",
+        "brand:wikidata": "Q7671560"
+      }
+    }
+  ],
+  "pharmacy": [
+    {
+      "osm_id": 160093284,
+      "osm_type": "way",
+      "category": "pharmacy",
+      "name": "Boots",
+      "coordinates": {
+        "latitude": 51.5142422,
+        "longitude": -0.0931794
+      },
+      "address": {
+        "road": "Cheapside",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 6DN"
+      },
+      "raw_tags": {
+        "level": "0",
+        "branch": "London Cheapside",
+        "fhrs:id": "294826",
+        "operator": "Boots UK Limited",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "wheelchair": "yes",
+        "contact:phone": "+44 20 7248 9340",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-18:00",
+        "brand:wikidata": "Q6123139",
+        "fhrs:authority": "City of London Corporation",
+        "medical_supply": "yes",
+        "contact:website": "http://www.boots.com/stores/877-london-cheapside-ec2v-6dn",
+        "fhrs:local_authority_id": "PI/000018563"
+      }
+    },
+    {
+      "osm_id": 517030126,
+      "osm_type": "way",
+      "category": "pharmacy",
+      "name": "Superdrug",
+      "coordinates": {
+        "latitude": 51.514449,
+        "longitude": -0.0945073
+      },
+      "address": {
+        "road": "Cheapside",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 7JB"
+      },
+      "raw_tags": {
+        "level": "0",
+        "fhrs:id": "1788117",
+        "website": "https://www.superdrug.com/store/london-cheapside",
+        "check_date": "2025-06-28",
+        "healthcare": "pharmacy",
+        "contact:phone": "+44 20 7871 7037",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa 09:00-18:00; Su 12:00-18:00",
+        "brand:wikidata": "Q7643261"
+      }
+    },
+    {
+      "osm_id": 1018324378,
+      "osm_type": "way",
+      "category": "pharmacy",
+      "name": "Allchin Pharmacy",
+      "coordinates": {
+        "latitude": 51.5461206,
+        "longitude": -0.162089
+      },
+      "address": {
+        "road": "England's Lane",
+        "suburb": "Belsize Park",
+        "borough": "London Borough of Camden",
+        "postcode": "NW3 4UE"
+      },
+      "raw_tags": {
+        "fax": "+44 20 7722 1095",
+        "phone": "+44 20 7586 4683",
+        "website": "https://www.allchinpharmacy.co.uk",
+        "building": "yes",
+        "wheelchair": "limited",
+        "ref:GB:uprn": "5115535;5115534;5115536;5198780;10092022131;5160436;5058591"
+      }
+    },
+    {
+      "osm_id": 848656838,
+      "osm_type": "way",
+      "category": "pharmacy",
+      "name": "Clockwork Pharmacy",
+      "coordinates": {
+        "latitude": 51.5447764,
+        "longitude": -0.0460314
+      },
+      "address": {
+        "road": "Well Street",
+        "suburb": "Hackney",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6QT"
+      },
+      "raw_tags": {
+        "building": "retail",
+        "check_date": "2025-07-19",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "roof:shape": "flat",
+        "roof:colour": "grey",
+        "opening_hours": "Mo-We 09:00-19:00; Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-18:00; Su,PH closed",
+        "brand:wikidata": "Q109789537",
+        "building:colour": "brown",
+        "building:levels": "3",
+        "building:material": "brick"
+      }
+    },
+    {
+      "osm_id": 372813576,
+      "osm_type": "way",
+      "category": "pharmacy",
+      "name": "Safedale Pharmacy",
+      "coordinates": {
+        "latitude": 51.5510665,
+        "longitude": -0.0517517
+      },
+      "address": {
+        "road": "Lower Clapton Road",
+        "suburb": "Hackney",
+        "borough": "London Borough of Hackney",
+        "postcode": "E5 0NS"
+      },
+      "raw_tags": {
+        "dog": "no",
+        "phone": "+44 20 7985 8819",
+        "fhrs:id": "469837",
+        "website": "https://www.safedalepharmacy.com",
+        "building": "apartments",
+        "operator": "Safedale",
+        "check_date": "2024-12-24",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "wheelchair": "yes",
+        "roof:levels": "1",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off",
+        "building:levels": "3",
+        "payment:debit_cards": "yes",
+        "payment:credit_cards": "yes",
+        "payment:american_express": "no"
+      }
+    },
+    {
+      "osm_id": 396000265,
+      "osm_type": "way",
+      "category": "pharmacy",
+      "name": "Friends Pharmacy",
+      "coordinates": {
+        "latitude": 51.5515736,
+        "longitude": -0.0515797
+      },
+      "address": {
+        "road": "Lower Clapton Road",
+        "suburb": "Clapton",
+        "borough": "London Borough of Hackney",
+        "postcode": "E5 0RN"
+      },
+      "raw_tags": {
+        "phone": "+44 20 8986 9706",
+        "fhrs:id": "470660",
+        "building": "yes",
+        "check_date": "2023-07-03",
+        "healthcare": "pharmacy",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su off",
+        "building:levels": "3",
+        "payment:debit_cards": "yes",
+        "payment:credit_cards": "yes"
+      }
+    },
+    {
+      "osm_id": 849373840,
+      "osm_type": "way",
+      "category": "pharmacy",
+      "name": "Regal Pharmacy",
+      "coordinates": {
+        "latitude": 51.553093,
+        "longitude": -0.0441773
+      },
+      "address": {
+        "road": "Chatsworth Road",
+        "suburb": "Homerton",
+        "borough": "London Borough of Hackney",
+        "postcode": "E5 0LP"
+      },
+      "raw_tags": {
+        "phone": "+44 20 8985 2536",
+        "fhrs:id": "470742",
+        "building": "apartments",
+        "check_date": "2026-08-23",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "wheelchair": "yes",
+        "roof:colour": "grey",
+        "opening_hours": "Mo-Fr 09:00-18:50; Sa 09:00-17:50; Su,PH off",
+        "building:colour": "brown",
+        "building:levels": "3",
+        "building:material": "brick",
+        "check_date:opening_hours": "2026-08-23"
+      }
+    },
+    {
+      "osm_id": 1028386435,
+      "osm_type": "way",
+      "category": "pharmacy",
+      "name": "Primrose Pharmacy",
+      "coordinates": {
+        "latitude": 51.5419089,
+        "longitude": -0.1567306
+      },
+      "address": {
+        "road": "Regent's Park Road",
+        "suburb": "Chalk Farm",
+        "borough": "London Borough of Camden",
+        "postcode": "NW1 8UR"
+      },
+      "raw_tags": {
+        "fhrs:id": "424363",
+        "building": "yes",
+        "check_date": "2025-01-15",
+        "healthcare": "pharmacy",
+        "wheelchair": "limited",
+        "ref:GB:uprn": "5087759;5129156;5129157;5129158",
+        "opening_hours": "Mo-Fr 09:15-18:00; Sa 09:30-18:00; Su,PH off"
+      }
+    },
+    {
+      "osm_id": 1178558703,
+      "osm_type": "way",
+      "category": "pharmacy",
+      "name": "Ham Common Pharmacy",
+      "coordinates": {
+        "latitude": 51.4357873,
+        "longitude": -0.3117275
+      },
+      "address": {
+        "road": "Back Lane",
+        "suburb": "Ham",
+        "borough": "London Borough of Richmond upon Thames",
+        "postcode": "TW10 7LF"
+      },
+      "raw_tags": {
+        "email": "common@hampharmacygroup.com",
+        "phone": "+44 20 8940 7918",
+        "website": "https://www.hampharmacygroup.com",
+        "building": "retail",
+        "check_date": "2026-08-29",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "roof:shape": "flat",
+        "wheelchair": "no",
+        "payment:cash": "yes",
+        "drive_through": "no",
+        "opening_hours": "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00",
+        "building:levels": "1",
+        "internet_access": "no",
+        "payment:debit_cards": "yes",
+        "payment:credit_cards": "yes"
+      }
+    },
+    {
+      "osm_id": 4829130733,
+      "osm_type": "node",
+      "category": "pharmacy",
+      "name": "Silverfields Pharmacy",
+      "coordinates": {
+        "latitude": 51.5488229,
+        "longitude": -0.0410826
+      },
+      "address": {
+        "road": "Homerton High Street",
+        "suburb": "Hackney",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6AS"
+      },
+      "raw_tags": {
+        "level": "0",
+        "fhrs:id": "468838",
+        "check_date": "2025-07-12",
+        "healthcare": "pharmacy",
+        "fhrs:local_authority_id": "1367"
+      }
+    },
+    {
+      "osm_id": 589775212,
+      "osm_type": "way",
+      "category": "pharmacy",
+      "name": "Carsil Perfumery + Pharmacy",
+      "coordinates": {
+        "latitude": 51.5464508,
+        "longitude": -0.0553872
+      },
+      "address": {
+        "road": "Mare Street",
+        "suburb": "Hackney",
+        "borough": "London Borough of Hackney",
+        "postcode": "E8 1EJ"
+      },
+      "raw_tags": {
+        "level": "0",
+        "fhrs:id": "469644",
+        "check_date": "2025-06-23",
+        "healthcare": "pharmacy"
+      }
+    }
+  ],
+  "restaurant": [
+    {
+      "osm_id": 110608819,
+      "osm_type": "way",
+      "category": "restaurant",
+      "name": "Lume London",
+      "coordinates": {
+        "latitude": 51.5425068,
+        "longitude": -0.1620164
+      },
+      "address": {
+        "road": "Primrose Hill Road",
+        "suburb": "Belsize Park",
+        "borough": "London Borough of Camden",
+        "postcode": "NW3 3AD"
+      },
+      "raw_tags": {
+        "email": "ciao@lume.london",
+        "phone": "+44 20 7449 9556",
+        "cuisine": "italian",
+        "website": "https://lume.london/",
+        "building": "yes",
+        "check_date": "2024-07-22",
+        "opening_hours": "Tu-Fr 05:30-22:00; Sa-Su 12:00-21:00",
+        "contact:twitter": "@lumelondon",
+        "outdoor_seating": "yes",
+        "contact:facebook": "https://www.facebook.com/lumewine/",
+        "contact:instagram": "lumelondon"
+      }
+    },
+    {
+      "osm_id": 156167679,
+      "osm_type": "way",
+      "category": "restaurant",
+      "name": "Cabotte",
+      "coordinates": {
+        "latitude": 51.5149315,
+        "longitude": -0.0916732
+      },
+      "address": {
+        "road": "Gresham Street",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 7AY"
+      },
+      "raw_tags": {
+        "cuisine": "french",
+        "fhrs:id": "1012586",
+        "building": "yes",
+        "roof:colour": "grey",
+        "roof:levels": "1",
+        "building:colour": "lightgrey",
+        "building:levels": "5",
+        "building:material": "stone"
+      }
+    },
+    {
+      "osm_id": 4498589343,
+      "osm_type": "node",
+      "category": "restaurant",
+      "name": "The Trading House",
+      "coordinates": {
+        "latitude": 51.5150841,
+        "longitude": -0.091359
+      },
+      "address": {
+        "road": "Gresham Street",
+        "suburb": "Leadenhall Market",
+        "borough": null,
+        "postcode": "EC2V 7NQ"
+      },
+      "raw_tags": null
+    },
+    {
+      "osm_id": 550944274,
+      "osm_type": "way",
+      "category": "restaurant",
+      "name": "Garfunkel's",
+      "coordinates": {
+        "latitude": 51.5071459,
+        "longitude": -0.1267972
+      },
+      "address": {
+        "road": "Northumberland Avenue",
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": "WC2N 5BW"
+      },
+      "raw_tags": {
+        "phone": "+44 20 7839 5148",
+        "fhrs:id": "428116",
+        "website": "https://www.garfunkels.co.uk/node/682",
+        "wheelchair": "yes",
+        "opening_hours": "Mo-We 08:00-22:30; Th-Sa 08:00-23:30; Su 08:00-22:30",
+        "toilets:wheelchair": "yes",
+        "fhrs:local_authority_id": "01479/0003/0/000"
+      }
+    },
+    {
+      "osm_id": 516720943,
+      "osm_type": "way",
+      "category": "restaurant",
+      "name": "The Anthologist",
+      "coordinates": {
+        "latitude": 51.5148462,
+        "longitude": -0.0913159
+      },
+      "address": {
+        "road": "Gresham Street",
+        "suburb": "Leadenhall Market",
+        "borough": null,
+        "postcode": "EC2V 7BB"
+      },
+      "raw_tags": {
+        "phone": "+44 845 468 0101",
+        "cuisine": "american",
+        "fhrs:id": "294837",
+        "website": "http://www.theanthologistbar.co.uk",
+        "building": "commercial",
+        "roof:colour": "darkgrey",
+        "building:colour": "lightgrey",
+        "building:levels": "5",
+        "building:material": "stone"
+      }
+    },
+    {
+      "osm_id": 4500601606,
+      "osm_type": "node",
+      "category": "restaurant",
+      "name": "Enoteca da Luca",
+      "coordinates": {
+        "latitude": 51.5155147,
+        "longitude": -0.0909278
+      },
+      "address": {
+        "road": "Basinghall Street",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 5BQ"
+      },
+      "raw_tags": {
+        "fhrs:id": "295076"
+      }
+    },
+    {
+      "osm_id": 559522541,
+      "osm_type": "node",
+      "category": "restaurant",
+      "name": "Prezzo",
+      "coordinates": {
+        "latitude": 51.507428,
+        "longitude": -0.1265922
+      },
+      "address": {
+        "road": "Northumberland Avenue",
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": "WC2N 5HR"
+      },
+      "raw_tags": {
+        "phone": "+44 20 7930 4288",
+        "cuisine": "italian",
+        "fhrs:id": "772657",
+        "website": "https://www.prezzo.co.uk/restaurants/london-northumberland-avenue/",
+        "wheelchair": "yes",
+        "brand:wikidata": "Q7242489",
+        "indoor_seating": "yes",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "osm_id": 11249260237,
+      "osm_type": "node",
+      "category": "restaurant",
+      "name": "Hawksmoor",
+      "coordinates": {
+        "latitude": 51.5155389,
+        "longitude": -0.0907643
+      },
+      "address": {
+        "road": "Basinghall Street",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 5BQ"
+      },
+      "raw_tags": {
+        "phone": "+442073978120",
+        "cuisine": "steak_house",
+        "website": "https://thehawksmoor.com/locations/guildhall/",
+        "opening_hours": "Mo-Fr 12:00-15:00, 17:30-21:30; Sa 17:00-21:30; Su 12:00-16:00",
+        "brand:wikidata": "Q17500669"
+      }
+    },
+    {
+      "osm_id": 5031714609,
+      "osm_type": "node",
+      "category": "restaurant",
+      "name": "Bianco43",
+      "coordinates": {
+        "latitude": 51.5070663,
+        "longitude": -0.1264086
+      },
+      "address": {
+        "road": "Northumberland Avenue",
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": "WC2N 5BY"
+      },
+      "raw_tags": null
+    },
+    {
+      "osm_id": 547522397,
+      "osm_type": "way",
+      "category": "restaurant",
+      "name": "Grand Caffe Concerto",
+      "coordinates": {
+        "latitude": 51.5063986,
+        "longitude": -0.1268068
+      },
+      "address": {
+        "road": "Whitehall",
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": "SW1A 2BX"
+      },
+      "raw_tags": {
+        "email": "whitehall@caffeconcerto.co.uk",
+        "phone": "+44 20 7494 6846",
+        "website": "https://www.caffeconcerto.co.uk/",
+        "breakfast": "07:30-11:30",
+        "check_date": "2025-07-23",
+        "payment:cash": "yes",
+        "payment:visa": "yes",
+        "opening_hours": "07:30-23:00",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa_electron": "yes"
+      }
+    },
+    {
+      "osm_id": 6106646885,
+      "osm_type": "node",
+      "category": "restaurant",
+      "name": "50 Kalo di Ciro Salvo Pizzeria",
+      "coordinates": {
+        "latitude": 51.5070186,
+        "longitude": -0.126327
+      },
+      "address": {
+        "road": "Northumberland Avenue",
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": "WC2N 5BY"
+      },
+      "raw_tags": {
+        "phone": "+44 20 7930 9955",
+        "fhrs:id": "414671",
+        "toilets": "yes",
+        "website": "https://50kalo.it/",
+        "wheelchair": "yes",
+        "toilets:wheelchair": "yes"
+      }
+    },
+    {
+      "osm_id": 3925439675,
+      "osm_type": "node",
+      "category": "restaurant",
+      "name": "Gouqi",
+      "coordinates": {
+        "latitude": 51.5074066,
+        "longitude": -0.1295611
+      },
+      "address": {
+        "road": "Cockspur Street",
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": "SW1Y 5BN"
+      },
+      "raw_tags": {
+        "cuisine": "chinese",
+        "fhrs:id": "1955286",
+        "check_date": "2026-01-07",
+        "wheelchair": "yes"
+      }
+    }
+  ],
+  "fire_station": [
+    {
+      "osm_id": 853545222,
+      "osm_type": "way",
+      "category": "fire_station",
+      "name": "Homerton Fire Station",
+      "coordinates": {
+        "latitude": 51.5486517,
+        "longitude": -0.0439338
+      },
+      "address": {
+        "road": "St Barnabas Terrace",
+        "suburb": "Homerton",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6DL"
+      },
+      "raw_tags": {
+        "operator": "London Fire Brigade",
+        "check_date": "2025-01-03",
+        "operator:wikidata": "Q3091309"
+      }
+    },
+    {
+      "osm_id": 349934988,
+      "osm_type": "way",
+      "category": "fire_station",
+      "name": "Soho Fire station",
+      "coordinates": {
+        "latitude": 51.5124608,
+        "longitude": -0.1300891
+      },
+      "address": {
+        "road": "Shaftesbury Avenue",
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": "W1D 5ET"
+      },
+      "raw_tags": {
+        "operator": "London Fire Brigade",
+        "ref:GB:uprn": "100023472671;10033646383;10033646336",
+        "building:levels": "5",
+        "operator:wikidata": "Q3091309"
+      }
+    },
+    {
+      "osm_id": 473261115,
+      "osm_type": "node",
+      "category": "fire_station",
+      "name": "Dowgate Fire Station",
+      "coordinates": {
+        "latitude": 51.510035,
+        "longitude": -0.0901008
+      },
+      "address": {
+        "road": "All Hallows Lane",
+        "suburb": "Leadenhall Market",
+        "borough": null,
+        "postcode": "EC4R 3UL"
+      },
+      "raw_tags": {
+        "operator": "London Fire Brigade",
+        "check_date": "2025-02-25",
+        "operator:wikidata": "Q3091309"
+      }
+    },
+    {
+      "osm_id": 91236755,
+      "osm_type": "way",
+      "category": "fire_station",
+      "name": "Ealing Fire Station (G25)",
+      "coordinates": {
+        "latitude": 51.5120862,
+        "longitude": -0.3139067
+      },
+      "address": {
+        "road": "Uxbridge Road",
+        "suburb": "Hanwell",
+        "borough": "London Borough of Ealing",
+        "postcode": "W13 8RA"
+      },
+      "raw_tags": {
+        "building": "yes",
+        "operator": "London Fire Brigade",
+        "check_date": "2026-10-24",
+        "ref:GB:uprn": "12132972",
+        "operator:wikidata": "Q3091309"
+      }
+    },
+    {
+      "osm_id": 85436708,
+      "osm_type": "way",
+      "category": "fire_station",
+      "name": "Lambeth River Fire Station",
+      "coordinates": {
+        "latitude": 51.493069,
+        "longitude": -0.1222462
+      },
+      "address": {
+        "road": "Albert Embankment",
+        "suburb": "Vauxhall",
+        "borough": "London Borough of Lambeth",
+        "postcode": "SE1 7SD"
+      },
+      "raw_tags": {
+        "building": "yes",
+        "check_date": "2026-07-12"
+      }
+    },
+    {
+      "osm_id": 204191488,
+      "osm_type": "way",
+      "category": "fire_station",
+      "name": "Lambeth Fire Station",
+      "coordinates": {
+        "latitude": 51.4928125,
+        "longitude": -0.1212761
+      },
+      "address": {
+        "road": "Albert Embankment",
+        "suburb": "Vauxhall",
+        "borough": "London Borough of Lambeth",
+        "postcode": "SE1 7SD"
+      },
+      "raw_tags": {
+        "building": "yes",
+        "wikidata": "Q27087157"
+      }
+    },
+    {
+      "osm_id": 1309044507,
+      "osm_type": "way",
+      "category": "fire_station",
+      "name": "Euston Fire Station",
+      "coordinates": {
+        "latitude": 51.5277569,
+        "longitude": -0.1306108
+      },
+      "address": {
+        "road": "Euston Road",
+        "suburb": "St Pancras",
+        "borough": "London Borough of Camden",
+        "postcode": "NW1 2DH"
+      },
+      "raw_tags": {
+        "operator": "London Fire Brigade",
+        "wikidata": "Q17548675",
+        "wikipedia": "en:Euston Fire Station",
+        "check_date": "2025-08-03",
+        "listed_status": "Grade II*",
+        "operator:wikidata": "Q3091309",
+        "wikimedia_commons": "Category:Euston Fire Station"
+      }
+    },
+    {
+      "osm_id": 1026043423,
+      "osm_type": "way",
+      "category": "fire_station",
+      "name": "Kentish Town Fire Station",
+      "coordinates": {
+        "latitude": 51.5528315,
+        "longitude": -0.1417072
+      },
+      "address": {
+        "road": "Highgate Road",
+        "suburb": "Kentish Town",
+        "borough": "London Borough of Camden",
+        "postcode": "NW5 1NS"
+      },
+      "raw_tags": {
+        "operator": "London Fire Brigade",
+        "operator:wikidata": "Q3091309"
+      }
+    },
+    {
+      "osm_id": 71887178,
+      "osm_type": "way",
+      "category": "fire_station",
+      "name": "West Hampstead Fire Station",
+      "coordinates": {
+        "latitude": 51.5517011,
+        "longitude": -0.1927967
+      },
+      "address": {
+        "road": "West End Lane",
+        "suburb": "West Hampstead",
+        "borough": "London Borough of Camden",
+        "postcode": "NW6 1RR"
+      },
+      "raw_tags": {
+        "building": "yes",
+        "wikidata": "Q27086591",
+        "ref:GB:uprn": "5036508"
+      }
+    },
+    {
+      "osm_id": 1518264628,
+      "osm_type": "way",
+      "category": "fire_station",
+      "name": "Stoke Newington Fire Station",
+      "coordinates": {
+        "latitude": 51.5625722,
+        "longitude": -0.076866
+      },
+      "address": {
+        "road": "Stoke Newington Church Street",
+        "suburb": "West Hackney",
+        "borough": "London Borough of Hackney",
+        "postcode": "N16 0AR"
+      },
+      "raw_tags": {
+        "operator": "London Fire Brigade",
+        "contact:phone": "+44 20 8555 1200",
+        "operator:wikidata": "Q3091309"
+      }
+    },
+    {
+      "osm_id": 85484700,
+      "osm_type": "way",
+      "category": "fire_station",
+      "name": "Richmond Fire Station",
+      "coordinates": {
+        "latitude": 51.4674072,
+        "longitude": -0.2848568
+      },
+      "address": {
+        "road": "Garden Road",
+        "suburb": "North Sheen",
+        "borough": "London Borough of Richmond upon Thames",
+        "postcode": "TW9 4PN"
+      },
+      "raw_tags": {
+        "building": "yes",
+        "operator": "London Fire Brigade",
+        "operator:wikidata": "Q3091309"
+      }
+    },
+    {
+      "osm_id": 85484701,
+      "osm_type": "way",
+      "category": "fire_station",
+      "name": "Twickenham Fire Station",
+      "coordinates": {
+        "latitude": 51.4351607,
+        "longitude": -0.3475775
+      },
+      "address": {
+        "road": "Stanley Road",
+        "suburb": "Strawberry Hill",
+        "borough": "London Borough of Richmond upon Thames",
+        "postcode": "TW2 5NP"
+      },
+      "raw_tags": {
+        "building": "yes"
+      }
+    }
+  ],
+  "museum": [
+    {
+      "osm_id": 5412585922,
+      "osm_type": "node",
+      "category": "museum",
+      "name": "Memorial Scrolls Trust",
+      "coordinates": {
+        "latitude": 51.5012993,
+        "longitude": -0.1665781
+      },
+      "address": {
+        "road": "Rutland Gardens",
+        "suburb": "Knightsbridge",
+        "borough": null,
+        "postcode": "SW7 1BX"
+      },
+      "raw_tags": {
+        "website": "https://memorialscrollstrust.org/"
+      }
+    },
+    {
+      "osm_id": 5323721988,
+      "osm_type": "node",
+      "category": "museum",
+      "name": "British Optical Association Museum",
+      "coordinates": {
+        "latitude": 51.5078919,
+        "longitude": -0.1253919
+      },
+      "address": {
+        "road": "Hungerford Lane",
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": "WC2N 5NG"
+      },
+      "raw_tags": {
+        "fee": "unknown",
+        "level": "-1",
+        "phone": "+44 20 7766 4353",
+        "website": "https://www.college-optometrists.org/the-british-optical-association-museum",
+        "operator": "The College of Optometrists",
+        "wikidata": "Q111983683"
+      }
+    },
+    {
+      "osm_id": 5071252726,
+      "osm_type": "node",
+      "category": "museum",
+      "name": "Household Cavalry Museum",
+      "coordinates": {
+        "latitude": 51.5050096,
+        "longitude": -0.1272472
+      },
+      "address": {
+        "road": "Whitehall",
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": "SW1A 2AY"
+      },
+      "raw_tags": {
+        "fee": "yes",
+        "website": "https://householdcavalrymuseum.co.uk/",
+        "wikidata": "Q99783571",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "osm_id": 104081033,
+      "osm_type": "way",
+      "category": "museum",
+      "name": "Benjamin Franklin House",
+      "coordinates": {
+        "latitude": 51.5076693,
+        "longitude": -0.1248667
+      },
+      "address": {
+        "road": "Craven Street",
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": "WC2N 5NF"
+      },
+      "raw_tags": {
+        "fee": "yes",
+        "website": "https://benjaminfranklinhouse.org/",
+        "building": "yes",
+        "heritage": "2",
+        "wikidata": "Q4888645",
+        "wikipedia": "en:Benjamin Franklin House",
+        "wheelchair": "no",
+        "ref:GB:nhle": "1066930",
+        "ref:GB:uprn": "100023432708",
+        "roof:colour": "darkgrey",
+        "listed_status": "Grade I",
+        "opening_hours": "Fr-Su 12:00-17:00",
+        "building:colour": "brown",
+        "building:levels": "4",
+        "fee:conditional": "no @ (age < 12)",
+        "heritage:website": "https://historicengland.org.uk/listing/the-list/list-entry/1066930",
+        "building:material": "brick",
+        "heritage:operator": "he",
+        "check_date:opening_hours": "2023-09-05"
+      }
+    },
+    {
+      "osm_id": 3357928873,
+      "osm_type": "node",
+      "category": "museum",
+      "name": "Paradox Museum",
+      "coordinates": {
+        "latitude": 51.4996747,
+        "longitude": -0.1639144
+      },
+      "address": {
+        "road": "Brompton Road",
+        "suburb": "Knightsbridge",
+        "borough": null,
+        "postcode": "SW3 1JJ"
+      },
+      "raw_tags": {
+        "fee": "yes",
+        "charge": "29 GBP",
+        "website": "https://paradoxmuseum.com/london/",
+        "check_date": "2026-02-19",
+        "wheelchair": "limited",
+        "opening_hours": "Mo-Th 10:00-17:30; Fr 10:00-19:00; Sa 09:30-19:30; Su 09:30-18:00",
+        "charge:conditional": "\"Various prices, VIP packages also\""
+      }
+    },
+    {
+      "osm_id": 4513341393,
+      "osm_type": "node",
+      "category": "museum",
+      "name": "Bank of England Museum",
+      "coordinates": {
+        "latitude": 51.5141974,
+        "longitude": -0.0876796
+      },
+      "address": {
+        "road": "Threadneedle Street",
+        "suburb": "Leadenhall Market",
+        "borough": null,
+        "postcode": "EC2R 8AH"
+      },
+      "raw_tags": {
+        "fee": "no",
+        "website": "https://www.bankofengland.co.uk/museum",
+        "wikidata": "Q1893754",
+        "description": "The entrance is on Bartholomew Lane, on the eastern edge of the Bank of England. You can’t access the museum through the main Bank entrance.",
+        "opening_hours": "Mo-Fr 10:00-17:00"
+      }
+    },
+    {
+      "osm_id": 29795,
+      "osm_type": "relation",
+      "category": "museum",
+      "name": "Victoria and Albert Museum",
+      "coordinates": {
+        "latitude": 51.4968838,
+        "longitude": -0.1716372
+      },
+      "address": {
+        "road": "Cromwell Road",
+        "suburb": "Brompton",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW7 2RL"
+      },
+      "raw_tags": {
+        "fee": "no",
+        "email": "hello@vam.ac.uk",
+        "phone": "+44 20 7942 2000",
+        "museum": "art",
+        "website": "https://www.vam.ac.uk/",
+        "building": "yes",
+        "end_date": "1862",
+        "heritage": "2",
+        "wikidata": "Q213322",
+        "wikipedia": "en:Victoria and Albert Museum",
+        "roof:shape": "many",
+        "start_date": "1853",
+        "wheelchair": "yes",
+        "ref:GB:nhle": "1190187",
+        "roof:levels": "2",
+        "opening_hours": "Sa-Th 10:00-17:45; Fr 10:00-22:00; Dec 24-26 off",
+        "building:levels": "4",
+        "contact:twitter": "V_and_A",
+        "internet_access": "wlan",
+        "air_conditioning": "yes",
+        "contact:facebook": "victoriaandalbertmuseum",
+        "heritage:website": "https://historicengland.org.uk/listing/the-list/list-entry/1190187",
+        "inscription_date": "1969-04-15",
+        "contact:instagram": "vamuseum",
+        "heritage:operator": "he",
+        "toilets:wheelchair": "yes"
+      }
+    },
+    {
+      "osm_id": 12551995914,
+      "osm_type": "node",
+      "category": "museum",
+      "name": "British Red Cross Museum",
+      "coordinates": {
+        "latitude": 51.5192384,
+        "longitude": -0.0885236
+      },
+      "address": {
+        "road": "Moorfields",
+        "suburb": "Bishopsgate Without",
+        "borough": null,
+        "postcode": "EC2Y 9AL"
+      },
+      "raw_tags": {
+        "fee": "no",
+        "website": "https://www.redcross.org.uk/about-us/our-history/museum-and-archives/visiting-our-museum-and-archives",
+        "wikidata": "Q50841513",
+        "wheelchair": "yes",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "fee:conditional": "donation @ \"Donation welcome since it is a charity\""
+      }
+    },
+    {
+      "osm_id": 640097060,
+      "osm_type": "way",
+      "category": "museum",
+      "name": "Polish Institute and Sikorski Museum",
+      "coordinates": {
+        "latitude": 51.5014362,
+        "longitude": -0.1728653
+      },
+      "address": {
+        "road": "Princes Gate",
+        "suburb": "Knightsbridge",
+        "borough": null,
+        "postcode": "SW7 1PT"
+      },
+      "raw_tags": {
+        "website": "https://pism.org.uk/",
+        "building": "yes",
+        "wikidata": "Q7209930",
+        "ref:GB:uprn": "10033643796;10033643797;100023377951"
+      }
+    },
+    {
+      "osm_id": 197206542,
+      "osm_type": "way",
+      "category": "museum",
+      "name": "Churchill War Rooms",
+      "coordinates": {
+        "latitude": 51.5022101,
+        "longitude": -0.129252
+      },
+      "address": {
+        "road": "King Charles Street",
+        "suburb": "Millbank",
+        "borough": null,
+        "postcode": "SW1A 2AQ"
+      },
+      "raw_tags": {
+        "fee": "yes",
+        "phone": "+44 20 7930 6961",
+        "website": "https://www.iwm.org.uk/visits/churchill-war-rooms",
+        "building": "yes",
+        "wikidata": "Q1024854",
+        "wikipedia": "en:Churchill War Rooms",
+        "wheelchair": "yes",
+        "description": "Visit Churchill War Rooms, part of Imperial War Museums, to discover the original Cabinet War Rooms, the wartime bunker which sheltered Churchill and his staff during the Blitz."
+      }
+    },
+    {
+      "osm_id": 12542127738,
+      "osm_type": "node",
+      "category": "museum",
+      "name": "RIBA Architecture Study Rooms",
+      "coordinates": {
+        "latitude": 51.4973057,
+        "longitude": -0.1734692
+      },
+      "address": {
+        "road": "Exhibition Road",
+        "suburb": "Brompton",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW7 2PA"
+      },
+      "raw_tags": {
+        "layer": "3",
+        "website": "https://www.riba.org/explore/riba-collections/research/drawings-and-collections-study-room/",
+        "end_date": "2027-05",
+        "wikidata": "Q128219613"
+      }
+    },
+    {
+      "osm_id": 27765411,
+      "osm_type": "way",
+      "category": "museum",
+      "name": "Science Museum",
+      "coordinates": {
+        "latitude": 51.4973983,
+        "longitude": -0.1746726
+      },
+      "address": {
+        "road": "Exhibition Road",
+        "suburb": "Brompton",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW7 9ET"
+      },
+      "raw_tags": {
+        "fee": "no",
+        "website": "https://www.sciencemuseum.org.uk/",
+        "building": "public",
+        "wikidata": "Q674773",
+        "wikipedia": "en:Science Museum, London",
+        "check_date": "2022-09-18",
+        "roof:shape": "quadruple_saltbox",
+        "wheelchair": "limited",
+        "roof:levels": "2",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "changing_table": "yes",
+        "building:levels": "3",
+        "toilets:wheelchair": "yes",
+        "changing_table:location": "wheelchair_toilet"
+      }
+    }
+  ],
+  "university": [
+    {
+      "osm_id": 803653271,
+      "osm_type": "node",
+      "category": "university",
+      "name": "University of Chicago Booth School of Business",
+      "coordinates": {
+        "latitude": 51.5162648,
+        "longitude": -0.0904216
+      },
+      "address": {
+        "road": "Basinghall Street",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2V 5HA"
+      },
+      "raw_tags": null
+    },
+    {
+      "osm_id": 3962082268,
+      "osm_type": "node",
+      "category": "university",
+      "name": "University of Notre Dame",
+      "coordinates": {
+        "latitude": 51.5082622,
+        "longitude": -0.1304173
+      },
+      "address": {
+        "road": "Suffolk Street",
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": "SW1Y 4HG"
+      },
+      "raw_tags": {
+        "education": "university",
+        "contact:website": "https://international.nd.edu/global-gateways/london/"
+      }
+    },
+    {
+      "osm_id": 108898602,
+      "osm_type": "way",
+      "category": "university",
+      "name": "Guildhall School of Music and Drama",
+      "coordinates": {
+        "latitude": 51.5195282,
+        "longitude": -0.0923805
+      },
+      "address": {
+        "road": "Silk Street",
+        "suburb": null,
+        "borough": null,
+        "postcode": "EC2Y 8DT"
+      },
+      "raw_tags": {
+        "website": "https://www.gsmd.ac.uk/",
+        "building": "yes",
+        "wikidata": "Q1419737",
+        "ref:edubase": "135412",
+        "roof:colour": "darkgrey",
+        "building:colour": "brown",
+        "building:levels": "3",
+        "building:material": "brick"
+      }
+    },
+    {
+      "osm_id": 12233221,
+      "osm_type": "relation",
+      "category": "university",
+      "name": "Imperial College London",
+      "coordinates": {
+        "latitude": 51.4989595,
+        "longitude": -0.1756407
+      },
+      "address": {
+        "road": "Exhibition Road",
+        "suburb": "Brompton",
+        "borough": null,
+        "postcode": "SW7 2AZ"
+      },
+      "raw_tags": {
+        "website": "https://imperial.ac.uk/",
+        "operator": "Imperial College London",
+        "wikidata": "Q189022",
+        "wikipedia": "en:Imperial College London",
+        "internet_access": "wlan",
+        "wikimedia_commons": "Category:Imperial College London",
+        "internet_access:fee": "customers"
+      }
+    },
+    {
+      "osm_id": 1336449461,
+      "osm_type": "way",
+      "category": "university",
+      "name": "Queen Mary's University West Smithfield Campus",
+      "coordinates": {
+        "latitude": 51.5173844,
+        "longitude": -0.1000909
+      },
+      "address": {
+        "road": "Little Britain",
+        "suburb": "West Smithfield",
+        "borough": null,
+        "postcode": "EC1A 7BL"
+      },
+      "raw_tags": null
+    },
+    {
+      "osm_id": 9395506360,
+      "osm_type": "node",
+      "category": "university",
+      "name": "Central Belsize Square",
+      "coordinates": {
+        "latitude": 51.5471542,
+        "longitude": -0.1699693
+      },
+      "address": {
+        "road": "Belsize Square",
+        "suburb": "Belsize Park",
+        "borough": "London Borough of Camden",
+        "postcode": "NW3 4HT"
+      },
+      "raw_tags": {
+        "website": "https://www.cssd.ac.uk",
+        "operator": "The Royal Central School of Speech and Drama",
+        "operator:type": "university"
+      }
+    },
+    {
+      "osm_id": 641429750,
+      "osm_type": "way",
+      "category": "university",
+      "name": "Royal College of Music",
+      "coordinates": {
+        "latitude": 51.4994776,
+        "longitude": -0.1771007
+      },
+      "address": {
+        "road": "Prince Consort Road",
+        "suburb": "Knightsbridge",
+        "borough": null,
+        "postcode": "SW7 2BP"
+      },
+      "raw_tags": {
+        "wikidata": "Q304985",
+        "wikipedia": "en:Royal College of Music"
+      }
+    },
+    {
+      "osm_id": 1339513734,
+      "osm_type": "way",
+      "category": "university",
+      "name": "Cordwainers Court",
+      "coordinates": {
+        "latitude": 51.5417686,
+        "longitude": -0.0545562
+      },
+      "address": {
+        "road": "St Thomas's Square",
+        "suburb": "Hackney",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 7PS"
+      },
+      "raw_tags": null
+    },
+    {
+      "osm_id": 891794537,
+      "osm_type": "way",
+      "category": "university",
+      "name": "Faculty of Medicine (Imperial College London)",
+      "coordinates": {
+        "latitude": 51.4900362,
+        "longitude": -0.1720808
+      },
+      "address": {
+        "road": "Cale Street",
+        "suburb": "Chelsea",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW3 6PT"
+      },
+      "raw_tags": null
+    },
+    {
+      "osm_id": 4195103054,
+      "osm_type": "node",
+      "category": "university",
+      "name": "BPP Business School",
+      "coordinates": {
+        "latitude": 51.513979,
+        "longitude": -0.0811412
+      },
+      "address": {
+        "road": "Saint Mary Axe",
+        "suburb": "Leadenhall Market",
+        "borough": null,
+        "postcode": "EC3A 8BN"
+      },
+      "raw_tags": null
+    },
+    {
+      "osm_id": 662669394,
+      "osm_type": "node",
+      "category": "university",
+      "name": "The Courtauld Institute of Art",
+      "coordinates": {
+        "latitude": 51.5116948,
+        "longitude": -0.117442
+      },
+      "address": {
+        "road": "Strand",
+        "suburb": "Covent Garden",
+        "borough": null,
+        "postcode": "WC2R 0RN"
+      },
+      "raw_tags": {
+        "phone": "+44 20 7872 0220",
+        "website": "https://courtauld.ac.uk/",
+        "operator": "The Courtauld Institute of Art",
+        "wikidata": "Q734266",
+        "education": "university",
+        "wikipedia": "en:The Courtauld Institute of Art",
+        "opening_hours": "Mo-Su 10:00-17:00"
+      }
+    },
+    {
+      "osm_id": 419267864,
+      "osm_type": "way",
+      "category": "university",
+      "name": "Royal College of Art, Kensington",
+      "coordinates": {
+        "latitude": 51.5008416,
+        "longitude": -0.1791497
+      },
+      "address": {
+        "road": "Jay Mews",
+        "suburb": "Knightsbridge",
+        "borough": null,
+        "postcode": "SW7 2EP"
+      },
+      "raw_tags": {
+        "website": "https://www.rca.ac.uk/",
+        "wikidata": "Q1753535",
+        "wikipedia": "en:Royal College of Art"
+      }
+    }
+  ]
+}

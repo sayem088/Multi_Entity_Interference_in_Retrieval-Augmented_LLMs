@@ -1,20 +1,16 @@
-experiment_name: "stage1_measurement_mei"
+experiment_name: "mei_qwen2_5_7b_factorial_audit"
 version: "1.0.0"
 domains:
   - "domain1_geo"
   - "domain2_health"
-  - "domain3_wiki"
 
 paths:
   raw_data_dir: "data/raw"
-  interim_data_dir: "data/interim"
   processed_data_dir: "data/processed"
-  raw_responses_dir: "results/stage1/raw_responses"
-  scored_responses_dir: "results/stage1/scored_responses"
-  tables_dir: "results/stage1/tables"
-  figures_dir: "results/stage1/figures"
-  run_logs_dir: "results/stage1/run_logs"
-  hand_annotations_dir: "validation/hand_annotations"
+  stimulus_sets_dir: "data/processed/stimulus_sets"
+  ground_truth_dir: "data/processed/ground_truth"
+  raw_responses_dir: "experiments/qwen2_5_7b/raw_responses"
+  summary_csv: "experiments/qwen2_5_7b/summary_qwen_7b.csv"
 
 scoring:
   compute_ber_k: true

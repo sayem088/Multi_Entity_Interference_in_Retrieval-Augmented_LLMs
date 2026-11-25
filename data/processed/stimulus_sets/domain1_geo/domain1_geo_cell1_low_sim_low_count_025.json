@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_025",
+  "domain_id": "domain1_geo",
+  "domain_name": "GeoAI & Spatial Infrastructure (London)",
+  "cell_id": "cell1_low_sim_low_count",
+  "cell_label": "low_sim_low_count",
+  "cell_description": "2 entities from distinct categories with disjoint attribute schemas.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "geo_hospital_05",
+      "category": "hospital",
+      "name": "St Bartholomew's Hospital",
+      "attributes": {
+        "name": "St Bartholomew's Hospital",
+        "category": "hospital",
+        "distance_km": "2.2 km",
+        "bearing": "North-East",
+        "travel_time": "5 mins",
+        "borough": "West Smithfield",
+        "postcode": "EC1A 9DE",
+        "hospital_capacity": "950 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    },
+    {
+      "entity_id": "geo_university_02",
+      "category": "university",
+      "name": "University of Notre Dame",
+      "attributes": {
+        "name": "University of Notre Dame",
+        "category": "university",
+        "distance_km": "0.2 km",
+        "bearing": "West",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "SW1Y 4HG",
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    }
+  ]
+}

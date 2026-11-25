@@ -1,0 +1,151 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_022",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell3_low_sim_high_count",
+  "cell_label": "low_sim_high_count",
+  "cell_description": "8 entities from mixed distinct categories with low schema overlap.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_01",
+      "category": "oncology_trial",
+      "name": "NCT00077233: FOLFIRI or FOLFOX With or Without Cetuximab in Patients With Metastatic Adeno...",
+      "attributes": {
+        "name": "NCT00077233: FOLFIRI or FOLFOX With or Without Cetuximab in Patients With Metastatic Adeno...",
+        "category": "oncology_trial",
+        "nct_id": "NCT00077233",
+        "phase": "PHASE3",
+        "target_condition": "Colorectal Cancer",
+        "intervention_dosage": "cetuximab, 5-FU, irinotecan",
+        "sample_size": "238 patients",
+        "primary_endpoint": "Overall survival",
+        "lead_sponsor": "Alliance for Clinical Trials in Oncology",
+        "study_status": "TERMINATED",
+        "median_overall_survival": "24.5 months",
+        "grade3_toxicity_rate": "34.2%"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_07",
+      "category": "cardiology_trial",
+      "name": "NCT00238836: Anticipatory & Preventive Team Care (APTCare): At Risk Patients of Family Hea...",
+      "attributes": {
+        "name": "NCT00238836: Anticipatory & Preventive Team Care (APTCare): At Risk Patients of Family Hea...",
+        "category": "cardiology_trial",
+        "nct_id": "NCT00238836",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Diabetes",
+        "intervention_dosage": "Self-management of chronic illness",
+        "sample_size": "240 patients",
+        "primary_endpoint": "Clinical Response Rate",
+        "lead_sponsor": "C. T. Lamont Primary Care Research Centre",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_08",
+      "category": "neurology_trial",
+      "name": "NCT00000177: Estrogen Hormone Protocol",
+      "attributes": {
+        "name": "NCT00000177: Estrogen Hormone Protocol",
+        "category": "neurology_trial",
+        "nct_id": "NCT00000177",
+        "phase": "PHASE3",
+        "target_condition": "Alzheimer Disease",
+        "intervention_dosage": "Estrogen",
+        "sample_size": "120 patients",
+        "primary_endpoint": "Clinical Response Rate",
+        "lead_sponsor": "National Institute on Aging (NIA)",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_02",
+      "category": "infectious_disease",
+      "name": "NCT00230958: Study of Viramidine to Ribavirin in Patients With Chronic Hepatitis C Who Are...",
+      "attributes": {
+        "name": "NCT00230958: Study of Viramidine to Ribavirin in Patients With Chronic Hepatitis C Who Are...",
+        "category": "infectious_disease",
+        "nct_id": "NCT00230958",
+        "phase": "PHASE3",
+        "target_condition": "Chronic Hepatitis C",
+        "intervention_dosage": "Viramidine, Ribavirin, pegylated interferon alfa-2b",
+        "sample_size": "900 patients",
+        "primary_endpoint": "- Efficacy: Undetectable plasma HCV RNA (less than 100 co...",
+        "lead_sponsor": "Bausch Health Americas, Inc.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_07",
+      "category": "vaccine_study",
+      "name": "NCT01725217: Immunogenicity and Safety of Meningococcal ACWY Conjugate Vaccine in Healthy ...",
+      "attributes": {
+        "name": "NCT01725217: Immunogenicity and Safety of Meningococcal ACWY Conjugate Vaccine in Healthy ...",
+        "category": "vaccine_study",
+        "nct_id": "NCT01725217",
+        "phase": "PHASE3",
+        "target_condition": "Meningococcal Disease",
+        "intervention_dosage": "MenACWY-CRM",
+        "sample_size": "198 patients",
+        "primary_endpoint": "Percentages of Overall Subjects With Seroresponse After M...",
+        "lead_sponsor": "Novartis Vaccines",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_06",
+      "category": "medical_device",
+      "name": "NCT05482555: Percutaneous Plug-based Femoral Arteriotomy Closure Device Use in Surgery for...",
+      "attributes": {
+        "name": "NCT05482555: Percutaneous Plug-based Femoral Arteriotomy Closure Device Use in Surgery for...",
+        "category": "medical_device",
+        "nct_id": "NCT05482555",
+        "phase": "Not Specified",
+        "target_condition": "Aortic Dissection",
+        "intervention_dosage": "Percutaneous arteriotomy closed using a plug-based arteriotomy closure device, Surgical cut-down and arterial puncture under direct vision",
+        "sample_size": "171 patients",
+        "primary_endpoint": "Femoral access site complication",
+        "lead_sponsor": "Karolinska University Hospital",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_11",
+      "category": "pediatric_study",
+      "name": "NCT05468840: Study of IV Ketamine for Emergency Department Treatment of Adolescent Suicida...",
+      "attributes": {
+        "name": "NCT05468840: Study of IV Ketamine for Emergency Department Treatment of Adolescent Suicida...",
+        "category": "pediatric_study",
+        "nct_id": "NCT05468840",
+        "phase": "PHASE3",
+        "target_condition": "Suicidal Ideation",
+        "intervention_dosage": "Ketamine Hydrochloride, Normal saline",
+        "sample_size": "20 patients",
+        "primary_endpoint": "Feasibility of the study as measured by the percentage of...",
+        "lead_sponsor": "University of Ottawa",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_08",
+      "category": "mental_health",
+      "name": "NCT01110902: Efficacy, Safety and Tolerability of Agomelatine Sublingual Tablets in the Tr...",
+      "attributes": {
+        "name": "NCT01110902: Efficacy, Safety and Tolerability of Agomelatine Sublingual Tablets in the Tr...",
+        "category": "mental_health",
+        "nct_id": "NCT01110902",
+        "phase": "PHASE3",
+        "target_condition": "Major Depressive Disorder",
+        "intervention_dosage": "Agomelatine (AGO178C), Placebo",
+        "sample_size": "589 patients",
+        "primary_endpoint": "Change from Baseline to endpoint at Week 8 using the tota...",
+        "lead_sponsor": "Novartis Pharmaceuticals",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

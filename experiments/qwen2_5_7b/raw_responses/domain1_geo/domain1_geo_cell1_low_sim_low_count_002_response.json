@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_002",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Central London GeoAI & Spatial Infrastructure.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: St Bartholomew's Hospital (Category: hospital)\n  - distance_km: 2.2 km\n  - bearing: North-East\n  - travel_time: 5 mins\n  - borough: West Smithfield\n  - postcode: EC1A 9DE\n  - hospital_capacity: 950 beds\n  - emergency_department: yes\n  - trauma_center_level: Level 1\n  - heliport_access: yes\n\nEntity: Benjamin Franklin House (Category: museum)\n  - distance_km: 0.2 km\n  - bearing: East\n  - travel_time: 2 mins\n  - borough: Covent Garden\n  - postcode: WC2N 5NF\n  - cultural_heritage: exhibitions_and_galleries\n  - admission_policy: free_public_entry\n  - guided_tours: available\n  - curatorial_archives: historical\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: St Bartholomew's Hospital\n- distance_km: 2.2 km\n- bearing: North-East\n- travel_time: 5 mins\n- borough: West Smithfield\n- postcode: EC1A 9DE\n- hospital_capacity: 950 beds\n- emergency_department: yes\n- trauma_center_level: Level 1\n- heliport_access: yes\n\nEntity: Benjamin Franklin House\n- distance_km: 0.2 km\n- bearing: East\n- travel_time: 2 mins\n- borough: Covent Garden\n- postcode: WC2N 5NF\n- cultural_heritage: exhibitions_and_galleries\n- admission_policy: free_public_entry\n- guided_tours: available\n- curatorial_archives: historical",
+  "generation_time_sec": 26.294,
+  "timestamp": "2026-11-18T18:01:21.596519"
+}

@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_022",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell1_low_sim_low_count",
+  "cell_label": "low_sim_low_count",
+  "cell_description": "2 entities from distinct categories with disjoint attribute schemas.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_12",
+      "category": "oncology_trial",
+      "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+      "attributes": {
+        "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+        "category": "oncology_trial",
+        "nct_id": "NCT01458717",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Pancreatic Cancer",
+        "intervention_dosage": "Neoadjuvant chemoradiation, Upfront surgery",
+        "sample_size": "58 patients",
+        "primary_endpoint": "2-year survival rate",
+        "lead_sponsor": "Seoul National University Hospital",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "29.0 months",
+        "grade3_toxicity_rate": "18.9%"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_03",
+      "category": "mental_health",
+      "name": "NCT02218008: A Study of ALKS 5461 for the Treatment of Major Depressive Disorder (MDD) - F...",
+      "attributes": {
+        "name": "NCT02218008: A Study of ALKS 5461 for the Treatment of Major Depressive Disorder (MDD) - F...",
+        "category": "mental_health",
+        "nct_id": "NCT02218008",
+        "phase": "PHASE3",
+        "target_condition": "Major Depressive Disorder",
+        "intervention_dosage": "ALKS 5461, Placebo",
+        "sample_size": "407 patients",
+        "primary_endpoint": "Change in Montgomery Asberg Depression Rating Scale (MADR...",
+        "lead_sponsor": "Alkermes, Inc.",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

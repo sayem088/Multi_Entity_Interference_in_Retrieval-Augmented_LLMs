@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_015",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entity_map": {
+    "Tunica Diagnostics": {
+      "name": "Tunica Diagnostics",
+      "category": "hospital",
+      "distance_km": "0.7 km",
+      "bearing": "North",
+      "travel_time": "2 mins",
+      "borough": "London Borough of Camden",
+      "postcode": "WC2H 0DT",
+      "hospital_capacity": "580 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    },
+    "Ghana International Bank": {
+      "name": "Ghana International Bank",
+      "category": "bank",
+      "distance_km": "2.5 km",
+      "bearing": "East",
+      "travel_time": "6 mins",
+      "borough": "Greater London",
+      "postcode": "EC2V 6AZ",
+      "financial_service": "retail_and_commercial",
+      "atm_available": "yes",
+      "vault_reserves": "secure_deposit",
+      "branch_hours": "09:30-16:30"
+    }
+  }
+}

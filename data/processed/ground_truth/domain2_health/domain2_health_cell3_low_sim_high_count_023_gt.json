@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_023",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...": {
+      "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+      "category": "oncology_trial",
+      "nct_id": "NCT01458717",
+      "phase": "PHASE2, PHASE3",
+      "target_condition": "Pancreatic Cancer",
+      "intervention_dosage": "Neoadjuvant chemoradiation, Upfront surgery",
+      "sample_size": "58 patients",
+      "primary_endpoint": "2-year survival rate",
+      "lead_sponsor": "Seoul National University Hospital",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "29.0 months",
+      "grade3_toxicity_rate": "18.9%"
+    },
+    "NCT00843986: Safety and Efficacy of Conivaptan in Hyponatremic Patients With Symptomatic A...": {
+      "name": "NCT00843986: Safety and Efficacy of Conivaptan in Hyponatremic Patients With Symptomatic A...",
+      "category": "cardiology_trial",
+      "nct_id": "NCT00843986",
+      "phase": "PHASE3",
+      "target_condition": "Hyponatremia",
+      "intervention_dosage": "conivaptan, placebo",
+      "sample_size": "9 patients",
+      "primary_endpoint": "Change in Renal Function From Baseline at 72 Hours Assess...",
+      "lead_sponsor": "Cumberland Pharmaceuticals",
+      "study_status": "TERMINATED"
+    },
+    "NCT00322153: A Study of the Safety and Efficacy of Memantine in Moderate to Severe Alzheim...": {
+      "name": "NCT00322153: A Study of the Safety and Efficacy of Memantine in Moderate to Severe Alzheim...",
+      "category": "neurology_trial",
+      "nct_id": "NCT00322153",
+      "phase": "PHASE3",
+      "target_condition": "Dementia of the Alzheimer's Type",
+      "intervention_dosage": "memantine ER, Placebo",
+      "sample_size": "677 patients",
+      "primary_endpoint": "Change From Baseline in Severe Impairment Battery (SIB) a...",
+      "lead_sponsor": "Forest Laboratories",
+      "study_status": "COMPLETED"
+    },
+    "NCT01374308: NASVAC Phase-III Trial in Chronic Hepatitis B (CHB) Patients": {
+      "name": "NCT01374308: NASVAC Phase-III Trial in Chronic Hepatitis B (CHB) Patients",
+      "category": "infectious_disease",
+      "nct_id": "NCT01374308",
+      "phase": "PHASE3",
+      "target_condition": "Chronic Hepatitis B",
+      "intervention_dosage": "NASVAC, Pegylated interferon alpha 2b",
+      "sample_size": "160 patients",
+      "primary_endpoint": "Number of study participants with virological and or bioc...",
+      "lead_sponsor": "Clinical Research Organization, Dhaka, Bangladesh",
+      "study_status": "UNKNOWN"
+    },
+    "NCT02509494: Staged Phase 3 Study to Assess the Safety and Immunogenicity of Ebola Candida...": {
+      "name": "NCT02509494: Staged Phase 3 Study to Assess the Safety and Immunogenicity of Ebola Candida...",
+      "category": "vaccine_study",
+      "nct_id": "NCT02509494",
+      "phase": "PHASE3",
+      "target_condition": "Ebola Virus Disease",
+      "intervention_dosage": "Ad26.ZEBOV, MVA-BN-Filo, MenACWY",
+      "sample_size": "1023 patients",
+      "primary_endpoint": "Stages 1 and 2: Number of Participants With Solicited Loc...",
+      "lead_sponsor": "Janssen Vaccines & Prevention B.V.",
+      "study_status": "COMPLETED"
+    },
+    "NCT02219308: Pain Control for Intrauterine Device Placement Using Paracervical Block": {
+      "name": "NCT02219308: Pain Control for Intrauterine Device Placement Using Paracervical Block",
+      "category": "medical_device",
+      "nct_id": "NCT02219308",
+      "phase": "NA",
+      "target_condition": "Pain Due to Intrauterine Contraceptive Device",
+      "intervention_dosage": "Paracervical Block (PCB), No Paracervical Block (Sham PCB)",
+      "sample_size": "67 patients",
+      "primary_endpoint": "Pain With Intrauterine Device (IUD) Placement",
+      "lead_sponsor": "University of California, San Diego",
+      "study_status": "COMPLETED"
+    },
+    "NCT05468840: Study of IV Ketamine for Emergency Department Treatment of Adolescent Suicida...": {
+      "name": "NCT05468840: Study of IV Ketamine for Emergency Department Treatment of Adolescent Suicida...",
+      "category": "pediatric_study",
+      "nct_id": "NCT05468840",
+      "phase": "PHASE3",
+      "target_condition": "Suicidal Ideation",
+      "intervention_dosage": "Ketamine Hydrochloride, Normal saline",
+      "sample_size": "20 patients",
+      "primary_endpoint": "Feasibility of the study as measured by the percentage of...",
+      "lead_sponsor": "University of Ottawa",
+      "study_status": "UNKNOWN"
+    },
+    "NCT00035048: Treatment of Patients With Major Depressive Disorder With MK0869 (0869-068)(C...": {
+      "name": "NCT00035048: Treatment of Patients With Major Depressive Disorder With MK0869 (0869-068)(C...",
+      "category": "mental_health",
+      "nct_id": "NCT00035048",
+      "phase": "PHASE3",
+      "target_condition": "Major Depressive Disorder",
+      "intervention_dosage": "aprepitant, Comparator: placebo (unspecified)",
+      "sample_size": "540 patients",
+      "primary_endpoint": "HAMD-17 score </= 10 after 10 weeks; maintenance of antid...",
+      "lead_sponsor": "Merck Sharp & Dohme LLC",
+      "study_status": "COMPLETED"
+    }
+  }
+}

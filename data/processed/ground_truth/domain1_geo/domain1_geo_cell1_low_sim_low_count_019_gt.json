@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_019",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entity_map": {
+    "Royal Free Hospital": {
+      "name": "Royal Free Hospital",
+      "category": "hospital",
+      "distance_km": "5.6 km",
+      "bearing": "North-West",
+      "travel_time": "14 mins",
+      "borough": "London Borough of Camden",
+      "postcode": "NW3 2QG",
+      "hospital_capacity": "380 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    },
+    "Polish Institute and Sikorski Museum": {
+      "name": "Polish Institute and Sikorski Museum",
+      "category": "museum",
+      "distance_km": "3.2 km",
+      "bearing": "West",
+      "travel_time": "8 mins",
+      "borough": "Knightsbridge",
+      "postcode": "SW7 1PT",
+      "cultural_heritage": "exhibitions_and_galleries",
+      "admission_policy": "free_public_entry",
+      "guided_tours": "available",
+      "curatorial_archives": "historical"
+    }
+  }
+}

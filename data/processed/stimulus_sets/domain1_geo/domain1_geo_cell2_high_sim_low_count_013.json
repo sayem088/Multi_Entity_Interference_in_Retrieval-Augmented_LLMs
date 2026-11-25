@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain1_geo_cell2_high_sim_low_count_013",
+  "domain_id": "domain1_geo",
+  "domain_name": "GeoAI & Spatial Infrastructure (London)",
+  "cell_id": "cell2_high_sim_low_count",
+  "cell_label": "high_sim_low_count",
+  "cell_description": "2 entities from the same category with identical attribute schemas.",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "geo_hospital_07",
+      "category": "hospital",
+      "name": "John Howard Centre",
+      "attributes": {
+        "name": "John Howard Centre",
+        "category": "hospital",
+        "distance_km": "7.6 km",
+        "bearing": "North-East",
+        "travel_time": "18 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 5TD",
+        "hospital_capacity": "665 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_05",
+      "category": "hospital",
+      "name": "St Bartholomew's Hospital",
+      "attributes": {
+        "name": "St Bartholomew's Hospital",
+        "category": "hospital",
+        "distance_km": "2.2 km",
+        "bearing": "North-East",
+        "travel_time": "5 mins",
+        "borough": "West Smithfield",
+        "postcode": "EC1A 9DE",
+        "hospital_capacity": "950 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_016",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Central London GeoAI & Spatial Infrastructure.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: City & Hackney Centre for Mental Health (Category: hospital)\n  - distance_km: 7.4 km\n  - bearing: North-East\n  - travel_time: 18 mins\n  - borough: London Borough of Hackney\n  - postcode: E9 6BX\n  - hospital_capacity: 675 beds\n  - emergency_department: yes\n  - trauma_center_level: Level 2\n  - heliport_access: no\n\nEntity: Leicester Square (Category: park)\n  - distance_km: 0.3 km\n  - bearing: North-West\n  - travel_time: 2 mins\n  - borough: Covent Garden\n  - postcode: SW1A 7AA\n  - leisure_type: public_park\n  - surface_material: grass_and_woodland\n  - dog_friendly: yes\n  - entry_fee: free\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: City & Hackney Centre for Mental Health\n- distance_km: 7.4 km\n- bearing: North-East\n- travel_time: 18 mins\n- borough: London Borough of Hackney\n- postcode: E9 6BX\n- hospital_capacity: 675 beds\n- emergency_department: yes\n- trauma_center_level: Level 2\n- heliport_access: no\n\nEntity: Leicester Square\n- distance_km: 0.3 km\n- bearing: North-West\n- travel_time: 2 mins\n- borough: Covent Garden\n- postcode: SW1A 7AA\n- leisure_type: public_park\n- surface_material: grass_and_woodland\n- dog_friendly: yes\n- entry_fee: free",
+  "generation_time_sec": 11.574,
+  "timestamp": "2026-11-18T18:04:18.631451"
+}

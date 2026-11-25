@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_006",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Central London GeoAI & Spatial Infrastructure.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: Homerton University Hospital (Category: hospital)\n  - distance_km: 7.4 km\n  - bearing: North-East\n  - travel_time: 18 mins\n  - borough: London Borough of Hackney\n  - postcode: E9 6DH\n  - hospital_capacity: 840 beds\n  - emergency_department: yes\n  - trauma_center_level: Level 1\n  - heliport_access: yes\n\nEntity: Lume London (Category: restaurant)\n  - distance_km: 4.5 km\n  - bearing: North-West\n  - travel_time: 11 mins\n  - borough: London Borough of Camden\n  - postcode: NW3 3AD\n  - dining_service: dine_in_and_takeaway\n  - cuisine_specialty: british_and_international\n  - table_reservation: recommended\n  - food_hygiene_rating: 5_stars\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: Homerton University Hospital\n- distance_km: 7.4 km\n- bearing: North-East\n- travel_time: 18 mins\n- borough: London Borough of Hackney\n- postcode: E9 6DH\n- hospital_capacity: 840 beds\n- emergency_department: yes\n- trauma_center_level: Level 1\n- heliport_access: yes\n\nEntity: Lume London\n- distance_km: 4.5 km\n- bearing: North-West\n- travel_time: 11 mins\n- borough: London Borough of Camden\n- postcode: NW3 3AD\n- dining_service: dine_in_and_takeaway\n- cuisine_specialty: british_and_international\n- table_reservation: recommended\n- food_hygiene_rating: 5_stars",
+  "generation_time_sec": 11.954,
+  "timestamp": "2026-11-18T18:02:13.310987"
+}

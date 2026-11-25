@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain1_geo_cell2_high_sim_low_count_025",
+  "domain_id": "domain1_geo",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entity_map": {
+    "Until SOHO": {
+      "name": "Until SOHO",
+      "category": "hospital",
+      "distance_km": "0.7 km",
+      "bearing": "North",
+      "travel_time": "2 mins",
+      "borough": "London Borough of Camden",
+      "postcode": "WC2H 0DT",
+      "hospital_capacity": "430 beds",
+      "emergency_department": "no",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    },
+    "St Bartholomew's Hospital": {
+      "name": "St Bartholomew's Hospital",
+      "category": "hospital",
+      "distance_km": "2.2 km",
+      "bearing": "North-East",
+      "travel_time": "5 mins",
+      "borough": "West Smithfield",
+      "postcode": "EC1A 9DE",
+      "hospital_capacity": "950 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 1",
+      "heliport_access": "yes"
+    }
+  }
+}

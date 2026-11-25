@@ -1,0 +1,37 @@
+{
+  "scenario_id": "domain2_health_cell2_high_sim_low_count_002",
+  "domain_id": "domain2_health",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entity_map": {
+    "NCT00778908: Late-Course Accelerated Hyperfractionated IMRT for Locoregionally Advanced Na...": {
+      "name": "NCT00778908: Late-Course Accelerated Hyperfractionated IMRT for Locoregionally Advanced Na...",
+      "category": "oncology_trial",
+      "nct_id": "NCT00778908",
+      "phase": "PHASE2, PHASE3",
+      "target_condition": "Nasopharyngeal Carcinoma",
+      "intervention_dosage": "Late-course accelerated hyperfractionated IMRT, Concomitant cisplatin chemotherapy, Conventionally fractionated IMRT",
+      "sample_size": "120 patients",
+      "primary_endpoint": "Local/regional control rate, Acute and late toxicities",
+      "lead_sponsor": "Guangxi Medical University",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "31.2 months",
+      "grade3_toxicity_rate": "36.4%"
+    },
+    "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...": {
+      "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+      "category": "oncology_trial",
+      "nct_id": "NCT00399035",
+      "phase": "PHASE3",
+      "target_condition": "Metastatic Colorectal Cancer",
+      "intervention_dosage": "Cediranib, FOLFOX (5-fluorouracil, Leucovorin, Oxaliplatin), XELOX (Capecitabine and Oxaliplatin)",
+      "sample_size": "1254 patients",
+      "primary_endpoint": "Progression-free Survival",
+      "lead_sponsor": "AstraZeneca",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "14.8 months",
+      "grade3_toxicity_rate": "19.8%"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_019",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Central London GeoAI & Spatial Infrastructure.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: Royal Free Hospital (Category: hospital)\n  - distance_km: 5.6 km\n  - bearing: North-West\n  - travel_time: 14 mins\n  - borough: London Borough of Camden\n  - postcode: NW3 2QG\n  - hospital_capacity: 380 beds\n  - emergency_department: yes\n  - trauma_center_level: Level 2\n  - heliport_access: no\n\nEntity: Polish Institute and Sikorski Museum (Category: museum)\n  - distance_km: 3.2 km\n  - bearing: West\n  - travel_time: 8 mins\n  - borough: Knightsbridge\n  - postcode: SW7 1PT\n  - cultural_heritage: exhibitions_and_galleries\n  - admission_policy: free_public_entry\n  - guided_tours: available\n  - curatorial_archives: historical\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: Royal Free Hospital\n- distance_km: 5.6 km\n- bearing: North-West\n- travel_time: 14 mins\n- borough: London Borough of Camden\n- postcode: NW3 2QG\n- hospital_capacity: 380 beds\n- emergency_department: yes\n- trauma_center_level: Level 2\n- heliport_access: no\n\nEntity: Polish Institute and Sikorski Museum\n- distance_km: 3.2 km\n- bearing: West\n- travel_time: 8 mins\n- borough: Knightsbridge\n- postcode: SW7 1PT\n- cultural_heritage: exhibitions_and_galleries\n- admission_policy: free_public_entry\n- guided_tours: available\n- curatorial_archives: historical",
+  "generation_time_sec": 11.958,
+  "timestamp": "2026-11-18T18:04:54.082603"
+}

@@ -43,10 +43,7 @@ htmlcov/
 
 # Logs & Run Artifacts
 *.log
-results/stage1/raw_responses/*
-results/stage1/scored_responses/*
-!results/stage1/raw_responses/.gitkeep
-!results/stage1/scored_responses/.gitkeep
+experiments/*/scored_responses/
 results/
 # Operating System Files
 .DS_Store

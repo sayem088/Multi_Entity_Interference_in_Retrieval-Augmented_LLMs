@@ -128,12 +128,22 @@ python experiments/qwen2_5_7b/reproduce_analysis.py
 ```
 
 ### 3. Execute Full Experimental Pipeline
-For GPU inference (`Qwen2.5-7B-Instruct` with `bitsandbytes` NF4), install GPU extras (`pip install -e ".[gpu]"`) and execute the four-stage pipeline:
+To re-harvest raw API records, rebuild the 200-scenario factorial suite, execute deterministic GPU inference (`Qwen2.5-7B-Instruct`), and audit all outputs end-to-end:
 ```bash
-python scripts/01_build_stimulus_set.py
-python scripts/02_run_generation.py
-python scripts/03_run_scoring.py
-python scripts/04_run_analysis.py
+# Stage 1: Fetch real records & normalize schemas
+python scripts/01a_fetch_geoai.py
+python scripts/01b_fetch_healthcare.py
+python scripts/01c_preprocess_datasets.py
+
+# Stage 2: Assemble 2x2 factorial stimuli & canonical ground truths (N = 200)
+python scripts/02_generate_factorial_stimulus.py
+
+# Stage 3: Run Qwen2.5-7B-Instruct GPU inference (requires CUDA + GPU extras)
+python scripts/03_run_inference_qwen7b.py --device cuda
+
+# Stage 4 & 5: Deterministic zero-LLM scoring, ANOVA, & paired t-test
+python scripts/04_score_and_audit.py --model qwen_7b
+python scripts/05_statistical_analysis.py
 ```
 
 ---
@@ -144,21 +154,18 @@ python scripts/04_run_analysis.py
 ├── .github/workflows/ci.yml              # Automated pytest & benchmark verification CI
 ├── assets/                               # Publication-ready architecture & result figures
 ├── configs/                              # YAML definitions for domains, model, & 2x2 design
-├── data/processed/                       # Curated GeoAI, Healthcare, & Wikipedia scenarios
-├── experiments/qwen2_5_7b/               # Audited N=200 CSV, ANOVA script, & LaTeX tables
+├── data/
+│   ├── raw/                              # Harvested OpenStreetMap & ClinicalTrials.gov JSONs
+│   └── processed/                        # Cleaned domain JSONs, 200 stimuli, & 200 ground truths
+├── experiments/qwen2_5_7b/               # Complete empirical archive for Qwen2.5-7B-Instruct
+│   ├── raw_responses/                    # 200 live GPU model generation JSON outputs
 │   ├── reproduce_analysis.py             # Reproduces Table 1, Table 2, ANOVA, & t-test
 │   ├── summary_qwen_7b.csv               # Complete 200-scenario audited metrics
 │   └── tables/                           # IEEEtran booktabs LaTeX deliverables
 ├── notebooks/
 │   └── reproduce_qwen2_5_7b.ipynb        # End-to-end Google Colab reproduction notebook
-├── scripts/                              # Modular 4-stage CLI execution scripts
+├── scripts/                              # End-to-end 5-stage empirical pipeline scripts
 ├── src/mei/                              # Core Python package (`mei`)
-│   ├── retrieval/                        # OSM GeoAI, ClinicalTrials.gov, & Wiki clients
-│   ├── schema/                           # Jaccard schema similarity computation
-│   ├── stimulus/                         # Controlled 2x2 factorial prompt builder
-│   ├── generation/                       # Quantized LLM inference & prompt templates
-│   ├── scoring/                          # Zero-LLM BER_k, EA-F1, & RAGAS wrapper
-│   └── analysis/                         # Statistical summary & discriminant validity
 ├── tests/                                # Automated unit test suite
 ├── LICENSE                               # MIT License
 └── pyproject.toml                        # Package build configuration

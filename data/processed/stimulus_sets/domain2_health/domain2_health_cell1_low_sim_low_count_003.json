@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_003",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell1_low_sim_low_count",
+  "cell_label": "low_sim_low_count",
+  "cell_description": "2 entities from distinct categories with disjoint attribute schemas.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_12",
+      "category": "oncology_trial",
+      "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+      "attributes": {
+        "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+        "category": "oncology_trial",
+        "nct_id": "NCT01458717",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Pancreatic Cancer",
+        "intervention_dosage": "Neoadjuvant chemoradiation, Upfront surgery",
+        "sample_size": "58 patients",
+        "primary_endpoint": "2-year survival rate",
+        "lead_sponsor": "Seoul National University Hospital",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "29.0 months",
+        "grade3_toxicity_rate": "18.9%"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_12",
+      "category": "pediatric_study",
+      "name": "NCT01155388: A Trial of Ferumoxytol for the Treatment of Iron Deficiency Anemia in Pediatr...",
+      "attributes": {
+        "name": "NCT01155388: A Trial of Ferumoxytol for the Treatment of Iron Deficiency Anemia in Pediatr...",
+        "category": "pediatric_study",
+        "nct_id": "NCT01155388",
+        "phase": "PHASE3",
+        "target_condition": "Iron Deficiency Anemia",
+        "intervention_dosage": "Ferumoxytol, Oral Iron",
+        "sample_size": "14 patients",
+        "primary_endpoint": "Mean Change In Hemoglobin From Baseline To Week 5",
+        "lead_sponsor": "AMAG Pharmaceuticals, Inc.",
+        "study_status": "TERMINATED"
+      }
+    }
+  ]
+}

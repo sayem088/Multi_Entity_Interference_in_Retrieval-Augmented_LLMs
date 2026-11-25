@@ -1,0 +1,51 @@
+{
+  "scenario_id": "domain2_health_cell2_high_sim_low_count_011",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell2_high_sim_low_count",
+  "cell_label": "high_sim_low_count",
+  "cell_description": "2 entities from the same category with identical attribute schemas.",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_04",
+      "category": "oncology_trial",
+      "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+      "attributes": {
+        "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+        "category": "oncology_trial",
+        "nct_id": "NCT00399035",
+        "phase": "PHASE3",
+        "target_condition": "Metastatic Colorectal Cancer",
+        "intervention_dosage": "Cediranib, FOLFOX (5-fluorouracil, Leucovorin, Oxaliplatin), XELOX (Capecitabine and Oxaliplatin)",
+        "sample_size": "1254 patients",
+        "primary_endpoint": "Progression-free Survival",
+        "lead_sponsor": "AstraZeneca",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "14.8 months",
+        "grade3_toxicity_rate": "19.8%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_03",
+      "category": "oncology_trial",
+      "name": "NCT06968585: A Study of A166 Versus Trastuzumab Emtansine (T-DM1) in Patients With HER2-Po...",
+      "attributes": {
+        "name": "NCT06968585: A Study of A166 Versus Trastuzumab Emtansine (T-DM1) in Patients With HER2-Po...",
+        "category": "oncology_trial",
+        "nct_id": "NCT06968585",
+        "phase": "PHASE3",
+        "target_condition": "HER2-positive Breast Cancer",
+        "intervention_dosage": "A166, T-DM1",
+        "sample_size": "365 patients",
+        "primary_endpoint": "Progression-free survival (PFS)",
+        "lead_sponsor": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+        "study_status": "ACTIVE_NOT_RECRUITING",
+        "median_overall_survival": "22.0 months",
+        "grade3_toxicity_rate": "41.0%"
+      }
+    }
+  ]
+}

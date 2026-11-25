@@ -1,0 +1,151 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_020",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell3_low_sim_high_count",
+  "cell_label": "low_sim_high_count",
+  "cell_description": "8 entities from mixed distinct categories with low schema overlap.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_12",
+      "category": "oncology_trial",
+      "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+      "attributes": {
+        "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+        "category": "oncology_trial",
+        "nct_id": "NCT01458717",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Pancreatic Cancer",
+        "intervention_dosage": "Neoadjuvant chemoradiation, Upfront surgery",
+        "sample_size": "58 patients",
+        "primary_endpoint": "2-year survival rate",
+        "lead_sponsor": "Seoul National University Hospital",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "29.0 months",
+        "grade3_toxicity_rate": "18.9%"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_05",
+      "category": "cardiology_trial",
+      "name": "NCT07596329: Outpatient Hypertonic Saline and Loop Diuretic Combination Therapy in Cardior...",
+      "attributes": {
+        "name": "NCT07596329: Outpatient Hypertonic Saline and Loop Diuretic Combination Therapy in Cardior...",
+        "category": "cardiology_trial",
+        "nct_id": "NCT07596329",
+        "phase": "PHASE3",
+        "target_condition": "Heart Failure",
+        "intervention_dosage": "Hypertonic sodium chloride 10%, Sodium Chloride 0.9%, Furosemide intravenous solution",
+        "sample_size": "60 patients",
+        "primary_endpoint": "Number of participants rehospitalized for heart failure",
+        "lead_sponsor": "University of Monastir",
+        "study_status": "NOT_YET_RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_11",
+      "category": "neurology_trial",
+      "name": "NCT01152216: An Extension of the CONCERT Protocol (DIM18)",
+      "attributes": {
+        "name": "NCT01152216: An Extension of the CONCERT Protocol (DIM18)",
+        "category": "neurology_trial",
+        "nct_id": "NCT01152216",
+        "phase": "PHASE3",
+        "target_condition": "Alzheimer's Disease",
+        "intervention_dosage": "Dimebon",
+        "sample_size": "672 patients",
+        "primary_endpoint": "Safety",
+        "lead_sponsor": "Medivation, Inc.",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_10",
+      "category": "infectious_disease",
+      "name": "NCT06956482: PROlonged Corticosteroid Treatment or N-ACetylcysteine for Severe Alcoholic H...",
+      "attributes": {
+        "name": "NCT06956482: PROlonged Corticosteroid Treatment or N-ACetylcysteine for Severe Alcoholic H...",
+        "category": "infectious_disease",
+        "nct_id": "NCT06956482",
+        "phase": "PHASE3",
+        "target_condition": "Alcoholic Hepatitis",
+        "intervention_dosage": "N-Acetylcysteine (NAC) Treatment, Prednisolone, Placebo of N-acetylcysteine",
+        "sample_size": "477 patients",
+        "primary_endpoint": "Rate of patients alive with compensated liver disease",
+        "lead_sponsor": "University Hospital, Lille",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_02",
+      "category": "vaccine_study",
+      "name": "NCT04980391: A Study on the Safety and Immune Response to an Unadjuvanted RSV Maternal Vac...",
+      "attributes": {
+        "name": "NCT04980391: A Study on the Safety and Immune Response to an Unadjuvanted RSV Maternal Vac...",
+        "category": "vaccine_study",
+        "nct_id": "NCT04980391",
+        "phase": "PHASE3",
+        "target_condition": "Respiratory Syncytial Virus Infections",
+        "intervention_dosage": "RSV MAT, Placebo",
+        "sample_size": "384 patients",
+        "primary_endpoint": "Percentage of Maternal Participants Reporting Any Solicit...",
+        "lead_sponsor": "GlaxoSmithKline",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_10",
+      "category": "medical_device",
+      "name": "NCT00884650: Managing Post-operative Pain in Children With Cerebral Palsy Using a Pain Pump",
+      "attributes": {
+        "name": "NCT00884650: Managing Post-operative Pain in Children With Cerebral Palsy Using a Pain Pump",
+        "category": "medical_device",
+        "nct_id": "NCT00884650",
+        "phase": "NA",
+        "target_condition": "Cerebral Palsy",
+        "intervention_dosage": "oral analgesic, intravenous analgesic per pump",
+        "sample_size": "54 patients",
+        "primary_endpoint": "The Amount of Oral Analgesic Each Subject Consumed Over t...",
+        "lead_sponsor": "University of Colorado, Denver",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_01",
+      "category": "pediatric_study",
+      "name": "NCT01444417: Safety and Efficacy Study of Romiplostim to Treat Immune Thrombocytopenia (IT...",
+      "attributes": {
+        "name": "NCT01444417: Safety and Efficacy Study of Romiplostim to Treat Immune Thrombocytopenia (IT...",
+        "category": "pediatric_study",
+        "nct_id": "NCT01444417",
+        "phase": "PHASE3",
+        "target_condition": "Idiopathic Thrombocytopenic Purpura",
+        "intervention_dosage": "Romiplostim, Placebo",
+        "sample_size": "62 patients",
+        "primary_endpoint": "Percentage of Participants With a Durable Platelet Response",
+        "lead_sponsor": "Amgen",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_06",
+      "category": "mental_health",
+      "name": "NCT00006286: Treatment for Adolescents With Depression Study (TADS)",
+      "attributes": {
+        "name": "NCT00006286: Treatment for Adolescents With Depression Study (TADS)",
+        "category": "mental_health",
+        "nct_id": "NCT00006286",
+        "phase": "PHASE3",
+        "target_condition": "Major Depressive Disorder",
+        "intervention_dosage": "Fluoxetine, Psychotherapy",
+        "sample_size": "432 patients",
+        "primary_endpoint": "Clinical Response Rate",
+        "lead_sponsor": "National Institute of Mental Health (NIMH)",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

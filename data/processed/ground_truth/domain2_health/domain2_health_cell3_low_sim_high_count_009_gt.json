@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_009",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT04134897: Neoadjuvant Chemotherapy in Patients With Moderate Risk Mid Rectal Cancer": {
+      "name": "NCT04134897: Neoadjuvant Chemotherapy in Patients With Moderate Risk Mid Rectal Cancer",
+      "category": "oncology_trial",
+      "nct_id": "NCT04134897",
+      "phase": "PHASE3",
+      "target_condition": "Rectal Neoplasms Malignant",
+      "intervention_dosage": "Capecitabine, Oxaliplatin, Capecitabine",
+      "sample_size": "316 patients",
+      "primary_endpoint": "2-year local recurrence rate",
+      "lead_sponsor": "Blokhin's Russian Cancer Research Center",
+      "study_status": "UNKNOWN",
+      "median_overall_survival": "20.4 months",
+      "grade3_toxicity_rate": "38.7%"
+    },
+    "NCT03521934: Effect of Sotagliflozin on Cardiovascular Events in Participants With Type 2 ...": {
+      "name": "NCT03521934: Effect of Sotagliflozin on Cardiovascular Events in Participants With Type 2 ...",
+      "category": "cardiology_trial",
+      "nct_id": "NCT03521934",
+      "phase": "PHASE3",
+      "target_condition": "Heart Failure",
+      "intervention_dosage": "Sotagliflozin, Placebo",
+      "sample_size": "1222 patients",
+      "primary_endpoint": "Number of Total Occurrences of Cardiovascular (CV) Death,...",
+      "lead_sponsor": "Lexicon Pharmaceuticals",
+      "study_status": "TERMINATED"
+    },
+    "NCT01152216: An Extension of the CONCERT Protocol (DIM18)": {
+      "name": "NCT01152216: An Extension of the CONCERT Protocol (DIM18)",
+      "category": "neurology_trial",
+      "nct_id": "NCT01152216",
+      "phase": "PHASE3",
+      "target_condition": "Alzheimer's Disease",
+      "intervention_dosage": "Dimebon",
+      "sample_size": "672 patients",
+      "primary_endpoint": "Safety",
+      "lead_sponsor": "Medivation, Inc.",
+      "study_status": "TERMINATED"
+    },
+    "NCT05686759: A Study to Investigate the Safety and Efficacy of Undiluted Intravenous Infus...": {
+      "name": "NCT05686759: A Study to Investigate the Safety and Efficacy of Undiluted Intravenous Infus...",
+      "category": "infectious_disease",
+      "nct_id": "NCT05686759",
+      "phase": "PHASE3",
+      "target_condition": "Hepatitis B",
+      "intervention_dosage": "Undiluted I.V.-Hepabig inj(GC5103), Diluted I.V.-Hepabig inj(GC5103)",
+      "sample_size": "105 patients",
+      "primary_endpoint": "Adverse events occurred during clinical trials",
+      "lead_sponsor": "GC Biopharma Corp",
+      "study_status": "RECRUITING"
+    },
+    "NCT01725217: Immunogenicity and Safety of Meningococcal ACWY Conjugate Vaccine in Healthy ...": {
+      "name": "NCT01725217: Immunogenicity and Safety of Meningococcal ACWY Conjugate Vaccine in Healthy ...",
+      "category": "vaccine_study",
+      "nct_id": "NCT01725217",
+      "phase": "PHASE3",
+      "target_condition": "Meningococcal Disease",
+      "intervention_dosage": "MenACWY-CRM",
+      "sample_size": "198 patients",
+      "primary_endpoint": "Percentages of Overall Subjects With Seroresponse After M...",
+      "lead_sponsor": "Novartis Vaccines",
+      "study_status": "COMPLETED"
+    },
+    "NCT06879938: Concomitant Treatment with Topical Hyaluronic Acid and High Concentration Oxy...": {
+      "name": "NCT06879938: Concomitant Treatment with Topical Hyaluronic Acid and High Concentration Oxy...",
+      "category": "medical_device",
+      "nct_id": "NCT06879938",
+      "phase": "NA",
+      "target_condition": "Genitourinary Syndrome of Menopause",
+      "intervention_dosage": "High-concentration vaginal oxygen therapy (Caress Flow) with topical hyaluronic acid, hyaluronic acid-based gel (Hydeal-D®)",
+      "sample_size": "80 patients",
+      "primary_endpoint": "vaginal dryness one month after the completion of treatment",
+      "lead_sponsor": "Fondazione IRCCS Policlinico San Matteo di Pavia",
+      "study_status": "RECRUITING"
+    },
+    "NCT00716859: A Phase 3 Prospective, Randomized, Double-Masked, 12-Week, Parallel Group Stu...": {
+      "name": "NCT00716859: A Phase 3 Prospective, Randomized, Double-Masked, 12-Week, Parallel Group Stu...",
+      "category": "pediatric_study",
+      "nct_id": "NCT00716859",
+      "phase": "PHASE3",
+      "target_condition": "Glaucoma",
+      "intervention_dosage": "Timolol, latanoprost",
+      "sample_size": "139 patients",
+      "primary_endpoint": "Reduction From Baseline in Mean IOP at Week 12, Last Obse...",
+      "lead_sponsor": "Pfizer's Upjohn has merged with Mylan to form Viatris Inc.",
+      "study_status": "COMPLETED"
+    },
+    "NCT01110902: Efficacy, Safety and Tolerability of Agomelatine Sublingual Tablets in the Tr...": {
+      "name": "NCT01110902: Efficacy, Safety and Tolerability of Agomelatine Sublingual Tablets in the Tr...",
+      "category": "mental_health",
+      "nct_id": "NCT01110902",
+      "phase": "PHASE3",
+      "target_condition": "Major Depressive Disorder",
+      "intervention_dosage": "Agomelatine (AGO178C), Placebo",
+      "sample_size": "589 patients",
+      "primary_endpoint": "Change from Baseline to endpoint at Week 8 using the tota...",
+      "lead_sponsor": "Novartis Pharmaceuticals",
+      "study_status": "COMPLETED"
+    }
+  }
+}

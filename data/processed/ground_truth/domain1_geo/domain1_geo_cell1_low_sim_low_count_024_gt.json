@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_024",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entity_map": {
+    "St Thomas' Hospital": {
+      "name": "St Thomas' Hospital",
+      "category": "hospital",
+      "distance_km": "1.2 km",
+      "bearing": "South-East",
+      "travel_time": "3 mins",
+      "borough": "London Borough of Lambeth",
+      "postcode": "SE1 7EH",
+      "hospital_capacity": "490 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    },
+    "Petersham": {
+      "name": "Petersham",
+      "category": "park",
+      "distance_km": "14.6 km",
+      "bearing": "South-West",
+      "travel_time": "35 mins",
+      "borough": "London Borough of Richmond upon Thames",
+      "postcode": "SW1A 4AA",
+      "leisure_type": "public_park",
+      "surface_material": "grass_and_woodland",
+      "dog_friendly": "yes",
+      "entry_fee": "free"
+    }
+  }
+}

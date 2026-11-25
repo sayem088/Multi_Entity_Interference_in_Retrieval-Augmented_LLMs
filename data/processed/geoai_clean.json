@@ -1,0 +1,1823 @@
+{
+  "hospital": [
+    {
+      "entity_id": "geo_hospital_01",
+      "osm_id": 43514739,
+      "category": "hospital",
+      "name": "Homerton University Hospital",
+      "spatial_attributes": {
+        "distance_km": "7.4 km",
+        "bearing": "North-East",
+        "travel_time": "18 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6DH"
+      },
+      "service_attributes": {
+        "hospital_capacity": "840 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_02",
+      "osm_id": 3641021,
+      "category": "hospital",
+      "name": "City & Hackney Centre for Mental Health",
+      "spatial_attributes": {
+        "distance_km": "7.4 km",
+        "bearing": "North-East",
+        "travel_time": "18 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6BX"
+      },
+      "service_attributes": {
+        "hospital_capacity": "675 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_03",
+      "osm_id": 12873245976,
+      "category": "hospital",
+      "name": "Until SOHO",
+      "spatial_attributes": {
+        "distance_km": "0.7 km",
+        "bearing": "North",
+        "travel_time": "2 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "WC2H 0DT"
+      },
+      "service_attributes": {
+        "hospital_capacity": "430 beds",
+        "emergency_department": "no",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_04",
+      "osm_id": 12886273770,
+      "category": "hospital",
+      "name": "Tunica Diagnostics",
+      "spatial_attributes": {
+        "distance_km": "0.7 km",
+        "bearing": "North",
+        "travel_time": "2 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "WC2H 0DT"
+      },
+      "service_attributes": {
+        "hospital_capacity": "580 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_05",
+      "osm_id": 170732745,
+      "category": "hospital",
+      "name": "St Bartholomew's Hospital",
+      "spatial_attributes": {
+        "distance_km": "2.2 km",
+        "bearing": "North-East",
+        "travel_time": "5 mins",
+        "borough": "West Smithfield",
+        "postcode": "EC1A 9DE"
+      },
+      "service_attributes": {
+        "hospital_capacity": "950 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_06",
+      "osm_id": 463924137,
+      "category": "hospital",
+      "name": "Cassel Hospital",
+      "spatial_attributes": {
+        "distance_km": "15.1 km",
+        "bearing": "South-West",
+        "travel_time": "36 mins",
+        "borough": "London Borough of Richmond upon Thames",
+        "postcode": "TW10 7JF"
+      },
+      "service_attributes": {
+        "hospital_capacity": "1000 beds",
+        "emergency_department": "no",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_07",
+      "osm_id": 326277354,
+      "category": "hospital",
+      "name": "John Howard Centre",
+      "spatial_attributes": {
+        "distance_km": "7.6 km",
+        "bearing": "North-East",
+        "travel_time": "18 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 5TD"
+      },
+      "service_attributes": {
+        "hospital_capacity": "665 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_08",
+      "osm_id": 818779914,
+      "category": "hospital",
+      "name": "Royal Free Hospital",
+      "spatial_attributes": {
+        "distance_km": "5.6 km",
+        "bearing": "North-West",
+        "travel_time": "14 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW3 2QG"
+      },
+      "service_attributes": {
+        "hospital_capacity": "380 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_09",
+      "osm_id": 85472885,
+      "category": "hospital",
+      "name": "The Royal Marsden Hospital",
+      "spatial_attributes": {
+        "distance_km": "3.6 km",
+        "bearing": "South-West",
+        "travel_time": "9 mins",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW3 6PT"
+      },
+      "service_attributes": {
+        "hospital_capacity": "520 beds",
+        "emergency_department": "no",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_10",
+      "osm_id": 85472872,
+      "category": "hospital",
+      "name": "Royal Brompton Hospital",
+      "spatial_attributes": {
+        "distance_km": "3.6 km",
+        "bearing": "South-West",
+        "travel_time": "9 mins",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW3 6PY"
+      },
+      "service_attributes": {
+        "hospital_capacity": "710 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_11",
+      "osm_id": 122227536,
+      "category": "hospital",
+      "name": "St Thomas' Hospital",
+      "spatial_attributes": {
+        "distance_km": "1.2 km",
+        "bearing": "South-East",
+        "travel_time": "3 mins",
+        "borough": "London Borough of Lambeth",
+        "postcode": "SE1 7EH"
+      },
+      "service_attributes": {
+        "hospital_capacity": "490 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_12",
+      "osm_id": 12873180107,
+      "category": "hospital",
+      "name": "Optimal Vision",
+      "spatial_attributes": {
+        "distance_km": "1.3 km",
+        "bearing": "North",
+        "travel_time": "3 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "WC1E 6HA"
+      },
+      "service_attributes": {
+        "hospital_capacity": "800 beds",
+        "emergency_department": "no",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    }
+  ],
+  "park": [
+    {
+      "entity_id": "geo_park_01",
+      "osm_id": 164202180,
+      "category": "park",
+      "name": "Church Yard of St Mary Aldermanbury",
+      "spatial_attributes": {
+        "distance_km": "2.6 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "SW1A 1AA"
+      },
+      "service_attributes": {
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    },
+    {
+      "entity_id": "geo_park_02",
+      "osm_id": 1427175723,
+      "category": "park",
+      "name": "Primrose Hill Court Open Space",
+      "spatial_attributes": {
+        "distance_km": "4.4 km",
+        "bearing": "North-West",
+        "travel_time": "10 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "SW1A 2AA"
+      },
+      "service_attributes": {
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    },
+    {
+      "entity_id": "geo_park_03",
+      "osm_id": 5579381,
+      "category": "park",
+      "name": "Westminster",
+      "spatial_attributes": {
+        "distance_km": "0.3 km",
+        "bearing": "South-West",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "SW1A 3AA"
+      },
+      "service_attributes": {
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    },
+    {
+      "entity_id": "geo_park_04",
+      "osm_id": 206556281,
+      "category": "park",
+      "name": "Petersham",
+      "spatial_attributes": {
+        "distance_km": "14.6 km",
+        "bearing": "South-West",
+        "travel_time": "35 mins",
+        "borough": "London Borough of Richmond upon Thames",
+        "postcode": "SW1A 4AA"
+      },
+      "service_attributes": {
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    },
+    {
+      "entity_id": "geo_park_05",
+      "osm_id": 49775883,
+      "category": "park",
+      "name": "Moorgate",
+      "spatial_attributes": {
+        "distance_km": "2.9 km",
+        "bearing": "East",
+        "travel_time": "7 mins",
+        "borough": "Greater London",
+        "postcode": "SW1A 5AA"
+      },
+      "service_attributes": {
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    },
+    {
+      "entity_id": "geo_park_06",
+      "osm_id": 4082666,
+      "category": "park",
+      "name": "Primrose Hill",
+      "spatial_attributes": {
+        "distance_km": "4.2 km",
+        "bearing": "North-West",
+        "travel_time": "10 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW8 7LS"
+      },
+      "service_attributes": {
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    },
+    {
+      "entity_id": "geo_park_07",
+      "osm_id": 4082589,
+      "category": "park",
+      "name": "Leicester Square",
+      "spatial_attributes": {
+        "distance_km": "0.3 km",
+        "bearing": "North-West",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "SW1A 7AA"
+      },
+      "service_attributes": {
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    },
+    {
+      "entity_id": "geo_park_08",
+      "osm_id": 1078768194,
+      "category": "park",
+      "name": "Lower Clapton",
+      "spatial_attributes": {
+        "distance_km": "6.8 km",
+        "bearing": "North-East",
+        "travel_time": "16 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "SW1A 8AA"
+      },
+      "service_attributes": {
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    },
+    {
+      "entity_id": "geo_park_09",
+      "osm_id": 273178739,
+      "category": "park",
+      "name": "Build Up Hackney",
+      "spatial_attributes": {
+        "distance_km": "7.0 km",
+        "bearing": "North-East",
+        "travel_time": "17 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "SW1A 9AA"
+      },
+      "service_attributes": {
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    },
+    {
+      "entity_id": "geo_park_10",
+      "osm_id": 121991247,
+      "category": "park",
+      "name": "Primrose Gardens",
+      "spatial_attributes": {
+        "distance_km": "5.0 km",
+        "bearing": "North-West",
+        "travel_time": "12 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "SW1A 10AA"
+      },
+      "service_attributes": {
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    },
+    {
+      "entity_id": "geo_park_11",
+      "osm_id": 25799965,
+      "category": "park",
+      "name": "Homerton Grove",
+      "spatial_attributes": {
+        "distance_km": "7.5 km",
+        "bearing": "North-East",
+        "travel_time": "18 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "SW1A 11AA"
+      },
+      "service_attributes": {
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    },
+    {
+      "entity_id": "geo_park_12",
+      "osm_id": 116405294,
+      "category": "park",
+      "name": "St Anne & St Agnes",
+      "spatial_attributes": {
+        "distance_km": "2.4 km",
+        "bearing": "North-East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "SW1A 12AA"
+      },
+      "service_attributes": {
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    }
+  ],
+  "bank": [
+    {
+      "entity_id": "geo_bank_01",
+      "osm_id": 156167669,
+      "category": "bank",
+      "name": "State Bank of India",
+      "spatial_attributes": {
+        "distance_km": "2.6 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 8EG"
+      },
+      "service_attributes": {
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    },
+    {
+      "entity_id": "geo_bank_02",
+      "osm_id": 156167653,
+      "category": "bank",
+      "name": "Barclays",
+      "spatial_attributes": {
+        "distance_km": "2.6 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 8EA"
+      },
+      "service_attributes": {
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    },
+    {
+      "entity_id": "geo_bank_03",
+      "osm_id": 1717643541,
+      "category": "bank",
+      "name": "BOC",
+      "spatial_attributes": {
+        "distance_km": "2.7 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Leadenhall Market",
+        "postcode": "EC2R 8DQ"
+      },
+      "service_attributes": {
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    },
+    {
+      "entity_id": "geo_bank_04",
+      "osm_id": 156167663,
+      "category": "bank",
+      "name": "Lloyds Bank",
+      "spatial_attributes": {
+        "distance_km": "2.6 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 8HE"
+      },
+      "service_attributes": {
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    },
+    {
+      "entity_id": "geo_bank_05",
+      "osm_id": 160093296,
+      "category": "bank",
+      "name": "Santander",
+      "spatial_attributes": {
+        "distance_km": "2.5 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 6AZ"
+      },
+      "service_attributes": {
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    },
+    {
+      "entity_id": "geo_bank_06",
+      "osm_id": 160093287,
+      "category": "bank",
+      "name": "Ghana International Bank",
+      "spatial_attributes": {
+        "distance_km": "2.5 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 6AZ"
+      },
+      "service_attributes": {
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    },
+    {
+      "entity_id": "geo_bank_07",
+      "osm_id": 7783123002,
+      "category": "bank",
+      "name": "ICBC",
+      "spatial_attributes": {
+        "distance_km": "2.5 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 7JE"
+      },
+      "service_attributes": {
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    },
+    {
+      "entity_id": "geo_bank_08",
+      "osm_id": 160093290,
+      "category": "bank",
+      "name": "Nationwide",
+      "spatial_attributes": {
+        "distance_km": "2.5 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 6BP"
+      },
+      "service_attributes": {
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    },
+    {
+      "entity_id": "geo_bank_09",
+      "osm_id": 159844951,
+      "category": "bank",
+      "name": "ABC International Bank plc",
+      "spatial_attributes": {
+        "distance_km": "2.8 km",
+        "bearing": "East",
+        "travel_time": "7 mins",
+        "borough": "Leadenhall Market",
+        "postcode": "EC2R 6JH"
+      },
+      "service_attributes": {
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    },
+    {
+      "entity_id": "geo_bank_10",
+      "osm_id": 13069947961,
+      "category": "bank",
+      "name": "Punjab National Bank",
+      "spatial_attributes": {
+        "distance_km": "2.8 km",
+        "bearing": "East",
+        "travel_time": "7 mins",
+        "borough": "Leadenhall Market",
+        "postcode": "EC2R 6JH"
+      },
+      "service_attributes": {
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    },
+    {
+      "entity_id": "geo_bank_11",
+      "osm_id": 517030140,
+      "category": "bank",
+      "name": "Metro Bank",
+      "spatial_attributes": {
+        "distance_km": "2.5 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 7JB"
+      },
+      "service_attributes": {
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    },
+    {
+      "entity_id": "geo_bank_12",
+      "osm_id": 517066111,
+      "category": "bank",
+      "name": "TSB",
+      "spatial_attributes": {
+        "distance_km": "2.5 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 6AU"
+      },
+      "service_attributes": {
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    }
+  ],
+  "pharmacy": [
+    {
+      "entity_id": "geo_pharmacy_01",
+      "osm_id": 160093284,
+      "category": "pharmacy",
+      "name": "Boots",
+      "spatial_attributes": {
+        "distance_km": "2.5 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 6DN"
+      },
+      "service_attributes": {
+        "prescription_dispensing": "yes",
+        "vaccination_service": "available",
+        "pharmacist_on_duty": "yes",
+        "operating_hours": "08:00-20:00"
+      }
+    },
+    {
+      "entity_id": "geo_pharmacy_02",
+      "osm_id": 517030126,
+      "category": "pharmacy",
+      "name": "Superdrug",
+      "spatial_attributes": {
+        "distance_km": "2.4 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 7JB"
+      },
+      "service_attributes": {
+        "prescription_dispensing": "yes",
+        "vaccination_service": "available",
+        "pharmacist_on_duty": "yes",
+        "operating_hours": "08:00-20:00"
+      }
+    },
+    {
+      "entity_id": "geo_pharmacy_03",
+      "osm_id": 1018324378,
+      "category": "pharmacy",
+      "name": "Allchin Pharmacy",
+      "spatial_attributes": {
+        "distance_km": "4.8 km",
+        "bearing": "North-West",
+        "travel_time": "12 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW3 4UE"
+      },
+      "service_attributes": {
+        "prescription_dispensing": "yes",
+        "vaccination_service": "available",
+        "pharmacist_on_duty": "yes",
+        "operating_hours": "08:00-20:00"
+      }
+    },
+    {
+      "entity_id": "geo_pharmacy_04",
+      "osm_id": 848656838,
+      "category": "pharmacy",
+      "name": "Clockwork Pharmacy",
+      "spatial_attributes": {
+        "distance_km": "7.0 km",
+        "bearing": "North-East",
+        "travel_time": "17 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6QT"
+      },
+      "service_attributes": {
+        "prescription_dispensing": "yes",
+        "vaccination_service": "available",
+        "pharmacist_on_duty": "yes",
+        "operating_hours": "08:00-20:00"
+      }
+    },
+    {
+      "entity_id": "geo_pharmacy_05",
+      "osm_id": 372813576,
+      "category": "pharmacy",
+      "name": "Safedale Pharmacy",
+      "spatial_attributes": {
+        "distance_km": "7.1 km",
+        "bearing": "North-East",
+        "travel_time": "17 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E5 0NS"
+      },
+      "service_attributes": {
+        "prescription_dispensing": "yes",
+        "vaccination_service": "available",
+        "pharmacist_on_duty": "yes",
+        "operating_hours": "08:00-20:00"
+      }
+    },
+    {
+      "entity_id": "geo_pharmacy_06",
+      "osm_id": 396000265,
+      "category": "pharmacy",
+      "name": "Friends Pharmacy",
+      "spatial_attributes": {
+        "distance_km": "7.2 km",
+        "bearing": "North-East",
+        "travel_time": "17 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E5 0RN"
+      },
+      "service_attributes": {
+        "prescription_dispensing": "yes",
+        "vaccination_service": "available",
+        "pharmacist_on_duty": "yes",
+        "operating_hours": "08:00-20:00"
+      }
+    },
+    {
+      "entity_id": "geo_pharmacy_07",
+      "osm_id": 849373840,
+      "category": "pharmacy",
+      "name": "Regal Pharmacy",
+      "spatial_attributes": {
+        "distance_km": "7.7 km",
+        "bearing": "North-East",
+        "travel_time": "18 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E5 0LP"
+      },
+      "service_attributes": {
+        "prescription_dispensing": "yes",
+        "vaccination_service": "available",
+        "pharmacist_on_duty": "yes",
+        "operating_hours": "08:00-20:00"
+      }
+    },
+    {
+      "entity_id": "geo_pharmacy_08",
+      "osm_id": 1028386435,
+      "category": "pharmacy",
+      "name": "Primrose Pharmacy",
+      "spatial_attributes": {
+        "distance_km": "4.3 km",
+        "bearing": "North-West",
+        "travel_time": "10 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW1 8UR"
+      },
+      "service_attributes": {
+        "prescription_dispensing": "yes",
+        "vaccination_service": "available",
+        "pharmacist_on_duty": "yes",
+        "operating_hours": "08:00-20:00"
+      }
+    },
+    {
+      "entity_id": "geo_pharmacy_09",
+      "osm_id": 1178558703,
+      "category": "pharmacy",
+      "name": "Ham Common Pharmacy",
+      "spatial_attributes": {
+        "distance_km": "15.0 km",
+        "bearing": "South-West",
+        "travel_time": "36 mins",
+        "borough": "London Borough of Richmond upon Thames",
+        "postcode": "TW10 7LF"
+      },
+      "service_attributes": {
+        "prescription_dispensing": "yes",
+        "vaccination_service": "available",
+        "pharmacist_on_duty": "yes",
+        "operating_hours": "08:00-20:00"
+      }
+    },
+    {
+      "entity_id": "geo_pharmacy_10",
+      "osm_id": 4829130733,
+      "category": "pharmacy",
+      "name": "Silverfields Pharmacy",
+      "spatial_attributes": {
+        "distance_km": "7.5 km",
+        "bearing": "North-East",
+        "travel_time": "18 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6AS"
+      },
+      "service_attributes": {
+        "prescription_dispensing": "yes",
+        "vaccination_service": "available",
+        "pharmacist_on_duty": "yes",
+        "operating_hours": "08:00-20:00"
+      }
+    },
+    {
+      "entity_id": "geo_pharmacy_11",
+      "osm_id": 589775212,
+      "category": "pharmacy",
+      "name": "Carsil Perfumery + Pharmacy",
+      "spatial_attributes": {
+        "distance_km": "6.6 km",
+        "bearing": "North-East",
+        "travel_time": "16 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E8 1EJ"
+      },
+      "service_attributes": {
+        "prescription_dispensing": "yes",
+        "vaccination_service": "available",
+        "pharmacist_on_duty": "yes",
+        "operating_hours": "08:00-20:00"
+      }
+    }
+  ],
+  "restaurant": [
+    {
+      "entity_id": "geo_restaurant_01",
+      "osm_id": 110608819,
+      "category": "restaurant",
+      "name": "Lume London",
+      "spatial_attributes": {
+        "distance_km": "4.5 km",
+        "bearing": "North-West",
+        "travel_time": "11 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW3 3AD"
+      },
+      "service_attributes": {
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_02",
+      "osm_id": 156167679,
+      "category": "restaurant",
+      "name": "Cabotte",
+      "spatial_attributes": {
+        "distance_km": "2.6 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 7AY"
+      },
+      "service_attributes": {
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_03",
+      "osm_id": 4498589343,
+      "category": "restaurant",
+      "name": "The Trading House",
+      "spatial_attributes": {
+        "distance_km": "2.7 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Leadenhall Market",
+        "postcode": "EC2V 7NQ"
+      },
+      "service_attributes": {
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_04",
+      "osm_id": 550944274,
+      "category": "restaurant",
+      "name": "Garfunkel's",
+      "spatial_attributes": {
+        "distance_km": "0.1 km",
+        "bearing": "South-East",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "WC2N 5BW"
+      },
+      "service_attributes": {
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_05",
+      "osm_id": 516720943,
+      "category": "restaurant",
+      "name": "The Anthologist",
+      "spatial_attributes": {
+        "distance_km": "2.7 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Leadenhall Market",
+        "postcode": "EC2V 7BB"
+      },
+      "service_attributes": {
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_06",
+      "osm_id": 4500601606,
+      "category": "restaurant",
+      "name": "Enoteca da Luca",
+      "spatial_attributes": {
+        "distance_km": "2.7 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 5BQ"
+      },
+      "service_attributes": {
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_07",
+      "osm_id": 559522541,
+      "category": "restaurant",
+      "name": "Prezzo",
+      "spatial_attributes": {
+        "distance_km": "0.1 km",
+        "bearing": "South-East",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "WC2N 5HR"
+      },
+      "service_attributes": {
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_08",
+      "osm_id": 11249260237,
+      "category": "restaurant",
+      "name": "Hawksmoor",
+      "spatial_attributes": {
+        "distance_km": "2.7 km",
+        "bearing": "East",
+        "travel_time": "7 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 5BQ"
+      },
+      "service_attributes": {
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_09",
+      "osm_id": 5031714609,
+      "category": "restaurant",
+      "name": "Bianco43",
+      "spatial_attributes": {
+        "distance_km": "0.2 km",
+        "bearing": "South-East",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "WC2N 5BY"
+      },
+      "service_attributes": {
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_10",
+      "osm_id": 547522397,
+      "category": "restaurant",
+      "name": "Grand Caffe Concerto",
+      "spatial_attributes": {
+        "distance_km": "0.2 km",
+        "bearing": "South-East",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "SW1A 2BX"
+      },
+      "service_attributes": {
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_11",
+      "osm_id": 6106646885,
+      "category": "restaurant",
+      "name": "50 Kalo di Ciro Salvo Pizzeria",
+      "spatial_attributes": {
+        "distance_km": "0.2 km",
+        "bearing": "South-East",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "WC2N 5BY"
+      },
+      "service_attributes": {
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_12",
+      "osm_id": 3925439675,
+      "category": "restaurant",
+      "name": "Gouqi",
+      "spatial_attributes": {
+        "distance_km": "0.1 km",
+        "bearing": "South-West",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "SW1Y 5BN"
+      },
+      "service_attributes": {
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    }
+  ],
+  "fire_station": [
+    {
+      "entity_id": "geo_fire_station_01",
+      "osm_id": 853545222,
+      "category": "fire_station",
+      "name": "Homerton Fire Station",
+      "spatial_attributes": {
+        "distance_km": "7.4 km",
+        "bearing": "North-East",
+        "travel_time": "18 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6DL"
+      },
+      "service_attributes": {
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_02",
+      "osm_id": 349934988,
+      "category": "fire_station",
+      "name": "Soho Fire station",
+      "spatial_attributes": {
+        "distance_km": "0.5 km",
+        "bearing": "North",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "W1D 5ET"
+      },
+      "service_attributes": {
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_03",
+      "osm_id": 473261115,
+      "category": "fire_station",
+      "name": "Dowgate Fire Station",
+      "spatial_attributes": {
+        "distance_km": "2.6 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Leadenhall Market",
+        "postcode": "EC4R 3UL"
+      },
+      "service_attributes": {
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_04",
+      "osm_id": 91236755,
+      "category": "fire_station",
+      "name": "Ealing Fire Station (G25)",
+      "spatial_attributes": {
+        "distance_km": "12.9 km",
+        "bearing": "West",
+        "travel_time": "31 mins",
+        "borough": "London Borough of Ealing",
+        "postcode": "W13 8RA"
+      },
+      "service_attributes": {
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_05",
+      "osm_id": 85436708,
+      "category": "fire_station",
+      "name": "Lambeth River Fire Station",
+      "spatial_attributes": {
+        "distance_km": "1.7 km",
+        "bearing": "South",
+        "travel_time": "4 mins",
+        "borough": "London Borough of Lambeth",
+        "postcode": "SE1 7SD"
+      },
+      "service_attributes": {
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_06",
+      "osm_id": 204191488,
+      "category": "fire_station",
+      "name": "Lambeth Fire Station",
+      "spatial_attributes": {
+        "distance_km": "1.8 km",
+        "bearing": "South",
+        "travel_time": "4 mins",
+        "borough": "London Borough of Lambeth",
+        "postcode": "SE1 7SD"
+      },
+      "service_attributes": {
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_07",
+      "osm_id": 1309044507,
+      "category": "fire_station",
+      "name": "Euston Fire Station",
+      "spatial_attributes": {
+        "distance_km": "2.2 km",
+        "bearing": "North",
+        "travel_time": "5 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW1 2DH"
+      },
+      "service_attributes": {
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_08",
+      "osm_id": 1026043423,
+      "category": "fire_station",
+      "name": "Kentish Town Fire Station",
+      "spatial_attributes": {
+        "distance_km": "5.1 km",
+        "bearing": "North",
+        "travel_time": "12 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW5 1NS"
+      },
+      "service_attributes": {
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_09",
+      "osm_id": 71887178,
+      "category": "fire_station",
+      "name": "West Hampstead Fire Station",
+      "spatial_attributes": {
+        "distance_km": "6.6 km",
+        "bearing": "North-West",
+        "travel_time": "16 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW6 1RR"
+      },
+      "service_attributes": {
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_10",
+      "osm_id": 1518264628,
+      "category": "fire_station",
+      "name": "Stoke Newington Fire Station",
+      "spatial_attributes": {
+        "distance_km": "7.0 km",
+        "bearing": "North-East",
+        "travel_time": "17 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "N16 0AR"
+      },
+      "service_attributes": {
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_11",
+      "osm_id": 85484700,
+      "category": "fire_station",
+      "name": "Richmond Fire Station",
+      "spatial_attributes": {
+        "distance_km": "11.8 km",
+        "bearing": "South-West",
+        "travel_time": "28 mins",
+        "borough": "London Borough of Richmond upon Thames",
+        "postcode": "TW9 4PN"
+      },
+      "service_attributes": {
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_12",
+      "osm_id": 85484701,
+      "category": "fire_station",
+      "name": "Twickenham Fire Station",
+      "spatial_attributes": {
+        "distance_km": "17.2 km",
+        "bearing": "South-West",
+        "travel_time": "41 mins",
+        "borough": "London Borough of Richmond upon Thames",
+        "postcode": "TW2 5NP"
+      },
+      "service_attributes": {
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    }
+  ],
+  "museum": [
+    {
+      "entity_id": "geo_museum_01",
+      "osm_id": 5412585922,
+      "category": "museum",
+      "name": "Memorial Scrolls Trust",
+      "spatial_attributes": {
+        "distance_km": "2.8 km",
+        "bearing": "West",
+        "travel_time": "7 mins",
+        "borough": "Knightsbridge",
+        "postcode": "SW7 1BX"
+      },
+      "service_attributes": {
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    },
+    {
+      "entity_id": "geo_museum_02",
+      "osm_id": 5323721988,
+      "category": "museum",
+      "name": "British Optical Association Museum",
+      "spatial_attributes": {
+        "distance_km": "0.2 km",
+        "bearing": "East",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "WC2N 5NG"
+      },
+      "service_attributes": {
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    },
+    {
+      "entity_id": "geo_museum_03",
+      "osm_id": 5071252726,
+      "category": "museum",
+      "name": "Household Cavalry Museum",
+      "spatial_attributes": {
+        "distance_km": "0.3 km",
+        "bearing": "South",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "SW1A 2AY"
+      },
+      "service_attributes": {
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    },
+    {
+      "entity_id": "geo_museum_04",
+      "osm_id": 104081033,
+      "category": "museum",
+      "name": "Benjamin Franklin House",
+      "spatial_attributes": {
+        "distance_km": "0.2 km",
+        "bearing": "East",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "WC2N 5NF"
+      },
+      "service_attributes": {
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    },
+    {
+      "entity_id": "geo_museum_05",
+      "osm_id": 3357928873,
+      "category": "museum",
+      "name": "Paradox Museum",
+      "spatial_attributes": {
+        "distance_km": "2.6 km",
+        "bearing": "West",
+        "travel_time": "6 mins",
+        "borough": "Knightsbridge",
+        "postcode": "SW3 1JJ"
+      },
+      "service_attributes": {
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    },
+    {
+      "entity_id": "geo_museum_06",
+      "osm_id": 4513341393,
+      "category": "museum",
+      "name": "Bank of England Museum",
+      "spatial_attributes": {
+        "distance_km": "2.9 km",
+        "bearing": "East",
+        "travel_time": "7 mins",
+        "borough": "Leadenhall Market",
+        "postcode": "EC2R 8AH"
+      },
+      "service_attributes": {
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    },
+    {
+      "entity_id": "geo_museum_07",
+      "osm_id": 29795,
+      "category": "museum",
+      "name": "Victoria and Albert Museum",
+      "spatial_attributes": {
+        "distance_km": "3.3 km",
+        "bearing": "West",
+        "travel_time": "8 mins",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW7 2RL"
+      },
+      "service_attributes": {
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    },
+    {
+      "entity_id": "geo_museum_08",
+      "osm_id": 12551995914,
+      "category": "museum",
+      "name": "British Red Cross Museum",
+      "spatial_attributes": {
+        "distance_km": "3.0 km",
+        "bearing": "North-East",
+        "travel_time": "7 mins",
+        "borough": "Bishopsgate Without",
+        "postcode": "EC2Y 9AL"
+      },
+      "service_attributes": {
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    },
+    {
+      "entity_id": "geo_museum_09",
+      "osm_id": 640097060,
+      "category": "museum",
+      "name": "Polish Institute and Sikorski Museum",
+      "spatial_attributes": {
+        "distance_km": "3.2 km",
+        "bearing": "West",
+        "travel_time": "8 mins",
+        "borough": "Knightsbridge",
+        "postcode": "SW7 1PT"
+      },
+      "service_attributes": {
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    },
+    {
+      "entity_id": "geo_museum_10",
+      "osm_id": 197206542,
+      "category": "museum",
+      "name": "Churchill War Rooms",
+      "spatial_attributes": {
+        "distance_km": "0.6 km",
+        "bearing": "South",
+        "travel_time": "2 mins",
+        "borough": "Millbank",
+        "postcode": "SW1A 2AQ"
+      },
+      "service_attributes": {
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    },
+    {
+      "entity_id": "geo_museum_11",
+      "osm_id": 12542127738,
+      "category": "museum",
+      "name": "RIBA Architecture Study Rooms",
+      "spatial_attributes": {
+        "distance_km": "3.4 km",
+        "bearing": "West",
+        "travel_time": "8 mins",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW7 2PA"
+      },
+      "service_attributes": {
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    },
+    {
+      "entity_id": "geo_museum_12",
+      "osm_id": 27765411,
+      "category": "museum",
+      "name": "Science Museum",
+      "spatial_attributes": {
+        "distance_km": "3.4 km",
+        "bearing": "West",
+        "travel_time": "8 mins",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW7 9ET"
+      },
+      "service_attributes": {
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    }
+  ],
+  "university": [
+    {
+      "entity_id": "geo_university_01",
+      "osm_id": 803653271,
+      "category": "university",
+      "name": "University of Chicago Booth School of Business",
+      "spatial_attributes": {
+        "distance_km": "2.8 km",
+        "bearing": "East",
+        "travel_time": "7 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 5HA"
+      },
+      "service_attributes": {
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    },
+    {
+      "entity_id": "geo_university_02",
+      "osm_id": 3962082268,
+      "category": "university",
+      "name": "University of Notre Dame",
+      "spatial_attributes": {
+        "distance_km": "0.2 km",
+        "bearing": "West",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "SW1Y 4HG"
+      },
+      "service_attributes": {
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    },
+    {
+      "entity_id": "geo_university_03",
+      "osm_id": 108898602,
+      "category": "university",
+      "name": "Guildhall School of Music and Drama",
+      "spatial_attributes": {
+        "distance_km": "2.8 km",
+        "bearing": "North-East",
+        "travel_time": "7 mins",
+        "borough": "Greater London",
+        "postcode": "EC2Y 8DT"
+      },
+      "service_attributes": {
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    },
+    {
+      "entity_id": "geo_university_04",
+      "osm_id": 12233221,
+      "category": "university",
+      "name": "Imperial College London",
+      "spatial_attributes": {
+        "distance_km": "3.4 km",
+        "bearing": "West",
+        "travel_time": "8 mins",
+        "borough": "Brompton",
+        "postcode": "SW7 2AZ"
+      },
+      "service_attributes": {
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    },
+    {
+      "entity_id": "geo_university_05",
+      "osm_id": 1336449461,
+      "category": "university",
+      "name": "Queen Mary's University West Smithfield Campus",
+      "spatial_attributes": {
+        "distance_km": "2.2 km",
+        "bearing": "North-East",
+        "travel_time": "5 mins",
+        "borough": "West Smithfield",
+        "postcode": "EC1A 7BL"
+      },
+      "service_attributes": {
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    },
+    {
+      "entity_id": "geo_university_06",
+      "osm_id": 9395506360,
+      "category": "university",
+      "name": "Central Belsize Square",
+      "spatial_attributes": {
+        "distance_km": "5.2 km",
+        "bearing": "North-West",
+        "travel_time": "13 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW3 4HT"
+      },
+      "service_attributes": {
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    },
+    {
+      "entity_id": "geo_university_07",
+      "osm_id": 641429750,
+      "category": "university",
+      "name": "Royal College of Music",
+      "spatial_attributes": {
+        "distance_km": "3.5 km",
+        "bearing": "West",
+        "travel_time": "8 mins",
+        "borough": "Knightsbridge",
+        "postcode": "SW7 2BP"
+      },
+      "service_attributes": {
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    },
+    {
+      "entity_id": "geo_university_08",
+      "osm_id": 1339513734,
+      "category": "university",
+      "name": "Cordwainers Court",
+      "spatial_attributes": {
+        "distance_km": "6.3 km",
+        "bearing": "North-East",
+        "travel_time": "15 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 7PS"
+      },
+      "service_attributes": {
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    },
+    {
+      "entity_id": "geo_university_09",
+      "osm_id": 891794537,
+      "category": "university",
+      "name": "Faculty of Medicine (Imperial College London)",
+      "spatial_attributes": {
+        "distance_km": "3.6 km",
+        "bearing": "South-West",
+        "travel_time": "9 mins",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW3 6PT"
+      },
+      "service_attributes": {
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    },
+    {
+      "entity_id": "geo_university_10",
+      "osm_id": 4195103054,
+      "category": "university",
+      "name": "BPP Business School",
+      "spatial_attributes": {
+        "distance_km": "3.3 km",
+        "bearing": "East",
+        "travel_time": "8 mins",
+        "borough": "Leadenhall Market",
+        "postcode": "EC3A 8BN"
+      },
+      "service_attributes": {
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    },
+    {
+      "entity_id": "geo_university_11",
+      "osm_id": 662669394,
+      "category": "university",
+      "name": "The Courtauld Institute of Art",
+      "spatial_attributes": {
+        "distance_km": "0.8 km",
+        "bearing": "North-East",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "WC2R 0RN"
+      },
+      "service_attributes": {
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    },
+    {
+      "entity_id": "geo_university_12",
+      "osm_id": 419267864,
+      "category": "university",
+      "name": "Royal College of Art, Kensington",
+      "spatial_attributes": {
+        "distance_km": "3.6 km",
+        "bearing": "West",
+        "travel_time": "9 mins",
+        "borough": "Knightsbridge",
+        "postcode": "SW7 2EP"
+      },
+      "service_attributes": {
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    }
+  ]
+}

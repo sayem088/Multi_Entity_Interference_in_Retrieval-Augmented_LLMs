@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_025",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Central London GeoAI & Spatial Infrastructure.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: St Bartholomew's Hospital (Category: hospital)\n  - distance_km: 2.2 km\n  - bearing: North-East\n  - travel_time: 5 mins\n  - borough: West Smithfield\n  - postcode: EC1A 9DE\n  - hospital_capacity: 950 beds\n  - emergency_department: yes\n  - trauma_center_level: Level 1\n  - heliport_access: yes\n\nEntity: University of Notre Dame (Category: university)\n  - distance_km: 0.2 km\n  - bearing: West\n  - travel_time: 2 mins\n  - borough: Covent Garden\n  - postcode: SW1Y 4HG\n  - education_level: higher_education_and_research\n  - degree_granting: undergraduate_and_postgraduate\n  - campus_library: 24_hour_access\n  - research_accreditation: recognized\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: St Bartholomew's Hospital\n- category: hospital\n- distance_km: 2.2 km\n- bearing: North-East\n- travel_time: 5 mins\n- borough: West Smithfield\n- postcode: EC1A 9DE\n- hospital_capacity: 950 beds\n- emergency_department: yes\n- trauma_center_level: Level 1\n- heliport_access: yes\n\nEntity: University of Notre Dame\n- category: university\n- distance_km: 0.2 km\n- bearing: West\n- travel_time: 2 mins\n- borough: Covent Garden\n- postcode: SW1Y 4HG\n- education_level: higher_education_and_research\n- degree_granting: undergraduate_and_postgraduate\n- campus_library: 24_hour_access\n- research_accreditation: recognized",
+  "generation_time_sec": 12.265,
+  "timestamp": "2026-11-18T18:06:06.582516"
+}

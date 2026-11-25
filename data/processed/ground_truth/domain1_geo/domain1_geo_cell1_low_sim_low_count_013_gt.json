@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_013",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entity_map": {
+    "Until SOHO": {
+      "name": "Until SOHO",
+      "category": "hospital",
+      "distance_km": "0.7 km",
+      "bearing": "North",
+      "travel_time": "2 mins",
+      "borough": "London Borough of Camden",
+      "postcode": "WC2H 0DT",
+      "hospital_capacity": "430 beds",
+      "emergency_department": "no",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    },
+    "Royal College of Art, Kensington": {
+      "name": "Royal College of Art, Kensington",
+      "category": "university",
+      "distance_km": "3.6 km",
+      "bearing": "West",
+      "travel_time": "9 mins",
+      "borough": "Knightsbridge",
+      "postcode": "SW7 2EP",
+      "education_level": "higher_education_and_research",
+      "degree_granting": "undergraduate_and_postgraduate",
+      "campus_library": "24_hour_access",
+      "research_accreditation": "recognized"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_005",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell3_low_sim_high_count",
+  "cell_label": "low_sim_high_count",
+  "cell_description": "8 entities from mixed distinct categories with low schema overlap.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_07",
+      "category": "oncology_trial",
+      "name": "NCT04134897: Neoadjuvant Chemotherapy in Patients With Moderate Risk Mid Rectal Cancer",
+      "attributes": {
+        "name": "NCT04134897: Neoadjuvant Chemotherapy in Patients With Moderate Risk Mid Rectal Cancer",
+        "category": "oncology_trial",
+        "nct_id": "NCT04134897",
+        "phase": "PHASE3",
+        "target_condition": "Rectal Neoplasms Malignant",
+        "intervention_dosage": "Capecitabine, Oxaliplatin, Capecitabine",
+        "sample_size": "316 patients",
+        "primary_endpoint": "2-year local recurrence rate",
+        "lead_sponsor": "Blokhin's Russian Cancer Research Center",
+        "study_status": "UNKNOWN",
+        "median_overall_survival": "20.4 months",
+        "grade3_toxicity_rate": "38.7%"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_06",
+      "category": "cardiology_trial",
+      "name": "NCT03521934: Effect of Sotagliflozin on Cardiovascular Events in Participants With Type 2 ...",
+      "attributes": {
+        "name": "NCT03521934: Effect of Sotagliflozin on Cardiovascular Events in Participants With Type 2 ...",
+        "category": "cardiology_trial",
+        "nct_id": "NCT03521934",
+        "phase": "PHASE3",
+        "target_condition": "Heart Failure",
+        "intervention_dosage": "Sotagliflozin, Placebo",
+        "sample_size": "1222 patients",
+        "primary_endpoint": "Number of Total Occurrences of Cardiovascular (CV) Death,...",
+        "lead_sponsor": "Lexicon Pharmaceuticals",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_09",
+      "category": "neurology_trial",
+      "name": "NCT05026177: Simufilam 50 mg or 100 mg for Mild-to-Moderate Alzheimer's Disease",
+      "attributes": {
+        "name": "NCT05026177: Simufilam 50 mg or 100 mg for Mild-to-Moderate Alzheimer's Disease",
+        "category": "neurology_trial",
+        "nct_id": "NCT05026177",
+        "phase": "PHASE3",
+        "target_condition": "Alzheimer Disease",
+        "intervention_dosage": "Simufilam, Placebo",
+        "sample_size": "1125 patients",
+        "primary_endpoint": "Change From Baseline in the 12-item Alzheimer's Disease A...",
+        "lead_sponsor": "Cassava Sciences, Inc.",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_08",
+      "category": "infectious_disease",
+      "name": "NCT00249860: A Multicenter Phase 3 Study of Interferon-beta-1a for the Treatment of Chroni...",
+      "attributes": {
+        "name": "NCT00249860: A Multicenter Phase 3 Study of Interferon-beta-1a for the Treatment of Chroni...",
+        "category": "infectious_disease",
+        "nct_id": "NCT00249860",
+        "phase": "PHASE3",
+        "target_condition": "Hepatitis C",
+        "intervention_dosage": "Interferon-beta-1a, Placebo, Ribavirin plus Interferon-beta-1a",
+        "sample_size": "257 patients",
+        "primary_endpoint": "Percentage of subjects achieving sustained viral response...",
+        "lead_sponsor": "EMD Serono",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_07",
+      "category": "vaccine_study",
+      "name": "NCT01725217: Immunogenicity and Safety of Meningococcal ACWY Conjugate Vaccine in Healthy ...",
+      "attributes": {
+        "name": "NCT01725217: Immunogenicity and Safety of Meningococcal ACWY Conjugate Vaccine in Healthy ...",
+        "category": "vaccine_study",
+        "nct_id": "NCT01725217",
+        "phase": "PHASE3",
+        "target_condition": "Meningococcal Disease",
+        "intervention_dosage": "MenACWY-CRM",
+        "sample_size": "198 patients",
+        "primary_endpoint": "Percentages of Overall Subjects With Seroresponse After M...",
+        "lead_sponsor": "Novartis Vaccines",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_01",
+      "category": "medical_device",
+      "name": "NCT04630626: Post-Approval Study Protocol for the Simplify Cervical Artificial Disc",
+      "attributes": {
+        "name": "NCT04630626: Post-Approval Study Protocol for the Simplify Cervical Artificial Disc",
+        "category": "medical_device",
+        "nct_id": "NCT04630626",
+        "phase": "NA",
+        "target_condition": "Cervical Degenerative Disc Disorder",
+        "intervention_dosage": "Simplify Disc, ACDF",
+        "sample_size": "145 patients",
+        "primary_endpoint": "Number of Participants With Clinical Composite Success, P...",
+        "lead_sponsor": "NuVasive",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_04",
+      "category": "pediatric_study",
+      "name": "NCT02201290: A Long-term Safety Study of Eltrombopag in Pediatric Patients With Chronic Im...",
+      "attributes": {
+        "name": "NCT02201290: A Long-term Safety Study of Eltrombopag in Pediatric Patients With Chronic Im...",
+        "category": "pediatric_study",
+        "nct_id": "NCT02201290",
+        "phase": "PHASE3",
+        "target_condition": "Purpura, Thrombocytopenic, Idiopathic",
+        "intervention_dosage": "Eltrombopag Tablets, Eltrombopag PfOS",
+        "sample_size": "9 patients",
+        "primary_endpoint": "Number of Participants With Adverse Events",
+        "lead_sponsor": "Novartis Pharmaceuticals",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_07",
+      "category": "mental_health",
+      "name": "NCT00252356: Efficacy and Safety of SR58611A in Patients With Major Depressive Disorder",
+      "attributes": {
+        "name": "NCT00252356: Efficacy and Safety of SR58611A in Patients With Major Depressive Disorder",
+        "category": "mental_health",
+        "nct_id": "NCT00252356",
+        "phase": "PHASE3",
+        "target_condition": "Major Depressive Disorder",
+        "intervention_dosage": "SR58611A",
+        "sample_size": "468 patients",
+        "primary_endpoint": "17-item Hamilton Depression Rating Scale (HAM-D) total score",
+        "lead_sponsor": "Sanofi",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

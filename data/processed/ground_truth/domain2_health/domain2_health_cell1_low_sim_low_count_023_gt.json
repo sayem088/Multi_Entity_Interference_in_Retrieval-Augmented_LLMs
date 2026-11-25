@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_023",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entity_map": {
+    "NCT03806049: Trial Comparing Niraparib-bevacizumab-Dostarlimab and Niraparib-bevacizumab t...": {
+      "name": "NCT03806049: Trial Comparing Niraparib-bevacizumab-Dostarlimab and Niraparib-bevacizumab t...",
+      "category": "oncology_trial",
+      "nct_id": "NCT03806049",
+      "phase": "PHASE3",
+      "target_condition": "Ovarian Cancer",
+      "intervention_dosage": "Niraparib, Bevacizumab, TSR042",
+      "sample_size": "450 patients",
+      "primary_endpoint": "Progression-free Survival",
+      "lead_sponsor": "Nordic Society of Gynaecological Oncology - Clinical Trials Unit",
+      "study_status": "WITHDRAWN",
+      "median_overall_survival": "18.2 months",
+      "grade3_toxicity_rate": "28.5%"
+    },
+    "NCT01617447: A Short Treatment Study of Aripiprazole in Pediatric Patients With Autistic D...": {
+      "name": "NCT01617447: A Short Treatment Study of Aripiprazole in Pediatric Patients With Autistic D...",
+      "category": "pediatric_study",
+      "nct_id": "NCT01617447",
+      "phase": "PHASE3",
+      "target_condition": "Autistic Disorder",
+      "intervention_dosage": "Placebo of Aripiprazole, Aripiprazole",
+      "sample_size": "92 patients",
+      "primary_endpoint": "Mean Change From Baseline in the Aberrant Behavior Checkl...",
+      "lead_sponsor": "Otsuka Pharmaceutical Co., Ltd.",
+      "study_status": "COMPLETED"
+    }
+  }
+}

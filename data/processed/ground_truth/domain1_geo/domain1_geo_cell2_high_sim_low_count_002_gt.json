@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain1_geo_cell2_high_sim_low_count_002",
+  "domain_id": "domain1_geo",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entity_map": {
+    "John Howard Centre": {
+      "name": "John Howard Centre",
+      "category": "hospital",
+      "distance_km": "7.6 km",
+      "bearing": "North-East",
+      "travel_time": "18 mins",
+      "borough": "London Borough of Hackney",
+      "postcode": "E9 5TD",
+      "hospital_capacity": "665 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    },
+    "St Bartholomew's Hospital": {
+      "name": "St Bartholomew's Hospital",
+      "category": "hospital",
+      "distance_km": "2.2 km",
+      "bearing": "North-East",
+      "travel_time": "5 mins",
+      "borough": "West Smithfield",
+      "postcode": "EC1A 9DE",
+      "hospital_capacity": "950 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 1",
+      "heliport_access": "yes"
+    }
+  }
+}

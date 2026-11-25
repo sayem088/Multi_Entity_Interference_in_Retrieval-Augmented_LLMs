@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_018",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT03806049: Trial Comparing Niraparib-bevacizumab-Dostarlimab and Niraparib-bevacizumab t...": {
+      "name": "NCT03806049: Trial Comparing Niraparib-bevacizumab-Dostarlimab and Niraparib-bevacizumab t...",
+      "category": "oncology_trial",
+      "nct_id": "NCT03806049",
+      "phase": "PHASE3",
+      "target_condition": "Ovarian Cancer",
+      "intervention_dosage": "Niraparib, Bevacizumab, TSR042",
+      "sample_size": "450 patients",
+      "primary_endpoint": "Progression-free Survival",
+      "lead_sponsor": "Nordic Society of Gynaecological Oncology - Clinical Trials Unit",
+      "study_status": "WITHDRAWN",
+      "median_overall_survival": "18.2 months",
+      "grade3_toxicity_rate": "28.5%"
+    },
+    "NCT02809131: Perioperative Antibiotic Therapy to Prevent Cardiac Implantable Electronic De...": {
+      "name": "NCT02809131: Perioperative Antibiotic Therapy to Prevent Cardiac Implantable Electronic De...",
+      "category": "cardiology_trial",
+      "nct_id": "NCT02809131",
+      "phase": "PHASE3",
+      "target_condition": "Sick Sinus Syndrome",
+      "intervention_dosage": "polymixin/bacitracin, cephalexin, or levofloxacin, or clindamycin, Saline",
+      "sample_size": "1010 patients",
+      "primary_endpoint": "Number of Patients With a Major Cardiac Implantable Elect...",
+      "lead_sponsor": "Vanderbilt University Medical Center",
+      "study_status": "COMPLETED"
+    },
+    "NCT05169008: A Study to Evaluate the Safety and Immunogenicity of Ad5-nCoV and Ad5-nCoV-IH...": {
+      "name": "NCT05169008: A Study to Evaluate the Safety and Immunogenicity of Ad5-nCoV and Ad5-nCoV-IH...",
+      "category": "neurology_trial",
+      "nct_id": "NCT05169008",
+      "phase": "PHASE3",
+      "target_condition": "COVID-19",
+      "intervention_dosage": "Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector), Recombinant COVID-19 vaccine (adenovirus type 5 vector) for Inhalation (Ad5-nCoV-IH)",
+      "sample_size": "91 patients",
+      "primary_endpoint": "Incidence of SAE",
+      "lead_sponsor": "CanSino Biologics Inc.",
+      "study_status": "TERMINATED"
+    },
+    "NCT00200343: Efficacy and Safety Study of Ursodeoxycholic Acid to Treat Chronic Hepatitis C": {
+      "name": "NCT00200343: Efficacy and Safety Study of Ursodeoxycholic Acid to Treat Chronic Hepatitis C",
+      "category": "infectious_disease",
+      "nct_id": "NCT00200343",
+      "phase": "PHASE3",
+      "target_condition": "Chronic Hepatitis C",
+      "intervention_dosage": "Ursodeoxycholic acid 150mg / day, Ursodeoxycholic acid 600mg / day, Ursodeoxycholic acid 900mg / day",
+      "sample_size": "596 patients",
+      "primary_endpoint": "Alanine Aminotransferase at Baseline",
+      "lead_sponsor": "Tanabe Pharma Corporation",
+      "study_status": "COMPLETED"
+    },
+    "NCT00996125: Immunogenicity and Safety Study of GSK Biologicals' Human Papillomavirus 5802...": {
+      "name": "NCT00996125: Immunogenicity and Safety Study of GSK Biologicals' Human Papillomavirus 5802...",
+      "category": "vaccine_study",
+      "nct_id": "NCT00996125",
+      "phase": "PHASE3",
+      "target_condition": "Infections, Papillomavirus",
+      "intervention_dosage": "CervarixTM, Control",
+      "sample_size": "750 patients",
+      "primary_endpoint": "Geometric Mean Titers (GMTs) for Antibodies Against Human...",
+      "lead_sponsor": "GlaxoSmithKline",
+      "study_status": "COMPLETED"
+    },
+    "NCT05206474: To Evaluate the Performance and Safety of the Medical Device IRADYN in Subjec...": {
+      "name": "NCT05206474: To Evaluate the Performance and Safety of the Medical Device IRADYN in Subjec...",
+      "category": "medical_device",
+      "nct_id": "NCT05206474",
+      "phase": "NA",
+      "target_condition": "Knee Osteoarthritis",
+      "intervention_dosage": "IRADYN",
+      "sample_size": "50 patients",
+      "primary_endpoint": "Change in Range of Motion (ROM)",
+      "lead_sponsor": "I.R.A. Istituto Ricerche Applicate S.p.A.",
+      "study_status": "UNKNOWN"
+    },
+    "NCT00289874: Montelukast in Pediatric Allergic Asthma (0476-336)(COMPLETED)": {
+      "name": "NCT00289874: Montelukast in Pediatric Allergic Asthma (0476-336)(COMPLETED)",
+      "category": "pediatric_study",
+      "nct_id": "NCT00289874",
+      "phase": "PHASE3",
+      "target_condition": "Asthma",
+      "intervention_dosage": "montelukast sodium, Comparator: Placebo",
+      "sample_size": "421 patients",
+      "primary_endpoint": "Percent Change From Baseline in Forced Expiratory Volume ...",
+      "lead_sponsor": "Organon and Co",
+      "study_status": "COMPLETED"
+    },
+    "NCT00252356: Efficacy and Safety of SR58611A in Patients With Major Depressive Disorder": {
+      "name": "NCT00252356: Efficacy and Safety of SR58611A in Patients With Major Depressive Disorder",
+      "category": "mental_health",
+      "nct_id": "NCT00252356",
+      "phase": "PHASE3",
+      "target_condition": "Major Depressive Disorder",
+      "intervention_dosage": "SR58611A",
+      "sample_size": "468 patients",
+      "primary_endpoint": "17-item Hamilton Depression Rating Scale (HAM-D) total score",
+      "lead_sponsor": "Sanofi",
+      "study_status": "COMPLETED"
+    }
+  }
+}

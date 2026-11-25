@@ -1,0 +1,113 @@
+{
+  "scenario_id": "domain1_geo_cell3_low_sim_high_count_020",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 8,
+  "entity_map": {
+    "Optimal Vision": {
+      "name": "Optimal Vision",
+      "category": "hospital",
+      "distance_km": "1.3 km",
+      "bearing": "North",
+      "travel_time": "3 mins",
+      "borough": "London Borough of Camden",
+      "postcode": "WC1E 6HA",
+      "hospital_capacity": "800 beds",
+      "emergency_department": "no",
+      "trauma_center_level": "Level 1",
+      "heliport_access": "yes"
+    },
+    "Church Yard of St Mary Aldermanbury": {
+      "name": "Church Yard of St Mary Aldermanbury",
+      "category": "park",
+      "distance_km": "2.6 km",
+      "bearing": "East",
+      "travel_time": "6 mins",
+      "borough": "Greater London",
+      "postcode": "SW1A 1AA",
+      "leisure_type": "public_park",
+      "surface_material": "grass_and_woodland",
+      "dog_friendly": "yes",
+      "entry_fee": "free"
+    },
+    "Metro Bank": {
+      "name": "Metro Bank",
+      "category": "bank",
+      "distance_km": "2.5 km",
+      "bearing": "East",
+      "travel_time": "6 mins",
+      "borough": "Greater London",
+      "postcode": "EC2V 7JB",
+      "financial_service": "retail_and_commercial",
+      "atm_available": "yes",
+      "vault_reserves": "secure_deposit",
+      "branch_hours": "09:30-16:30"
+    },
+    "Carsil Perfumery + Pharmacy": {
+      "name": "Carsil Perfumery + Pharmacy",
+      "category": "pharmacy",
+      "distance_km": "6.6 km",
+      "bearing": "North-East",
+      "travel_time": "16 mins",
+      "borough": "London Borough of Hackney",
+      "postcode": "E8 1EJ",
+      "prescription_dispensing": "yes",
+      "vaccination_service": "available",
+      "pharmacist_on_duty": "yes",
+      "operating_hours": "08:00-20:00"
+    },
+    "50 Kalo di Ciro Salvo Pizzeria": {
+      "name": "50 Kalo di Ciro Salvo Pizzeria",
+      "category": "restaurant",
+      "distance_km": "0.2 km",
+      "bearing": "South-East",
+      "travel_time": "2 mins",
+      "borough": "Covent Garden",
+      "postcode": "WC2N 5BY",
+      "dining_service": "dine_in_and_takeaway",
+      "cuisine_specialty": "british_and_international",
+      "table_reservation": "recommended",
+      "food_hygiene_rating": "5_stars"
+    },
+    "Soho Fire station": {
+      "name": "Soho Fire station",
+      "category": "fire_station",
+      "distance_km": "0.5 km",
+      "bearing": "North",
+      "travel_time": "2 mins",
+      "borough": "Covent Garden",
+      "postcode": "W1D 5ET",
+      "emergency_service": "fire_and_rescue",
+      "appliances_on_site": "2_pumping_appliances",
+      "response_readiness": "24_7_immediate",
+      "specialist_rescue": "water_and_height"
+    },
+    "Memorial Scrolls Trust": {
+      "name": "Memorial Scrolls Trust",
+      "category": "museum",
+      "distance_km": "2.8 km",
+      "bearing": "West",
+      "travel_time": "7 mins",
+      "borough": "Knightsbridge",
+      "postcode": "SW7 1BX",
+      "cultural_heritage": "exhibitions_and_galleries",
+      "admission_policy": "free_public_entry",
+      "guided_tours": "available",
+      "curatorial_archives": "historical"
+    },
+    "Royal College of Music": {
+      "name": "Royal College of Music",
+      "category": "university",
+      "distance_km": "3.5 km",
+      "bearing": "West",
+      "travel_time": "8 mins",
+      "borough": "Knightsbridge",
+      "postcode": "SW7 2BP",
+      "education_level": "higher_education_and_research",
+      "degree_granting": "undergraduate_and_postgraduate",
+      "campus_library": "24_hour_access",
+      "research_accreditation": "recognized"
+    }
+  }
+}

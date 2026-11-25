@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_003",
+  "domain_id": "domain1_geo",
+  "domain_name": "GeoAI & Spatial Infrastructure (London)",
+  "cell_id": "cell1_low_sim_low_count",
+  "cell_label": "low_sim_low_count",
+  "cell_description": "2 entities from distinct categories with disjoint attribute schemas.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "geo_hospital_03",
+      "category": "hospital",
+      "name": "Until SOHO",
+      "attributes": {
+        "name": "Until SOHO",
+        "category": "hospital",
+        "distance_km": "0.7 km",
+        "bearing": "North",
+        "travel_time": "2 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "WC2H 0DT",
+        "hospital_capacity": "430 beds",
+        "emergency_department": "no",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_bank_12",
+      "category": "bank",
+      "name": "TSB",
+      "attributes": {
+        "name": "TSB",
+        "category": "bank",
+        "distance_km": "2.5 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 6AU",
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    }
+  ]
+}

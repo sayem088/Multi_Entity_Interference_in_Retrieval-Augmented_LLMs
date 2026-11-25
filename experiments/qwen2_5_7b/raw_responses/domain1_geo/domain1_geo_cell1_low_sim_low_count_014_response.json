@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_014",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Central London GeoAI & Spatial Infrastructure.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: Cassel Hospital (Category: hospital)\n  - distance_km: 15.1 km\n  - bearing: South-West\n  - travel_time: 36 mins\n  - borough: London Borough of Richmond upon Thames\n  - postcode: TW10 7JF\n  - hospital_capacity: 1000 beds\n  - emergency_department: no\n  - trauma_center_level: Level 1\n  - heliport_access: yes\n\nEntity: The Anthologist (Category: restaurant)\n  - distance_km: 2.7 km\n  - bearing: East\n  - travel_time: 6 mins\n  - borough: Leadenhall Market\n  - postcode: EC2V 7BB\n  - dining_service: dine_in_and_takeaway\n  - cuisine_specialty: british_and_international\n  - table_reservation: recommended\n  - food_hygiene_rating: 5_stars\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: Cassel Hospital\n- distance_km: 15.1 km\n- bearing: South-West\n- travel_time: 36 mins\n- borough: London Borough of Richmond upon Thames\n- postcode: TW10 7JF\n- hospital_capacity: 1000 beds\n- emergency_department: no\n- trauma_center_level: Level 1\n- heliport_access: yes\n\nEntity: The Anthologist\n- distance_km: 2.7 km\n- bearing: East\n- travel_time: 6 mins\n- borough: Leadenhall Market\n- postcode: EC2V 7BB\n- dining_service: dine_in_and_takeaway\n- cuisine_specialty: british_and_international\n- table_reservation: recommended\n- food_hygiene_rating: 5_stars",
+  "generation_time_sec": 12.291,
+  "timestamp": "2026-11-18T18:03:55.010268"
+}

@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_018",
+  "domain_id": "domain1_geo",
+  "domain_name": "GeoAI & Spatial Infrastructure (London)",
+  "cell_id": "cell1_low_sim_low_count",
+  "cell_label": "low_sim_low_count",
+  "cell_description": "2 entities from distinct categories with disjoint attribute schemas.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "geo_hospital_05",
+      "category": "hospital",
+      "name": "St Bartholomew's Hospital",
+      "attributes": {
+        "name": "St Bartholomew's Hospital",
+        "category": "hospital",
+        "distance_km": "2.2 km",
+        "bearing": "North-East",
+        "travel_time": "5 mins",
+        "borough": "West Smithfield",
+        "postcode": "EC1A 9DE",
+        "hospital_capacity": "950 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_01",
+      "category": "fire_station",
+      "name": "Homerton Fire Station",
+      "attributes": {
+        "name": "Homerton Fire Station",
+        "category": "fire_station",
+        "distance_km": "7.4 km",
+        "bearing": "North-East",
+        "travel_time": "18 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6DL",
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    }
+  ]
+}

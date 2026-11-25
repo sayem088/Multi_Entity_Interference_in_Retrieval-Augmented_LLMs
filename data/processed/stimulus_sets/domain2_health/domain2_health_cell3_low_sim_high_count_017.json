@@ -1,0 +1,151 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_017",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell3_low_sim_high_count",
+  "cell_label": "low_sim_high_count",
+  "cell_description": "8 entities from mixed distinct categories with low schema overlap.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_03",
+      "category": "oncology_trial",
+      "name": "NCT06968585: A Study of A166 Versus Trastuzumab Emtansine (T-DM1) in Patients With HER2-Po...",
+      "attributes": {
+        "name": "NCT06968585: A Study of A166 Versus Trastuzumab Emtansine (T-DM1) in Patients With HER2-Po...",
+        "category": "oncology_trial",
+        "nct_id": "NCT06968585",
+        "phase": "PHASE3",
+        "target_condition": "HER2-positive Breast Cancer",
+        "intervention_dosage": "A166, T-DM1",
+        "sample_size": "365 patients",
+        "primary_endpoint": "Progression-free survival (PFS)",
+        "lead_sponsor": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+        "study_status": "ACTIVE_NOT_RECRUITING",
+        "median_overall_survival": "22.0 months",
+        "grade3_toxicity_rate": "41.0%"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_10",
+      "category": "cardiology_trial",
+      "name": "NCT02809131: Perioperative Antibiotic Therapy to Prevent Cardiac Implantable Electronic De...",
+      "attributes": {
+        "name": "NCT02809131: Perioperative Antibiotic Therapy to Prevent Cardiac Implantable Electronic De...",
+        "category": "cardiology_trial",
+        "nct_id": "NCT02809131",
+        "phase": "PHASE3",
+        "target_condition": "Sick Sinus Syndrome",
+        "intervention_dosage": "polymixin/bacitracin, cephalexin, or levofloxacin, or clindamycin, Saline",
+        "sample_size": "1010 patients",
+        "primary_endpoint": "Number of Patients With a Major Cardiac Implantable Elect...",
+        "lead_sponsor": "Vanderbilt University Medical Center",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_10",
+      "category": "neurology_trial",
+      "name": "NCT00678431: Randomized Trial of a Nutritional Supplement in Alzheimer's Disease",
+      "attributes": {
+        "name": "NCT00678431: Randomized Trial of a Nutritional Supplement in Alzheimer's Disease",
+        "category": "neurology_trial",
+        "nct_id": "NCT00678431",
+        "phase": "PHASE3",
+        "target_condition": "Alzheimer's Disease",
+        "intervention_dosage": "Resveratrol with Glucose, and Malate, Placebo",
+        "sample_size": "27 patients",
+        "primary_endpoint": "Alzheimer Disease Assessment Scale (ADAScog)",
+        "lead_sponsor": "US Department of Veterans Affairs",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_12",
+      "category": "infectious_disease",
+      "name": "NCT00693186: A Study to Assess the Anamnestic Immune Response in Healthy 4 to 7 Year-old C...",
+      "attributes": {
+        "name": "NCT00693186: A Study to Assess the Anamnestic Immune Response in Healthy 4 to 7 Year-old C...",
+        "category": "infectious_disease",
+        "nct_id": "NCT00693186",
+        "phase": "PHASE3",
+        "target_condition": "Hepatitis B",
+        "intervention_dosage": "HBVaxPRO® 5 µg / 0.5 mL, Engerix B® 10 µg / 0.5 mL",
+        "sample_size": "410 patients",
+        "primary_endpoint": "Percentage of subjects with anti-HBs antibody titres >=10...",
+        "lead_sponsor": "Sanofi Pasteur, a Sanofi Company",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_12",
+      "category": "vaccine_study",
+      "name": "NCT02509494: Staged Phase 3 Study to Assess the Safety and Immunogenicity of Ebola Candida...",
+      "attributes": {
+        "name": "NCT02509494: Staged Phase 3 Study to Assess the Safety and Immunogenicity of Ebola Candida...",
+        "category": "vaccine_study",
+        "nct_id": "NCT02509494",
+        "phase": "PHASE3",
+        "target_condition": "Ebola Virus Disease",
+        "intervention_dosage": "Ad26.ZEBOV, MVA-BN-Filo, MenACWY",
+        "sample_size": "1023 patients",
+        "primary_endpoint": "Stages 1 and 2: Number of Participants With Solicited Loc...",
+        "lead_sponsor": "Janssen Vaccines & Prevention B.V.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_02",
+      "category": "medical_device",
+      "name": "NCT02064478: Clinical Survey of Oticon Medical Ponto Implants and a Surgical Technique Wit...",
+      "attributes": {
+        "name": "NCT02064478: Clinical Survey of Oticon Medical Ponto Implants and a Surgical Technique Wit...",
+        "category": "medical_device",
+        "nct_id": "NCT02064478",
+        "phase": "Not Specified",
+        "target_condition": "Conductive Hearing Loss",
+        "intervention_dosage": "Standard of Care",
+        "sample_size": "25 patients",
+        "primary_endpoint": "Numbness around implant, specifically mean Total sensibility",
+        "lead_sponsor": "Oticon Medical",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_03",
+      "category": "pediatric_study",
+      "name": "NCT00716859: A Phase 3 Prospective, Randomized, Double-Masked, 12-Week, Parallel Group Stu...",
+      "attributes": {
+        "name": "NCT00716859: A Phase 3 Prospective, Randomized, Double-Masked, 12-Week, Parallel Group Stu...",
+        "category": "pediatric_study",
+        "nct_id": "NCT00716859",
+        "phase": "PHASE3",
+        "target_condition": "Glaucoma",
+        "intervention_dosage": "Timolol, latanoprost",
+        "sample_size": "139 patients",
+        "primary_endpoint": "Reduction From Baseline in Mean IOP at Week 12, Last Obse...",
+        "lead_sponsor": "Pfizer's Upjohn has merged with Mylan to form Viatris Inc.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_05",
+      "category": "mental_health",
+      "name": "NCT00035048: Treatment of Patients With Major Depressive Disorder With MK0869 (0869-068)(C...",
+      "attributes": {
+        "name": "NCT00035048: Treatment of Patients With Major Depressive Disorder With MK0869 (0869-068)(C...",
+        "category": "mental_health",
+        "nct_id": "NCT00035048",
+        "phase": "PHASE3",
+        "target_condition": "Major Depressive Disorder",
+        "intervention_dosage": "aprepitant, Comparator: placebo (unspecified)",
+        "sample_size": "540 patients",
+        "primary_endpoint": "HAMD-17 score </= 10 after 10 weeks; maintenance of antid...",
+        "lead_sponsor": "Merck Sharp & Dohme LLC",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

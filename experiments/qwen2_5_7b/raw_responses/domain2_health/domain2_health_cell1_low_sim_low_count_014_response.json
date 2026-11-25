@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_014",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Clinical Trial Protocols & Healthcare Interventions.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients (Category: oncology_trial)\n  - nct_id: NCT00628043\n  - phase: PHASE3\n  - target_condition: Anemia\n  - intervention_dosage: epoetin beta, placebo\n  - sample_size: 160 patients\n  - primary_endpoint: The proportion of the subjects who receive red blood cell...\n  - lead_sponsor: Chugai Pharmaceutical\n  - study_status: COMPLETED\n  - median_overall_survival: 23.6 months\n  - grade3_toxicity_rate: 26.4%\n\nEntity: NCT00678431: Randomized Trial of a Nutritional Supplement in Alzheimer's Disease (Category: neurology_trial)\n  - nct_id: NCT00678431\n  - phase: PHASE3\n  - target_condition: Alzheimer's Disease\n  - intervention_dosage: Resveratrol with Glucose, and Malate, Placebo\n  - sample_size: 27 patients\n  - primary_endpoint: Alzheimer Disease Assessment Scale (ADAScog)\n  - lead_sponsor: US Department of Veterans Affairs\n  - study_status: COMPLETED\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: NCT00628043\n- nct_id: NCT00628043\n- phase: PHASE3\n- target_condition: Anemia\n- intervention_dosage: epoetin beta, placebo\n- sample_size: 160 patients\n- primary_endpoint: The proportion of the subjects who receive red blood cell...\n- lead_sponsor: Chugai Pharmaceutical\n- study_status: COMPLETED\n- median_overall_survival: 23.6 months\n- grade3_toxicity_rate: 26.4%\n\nEntity: NCT00678431\n- nct_id: NCT00678431\n- phase: PHASE3\n- target_condition: Alzheimer's Disease\n- intervention_dosage: Resveratrol with Glucose, and Malate, Placebo\n- sample_size: 27 patients\n- primary_endpoint: Alzheimer Disease Assessment Scale (ADAScog)\n- lead_sponsor: US Department of Veterans Affairs\n- study_status: COMPLETED",
+  "generation_time_sec": 16.613,
+  "timestamp": "2026-11-18T18:40:05.371172"
+}

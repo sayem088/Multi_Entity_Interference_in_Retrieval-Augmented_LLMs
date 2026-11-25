@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_003",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Clinical Trial Protocols & Healthcare Interventions.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ... (Category: oncology_trial)\n  - nct_id: NCT01458717\n  - phase: PHASE2, PHASE3\n  - target_condition: Pancreatic Cancer\n  - intervention_dosage: Neoadjuvant chemoradiation, Upfront surgery\n  - sample_size: 58 patients\n  - primary_endpoint: 2-year survival rate\n  - lead_sponsor: Seoul National University Hospital\n  - study_status: COMPLETED\n  - median_overall_survival: 29.0 months\n  - grade3_toxicity_rate: 18.9%\n\nEntity: NCT01155388: A Trial of Ferumoxytol for the Treatment of Iron Deficiency Anemia in Pediatr... (Category: pediatric_study)\n  - nct_id: NCT01155388\n  - phase: PHASE3\n  - target_condition: Iron Deficiency Anemia\n  - intervention_dosage: Ferumoxytol, Oral Iron\n  - sample_size: 14 patients\n  - primary_endpoint: Mean Change In Hemoglobin From Baseline To Week 5\n  - lead_sponsor: AMAG Pharmaceuticals, Inc.\n  - study_status: TERMINATED\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: NCT01458717\n- nct_id: NCT01458717\n- phase: PHASE2, PHASE3\n- target_condition: Pancreatic Cancer\n- intervention_dosage: Neoadjuvant chemoradiation, Upfront surgery\n- sample_size: 58 patients\n- primary_endpoint: 2-year survival rate\n- lead_sponsor: Seoul National University Hospital\n- study_status: COMPLETED\n- median_overall_survival: 29.0 months\n- grade3_toxicity_rate: 18.9%\n\nEntity: NCT01155388\n- nct_id: NCT01155388\n- phase: PHASE3\n- target_condition: Iron Deficiency Anemia\n- intervention_dosage: Ferumoxytol, Oral Iron\n- sample_size: 14 patients\n- primary_endpoint: Mean Change In Hemoglobin From Baseline To Week 5\n- lead_sponsor: AMAG Pharmaceuticals, Inc.\n- study_status: TERMINATED",
+  "generation_time_sec": 16.598,
+  "timestamp": "2026-11-18T18:36:21.539187"
+}

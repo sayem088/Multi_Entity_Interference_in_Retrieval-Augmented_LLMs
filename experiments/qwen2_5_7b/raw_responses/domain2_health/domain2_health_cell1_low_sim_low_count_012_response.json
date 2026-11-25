@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_012",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Clinical Trial Protocols & Healthcare Interventions.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: NCT04134897: Neoadjuvant Chemotherapy in Patients With Moderate Risk Mid Rectal Cancer (Category: oncology_trial)\n  - nct_id: NCT04134897\n  - phase: PHASE3\n  - target_condition: Rectal Neoplasms Malignant\n  - intervention_dosage: Capecitabine, Oxaliplatin, Capecitabine\n  - sample_size: 316 patients\n  - primary_endpoint: 2-year local recurrence rate\n  - lead_sponsor: Blokhin's Russian Cancer Research Center\n  - study_status: UNKNOWN\n  - median_overall_survival: 20.4 months\n  - grade3_toxicity_rate: 38.7%\n\nEntity: NCT01152216: An Extension of the CONCERT Protocol (DIM18) (Category: neurology_trial)\n  - nct_id: NCT01152216\n  - phase: PHASE3\n  - target_condition: Alzheimer's Disease\n  - intervention_dosage: Dimebon\n  - sample_size: 672 patients\n  - primary_endpoint: Safety\n  - lead_sponsor: Medivation, Inc.\n  - study_status: TERMINATED\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: NCT04134897: Neoadjuvant Chemotherapy in Patients With Moderate Risk Mid Rectal Cancer (Category: oncology_trial)\n- nct_id: NCT04134897\n- phase: PHASE3\n- target_condition: Rectal Neoplasms Malignant\n- intervention_dosage: Capecitabine, Oxaliplatin, Capecitabine\n- sample_size: 316 patients\n- primary_endpoint: 2-year local recurrence rate\n- lead_sponsor: Blokhin's Russian Cancer Research Center\n- study_status: UNKNOWN\n- median_overall_survival: 20.4 months\n- grade3_toxicity_rate: 38.7%\n\nEntity: NCT01152216: An Extension of the CONCERT Protocol (DIM18) (Category: neurology_trial)\n- nct_id: NCT01152216\n- phase: PHASE3\n- target_condition: Alzheimer's Disease\n- intervention_dosage: Dimebon\n- sample_size: 672 patients\n- primary_endpoint: Safety\n- lead_sponsor: Medivation, Inc.\n- study_status: TERMINATED",
+  "generation_time_sec": 19.556,
+  "timestamp": "2026-11-18T18:39:27.531013"
+}

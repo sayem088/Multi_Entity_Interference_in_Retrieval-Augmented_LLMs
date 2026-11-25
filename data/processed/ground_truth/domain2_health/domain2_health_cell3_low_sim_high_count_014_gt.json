@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_014",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT00077233: FOLFIRI or FOLFOX With or Without Cetuximab in Patients With Metastatic Adeno...": {
+      "name": "NCT00077233: FOLFIRI or FOLFOX With or Without Cetuximab in Patients With Metastatic Adeno...",
+      "category": "oncology_trial",
+      "nct_id": "NCT00077233",
+      "phase": "PHASE3",
+      "target_condition": "Colorectal Cancer",
+      "intervention_dosage": "cetuximab, 5-FU, irinotecan",
+      "sample_size": "238 patients",
+      "primary_endpoint": "Overall survival",
+      "lead_sponsor": "Alliance for Clinical Trials in Oncology",
+      "study_status": "TERMINATED",
+      "median_overall_survival": "24.5 months",
+      "grade3_toxicity_rate": "34.2%"
+    },
+    "NCT03521934: Effect of Sotagliflozin on Cardiovascular Events in Participants With Type 2 ...": {
+      "name": "NCT03521934: Effect of Sotagliflozin on Cardiovascular Events in Participants With Type 2 ...",
+      "category": "cardiology_trial",
+      "nct_id": "NCT03521934",
+      "phase": "PHASE3",
+      "target_condition": "Heart Failure",
+      "intervention_dosage": "Sotagliflozin, Placebo",
+      "sample_size": "1222 patients",
+      "primary_endpoint": "Number of Total Occurrences of Cardiovascular (CV) Death,...",
+      "lead_sponsor": "Lexicon Pharmaceuticals",
+      "study_status": "TERMINATED"
+    },
+    "NCT00191009: Adding Atomoxetine To Standard Medication Treatment In Patients With Alzheime...": {
+      "name": "NCT00191009: Adding Atomoxetine To Standard Medication Treatment In Patients With Alzheime...",
+      "category": "neurology_trial",
+      "nct_id": "NCT00191009",
+      "phase": "PHASE2, PHASE3",
+      "target_condition": "Alzheimer Disease",
+      "intervention_dosage": "atomoxetine hydrochloride, placebo",
+      "sample_size": "124 patients",
+      "primary_endpoint": "To see if Alzheimer's patients receiving a stable dose of...",
+      "lead_sponsor": "Eli Lilly and Company",
+      "study_status": "COMPLETED"
+    },
+    "NCT05686759: A Study to Investigate the Safety and Efficacy of Undiluted Intravenous Infus...": {
+      "name": "NCT05686759: A Study to Investigate the Safety and Efficacy of Undiluted Intravenous Infus...",
+      "category": "infectious_disease",
+      "nct_id": "NCT05686759",
+      "phase": "PHASE3",
+      "target_condition": "Hepatitis B",
+      "intervention_dosage": "Undiluted I.V.-Hepabig inj(GC5103), Diluted I.V.-Hepabig inj(GC5103)",
+      "sample_size": "105 patients",
+      "primary_endpoint": "Adverse events occurred during clinical trials",
+      "lead_sponsor": "GC Biopharma Corp",
+      "study_status": "RECRUITING"
+    },
+    "NCT04980391: A Study on the Safety and Immune Response to an Unadjuvanted RSV Maternal Vac...": {
+      "name": "NCT04980391: A Study on the Safety and Immune Response to an Unadjuvanted RSV Maternal Vac...",
+      "category": "vaccine_study",
+      "nct_id": "NCT04980391",
+      "phase": "PHASE3",
+      "target_condition": "Respiratory Syncytial Virus Infections",
+      "intervention_dosage": "RSV MAT, Placebo",
+      "sample_size": "384 patients",
+      "primary_endpoint": "Percentage of Maternal Participants Reporting Any Solicit...",
+      "lead_sponsor": "GlaxoSmithKline",
+      "study_status": "TERMINATED"
+    },
+    "NCT05206474: To Evaluate the Performance and Safety of the Medical Device IRADYN in Subjec...": {
+      "name": "NCT05206474: To Evaluate the Performance and Safety of the Medical Device IRADYN in Subjec...",
+      "category": "medical_device",
+      "nct_id": "NCT05206474",
+      "phase": "NA",
+      "target_condition": "Knee Osteoarthritis",
+      "intervention_dosage": "IRADYN",
+      "sample_size": "50 patients",
+      "primary_endpoint": "Change in Range of Motion (ROM)",
+      "lead_sponsor": "I.R.A. Istituto Ricerche Applicate S.p.A.",
+      "study_status": "UNKNOWN"
+    },
+    "NCT01444417: Safety and Efficacy Study of Romiplostim to Treat Immune Thrombocytopenia (IT...": {
+      "name": "NCT01444417: Safety and Efficacy Study of Romiplostim to Treat Immune Thrombocytopenia (IT...",
+      "category": "pediatric_study",
+      "nct_id": "NCT01444417",
+      "phase": "PHASE3",
+      "target_condition": "Idiopathic Thrombocytopenic Purpura",
+      "intervention_dosage": "Romiplostim, Placebo",
+      "sample_size": "62 patients",
+      "primary_endpoint": "Percentage of Participants With a Durable Platelet Response",
+      "lead_sponsor": "Amgen",
+      "study_status": "COMPLETED"
+    },
+    "NCT02726659: Adjunctive Use of Celecoxib in the Treatment of Bipolar Postpartum Depression": {
+      "name": "NCT02726659: Adjunctive Use of Celecoxib in the Treatment of Bipolar Postpartum Depression",
+      "category": "mental_health",
+      "nct_id": "NCT02726659",
+      "phase": "PHASE3",
+      "target_condition": "Bipolar Disorder",
+      "intervention_dosage": "Celecoxib, Placebo",
+      "sample_size": "1 patients",
+      "primary_endpoint": "Hamilton Rating Scale for Depression (HAM-D)",
+      "lead_sponsor": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's",
+      "study_status": "TERMINATED"
+    }
+  }
+}

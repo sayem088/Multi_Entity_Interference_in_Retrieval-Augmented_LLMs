@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain1_geo_cell2_high_sim_low_count_022",
+  "domain_id": "domain1_geo",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Central London GeoAI & Spatial Infrastructure.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: Tunica Diagnostics (Category: hospital)\n  - distance_km: 0.7 km\n  - bearing: North\n  - travel_time: 2 mins\n  - borough: London Borough of Camden\n  - postcode: WC2H 0DT\n  - hospital_capacity: 580 beds\n  - emergency_department: yes\n  - trauma_center_level: Level 2\n  - heliport_access: no\n\nEntity: St Thomas' Hospital (Category: hospital)\n  - distance_km: 1.2 km\n  - bearing: South-East\n  - travel_time: 3 mins\n  - borough: London Borough of Lambeth\n  - postcode: SE1 7EH\n  - hospital_capacity: 490 beds\n  - emergency_department: yes\n  - trauma_center_level: Level 2\n  - heliport_access: no\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: Tunica Diagnostics\n- distance_km: 0.7 km\n- bearing: North\n- travel_time: 2 mins\n- borough: London Borough of Camden\n- postcode: WC2H 0DT\n- hospital_capacity: 580 beds\n- emergency_department: yes\n- trauma_center_level: Level 2\n- heliport_access: no\n\nEntity: St Thomas' Hospital\n- distance_km: 1.2 km\n- bearing: South-East\n- travel_time: 3 mins\n- borough: London Borough of Lambeth\n- postcode: SE1 7EH\n- hospital_capacity: 490 beds\n- emergency_department: yes\n- trauma_center_level: Level 2\n- heliport_access: no",
+  "generation_time_sec": 11.681,
+  "timestamp": "2026-11-18T18:10:25.862687"
+}

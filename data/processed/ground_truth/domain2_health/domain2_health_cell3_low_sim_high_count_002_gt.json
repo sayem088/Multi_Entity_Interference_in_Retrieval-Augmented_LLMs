@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_002",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT00291759: ABCSG 8 - Adjuvant Treatment in Patients With Hormone Receptor-positive Breas...": {
+      "name": "NCT00291759: ABCSG 8 - Adjuvant Treatment in Patients With Hormone Receptor-positive Breas...",
+      "category": "oncology_trial",
+      "nct_id": "NCT00291759",
+      "phase": "PHASE3",
+      "target_condition": "Breast Cancer",
+      "intervention_dosage": "Tamoxifen, Anastrozole",
+      "sample_size": "3858 patients",
+      "primary_endpoint": "To assess the difference in event free survival and overa...",
+      "lead_sponsor": "AstraZeneca",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "27.8 months",
+      "grade3_toxicity_rate": "15.3%"
+    },
+    "NCT00944229: The Effect of Omega-3 Polyunsaturated Fatty Acids in Congestive Heart Failure": {
+      "name": "NCT00944229: The Effect of Omega-3 Polyunsaturated Fatty Acids in Congestive Heart Failure",
+      "category": "cardiology_trial",
+      "nct_id": "NCT00944229",
+      "phase": "PHASE3",
+      "target_condition": "Heart Failure",
+      "intervention_dosage": "LOVAZA (Omega-3), Placebo",
+      "sample_size": "58 patients",
+      "primary_endpoint": "Change in Peak VO2",
+      "lead_sponsor": "Columbia University",
+      "study_status": "TERMINATED"
+    },
+    "NCT00191009: Adding Atomoxetine To Standard Medication Treatment In Patients With Alzheime...": {
+      "name": "NCT00191009: Adding Atomoxetine To Standard Medication Treatment In Patients With Alzheime...",
+      "category": "neurology_trial",
+      "nct_id": "NCT00191009",
+      "phase": "PHASE2, PHASE3",
+      "target_condition": "Alzheimer Disease",
+      "intervention_dosage": "atomoxetine hydrochloride, placebo",
+      "sample_size": "124 patients",
+      "primary_endpoint": "To see if Alzheimer's patients receiving a stable dose of...",
+      "lead_sponsor": "Eli Lilly and Company",
+      "study_status": "COMPLETED"
+    },
+    "NCT00200343: Efficacy and Safety Study of Ursodeoxycholic Acid to Treat Chronic Hepatitis C": {
+      "name": "NCT00200343: Efficacy and Safety Study of Ursodeoxycholic Acid to Treat Chronic Hepatitis C",
+      "category": "infectious_disease",
+      "nct_id": "NCT00200343",
+      "phase": "PHASE3",
+      "target_condition": "Chronic Hepatitis C",
+      "intervention_dosage": "Ursodeoxycholic acid 150mg / day, Ursodeoxycholic acid 600mg / day, Ursodeoxycholic acid 900mg / day",
+      "sample_size": "596 patients",
+      "primary_endpoint": "Alanine Aminotransferase at Baseline",
+      "lead_sponsor": "Tanabe Pharma Corporation",
+      "study_status": "COMPLETED"
+    },
+    "NCT00127010: Immunogenicity and Safety of a Combined Vaccine to Prevent Measles, Mumps, Ru...": {
+      "name": "NCT00127010: Immunogenicity and Safety of a Combined Vaccine to Prevent Measles, Mumps, Ru...",
+      "category": "vaccine_study",
+      "nct_id": "NCT00127010",
+      "phase": "PHASE3",
+      "target_condition": "Measles",
+      "intervention_dosage": "Measles, Mumps, Rubella and Chickenpox (live vaccine)",
+      "sample_size": "750 patients",
+      "primary_endpoint": "Antibody levels after vaccination",
+      "lead_sponsor": "GlaxoSmithKline",
+      "study_status": "COMPLETED"
+    },
+    "NCT02064478: Clinical Survey of Oticon Medical Ponto Implants and a Surgical Technique Wit...": {
+      "name": "NCT02064478: Clinical Survey of Oticon Medical Ponto Implants and a Surgical Technique Wit...",
+      "category": "medical_device",
+      "nct_id": "NCT02064478",
+      "phase": "Not Specified",
+      "target_condition": "Conductive Hearing Loss",
+      "intervention_dosage": "Standard of Care",
+      "sample_size": "25 patients",
+      "primary_endpoint": "Numbness around implant, specifically mean Total sensibility",
+      "lead_sponsor": "Oticon Medical",
+      "study_status": "COMPLETED"
+    },
+    "NCT01155388: A Trial of Ferumoxytol for the Treatment of Iron Deficiency Anemia in Pediatr...": {
+      "name": "NCT01155388: A Trial of Ferumoxytol for the Treatment of Iron Deficiency Anemia in Pediatr...",
+      "category": "pediatric_study",
+      "nct_id": "NCT01155388",
+      "phase": "PHASE3",
+      "target_condition": "Iron Deficiency Anemia",
+      "intervention_dosage": "Ferumoxytol, Oral Iron",
+      "sample_size": "14 patients",
+      "primary_endpoint": "Mean Change In Hemoglobin From Baseline To Week 5",
+      "lead_sponsor": "AMAG Pharmaceuticals, Inc.",
+      "study_status": "TERMINATED"
+    },
+    "NCT00035048: Treatment of Patients With Major Depressive Disorder With MK0869 (0869-068)(C...": {
+      "name": "NCT00035048: Treatment of Patients With Major Depressive Disorder With MK0869 (0869-068)(C...",
+      "category": "mental_health",
+      "nct_id": "NCT00035048",
+      "phase": "PHASE3",
+      "target_condition": "Major Depressive Disorder",
+      "intervention_dosage": "aprepitant, Comparator: placebo (unspecified)",
+      "sample_size": "540 patients",
+      "primary_endpoint": "HAMD-17 score </= 10 after 10 weeks; maintenance of antid...",
+      "lead_sponsor": "Merck Sharp & Dohme LLC",
+      "study_status": "COMPLETED"
+    }
+  }
+}

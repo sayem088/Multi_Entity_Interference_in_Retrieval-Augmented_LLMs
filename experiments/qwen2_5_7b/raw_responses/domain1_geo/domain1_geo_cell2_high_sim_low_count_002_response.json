@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain1_geo_cell2_high_sim_low_count_002",
+  "domain_id": "domain1_geo",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Central London GeoAI & Spatial Infrastructure.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: John Howard Centre (Category: hospital)\n  - distance_km: 7.6 km\n  - bearing: North-East\n  - travel_time: 18 mins\n  - borough: London Borough of Hackney\n  - postcode: E9 5TD\n  - hospital_capacity: 665 beds\n  - emergency_department: yes\n  - trauma_center_level: Level 2\n  - heliport_access: no\n\nEntity: St Bartholomew's Hospital (Category: hospital)\n  - distance_km: 2.2 km\n  - bearing: North-East\n  - travel_time: 5 mins\n  - borough: West Smithfield\n  - postcode: EC1A 9DE\n  - hospital_capacity: 950 beds\n  - emergency_department: yes\n  - trauma_center_level: Level 1\n  - heliport_access: yes\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: John Howard Centre\n- distance_km: 7.6 km\n- bearing: North-East\n- travel_time: 18 mins\n- borough: London Borough of Hackney\n- postcode: E9 5TD\n- hospital_capacity: 665 beds\n- emergency_department: yes\n- trauma_center_level: Level 2\n- heliport_access: no\n\nEntity: St Bartholomew's Hospital\n- distance_km: 2.2 km\n- bearing: North-East\n- travel_time: 5 mins\n- borough: West Smithfield\n- postcode: EC1A 9DE\n- hospital_capacity: 950 beds\n- emergency_department: yes\n- trauma_center_level: Level 1\n- heliport_access: yes",
+  "generation_time_sec": 11.865,
+  "timestamp": "2026-11-18T18:06:30.393596"
+}

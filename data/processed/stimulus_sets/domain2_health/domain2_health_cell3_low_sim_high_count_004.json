@@ -1,0 +1,151 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_004",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell3_low_sim_high_count",
+  "cell_label": "low_sim_high_count",
+  "cell_description": "8 entities from mixed distinct categories with low schema overlap.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_04",
+      "category": "oncology_trial",
+      "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+      "attributes": {
+        "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+        "category": "oncology_trial",
+        "nct_id": "NCT00399035",
+        "phase": "PHASE3",
+        "target_condition": "Metastatic Colorectal Cancer",
+        "intervention_dosage": "Cediranib, FOLFOX (5-fluorouracil, Leucovorin, Oxaliplatin), XELOX (Capecitabine and Oxaliplatin)",
+        "sample_size": "1254 patients",
+        "primary_endpoint": "Progression-free Survival",
+        "lead_sponsor": "AstraZeneca",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "14.8 months",
+        "grade3_toxicity_rate": "19.8%"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_07",
+      "category": "cardiology_trial",
+      "name": "NCT00238836: Anticipatory & Preventive Team Care (APTCare): At Risk Patients of Family Hea...",
+      "attributes": {
+        "name": "NCT00238836: Anticipatory & Preventive Team Care (APTCare): At Risk Patients of Family Hea...",
+        "category": "cardiology_trial",
+        "nct_id": "NCT00238836",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Diabetes",
+        "intervention_dosage": "Self-management of chronic illness",
+        "sample_size": "240 patients",
+        "primary_endpoint": "Clinical Response Rate",
+        "lead_sponsor": "C. T. Lamont Primary Care Research Centre",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_12",
+      "category": "neurology_trial",
+      "name": "NCT06647498: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for...",
+      "attributes": {
+        "name": "NCT06647498: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for...",
+        "category": "neurology_trial",
+        "nct_id": "NCT06647498",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Alzheimers Disease",
+        "intervention_dosage": "Remternetug, Matching Placebo (Remternetug)",
+        "sample_size": "280 patients",
+        "primary_endpoint": "Stage 1: Change in amyloid load as measured by centiloid ...",
+        "lead_sponsor": "Washington University School of Medicine",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_03",
+      "category": "infectious_disease",
+      "name": "NCT01374308: NASVAC Phase-III Trial in Chronic Hepatitis B (CHB) Patients",
+      "attributes": {
+        "name": "NCT01374308: NASVAC Phase-III Trial in Chronic Hepatitis B (CHB) Patients",
+        "category": "infectious_disease",
+        "nct_id": "NCT01374308",
+        "phase": "PHASE3",
+        "target_condition": "Chronic Hepatitis B",
+        "intervention_dosage": "NASVAC, Pegylated interferon alpha 2b",
+        "sample_size": "160 patients",
+        "primary_endpoint": "Number of study participants with virological and or bioc...",
+        "lead_sponsor": "Clinical Research Organization, Dhaka, Bangladesh",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_12",
+      "category": "vaccine_study",
+      "name": "NCT02509494: Staged Phase 3 Study to Assess the Safety and Immunogenicity of Ebola Candida...",
+      "attributes": {
+        "name": "NCT02509494: Staged Phase 3 Study to Assess the Safety and Immunogenicity of Ebola Candida...",
+        "category": "vaccine_study",
+        "nct_id": "NCT02509494",
+        "phase": "PHASE3",
+        "target_condition": "Ebola Virus Disease",
+        "intervention_dosage": "Ad26.ZEBOV, MVA-BN-Filo, MenACWY",
+        "sample_size": "1023 patients",
+        "primary_endpoint": "Stages 1 and 2: Number of Participants With Solicited Loc...",
+        "lead_sponsor": "Janssen Vaccines & Prevention B.V.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_04",
+      "category": "medical_device",
+      "name": "NCT03428282: Pain and Anxiety Control During Traditional Mandibular Anesthesia in Children...",
+      "attributes": {
+        "name": "NCT03428282: Pain and Anxiety Control During Traditional Mandibular Anesthesia in Children...",
+        "category": "medical_device",
+        "nct_id": "NCT03428282",
+        "phase": "NA",
+        "target_condition": "Inferior Alveolar Nerve Block",
+        "intervention_dosage": "VR Box, Tablet Device, Anesthesia",
+        "sample_size": "102 patients",
+        "primary_endpoint": "Pain levels",
+        "lead_sponsor": "Damascus University",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_02",
+      "category": "pediatric_study",
+      "name": "NCT01364597: Open-label Long-term Study of Adjunctive Brivaracetam in Pediatric Subjects W...",
+      "attributes": {
+        "name": "NCT01364597: Open-label Long-term Study of Adjunctive Brivaracetam in Pediatric Subjects W...",
+        "category": "pediatric_study",
+        "nct_id": "NCT01364597",
+        "phase": "PHASE3",
+        "target_condition": "Epilepsy",
+        "intervention_dosage": "Brivaracetam (BRV)",
+        "sample_size": "257 patients",
+        "primary_endpoint": "Percentage of Participants With Treatment-emergent Advers...",
+        "lead_sponsor": "UCB Pharma SA",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_07",
+      "category": "mental_health",
+      "name": "NCT00252356: Efficacy and Safety of SR58611A in Patients With Major Depressive Disorder",
+      "attributes": {
+        "name": "NCT00252356: Efficacy and Safety of SR58611A in Patients With Major Depressive Disorder",
+        "category": "mental_health",
+        "nct_id": "NCT00252356",
+        "phase": "PHASE3",
+        "target_condition": "Major Depressive Disorder",
+        "intervention_dosage": "SR58611A",
+        "sample_size": "468 patients",
+        "primary_endpoint": "17-item Hamilton Depression Rating Scale (HAM-D) total score",
+        "lead_sponsor": "Sanofi",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

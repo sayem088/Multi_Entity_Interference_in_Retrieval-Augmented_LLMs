@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_005",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entity_map": {
+    "City & Hackney Centre for Mental Health": {
+      "name": "City & Hackney Centre for Mental Health",
+      "category": "hospital",
+      "distance_km": "7.4 km",
+      "bearing": "North-East",
+      "travel_time": "18 mins",
+      "borough": "London Borough of Hackney",
+      "postcode": "E9 6BX",
+      "hospital_capacity": "675 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    },
+    "Stoke Newington Fire Station": {
+      "name": "Stoke Newington Fire Station",
+      "category": "fire_station",
+      "distance_km": "7.0 km",
+      "bearing": "North-East",
+      "travel_time": "17 mins",
+      "borough": "London Borough of Hackney",
+      "postcode": "N16 0AR",
+      "emergency_service": "fire_and_rescue",
+      "appliances_on_site": "2_pumping_appliances",
+      "response_readiness": "24_7_immediate",
+      "specialist_rescue": "water_and_height"
+    }
+  }
+}

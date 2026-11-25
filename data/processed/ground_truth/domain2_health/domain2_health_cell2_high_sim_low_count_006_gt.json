@@ -1,0 +1,37 @@
+{
+  "scenario_id": "domain2_health_cell2_high_sim_low_count_006",
+  "domain_id": "domain2_health",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entity_map": {
+    "NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients": {
+      "name": "NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients",
+      "category": "oncology_trial",
+      "nct_id": "NCT00628043",
+      "phase": "PHASE3",
+      "target_condition": "Anemia",
+      "intervention_dosage": "epoetin beta, placebo",
+      "sample_size": "160 patients",
+      "primary_endpoint": "The proportion of the subjects who receive red blood cell...",
+      "lead_sponsor": "Chugai Pharmaceutical",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "23.6 months",
+      "grade3_toxicity_rate": "26.4%"
+    },
+    "NCT03806049: Trial Comparing Niraparib-bevacizumab-Dostarlimab and Niraparib-bevacizumab t...": {
+      "name": "NCT03806049: Trial Comparing Niraparib-bevacizumab-Dostarlimab and Niraparib-bevacizumab t...",
+      "category": "oncology_trial",
+      "nct_id": "NCT03806049",
+      "phase": "PHASE3",
+      "target_condition": "Ovarian Cancer",
+      "intervention_dosage": "Niraparib, Bevacizumab, TSR042",
+      "sample_size": "450 patients",
+      "primary_endpoint": "Progression-free Survival",
+      "lead_sponsor": "Nordic Society of Gynaecological Oncology - Clinical Trials Unit",
+      "study_status": "WITHDRAWN",
+      "median_overall_survival": "18.2 months",
+      "grade3_toxicity_rate": "28.5%"
+    }
+  }
+}

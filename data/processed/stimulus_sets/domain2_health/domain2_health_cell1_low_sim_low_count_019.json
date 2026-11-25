@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_019",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell1_low_sim_low_count",
+  "cell_label": "low_sim_low_count",
+  "cell_description": "2 entities from distinct categories with disjoint attribute schemas.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_06",
+      "category": "oncology_trial",
+      "name": "NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...",
+      "attributes": {
+        "name": "NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...",
+        "category": "oncology_trial",
+        "nct_id": "NCT02730091",
+        "phase": "PHASE3",
+        "target_condition": "Breast Cancer",
+        "intervention_dosage": "Letrozole, Anastrozole, Vinorelbine",
+        "sample_size": "98 patients",
+        "primary_endpoint": "progression-free survival (PFS)",
+        "lead_sponsor": "Centre Hospitalier Universitaire de Besancon",
+        "study_status": "TERMINATED",
+        "median_overall_survival": "16.5 months",
+        "grade3_toxicity_rate": "22.1%"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_08",
+      "category": "pediatric_study",
+      "name": "NCT04987229: Long-term Safety Extension Study of OLZ/SAM in Pediatric Subjects",
+      "attributes": {
+        "name": "NCT04987229: Long-term Safety Extension Study of OLZ/SAM in Pediatric Subjects",
+        "category": "pediatric_study",
+        "nct_id": "NCT04987229",
+        "phase": "PHASE3",
+        "target_condition": "Bipolar I Disorder",
+        "intervention_dosage": "OLZ/SAM",
+        "sample_size": "236 patients",
+        "primary_endpoint": "Incidence of adverse events",
+        "lead_sponsor": "Alkermes, Inc.",
+        "study_status": "ENROLLING_BY_INVITATION"
+      }
+    }
+  ]
+}

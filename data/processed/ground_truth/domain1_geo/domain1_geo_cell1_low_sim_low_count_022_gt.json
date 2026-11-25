@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_022",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entity_map": {
+    "Cassel Hospital": {
+      "name": "Cassel Hospital",
+      "category": "hospital",
+      "distance_km": "15.1 km",
+      "bearing": "South-West",
+      "travel_time": "36 mins",
+      "borough": "London Borough of Richmond upon Thames",
+      "postcode": "TW10 7JF",
+      "hospital_capacity": "1000 beds",
+      "emergency_department": "no",
+      "trauma_center_level": "Level 1",
+      "heliport_access": "yes"
+    },
+    "Stoke Newington Fire Station": {
+      "name": "Stoke Newington Fire Station",
+      "category": "fire_station",
+      "distance_km": "7.0 km",
+      "bearing": "North-East",
+      "travel_time": "17 mins",
+      "borough": "London Borough of Hackney",
+      "postcode": "N16 0AR",
+      "emergency_service": "fire_and_rescue",
+      "appliances_on_site": "2_pumping_appliances",
+      "response_readiness": "24_7_immediate",
+      "specialist_rescue": "water_and_height"
+    }
+  }
+}

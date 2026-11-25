@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_007",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell1_low_sim_low_count",
+  "cell_label": "low_sim_low_count",
+  "cell_description": "2 entities from distinct categories with disjoint attribute schemas.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_11",
+      "category": "oncology_trial",
+      "name": "NCT05183035: Venetoclax in Children With Relapsed Acute Myeloid Leukemia (AML)",
+      "attributes": {
+        "name": "NCT05183035: Venetoclax in Children With Relapsed Acute Myeloid Leukemia (AML)",
+        "category": "oncology_trial",
+        "nct_id": "NCT05183035",
+        "phase": "PHASE3",
+        "target_condition": "Acute Myeloid Leukemia",
+        "intervention_dosage": "Fludarabine, Cytarabine, Gemtuzumab Ozogamicin",
+        "sample_size": "120 patients",
+        "primary_endpoint": "Overall Survival (OS)",
+        "lead_sponsor": "PedAL BCU, LLC",
+        "study_status": "ACTIVE_NOT_RECRUITING",
+        "median_overall_survival": "17.4 months",
+        "grade3_toxicity_rate": "42.5%"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_02",
+      "category": "infectious_disease",
+      "name": "NCT00230958: Study of Viramidine to Ribavirin in Patients With Chronic Hepatitis C Who Are...",
+      "attributes": {
+        "name": "NCT00230958: Study of Viramidine to Ribavirin in Patients With Chronic Hepatitis C Who Are...",
+        "category": "infectious_disease",
+        "nct_id": "NCT00230958",
+        "phase": "PHASE3",
+        "target_condition": "Chronic Hepatitis C",
+        "intervention_dosage": "Viramidine, Ribavirin, pegylated interferon alfa-2b",
+        "sample_size": "900 patients",
+        "primary_endpoint": "- Efficacy: Undetectable plasma HCV RNA (less than 100 co...",
+        "lead_sponsor": "Bausch Health Americas, Inc.",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

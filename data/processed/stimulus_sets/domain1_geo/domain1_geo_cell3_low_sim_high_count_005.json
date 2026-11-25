@@ -1,0 +1,157 @@
+{
+  "scenario_id": "domain1_geo_cell3_low_sim_high_count_005",
+  "domain_id": "domain1_geo",
+  "domain_name": "GeoAI & Spatial Infrastructure (London)",
+  "cell_id": "cell3_low_sim_high_count",
+  "cell_label": "low_sim_high_count",
+  "cell_description": "8 entities from mixed distinct categories with low schema overlap.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "geo_hospital_09",
+      "category": "hospital",
+      "name": "The Royal Marsden Hospital",
+      "attributes": {
+        "name": "The Royal Marsden Hospital",
+        "category": "hospital",
+        "distance_km": "3.6 km",
+        "bearing": "South-West",
+        "travel_time": "9 mins",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW3 6PT",
+        "hospital_capacity": "520 beds",
+        "emergency_department": "no",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_park_01",
+      "category": "park",
+      "name": "Church Yard of St Mary Aldermanbury",
+      "attributes": {
+        "name": "Church Yard of St Mary Aldermanbury",
+        "category": "park",
+        "distance_km": "2.6 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "SW1A 1AA",
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    },
+    {
+      "entity_id": "geo_bank_11",
+      "category": "bank",
+      "name": "Metro Bank",
+      "attributes": {
+        "name": "Metro Bank",
+        "category": "bank",
+        "distance_km": "2.5 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 7JB",
+        "financial_service": "retail_and_commercial",
+        "atm_available": "yes",
+        "vault_reserves": "secure_deposit",
+        "branch_hours": "09:30-16:30"
+      }
+    },
+    {
+      "entity_id": "geo_pharmacy_02",
+      "category": "pharmacy",
+      "name": "Superdrug",
+      "attributes": {
+        "name": "Superdrug",
+        "category": "pharmacy",
+        "distance_km": "2.4 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Greater London",
+        "postcode": "EC2V 7JB",
+        "prescription_dispensing": "yes",
+        "vaccination_service": "available",
+        "pharmacist_on_duty": "yes",
+        "operating_hours": "08:00-20:00"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_11",
+      "category": "restaurant",
+      "name": "50 Kalo di Ciro Salvo Pizzeria",
+      "attributes": {
+        "name": "50 Kalo di Ciro Salvo Pizzeria",
+        "category": "restaurant",
+        "distance_km": "0.2 km",
+        "bearing": "South-East",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "WC2N 5BY",
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    },
+    {
+      "entity_id": "geo_fire_station_09",
+      "category": "fire_station",
+      "name": "West Hampstead Fire Station",
+      "attributes": {
+        "name": "West Hampstead Fire Station",
+        "category": "fire_station",
+        "distance_km": "6.6 km",
+        "bearing": "North-West",
+        "travel_time": "16 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW6 1RR",
+        "emergency_service": "fire_and_rescue",
+        "appliances_on_site": "2_pumping_appliances",
+        "response_readiness": "24_7_immediate",
+        "specialist_rescue": "water_and_height"
+      }
+    },
+    {
+      "entity_id": "geo_museum_05",
+      "category": "museum",
+      "name": "Paradox Museum",
+      "attributes": {
+        "name": "Paradox Museum",
+        "category": "museum",
+        "distance_km": "2.6 km",
+        "bearing": "West",
+        "travel_time": "6 mins",
+        "borough": "Knightsbridge",
+        "postcode": "SW3 1JJ",
+        "cultural_heritage": "exhibitions_and_galleries",
+        "admission_policy": "free_public_entry",
+        "guided_tours": "available",
+        "curatorial_archives": "historical"
+      }
+    },
+    {
+      "entity_id": "geo_university_11",
+      "category": "university",
+      "name": "The Courtauld Institute of Art",
+      "attributes": {
+        "name": "The Courtauld Institute of Art",
+        "category": "university",
+        "distance_km": "0.8 km",
+        "bearing": "North-East",
+        "travel_time": "2 mins",
+        "borough": "Covent Garden",
+        "postcode": "WC2R 0RN",
+        "education_level": "higher_education_and_research",
+        "degree_granting": "undergraduate_and_postgraduate",
+        "campus_library": "24_hour_access",
+        "research_accreditation": "recognized"
+      }
+    }
+  ]
+}

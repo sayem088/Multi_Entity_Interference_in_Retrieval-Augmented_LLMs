@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_011",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Clinical Trial Protocols & Healthcare Interventions.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: NCT02547233: Efficacy and Safety of LEO 43204 in Field Treatment of Actinic Keratosis on F... (Category: oncology_trial)\n  - nct_id: NCT02547233\n  - phase: PHASE3\n  - target_condition: Actinic Keratosis\n  - intervention_dosage: LEO 43204 gel, Vehicle gel\n  - sample_size: 437 patients\n  - primary_endpoint: Percentage of Participants With Complete Clearance of Act...\n  - lead_sponsor: LEO Pharma\n  - study_status: COMPLETED\n  - median_overall_survival: 19.1 months\n  - grade3_toxicity_rate: 33.0%\n\nEntity: NCT01374308: NASVAC Phase-III Trial in Chronic Hepatitis B (CHB) Patients (Category: infectious_disease)\n  - nct_id: NCT01374308\n  - phase: PHASE3\n  - target_condition: Chronic Hepatitis B\n  - intervention_dosage: NASVAC, Pegylated interferon alpha 2b\n  - sample_size: 160 patients\n  - primary_endpoint: Number of study participants with virological and or bioc...\n  - lead_sponsor: Clinical Research Organization, Dhaka, Bangladesh\n  - study_status: UNKNOWN\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: NCT02547233\n- nct_id: NCT02547233\n- phase: PHASE3\n- target_condition: Actinic Keratosis\n- intervention_dosage: LEO 43204 gel, Vehicle gel\n- sample_size: 437 patients\n- primary_endpoint: Percentage of Participants With Complete Clearance of Act...\n- lead_sponsor: LEO Pharma\n- study_status: COMPLETED\n- median_overall_survival: 19.1 months\n- grade3_toxicity_rate: 33.0%\n\nEntity: NCT01374308\n- nct_id: NCT01374308\n- phase: PHASE3\n- target_condition: Chronic Hepatitis B\n- intervention_dosage: NASVAC, Pegylated interferon alpha 2b\n- sample_size: 160 patients\n- primary_endpoint: Number of study participants with virological and or bioc...\n- lead_sponsor: Clinical Research Organization, Dhaka, Bangladesh\n- study_status: UNKNOWN",
+  "generation_time_sec": 17.168,
+  "timestamp": "2026-11-18T18:39:07.970373"
+}

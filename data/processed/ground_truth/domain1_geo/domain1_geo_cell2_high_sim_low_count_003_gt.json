@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain1_geo_cell2_high_sim_low_count_003",
+  "domain_id": "domain1_geo",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entity_map": {
+    "Royal Free Hospital": {
+      "name": "Royal Free Hospital",
+      "category": "hospital",
+      "distance_km": "5.6 km",
+      "bearing": "North-West",
+      "travel_time": "14 mins",
+      "borough": "London Borough of Camden",
+      "postcode": "NW3 2QG",
+      "hospital_capacity": "380 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    },
+    "St Thomas' Hospital": {
+      "name": "St Thomas' Hospital",
+      "category": "hospital",
+      "distance_km": "1.2 km",
+      "bearing": "South-East",
+      "travel_time": "3 mins",
+      "borough": "London Borough of Lambeth",
+      "postcode": "SE1 7EH",
+      "hospital_capacity": "490 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    }
+  }
+}

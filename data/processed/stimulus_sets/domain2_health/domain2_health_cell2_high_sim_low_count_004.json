@@ -1,0 +1,51 @@
+{
+  "scenario_id": "domain2_health_cell2_high_sim_low_count_004",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell2_high_sim_low_count",
+  "cell_label": "high_sim_low_count",
+  "cell_description": "2 entities from the same category with identical attribute schemas.",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_01",
+      "category": "oncology_trial",
+      "name": "NCT00077233: FOLFIRI or FOLFOX With or Without Cetuximab in Patients With Metastatic Adeno...",
+      "attributes": {
+        "name": "NCT00077233: FOLFIRI or FOLFOX With or Without Cetuximab in Patients With Metastatic Adeno...",
+        "category": "oncology_trial",
+        "nct_id": "NCT00077233",
+        "phase": "PHASE3",
+        "target_condition": "Colorectal Cancer",
+        "intervention_dosage": "cetuximab, 5-FU, irinotecan",
+        "sample_size": "238 patients",
+        "primary_endpoint": "Overall survival",
+        "lead_sponsor": "Alliance for Clinical Trials in Oncology",
+        "study_status": "TERMINATED",
+        "median_overall_survival": "24.5 months",
+        "grade3_toxicity_rate": "34.2%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_12",
+      "category": "oncology_trial",
+      "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+      "attributes": {
+        "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+        "category": "oncology_trial",
+        "nct_id": "NCT01458717",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Pancreatic Cancer",
+        "intervention_dosage": "Neoadjuvant chemoradiation, Upfront surgery",
+        "sample_size": "58 patients",
+        "primary_endpoint": "2-year survival rate",
+        "lead_sponsor": "Seoul National University Hospital",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "29.0 months",
+        "grade3_toxicity_rate": "18.9%"
+      }
+    }
+  ]
+}

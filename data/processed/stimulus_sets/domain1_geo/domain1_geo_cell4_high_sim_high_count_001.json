@@ -1,0 +1,157 @@
+{
+  "scenario_id": "domain1_geo_cell4_high_sim_high_count_001",
+  "domain_id": "domain1_geo",
+  "domain_name": "GeoAI & Spatial Infrastructure (London)",
+  "cell_id": "cell4_high_sim_high_count",
+  "cell_label": "high_sim_high_count",
+  "cell_description": "8 entities from the same category with identical attribute schemas.",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "geo_hospital_12",
+      "category": "hospital",
+      "name": "Optimal Vision",
+      "attributes": {
+        "name": "Optimal Vision",
+        "category": "hospital",
+        "distance_km": "1.3 km",
+        "bearing": "North",
+        "travel_time": "3 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "WC1E 6HA",
+        "hospital_capacity": "800 beds",
+        "emergency_department": "no",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_09",
+      "category": "hospital",
+      "name": "The Royal Marsden Hospital",
+      "attributes": {
+        "name": "The Royal Marsden Hospital",
+        "category": "hospital",
+        "distance_km": "3.6 km",
+        "bearing": "South-West",
+        "travel_time": "9 mins",
+        "borough": "Royal Borough of Kensington and Chelsea",
+        "postcode": "SW3 6PT",
+        "hospital_capacity": "520 beds",
+        "emergency_department": "no",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_08",
+      "category": "hospital",
+      "name": "Royal Free Hospital",
+      "attributes": {
+        "name": "Royal Free Hospital",
+        "category": "hospital",
+        "distance_km": "5.6 km",
+        "bearing": "North-West",
+        "travel_time": "14 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW3 2QG",
+        "hospital_capacity": "380 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_03",
+      "category": "hospital",
+      "name": "Until SOHO",
+      "attributes": {
+        "name": "Until SOHO",
+        "category": "hospital",
+        "distance_km": "0.7 km",
+        "bearing": "North",
+        "travel_time": "2 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "WC2H 0DT",
+        "hospital_capacity": "430 beds",
+        "emergency_department": "no",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_04",
+      "category": "hospital",
+      "name": "Tunica Diagnostics",
+      "attributes": {
+        "name": "Tunica Diagnostics",
+        "category": "hospital",
+        "distance_km": "0.7 km",
+        "bearing": "North",
+        "travel_time": "2 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "WC2H 0DT",
+        "hospital_capacity": "580 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_11",
+      "category": "hospital",
+      "name": "St Thomas' Hospital",
+      "attributes": {
+        "name": "St Thomas' Hospital",
+        "category": "hospital",
+        "distance_km": "1.2 km",
+        "bearing": "South-East",
+        "travel_time": "3 mins",
+        "borough": "London Borough of Lambeth",
+        "postcode": "SE1 7EH",
+        "hospital_capacity": "490 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_02",
+      "category": "hospital",
+      "name": "City & Hackney Centre for Mental Health",
+      "attributes": {
+        "name": "City & Hackney Centre for Mental Health",
+        "category": "hospital",
+        "distance_km": "7.4 km",
+        "bearing": "North-East",
+        "travel_time": "18 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6BX",
+        "hospital_capacity": "675 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_01",
+      "category": "hospital",
+      "name": "Homerton University Hospital",
+      "attributes": {
+        "name": "Homerton University Hospital",
+        "category": "hospital",
+        "distance_km": "7.4 km",
+        "bearing": "North-East",
+        "travel_time": "18 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6DH",
+        "hospital_capacity": "840 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_024",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell3_low_sim_high_count",
+  "cell_label": "low_sim_high_count",
+  "cell_description": "8 entities from mixed distinct categories with low schema overlap.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_10",
+      "category": "oncology_trial",
+      "name": "NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients",
+      "attributes": {
+        "name": "NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients",
+        "category": "oncology_trial",
+        "nct_id": "NCT00628043",
+        "phase": "PHASE3",
+        "target_condition": "Anemia",
+        "intervention_dosage": "epoetin beta, placebo",
+        "sample_size": "160 patients",
+        "primary_endpoint": "The proportion of the subjects who receive red blood cell...",
+        "lead_sponsor": "Chugai Pharmaceutical",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "23.6 months",
+        "grade3_toxicity_rate": "26.4%"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_09",
+      "category": "cardiology_trial",
+      "name": "NCT06619600: Effect of Dapagliflozin in Myocardial Fibrosis and Ventricular Function in Pa...",
+      "attributes": {
+        "name": "NCT06619600: Effect of Dapagliflozin in Myocardial Fibrosis and Ventricular Function in Pa...",
+        "category": "cardiology_trial",
+        "nct_id": "NCT06619600",
+        "phase": "PHASE3",
+        "target_condition": "ST-segment Elevation Myocardial Infarction (STEMI)",
+        "intervention_dosage": "Dapagliflozin, Placebo",
+        "sample_size": "54 patients",
+        "primary_endpoint": "Extracellular volume (ECV, %)",
+        "lead_sponsor": "Hospital Clinic of Barcelona",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_08",
+      "category": "neurology_trial",
+      "name": "NCT00000177: Estrogen Hormone Protocol",
+      "attributes": {
+        "name": "NCT00000177: Estrogen Hormone Protocol",
+        "category": "neurology_trial",
+        "nct_id": "NCT00000177",
+        "phase": "PHASE3",
+        "target_condition": "Alzheimer Disease",
+        "intervention_dosage": "Estrogen",
+        "sample_size": "120 patients",
+        "primary_endpoint": "Clinical Response Rate",
+        "lead_sponsor": "National Institute on Aging (NIA)",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_08",
+      "category": "infectious_disease",
+      "name": "NCT00249860: A Multicenter Phase 3 Study of Interferon-beta-1a for the Treatment of Chroni...",
+      "attributes": {
+        "name": "NCT00249860: A Multicenter Phase 3 Study of Interferon-beta-1a for the Treatment of Chroni...",
+        "category": "infectious_disease",
+        "nct_id": "NCT00249860",
+        "phase": "PHASE3",
+        "target_condition": "Hepatitis C",
+        "intervention_dosage": "Interferon-beta-1a, Placebo, Ribavirin plus Interferon-beta-1a",
+        "sample_size": "257 patients",
+        "primary_endpoint": "Percentage of subjects achieving sustained viral response...",
+        "lead_sponsor": "EMD Serono",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_07",
+      "category": "vaccine_study",
+      "name": "NCT01725217: Immunogenicity and Safety of Meningococcal ACWY Conjugate Vaccine in Healthy ...",
+      "attributes": {
+        "name": "NCT01725217: Immunogenicity and Safety of Meningococcal ACWY Conjugate Vaccine in Healthy ...",
+        "category": "vaccine_study",
+        "nct_id": "NCT01725217",
+        "phase": "PHASE3",
+        "target_condition": "Meningococcal Disease",
+        "intervention_dosage": "MenACWY-CRM",
+        "sample_size": "198 patients",
+        "primary_endpoint": "Percentages of Overall Subjects With Seroresponse After M...",
+        "lead_sponsor": "Novartis Vaccines",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_12",
+      "category": "medical_device",
+      "name": "NCT06879938: Concomitant Treatment with Topical Hyaluronic Acid and High Concentration Oxy...",
+      "attributes": {
+        "name": "NCT06879938: Concomitant Treatment with Topical Hyaluronic Acid and High Concentration Oxy...",
+        "category": "medical_device",
+        "nct_id": "NCT06879938",
+        "phase": "NA",
+        "target_condition": "Genitourinary Syndrome of Menopause",
+        "intervention_dosage": "High-concentration vaginal oxygen therapy (Caress Flow) with topical hyaluronic acid, hyaluronic acid-based gel (Hydeal-D®)",
+        "sample_size": "80 patients",
+        "primary_endpoint": "vaginal dryness one month after the completion of treatment",
+        "lead_sponsor": "Fondazione IRCCS Policlinico San Matteo di Pavia",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_10",
+      "category": "pediatric_study",
+      "name": "NCT06055959: A Study to Evaluate Subcutaneous Zilucoplan in Pediatric Participants With Ge...",
+      "attributes": {
+        "name": "NCT06055959: A Study to Evaluate Subcutaneous Zilucoplan in Pediatric Participants With Ge...",
+        "category": "pediatric_study",
+        "nct_id": "NCT06055959",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Generalized Myasthenia Gravis",
+        "intervention_dosage": "Zilucoplan",
+        "sample_size": "8 patients",
+        "primary_endpoint": "Plasma concentrations of zilucoplan (ZLP) sampled at Week...",
+        "lead_sponsor": "UCB Biopharma SRL",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_05",
+      "category": "mental_health",
+      "name": "NCT00035048: Treatment of Patients With Major Depressive Disorder With MK0869 (0869-068)(C...",
+      "attributes": {
+        "name": "NCT00035048: Treatment of Patients With Major Depressive Disorder With MK0869 (0869-068)(C...",
+        "category": "mental_health",
+        "nct_id": "NCT00035048",
+        "phase": "PHASE3",
+        "target_condition": "Major Depressive Disorder",
+        "intervention_dosage": "aprepitant, Comparator: placebo (unspecified)",
+        "sample_size": "540 patients",
+        "primary_endpoint": "HAMD-17 score </= 10 after 10 weeks; maintenance of antid...",
+        "lead_sponsor": "Merck Sharp & Dohme LLC",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

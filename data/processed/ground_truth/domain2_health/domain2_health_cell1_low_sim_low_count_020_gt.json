@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_020",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entity_map": {
+    "NCT00291759: ABCSG 8 - Adjuvant Treatment in Patients With Hormone Receptor-positive Breas...": {
+      "name": "NCT00291759: ABCSG 8 - Adjuvant Treatment in Patients With Hormone Receptor-positive Breas...",
+      "category": "oncology_trial",
+      "nct_id": "NCT00291759",
+      "phase": "PHASE3",
+      "target_condition": "Breast Cancer",
+      "intervention_dosage": "Tamoxifen, Anastrozole",
+      "sample_size": "3858 patients",
+      "primary_endpoint": "To assess the difference in event free survival and overa...",
+      "lead_sponsor": "AstraZeneca",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "27.8 months",
+      "grade3_toxicity_rate": "15.3%"
+    },
+    "NCT03699124: Freeze-Dried MVA-BN® Lot Consistency Smallpox Trial": {
+      "name": "NCT03699124: Freeze-Dried MVA-BN® Lot Consistency Smallpox Trial",
+      "category": "vaccine_study",
+      "nct_id": "NCT03699124",
+      "phase": "PHASE3",
+      "target_condition": "Smallpox",
+      "intervention_dosage": "FD MVA-BN",
+      "sample_size": "1129 patients",
+      "primary_endpoint": "Vaccinia-Specific Neutralizing Antibodies Measured by Pla...",
+      "lead_sponsor": "Bavarian Nordic",
+      "study_status": "COMPLETED"
+    }
+  }
+}

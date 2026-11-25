@@ -1,0 +1,151 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_015",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell3_low_sim_high_count",
+  "cell_label": "low_sim_high_count",
+  "cell_description": "8 entities from mixed distinct categories with low schema overlap.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_04",
+      "category": "oncology_trial",
+      "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+      "attributes": {
+        "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+        "category": "oncology_trial",
+        "nct_id": "NCT00399035",
+        "phase": "PHASE3",
+        "target_condition": "Metastatic Colorectal Cancer",
+        "intervention_dosage": "Cediranib, FOLFOX (5-fluorouracil, Leucovorin, Oxaliplatin), XELOX (Capecitabine and Oxaliplatin)",
+        "sample_size": "1254 patients",
+        "primary_endpoint": "Progression-free Survival",
+        "lead_sponsor": "AstraZeneca",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "14.8 months",
+        "grade3_toxicity_rate": "19.8%"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_04",
+      "category": "cardiology_trial",
+      "name": "NCT00123903: COREG MR Versus TOPROL-XL On Reduction Of Microalbuminuria In Patients With H...",
+      "attributes": {
+        "name": "NCT00123903: COREG MR Versus TOPROL-XL On Reduction Of Microalbuminuria In Patients With H...",
+        "category": "cardiology_trial",
+        "nct_id": "NCT00123903",
+        "phase": "PHASE3",
+        "target_condition": "Heart Failure, Congestive and Microalbuminuria",
+        "intervention_dosage": "metoprolol xl, carvedilol MR, lisinopril",
+        "sample_size": "1220 patients",
+        "primary_endpoint": "Change from baseline in urine albumin: creatinine ratio (...",
+        "lead_sponsor": "GlaxoSmithKline",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_01",
+      "category": "neurology_trial",
+      "name": "NCT05169008: A Study to Evaluate the Safety and Immunogenicity of Ad5-nCoV and Ad5-nCoV-IH...",
+      "attributes": {
+        "name": "NCT05169008: A Study to Evaluate the Safety and Immunogenicity of Ad5-nCoV and Ad5-nCoV-IH...",
+        "category": "neurology_trial",
+        "nct_id": "NCT05169008",
+        "phase": "PHASE3",
+        "target_condition": "COVID-19",
+        "intervention_dosage": "Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector), Recombinant COVID-19 vaccine (adenovirus type 5 vector) for Inhalation (Ad5-nCoV-IH)",
+        "sample_size": "91 patients",
+        "primary_endpoint": "Incidence of SAE",
+        "lead_sponsor": "CanSino Biologics Inc.",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_10",
+      "category": "infectious_disease",
+      "name": "NCT06956482: PROlonged Corticosteroid Treatment or N-ACetylcysteine for Severe Alcoholic H...",
+      "attributes": {
+        "name": "NCT06956482: PROlonged Corticosteroid Treatment or N-ACetylcysteine for Severe Alcoholic H...",
+        "category": "infectious_disease",
+        "nct_id": "NCT06956482",
+        "phase": "PHASE3",
+        "target_condition": "Alcoholic Hepatitis",
+        "intervention_dosage": "N-Acetylcysteine (NAC) Treatment, Prednisolone, Placebo of N-acetylcysteine",
+        "sample_size": "477 patients",
+        "primary_endpoint": "Rate of patients alive with compensated liver disease",
+        "lead_sponsor": "University Hospital, Lille",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_03",
+      "category": "vaccine_study",
+      "name": "NCT00329849: Safety and Immunogenicity of Meningococcal ACWY Conjugate Versus Polysacchari...",
+      "attributes": {
+        "name": "NCT00329849: Safety and Immunogenicity of Meningococcal ACWY Conjugate Versus Polysacchari...",
+        "category": "vaccine_study",
+        "nct_id": "NCT00329849",
+        "phase": "PHASE3",
+        "target_condition": "Meningococcal Disease",
+        "intervention_dosage": "Meningococcal ACWY-CRM conjugate vaccine, Meningococcal ACWY-PS polysaccharide vaccine",
+        "sample_size": "1500 patients",
+        "primary_endpoint": "Percentage of Subjects With hSBA Seroresponse Against Ser...",
+        "lead_sponsor": "Novartis Vaccines",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_04",
+      "category": "medical_device",
+      "name": "NCT03428282: Pain and Anxiety Control During Traditional Mandibular Anesthesia in Children...",
+      "attributes": {
+        "name": "NCT03428282: Pain and Anxiety Control During Traditional Mandibular Anesthesia in Children...",
+        "category": "medical_device",
+        "nct_id": "NCT03428282",
+        "phase": "NA",
+        "target_condition": "Inferior Alveolar Nerve Block",
+        "intervention_dosage": "VR Box, Tablet Device, Anesthesia",
+        "sample_size": "102 patients",
+        "primary_endpoint": "Pain levels",
+        "lead_sponsor": "Damascus University",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_03",
+      "category": "pediatric_study",
+      "name": "NCT00716859: A Phase 3 Prospective, Randomized, Double-Masked, 12-Week, Parallel Group Stu...",
+      "attributes": {
+        "name": "NCT00716859: A Phase 3 Prospective, Randomized, Double-Masked, 12-Week, Parallel Group Stu...",
+        "category": "pediatric_study",
+        "nct_id": "NCT00716859",
+        "phase": "PHASE3",
+        "target_condition": "Glaucoma",
+        "intervention_dosage": "Timolol, latanoprost",
+        "sample_size": "139 patients",
+        "primary_endpoint": "Reduction From Baseline in Mean IOP at Week 12, Last Obse...",
+        "lead_sponsor": "Pfizer's Upjohn has merged with Mylan to form Viatris Inc.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_08",
+      "category": "mental_health",
+      "name": "NCT01110902: Efficacy, Safety and Tolerability of Agomelatine Sublingual Tablets in the Tr...",
+      "attributes": {
+        "name": "NCT01110902: Efficacy, Safety and Tolerability of Agomelatine Sublingual Tablets in the Tr...",
+        "category": "mental_health",
+        "nct_id": "NCT01110902",
+        "phase": "PHASE3",
+        "target_condition": "Major Depressive Disorder",
+        "intervention_dosage": "Agomelatine (AGO178C), Placebo",
+        "sample_size": "589 patients",
+        "primary_endpoint": "Change from Baseline to endpoint at Week 8 using the tota...",
+        "lead_sponsor": "Novartis Pharmaceuticals",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

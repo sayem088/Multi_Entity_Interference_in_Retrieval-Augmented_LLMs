@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_014",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entity_map": {
+    "Cassel Hospital": {
+      "name": "Cassel Hospital",
+      "category": "hospital",
+      "distance_km": "15.1 km",
+      "bearing": "South-West",
+      "travel_time": "36 mins",
+      "borough": "London Borough of Richmond upon Thames",
+      "postcode": "TW10 7JF",
+      "hospital_capacity": "1000 beds",
+      "emergency_department": "no",
+      "trauma_center_level": "Level 1",
+      "heliport_access": "yes"
+    },
+    "The Anthologist": {
+      "name": "The Anthologist",
+      "category": "restaurant",
+      "distance_km": "2.7 km",
+      "bearing": "East",
+      "travel_time": "6 mins",
+      "borough": "Leadenhall Market",
+      "postcode": "EC2V 7BB",
+      "dining_service": "dine_in_and_takeaway",
+      "cuisine_specialty": "british_and_international",
+      "table_reservation": "recommended",
+      "food_hygiene_rating": "5_stars"
+    }
+  }
+}

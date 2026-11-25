@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_010",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell1_low_sim_low_count",
+  "cell_label": "low_sim_low_count",
+  "cell_description": "2 entities from distinct categories with disjoint attribute schemas.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_07",
+      "category": "oncology_trial",
+      "name": "NCT04134897: Neoadjuvant Chemotherapy in Patients With Moderate Risk Mid Rectal Cancer",
+      "attributes": {
+        "name": "NCT04134897: Neoadjuvant Chemotherapy in Patients With Moderate Risk Mid Rectal Cancer",
+        "category": "oncology_trial",
+        "nct_id": "NCT04134897",
+        "phase": "PHASE3",
+        "target_condition": "Rectal Neoplasms Malignant",
+        "intervention_dosage": "Capecitabine, Oxaliplatin, Capecitabine",
+        "sample_size": "316 patients",
+        "primary_endpoint": "2-year local recurrence rate",
+        "lead_sponsor": "Blokhin's Russian Cancer Research Center",
+        "study_status": "UNKNOWN",
+        "median_overall_survival": "20.4 months",
+        "grade3_toxicity_rate": "38.7%"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_12",
+      "category": "infectious_disease",
+      "name": "NCT00693186: A Study to Assess the Anamnestic Immune Response in Healthy 4 to 7 Year-old C...",
+      "attributes": {
+        "name": "NCT00693186: A Study to Assess the Anamnestic Immune Response in Healthy 4 to 7 Year-old C...",
+        "category": "infectious_disease",
+        "nct_id": "NCT00693186",
+        "phase": "PHASE3",
+        "target_condition": "Hepatitis B",
+        "intervention_dosage": "HBVaxPRO® 5 µg / 0.5 mL, Engerix B® 10 µg / 0.5 mL",
+        "sample_size": "410 patients",
+        "primary_endpoint": "Percentage of subjects with anti-HBs antibody titres >=10...",
+        "lead_sponsor": "Sanofi Pasteur, a Sanofi Company",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

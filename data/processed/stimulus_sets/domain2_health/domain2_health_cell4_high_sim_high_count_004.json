@@ -1,0 +1,165 @@
+{
+  "scenario_id": "domain2_health_cell4_high_sim_high_count_004",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell4_high_sim_high_count",
+  "cell_label": "high_sim_high_count",
+  "cell_description": "8 entities from the same category with identical attribute schemas.",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_08",
+      "category": "oncology_trial",
+      "name": "NCT00291759: ABCSG 8 - Adjuvant Treatment in Patients With Hormone Receptor-positive Breas...",
+      "attributes": {
+        "name": "NCT00291759: ABCSG 8 - Adjuvant Treatment in Patients With Hormone Receptor-positive Breas...",
+        "category": "oncology_trial",
+        "nct_id": "NCT00291759",
+        "phase": "PHASE3",
+        "target_condition": "Breast Cancer",
+        "intervention_dosage": "Tamoxifen, Anastrozole",
+        "sample_size": "3858 patients",
+        "primary_endpoint": "To assess the difference in event free survival and overa...",
+        "lead_sponsor": "AstraZeneca",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "27.8 months",
+        "grade3_toxicity_rate": "15.3%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_09",
+      "category": "oncology_trial",
+      "name": "NCT02547233: Efficacy and Safety of LEO 43204 in Field Treatment of Actinic Keratosis on F...",
+      "attributes": {
+        "name": "NCT02547233: Efficacy and Safety of LEO 43204 in Field Treatment of Actinic Keratosis on F...",
+        "category": "oncology_trial",
+        "nct_id": "NCT02547233",
+        "phase": "PHASE3",
+        "target_condition": "Actinic Keratosis",
+        "intervention_dosage": "LEO 43204 gel, Vehicle gel",
+        "sample_size": "437 patients",
+        "primary_endpoint": "Percentage of Participants With Complete Clearance of Act...",
+        "lead_sponsor": "LEO Pharma",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "19.1 months",
+        "grade3_toxicity_rate": "33.0%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_04",
+      "category": "oncology_trial",
+      "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+      "attributes": {
+        "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+        "category": "oncology_trial",
+        "nct_id": "NCT00399035",
+        "phase": "PHASE3",
+        "target_condition": "Metastatic Colorectal Cancer",
+        "intervention_dosage": "Cediranib, FOLFOX (5-fluorouracil, Leucovorin, Oxaliplatin), XELOX (Capecitabine and Oxaliplatin)",
+        "sample_size": "1254 patients",
+        "primary_endpoint": "Progression-free Survival",
+        "lead_sponsor": "AstraZeneca",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "14.8 months",
+        "grade3_toxicity_rate": "19.8%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_12",
+      "category": "oncology_trial",
+      "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+      "attributes": {
+        "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+        "category": "oncology_trial",
+        "nct_id": "NCT01458717",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Pancreatic Cancer",
+        "intervention_dosage": "Neoadjuvant chemoradiation, Upfront surgery",
+        "sample_size": "58 patients",
+        "primary_endpoint": "2-year survival rate",
+        "lead_sponsor": "Seoul National University Hospital",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "29.0 months",
+        "grade3_toxicity_rate": "18.9%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_11",
+      "category": "oncology_trial",
+      "name": "NCT05183035: Venetoclax in Children With Relapsed Acute Myeloid Leukemia (AML)",
+      "attributes": {
+        "name": "NCT05183035: Venetoclax in Children With Relapsed Acute Myeloid Leukemia (AML)",
+        "category": "oncology_trial",
+        "nct_id": "NCT05183035",
+        "phase": "PHASE3",
+        "target_condition": "Acute Myeloid Leukemia",
+        "intervention_dosage": "Fludarabine, Cytarabine, Gemtuzumab Ozogamicin",
+        "sample_size": "120 patients",
+        "primary_endpoint": "Overall Survival (OS)",
+        "lead_sponsor": "PedAL BCU, LLC",
+        "study_status": "ACTIVE_NOT_RECRUITING",
+        "median_overall_survival": "17.4 months",
+        "grade3_toxicity_rate": "42.5%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_10",
+      "category": "oncology_trial",
+      "name": "NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients",
+      "attributes": {
+        "name": "NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients",
+        "category": "oncology_trial",
+        "nct_id": "NCT00628043",
+        "phase": "PHASE3",
+        "target_condition": "Anemia",
+        "intervention_dosage": "epoetin beta, placebo",
+        "sample_size": "160 patients",
+        "primary_endpoint": "The proportion of the subjects who receive red blood cell...",
+        "lead_sponsor": "Chugai Pharmaceutical",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "23.6 months",
+        "grade3_toxicity_rate": "26.4%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_01",
+      "category": "oncology_trial",
+      "name": "NCT00077233: FOLFIRI or FOLFOX With or Without Cetuximab in Patients With Metastatic Adeno...",
+      "attributes": {
+        "name": "NCT00077233: FOLFIRI or FOLFOX With or Without Cetuximab in Patients With Metastatic Adeno...",
+        "category": "oncology_trial",
+        "nct_id": "NCT00077233",
+        "phase": "PHASE3",
+        "target_condition": "Colorectal Cancer",
+        "intervention_dosage": "cetuximab, 5-FU, irinotecan",
+        "sample_size": "238 patients",
+        "primary_endpoint": "Overall survival",
+        "lead_sponsor": "Alliance for Clinical Trials in Oncology",
+        "study_status": "TERMINATED",
+        "median_overall_survival": "24.5 months",
+        "grade3_toxicity_rate": "34.2%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_06",
+      "category": "oncology_trial",
+      "name": "NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...",
+      "attributes": {
+        "name": "NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...",
+        "category": "oncology_trial",
+        "nct_id": "NCT02730091",
+        "phase": "PHASE3",
+        "target_condition": "Breast Cancer",
+        "intervention_dosage": "Letrozole, Anastrozole, Vinorelbine",
+        "sample_size": "98 patients",
+        "primary_endpoint": "progression-free survival (PFS)",
+        "lead_sponsor": "Centre Hospitalier Universitaire de Besancon",
+        "study_status": "TERMINATED",
+        "median_overall_survival": "16.5 months",
+        "grade3_toxicity_rate": "22.1%"
+      }
+    }
+  ]
+}

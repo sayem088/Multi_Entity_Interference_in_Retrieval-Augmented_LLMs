@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_006",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entity_map": {
+    "NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...": {
+      "name": "NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...",
+      "category": "oncology_trial",
+      "nct_id": "NCT02730091",
+      "phase": "PHASE3",
+      "target_condition": "Breast Cancer",
+      "intervention_dosage": "Letrozole, Anastrozole, Vinorelbine",
+      "sample_size": "98 patients",
+      "primary_endpoint": "progression-free survival (PFS)",
+      "lead_sponsor": "Centre Hospitalier Universitaire de Besancon",
+      "study_status": "TERMINATED",
+      "median_overall_survival": "16.5 months",
+      "grade3_toxicity_rate": "22.1%"
+    },
+    "NCT06055959: A Study to Evaluate Subcutaneous Zilucoplan in Pediatric Participants With Ge...": {
+      "name": "NCT06055959: A Study to Evaluate Subcutaneous Zilucoplan in Pediatric Participants With Ge...",
+      "category": "pediatric_study",
+      "nct_id": "NCT06055959",
+      "phase": "PHASE2, PHASE3",
+      "target_condition": "Generalized Myasthenia Gravis",
+      "intervention_dosage": "Zilucoplan",
+      "sample_size": "8 patients",
+      "primary_endpoint": "Plasma concentrations of zilucoplan (ZLP) sampled at Week...",
+      "lead_sponsor": "UCB Biopharma SRL",
+      "study_status": "RECRUITING"
+    }
+  }
+}

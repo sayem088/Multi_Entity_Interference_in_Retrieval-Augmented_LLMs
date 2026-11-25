@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_011",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT00077233: FOLFIRI or FOLFOX With or Without Cetuximab in Patients With Metastatic Adeno...": {
+      "name": "NCT00077233: FOLFIRI or FOLFOX With or Without Cetuximab in Patients With Metastatic Adeno...",
+      "category": "oncology_trial",
+      "nct_id": "NCT00077233",
+      "phase": "PHASE3",
+      "target_condition": "Colorectal Cancer",
+      "intervention_dosage": "cetuximab, 5-FU, irinotecan",
+      "sample_size": "238 patients",
+      "primary_endpoint": "Overall survival",
+      "lead_sponsor": "Alliance for Clinical Trials in Oncology",
+      "study_status": "TERMINATED",
+      "median_overall_survival": "24.5 months",
+      "grade3_toxicity_rate": "34.2%"
+    },
+    "NCT01138683: Cardiorenal Interactions During Treatment of Acute Decompensated Heart Failur...": {
+      "name": "NCT01138683: Cardiorenal Interactions During Treatment of Acute Decompensated Heart Failur...",
+      "category": "cardiology_trial",
+      "nct_id": "NCT01138683",
+      "phase": "PHASE3",
+      "target_condition": "Acute Decompensated Heart Failure",
+      "intervention_dosage": "ultrafiltration, diuretics",
+      "sample_size": "1 patients",
+      "primary_endpoint": "Incidence of AKI and determining factors in patients with...",
+      "lead_sponsor": "University Hospital, Ghent",
+      "study_status": "COMPLETED"
+    },
+    "NCT01152216: An Extension of the CONCERT Protocol (DIM18)": {
+      "name": "NCT01152216: An Extension of the CONCERT Protocol (DIM18)",
+      "category": "neurology_trial",
+      "nct_id": "NCT01152216",
+      "phase": "PHASE3",
+      "target_condition": "Alzheimer's Disease",
+      "intervention_dosage": "Dimebon",
+      "sample_size": "672 patients",
+      "primary_endpoint": "Safety",
+      "lead_sponsor": "Medivation, Inc.",
+      "study_status": "TERMINATED"
+    },
+    "NCT01935817: Silybin - Vitamin E- Phospholipids Complex Reduces Liver Fibrosis in Patients...": {
+      "name": "NCT01935817: Silybin - Vitamin E- Phospholipids Complex Reduces Liver Fibrosis in Patients...",
+      "category": "infectious_disease",
+      "nct_id": "NCT01935817",
+      "phase": "PHASE3",
+      "target_condition": "Liver Fibrosis",
+      "intervention_dosage": "Silybin 94 mg + vitamin E 90 mg + phospholipids 194 mg complex, Placebo",
+      "sample_size": "64 patients",
+      "primary_endpoint": "transforming growth factor beta",
+      "lead_sponsor": "University of Catania",
+      "study_status": "COMPLETED"
+    },
+    "NCT00329849: Safety and Immunogenicity of Meningococcal ACWY Conjugate Versus Polysacchari...": {
+      "name": "NCT00329849: Safety and Immunogenicity of Meningococcal ACWY Conjugate Versus Polysacchari...",
+      "category": "vaccine_study",
+      "nct_id": "NCT00329849",
+      "phase": "PHASE3",
+      "target_condition": "Meningococcal Disease",
+      "intervention_dosage": "Meningococcal ACWY-CRM conjugate vaccine, Meningococcal ACWY-PS polysaccharide vaccine",
+      "sample_size": "1500 patients",
+      "primary_endpoint": "Percentage of Subjects With hSBA Seroresponse Against Ser...",
+      "lead_sponsor": "Novartis Vaccines",
+      "study_status": "COMPLETED"
+    },
+    "NCT04613635: Stratafix vs. Vicryl OAGB / MGB Suture Study": {
+      "name": "NCT04613635: Stratafix vs. Vicryl OAGB / MGB Suture Study",
+      "category": "medical_device",
+      "nct_id": "NCT04613635",
+      "phase": "NA",
+      "target_condition": "Morbid Obesity",
+      "intervention_dosage": "Stratafix, Vicryl",
+      "sample_size": "100 patients",
+      "primary_endpoint": "Closure of gastrojejunostomy",
+      "lead_sponsor": "St. Franziskus Hospital",
+      "study_status": "COMPLETED"
+    },
+    "NCT00716859: A Phase 3 Prospective, Randomized, Double-Masked, 12-Week, Parallel Group Stu...": {
+      "name": "NCT00716859: A Phase 3 Prospective, Randomized, Double-Masked, 12-Week, Parallel Group Stu...",
+      "category": "pediatric_study",
+      "nct_id": "NCT00716859",
+      "phase": "PHASE3",
+      "target_condition": "Glaucoma",
+      "intervention_dosage": "Timolol, latanoprost",
+      "sample_size": "139 patients",
+      "primary_endpoint": "Reduction From Baseline in Mean IOP at Week 12, Last Obse...",
+      "lead_sponsor": "Pfizer's Upjohn has merged with Mylan to form Viatris Inc.",
+      "study_status": "COMPLETED"
+    },
+    "NCT02726659: Adjunctive Use of Celecoxib in the Treatment of Bipolar Postpartum Depression": {
+      "name": "NCT02726659: Adjunctive Use of Celecoxib in the Treatment of Bipolar Postpartum Depression",
+      "category": "mental_health",
+      "nct_id": "NCT02726659",
+      "phase": "PHASE3",
+      "target_condition": "Bipolar Disorder",
+      "intervention_dosage": "Celecoxib, Placebo",
+      "sample_size": "1 patients",
+      "primary_endpoint": "Hamilton Rating Scale for Depression (HAM-D)",
+      "lead_sponsor": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's",
+      "study_status": "TERMINATED"
+    }
+  }
+}

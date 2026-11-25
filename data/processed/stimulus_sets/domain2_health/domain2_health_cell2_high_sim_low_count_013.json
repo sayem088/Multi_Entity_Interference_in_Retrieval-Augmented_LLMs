@@ -1,0 +1,51 @@
+{
+  "scenario_id": "domain2_health_cell2_high_sim_low_count_013",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell2_high_sim_low_count",
+  "cell_label": "high_sim_low_count",
+  "cell_description": "2 entities from the same category with identical attribute schemas.",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_02",
+      "category": "oncology_trial",
+      "name": "NCT03806049: Trial Comparing Niraparib-bevacizumab-Dostarlimab and Niraparib-bevacizumab t...",
+      "attributes": {
+        "name": "NCT03806049: Trial Comparing Niraparib-bevacizumab-Dostarlimab and Niraparib-bevacizumab t...",
+        "category": "oncology_trial",
+        "nct_id": "NCT03806049",
+        "phase": "PHASE3",
+        "target_condition": "Ovarian Cancer",
+        "intervention_dosage": "Niraparib, Bevacizumab, TSR042",
+        "sample_size": "450 patients",
+        "primary_endpoint": "Progression-free Survival",
+        "lead_sponsor": "Nordic Society of Gynaecological Oncology - Clinical Trials Unit",
+        "study_status": "WITHDRAWN",
+        "median_overall_survival": "18.2 months",
+        "grade3_toxicity_rate": "28.5%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_07",
+      "category": "oncology_trial",
+      "name": "NCT04134897: Neoadjuvant Chemotherapy in Patients With Moderate Risk Mid Rectal Cancer",
+      "attributes": {
+        "name": "NCT04134897: Neoadjuvant Chemotherapy in Patients With Moderate Risk Mid Rectal Cancer",
+        "category": "oncology_trial",
+        "nct_id": "NCT04134897",
+        "phase": "PHASE3",
+        "target_condition": "Rectal Neoplasms Malignant",
+        "intervention_dosage": "Capecitabine, Oxaliplatin, Capecitabine",
+        "sample_size": "316 patients",
+        "primary_endpoint": "2-year local recurrence rate",
+        "lead_sponsor": "Blokhin's Russian Cancer Research Center",
+        "study_status": "UNKNOWN",
+        "median_overall_survival": "20.4 months",
+        "grade3_toxicity_rate": "38.7%"
+      }
+    }
+  ]
+}

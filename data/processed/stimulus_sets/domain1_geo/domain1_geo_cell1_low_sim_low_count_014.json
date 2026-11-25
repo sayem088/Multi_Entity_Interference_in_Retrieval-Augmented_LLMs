@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_014",
+  "domain_id": "domain1_geo",
+  "domain_name": "GeoAI & Spatial Infrastructure (London)",
+  "cell_id": "cell1_low_sim_low_count",
+  "cell_label": "low_sim_low_count",
+  "cell_description": "2 entities from distinct categories with disjoint attribute schemas.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "geo_hospital_06",
+      "category": "hospital",
+      "name": "Cassel Hospital",
+      "attributes": {
+        "name": "Cassel Hospital",
+        "category": "hospital",
+        "distance_km": "15.1 km",
+        "bearing": "South-West",
+        "travel_time": "36 mins",
+        "borough": "London Borough of Richmond upon Thames",
+        "postcode": "TW10 7JF",
+        "hospital_capacity": "1000 beds",
+        "emergency_department": "no",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    },
+    {
+      "entity_id": "geo_restaurant_05",
+      "category": "restaurant",
+      "name": "The Anthologist",
+      "attributes": {
+        "name": "The Anthologist",
+        "category": "restaurant",
+        "distance_km": "2.7 km",
+        "bearing": "East",
+        "travel_time": "6 mins",
+        "borough": "Leadenhall Market",
+        "postcode": "EC2V 7BB",
+        "dining_service": "dine_in_and_takeaway",
+        "cuisine_specialty": "british_and_international",
+        "table_reservation": "recommended",
+        "food_hygiene_rating": "5_stars"
+      }
+    }
+  ]
+}

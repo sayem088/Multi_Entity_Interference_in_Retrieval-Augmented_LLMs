@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_019",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Clinical Trial Protocols & Healthcare Interventions.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh... (Category: oncology_trial)\n  - nct_id: NCT02730091\n  - phase: PHASE3\n  - target_condition: Breast Cancer\n  - intervention_dosage: Letrozole, Anastrozole, Vinorelbine\n  - sample_size: 98 patients\n  - primary_endpoint: progression-free survival (PFS)\n  - lead_sponsor: Centre Hospitalier Universitaire de Besancon\n  - study_status: TERMINATED\n  - median_overall_survival: 16.5 months\n  - grade3_toxicity_rate: 22.1%\n\nEntity: NCT04987229: Long-term Safety Extension Study of OLZ/SAM in Pediatric Subjects (Category: pediatric_study)\n  - nct_id: NCT04987229\n  - phase: PHASE3\n  - target_condition: Bipolar I Disorder\n  - intervention_dosage: OLZ/SAM\n  - sample_size: 236 patients\n  - primary_endpoint: Incidence of adverse events\n  - lead_sponsor: Alkermes, Inc.\n  - study_status: ENROLLING_BY_INVITATION\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...\n- nct_id: NCT02730091\n- phase: PHASE3\n- target_condition: Breast Cancer\n- intervention_dosage: Letrozole, Anastrozole, Vinorelbine\n- sample_size: 98 patients\n- primary_endpoint: progression-free survival (PFS)\n- lead_sponsor: Centre Hospitalier Universitaire de Besancon\n- study_status: TERMINATED\n- median_overall_survival: 16.5 months\n- grade3_toxicity_rate: 22.1%\n\nEntity: NCT04987229: Long-term Safety Extension Study of OLZ/SAM in Pediatric Subjects\n- nct_id: NCT04987229\n- phase: PHASE3\n- target_condition: Bipolar I Disorder\n- intervention_dosage: OLZ/SAM\n- sample_size: 236 patients\n- primary_endpoint: Incidence of adverse events\n- lead_sponsor: Alkermes, Inc.\n- study_status: ENROLLING_BY_INVITATION",
+  "generation_time_sec": 18.94,
+  "timestamp": "2026-11-18T18:41:49.140139"
+}

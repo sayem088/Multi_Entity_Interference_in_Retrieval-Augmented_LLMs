@@ -1,0 +1,151 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_006",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell3_low_sim_high_count",
+  "cell_label": "low_sim_high_count",
+  "cell_description": "8 entities from mixed distinct categories with low schema overlap.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_07",
+      "category": "oncology_trial",
+      "name": "NCT04134897: Neoadjuvant Chemotherapy in Patients With Moderate Risk Mid Rectal Cancer",
+      "attributes": {
+        "name": "NCT04134897: Neoadjuvant Chemotherapy in Patients With Moderate Risk Mid Rectal Cancer",
+        "category": "oncology_trial",
+        "nct_id": "NCT04134897",
+        "phase": "PHASE3",
+        "target_condition": "Rectal Neoplasms Malignant",
+        "intervention_dosage": "Capecitabine, Oxaliplatin, Capecitabine",
+        "sample_size": "316 patients",
+        "primary_endpoint": "2-year local recurrence rate",
+        "lead_sponsor": "Blokhin's Russian Cancer Research Center",
+        "study_status": "UNKNOWN",
+        "median_overall_survival": "20.4 months",
+        "grade3_toxicity_rate": "38.7%"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_10",
+      "category": "cardiology_trial",
+      "name": "NCT02809131: Perioperative Antibiotic Therapy to Prevent Cardiac Implantable Electronic De...",
+      "attributes": {
+        "name": "NCT02809131: Perioperative Antibiotic Therapy to Prevent Cardiac Implantable Electronic De...",
+        "category": "cardiology_trial",
+        "nct_id": "NCT02809131",
+        "phase": "PHASE3",
+        "target_condition": "Sick Sinus Syndrome",
+        "intervention_dosage": "polymixin/bacitracin, cephalexin, or levofloxacin, or clindamycin, Saline",
+        "sample_size": "1010 patients",
+        "primary_endpoint": "Number of Patients With a Major Cardiac Implantable Elect...",
+        "lead_sponsor": "Vanderbilt University Medical Center",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_12",
+      "category": "neurology_trial",
+      "name": "NCT06647498: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for...",
+      "attributes": {
+        "name": "NCT06647498: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for...",
+        "category": "neurology_trial",
+        "nct_id": "NCT06647498",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Alzheimers Disease",
+        "intervention_dosage": "Remternetug, Matching Placebo (Remternetug)",
+        "sample_size": "280 patients",
+        "primary_endpoint": "Stage 1: Change in amyloid load as measured by centiloid ...",
+        "lead_sponsor": "Washington University School of Medicine",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_01",
+      "category": "infectious_disease",
+      "name": "NCT04001608: Study of Seraprevir in Combination With Sofosbuvir in Chronic Genotype 1 Hepa...",
+      "attributes": {
+        "name": "NCT04001608: Study of Seraprevir in Combination With Sofosbuvir in Chronic Genotype 1 Hepa...",
+        "category": "infectious_disease",
+        "nct_id": "NCT04001608",
+        "phase": "PHASE3",
+        "target_condition": "Hepatitis C Virus Infection",
+        "intervention_dosage": "Seraprevir, Sofosbuvir",
+        "sample_size": "206 patients",
+        "primary_endpoint": "Percentage of Participants Achieving a Sustained Virologi...",
+        "lead_sponsor": "Ginkgopharma CO., LTD",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_10",
+      "category": "vaccine_study",
+      "name": "NCT00996125: Immunogenicity and Safety Study of GSK Biologicals' Human Papillomavirus 5802...",
+      "attributes": {
+        "name": "NCT00996125: Immunogenicity and Safety Study of GSK Biologicals' Human Papillomavirus 5802...",
+        "category": "vaccine_study",
+        "nct_id": "NCT00996125",
+        "phase": "PHASE3",
+        "target_condition": "Infections, Papillomavirus",
+        "intervention_dosage": "CervarixTM, Control",
+        "sample_size": "750 patients",
+        "primary_endpoint": "Geometric Mean Titers (GMTs) for Antibodies Against Human...",
+        "lead_sponsor": "GlaxoSmithKline",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_07",
+      "category": "medical_device",
+      "name": "NCT05207943: Efficacy of the NXSignal Device for the Treatment of Anterior Cruciate Ligame...",
+      "attributes": {
+        "name": "NCT05207943: Efficacy of the NXSignal Device for the Treatment of Anterior Cruciate Ligame...",
+        "category": "medical_device",
+        "nct_id": "NCT05207943",
+        "phase": "NA",
+        "target_condition": "Anterior Cruciate Ligament Injuries",
+        "intervention_dosage": "Non-invasive Neuromodulation, Placebo Non-invasive Neuromodulation",
+        "sample_size": "40 patients",
+        "primary_endpoint": "Knee circumference",
+        "lead_sponsor": "University of Las Palmas de Gran Canaria",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_08",
+      "category": "pediatric_study",
+      "name": "NCT04987229: Long-term Safety Extension Study of OLZ/SAM in Pediatric Subjects",
+      "attributes": {
+        "name": "NCT04987229: Long-term Safety Extension Study of OLZ/SAM in Pediatric Subjects",
+        "category": "pediatric_study",
+        "nct_id": "NCT04987229",
+        "phase": "PHASE3",
+        "target_condition": "Bipolar I Disorder",
+        "intervention_dosage": "OLZ/SAM",
+        "sample_size": "236 patients",
+        "primary_endpoint": "Incidence of adverse events",
+        "lead_sponsor": "Alkermes, Inc.",
+        "study_status": "ENROLLING_BY_INVITATION"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_01",
+      "category": "mental_health",
+      "name": "NCT02726659: Adjunctive Use of Celecoxib in the Treatment of Bipolar Postpartum Depression",
+      "attributes": {
+        "name": "NCT02726659: Adjunctive Use of Celecoxib in the Treatment of Bipolar Postpartum Depression",
+        "category": "mental_health",
+        "nct_id": "NCT02726659",
+        "phase": "PHASE3",
+        "target_condition": "Bipolar Disorder",
+        "intervention_dosage": "Celecoxib, Placebo",
+        "sample_size": "1 patients",
+        "primary_endpoint": "Hamilton Rating Scale for Depression (HAM-D)",
+        "lead_sponsor": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's",
+        "study_status": "TERMINATED"
+      }
+    }
+  ]
+}

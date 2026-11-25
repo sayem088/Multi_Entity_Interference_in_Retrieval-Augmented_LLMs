@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_001",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...": {
+      "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+      "category": "oncology_trial",
+      "nct_id": "NCT01458717",
+      "phase": "PHASE2, PHASE3",
+      "target_condition": "Pancreatic Cancer",
+      "intervention_dosage": "Neoadjuvant chemoradiation, Upfront surgery",
+      "sample_size": "58 patients",
+      "primary_endpoint": "2-year survival rate",
+      "lead_sponsor": "Seoul National University Hospital",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "29.0 months",
+      "grade3_toxicity_rate": "18.9%"
+    },
+    "NCT00763867: Evaluating the Effectiveness of Sildenafil at Improving Health Outcomes and E...": {
+      "name": "NCT00763867: Evaluating the Effectiveness of Sildenafil at Improving Health Outcomes and E...",
+      "category": "cardiology_trial",
+      "nct_id": "NCT00763867",
+      "phase": "PHASE3",
+      "target_condition": "Heart Failure",
+      "intervention_dosage": "Placebo, Sildenafil",
+      "sample_size": "216 patients",
+      "primary_endpoint": "Exercise Capacity, as Determined by Peak Oxygen Uptake",
+      "lead_sponsor": "Duke University",
+      "study_status": "COMPLETED"
+    },
+    "NCT00000177: Estrogen Hormone Protocol": {
+      "name": "NCT00000177: Estrogen Hormone Protocol",
+      "category": "neurology_trial",
+      "nct_id": "NCT00000177",
+      "phase": "PHASE3",
+      "target_condition": "Alzheimer Disease",
+      "intervention_dosage": "Estrogen",
+      "sample_size": "120 patients",
+      "primary_endpoint": "Clinical Response Rate",
+      "lead_sponsor": "National Institute on Aging (NIA)",
+      "study_status": "COMPLETED"
+    },
+    "NCT00200343: Efficacy and Safety Study of Ursodeoxycholic Acid to Treat Chronic Hepatitis C": {
+      "name": "NCT00200343: Efficacy and Safety Study of Ursodeoxycholic Acid to Treat Chronic Hepatitis C",
+      "category": "infectious_disease",
+      "nct_id": "NCT00200343",
+      "phase": "PHASE3",
+      "target_condition": "Chronic Hepatitis C",
+      "intervention_dosage": "Ursodeoxycholic acid 150mg / day, Ursodeoxycholic acid 600mg / day, Ursodeoxycholic acid 900mg / day",
+      "sample_size": "596 patients",
+      "primary_endpoint": "Alanine Aminotransferase at Baseline",
+      "lead_sponsor": "Tanabe Pharma Corporation",
+      "study_status": "COMPLETED"
+    },
+    "NCT04381689: Phase 3 Study to Evaluate the Immunogenicity and Safety of Inactived Split In...": {
+      "name": "NCT04381689: Phase 3 Study to Evaluate the Immunogenicity and Safety of Inactived Split In...",
+      "category": "vaccine_study",
+      "nct_id": "NCT04381689",
+      "phase": "PHASE3",
+      "target_condition": "Healthy",
+      "intervention_dosage": "IL-YANG FLU Vaccine Prefilled Syringe INJ., Fluarix Tetra Pre-filled Syringe",
+      "sample_size": "260 patients",
+      "primary_endpoint": "Primary immunogenicity endpoints",
+      "lead_sponsor": "Il-Yang Pharm. Co., Ltd.",
+      "study_status": "COMPLETED"
+    },
+    "NCT05206474: To Evaluate the Performance and Safety of the Medical Device IRADYN in Subjec...": {
+      "name": "NCT05206474: To Evaluate the Performance and Safety of the Medical Device IRADYN in Subjec...",
+      "category": "medical_device",
+      "nct_id": "NCT05206474",
+      "phase": "NA",
+      "target_condition": "Knee Osteoarthritis",
+      "intervention_dosage": "IRADYN",
+      "sample_size": "50 patients",
+      "primary_endpoint": "Change in Range of Motion (ROM)",
+      "lead_sponsor": "I.R.A. Istituto Ricerche Applicate S.p.A.",
+      "study_status": "UNKNOWN"
+    },
+    "NCT01617447: A Short Treatment Study of Aripiprazole in Pediatric Patients With Autistic D...": {
+      "name": "NCT01617447: A Short Treatment Study of Aripiprazole in Pediatric Patients With Autistic D...",
+      "category": "pediatric_study",
+      "nct_id": "NCT01617447",
+      "phase": "PHASE3",
+      "target_condition": "Autistic Disorder",
+      "intervention_dosage": "Placebo of Aripiprazole, Aripiprazole",
+      "sample_size": "92 patients",
+      "primary_endpoint": "Mean Change From Baseline in the Aberrant Behavior Checkl...",
+      "lead_sponsor": "Otsuka Pharmaceutical Co., Ltd.",
+      "study_status": "COMPLETED"
+    },
+    "NCT00960232: Vitamin D, Blood Pressure, Lipids, Infection and Depression": {
+      "name": "NCT00960232: Vitamin D, Blood Pressure, Lipids, Infection and Depression",
+      "category": "mental_health",
+      "nct_id": "NCT00960232",
+      "phase": "PHASE3",
+      "target_condition": "Hypovitaminosis D",
+      "intervention_dosage": "Cholecalciferol, placebo",
+      "sample_size": "250 patients",
+      "primary_endpoint": "Depression score",
+      "lead_sponsor": "University of Tromso",
+      "study_status": "COMPLETED"
+    }
+  }
+}

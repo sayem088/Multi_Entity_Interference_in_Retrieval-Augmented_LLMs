@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_025",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entity_map": {
+    "NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...": {
+      "name": "NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...",
+      "category": "oncology_trial",
+      "nct_id": "NCT02730091",
+      "phase": "PHASE3",
+      "target_condition": "Breast Cancer",
+      "intervention_dosage": "Letrozole, Anastrozole, Vinorelbine",
+      "sample_size": "98 patients",
+      "primary_endpoint": "progression-free survival (PFS)",
+      "lead_sponsor": "Centre Hospitalier Universitaire de Besancon",
+      "study_status": "TERMINATED",
+      "median_overall_survival": "16.5 months",
+      "grade3_toxicity_rate": "22.1%"
+    },
+    "NCT02064478: Clinical Survey of Oticon Medical Ponto Implants and a Surgical Technique Wit...": {
+      "name": "NCT02064478: Clinical Survey of Oticon Medical Ponto Implants and a Surgical Technique Wit...",
+      "category": "medical_device",
+      "nct_id": "NCT02064478",
+      "phase": "Not Specified",
+      "target_condition": "Conductive Hearing Loss",
+      "intervention_dosage": "Standard of Care",
+      "sample_size": "25 patients",
+      "primary_endpoint": "Numbness around implant, specifically mean Total sensibility",
+      "lead_sponsor": "Oticon Medical",
+      "study_status": "COMPLETED"
+    }
+  }
+}

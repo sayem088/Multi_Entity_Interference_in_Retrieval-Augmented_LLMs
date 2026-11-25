@@ -1,0 +1,113 @@
+{
+  "scenario_id": "domain1_geo_cell4_high_sim_high_count_024",
+  "domain_id": "domain1_geo",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entity_map": {
+    "Royal Brompton Hospital": {
+      "name": "Royal Brompton Hospital",
+      "category": "hospital",
+      "distance_km": "3.6 km",
+      "bearing": "South-West",
+      "travel_time": "9 mins",
+      "borough": "Royal Borough of Kensington and Chelsea",
+      "postcode": "SW3 6PY",
+      "hospital_capacity": "710 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 1",
+      "heliport_access": "no"
+    },
+    "St Bartholomew's Hospital": {
+      "name": "St Bartholomew's Hospital",
+      "category": "hospital",
+      "distance_km": "2.2 km",
+      "bearing": "North-East",
+      "travel_time": "5 mins",
+      "borough": "West Smithfield",
+      "postcode": "EC1A 9DE",
+      "hospital_capacity": "950 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 1",
+      "heliport_access": "yes"
+    },
+    "Homerton University Hospital": {
+      "name": "Homerton University Hospital",
+      "category": "hospital",
+      "distance_km": "7.4 km",
+      "bearing": "North-East",
+      "travel_time": "18 mins",
+      "borough": "London Borough of Hackney",
+      "postcode": "E9 6DH",
+      "hospital_capacity": "840 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 1",
+      "heliport_access": "yes"
+    },
+    "City & Hackney Centre for Mental Health": {
+      "name": "City & Hackney Centre for Mental Health",
+      "category": "hospital",
+      "distance_km": "7.4 km",
+      "bearing": "North-East",
+      "travel_time": "18 mins",
+      "borough": "London Borough of Hackney",
+      "postcode": "E9 6BX",
+      "hospital_capacity": "675 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    },
+    "John Howard Centre": {
+      "name": "John Howard Centre",
+      "category": "hospital",
+      "distance_km": "7.6 km",
+      "bearing": "North-East",
+      "travel_time": "18 mins",
+      "borough": "London Borough of Hackney",
+      "postcode": "E9 5TD",
+      "hospital_capacity": "665 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    },
+    "Until SOHO": {
+      "name": "Until SOHO",
+      "category": "hospital",
+      "distance_km": "0.7 km",
+      "bearing": "North",
+      "travel_time": "2 mins",
+      "borough": "London Borough of Camden",
+      "postcode": "WC2H 0DT",
+      "hospital_capacity": "430 beds",
+      "emergency_department": "no",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    },
+    "Cassel Hospital": {
+      "name": "Cassel Hospital",
+      "category": "hospital",
+      "distance_km": "15.1 km",
+      "bearing": "South-West",
+      "travel_time": "36 mins",
+      "borough": "London Borough of Richmond upon Thames",
+      "postcode": "TW10 7JF",
+      "hospital_capacity": "1000 beds",
+      "emergency_department": "no",
+      "trauma_center_level": "Level 1",
+      "heliport_access": "yes"
+    },
+    "Royal Free Hospital": {
+      "name": "Royal Free Hospital",
+      "category": "hospital",
+      "distance_km": "5.6 km",
+      "bearing": "North-West",
+      "travel_time": "14 mins",
+      "borough": "London Borough of Camden",
+      "postcode": "NW3 2QG",
+      "hospital_capacity": "380 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    }
+  }
+}

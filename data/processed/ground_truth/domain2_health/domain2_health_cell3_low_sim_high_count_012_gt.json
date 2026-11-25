@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_012",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT00778908: Late-Course Accelerated Hyperfractionated IMRT for Locoregionally Advanced Na...": {
+      "name": "NCT00778908: Late-Course Accelerated Hyperfractionated IMRT for Locoregionally Advanced Na...",
+      "category": "oncology_trial",
+      "nct_id": "NCT00778908",
+      "phase": "PHASE2, PHASE3",
+      "target_condition": "Nasopharyngeal Carcinoma",
+      "intervention_dosage": "Late-course accelerated hyperfractionated IMRT, Concomitant cisplatin chemotherapy, Conventionally fractionated IMRT",
+      "sample_size": "120 patients",
+      "primary_endpoint": "Local/regional control rate, Acute and late toxicities",
+      "lead_sponsor": "Guangxi Medical University",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "31.2 months",
+      "grade3_toxicity_rate": "36.4%"
+    },
+    "NCT00238836: Anticipatory & Preventive Team Care (APTCare): At Risk Patients of Family Hea...": {
+      "name": "NCT00238836: Anticipatory & Preventive Team Care (APTCare): At Risk Patients of Family Hea...",
+      "category": "cardiology_trial",
+      "nct_id": "NCT00238836",
+      "phase": "PHASE2, PHASE3",
+      "target_condition": "Diabetes",
+      "intervention_dosage": "Self-management of chronic illness",
+      "sample_size": "240 patients",
+      "primary_endpoint": "Clinical Response Rate",
+      "lead_sponsor": "C. T. Lamont Primary Care Research Centre",
+      "study_status": "UNKNOWN"
+    },
+    "NCT05894954: Precision Medicine Approach for Early Dementia & Mild Cognitive Impairment": {
+      "name": "NCT05894954: Precision Medicine Approach for Early Dementia & Mild Cognitive Impairment",
+      "category": "neurology_trial",
+      "nct_id": "NCT05894954",
+      "phase": "PHASE3",
+      "target_condition": "Mild Cognitive Impairment",
+      "intervention_dosage": "Precision Medicine Approach, Hormones and Medications tailored to lab tests, combined with devices that support stress management and brain exercises, Standard-of-Care",
+      "sample_size": "73 patients",
+      "primary_endpoint": "Changes in mean Montreal Cognition Assessment (MoCA) scor...",
+      "lead_sponsor": "Alzheimer's Prevention and Reversal Project, Inc.",
+      "study_status": "COMPLETED"
+    },
+    "NCT00391482: Study to Reduce Intravenous Exposures (STRIVE)": {
+      "name": "NCT00391482: Study to Reduce Intravenous Exposures (STRIVE)",
+      "category": "infectious_disease",
+      "nct_id": "NCT00391482",
+      "phase": "PHASE2, PHASE3",
+      "target_condition": "Hepatitis C",
+      "intervention_dosage": "Peer Mentoring Intervention for HCV-Infected IDUs",
+      "sample_size": "750 patients",
+      "primary_endpoint": "Self-reported frequency of distributive sharing of inject...",
+      "lead_sponsor": "National Institute on Drug Abuse (NIDA)",
+      "study_status": "COMPLETED"
+    },
+    "NCT00127010: Immunogenicity and Safety of a Combined Vaccine to Prevent Measles, Mumps, Ru...": {
+      "name": "NCT00127010: Immunogenicity and Safety of a Combined Vaccine to Prevent Measles, Mumps, Ru...",
+      "category": "vaccine_study",
+      "nct_id": "NCT00127010",
+      "phase": "PHASE3",
+      "target_condition": "Measles",
+      "intervention_dosage": "Measles, Mumps, Rubella and Chickenpox (live vaccine)",
+      "sample_size": "750 patients",
+      "primary_endpoint": "Antibody levels after vaccination",
+      "lead_sponsor": "GlaxoSmithKline",
+      "study_status": "COMPLETED"
+    },
+    "NCT05482555: Percutaneous Plug-based Femoral Arteriotomy Closure Device Use in Surgery for...": {
+      "name": "NCT05482555: Percutaneous Plug-based Femoral Arteriotomy Closure Device Use in Surgery for...",
+      "category": "medical_device",
+      "nct_id": "NCT05482555",
+      "phase": "Not Specified",
+      "target_condition": "Aortic Dissection",
+      "intervention_dosage": "Percutaneous arteriotomy closed using a plug-based arteriotomy closure device, Surgical cut-down and arterial puncture under direct vision",
+      "sample_size": "171 patients",
+      "primary_endpoint": "Femoral access site complication",
+      "lead_sponsor": "Karolinska University Hospital",
+      "study_status": "COMPLETED"
+    },
+    "NCT05753774: Effect of Fecal Microbiota Transplantation (FMT) in Pediatric Functional Gast...": {
+      "name": "NCT05753774: Effect of Fecal Microbiota Transplantation (FMT) in Pediatric Functional Gast...",
+      "category": "pediatric_study",
+      "nct_id": "NCT05753774",
+      "phase": "PHASE3",
+      "target_condition": "Functional Gastrointestinal Disorders",
+      "intervention_dosage": "FMT, Conventional drugs",
+      "sample_size": "47 patients",
+      "primary_endpoint": "The composite response",
+      "lead_sponsor": "Biao Zou",
+      "study_status": "TERMINATED"
+    },
+    "NCT00252356: Efficacy and Safety of SR58611A in Patients With Major Depressive Disorder": {
+      "name": "NCT00252356: Efficacy and Safety of SR58611A in Patients With Major Depressive Disorder",
+      "category": "mental_health",
+      "nct_id": "NCT00252356",
+      "phase": "PHASE3",
+      "target_condition": "Major Depressive Disorder",
+      "intervention_dosage": "SR58611A",
+      "sample_size": "468 patients",
+      "primary_endpoint": "17-item Hamilton Depression Rating Scale (HAM-D) total score",
+      "lead_sponsor": "Sanofi",
+      "study_status": "COMPLETED"
+    }
+  }
+}

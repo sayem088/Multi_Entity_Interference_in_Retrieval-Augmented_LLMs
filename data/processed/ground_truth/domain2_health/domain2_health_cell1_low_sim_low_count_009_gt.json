@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_009",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entity_map": {
+    "NCT05183035: Venetoclax in Children With Relapsed Acute Myeloid Leukemia (AML)": {
+      "name": "NCT05183035: Venetoclax in Children With Relapsed Acute Myeloid Leukemia (AML)",
+      "category": "oncology_trial",
+      "nct_id": "NCT05183035",
+      "phase": "PHASE3",
+      "target_condition": "Acute Myeloid Leukemia",
+      "intervention_dosage": "Fludarabine, Cytarabine, Gemtuzumab Ozogamicin",
+      "sample_size": "120 patients",
+      "primary_endpoint": "Overall Survival (OS)",
+      "lead_sponsor": "PedAL BCU, LLC",
+      "study_status": "ACTIVE_NOT_RECRUITING",
+      "median_overall_survival": "17.4 months",
+      "grade3_toxicity_rate": "42.5%"
+    },
+    "NCT01935817: Silybin - Vitamin E- Phospholipids Complex Reduces Liver Fibrosis in Patients...": {
+      "name": "NCT01935817: Silybin - Vitamin E- Phospholipids Complex Reduces Liver Fibrosis in Patients...",
+      "category": "infectious_disease",
+      "nct_id": "NCT01935817",
+      "phase": "PHASE3",
+      "target_condition": "Liver Fibrosis",
+      "intervention_dosage": "Silybin 94 mg + vitamin E 90 mg + phospholipids 194 mg complex, Placebo",
+      "sample_size": "64 patients",
+      "primary_endpoint": "transforming growth factor beta",
+      "lead_sponsor": "University of Catania",
+      "study_status": "COMPLETED"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_025",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...": {
+      "name": "NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...",
+      "category": "oncology_trial",
+      "nct_id": "NCT02730091",
+      "phase": "PHASE3",
+      "target_condition": "Breast Cancer",
+      "intervention_dosage": "Letrozole, Anastrozole, Vinorelbine",
+      "sample_size": "98 patients",
+      "primary_endpoint": "progression-free survival (PFS)",
+      "lead_sponsor": "Centre Hospitalier Universitaire de Besancon",
+      "study_status": "TERMINATED",
+      "median_overall_survival": "16.5 months",
+      "grade3_toxicity_rate": "22.1%"
+    },
+    "NCT00123903: COREG MR Versus TOPROL-XL On Reduction Of Microalbuminuria In Patients With H...": {
+      "name": "NCT00123903: COREG MR Versus TOPROL-XL On Reduction Of Microalbuminuria In Patients With H...",
+      "category": "cardiology_trial",
+      "nct_id": "NCT00123903",
+      "phase": "PHASE3",
+      "target_condition": "Heart Failure, Congestive and Microalbuminuria",
+      "intervention_dosage": "metoprolol xl, carvedilol MR, lisinopril",
+      "sample_size": "1220 patients",
+      "primary_endpoint": "Change from baseline in urine albumin: creatinine ratio (...",
+      "lead_sponsor": "GlaxoSmithKline",
+      "study_status": "TERMINATED"
+    },
+    "NCT04418024: Efficacy and Safety of AG10 in Subjects with Transthyretin Amyloid Polyneurop...": {
+      "name": "NCT04418024: Efficacy and Safety of AG10 in Subjects with Transthyretin Amyloid Polyneurop...",
+      "category": "neurology_trial",
+      "nct_id": "NCT04418024",
+      "phase": "PHASE3",
+      "target_condition": "Transthyretin-Related (ATTR) Familial Amyloid Polyneuropathy",
+      "intervention_dosage": "AG10, Placebo",
+      "sample_size": "450 patients",
+      "primary_endpoint": "Change from baseline to Month 18 of treatment in Modified...",
+      "lead_sponsor": "Eidos Therapeutics, a BridgeBio company",
+      "study_status": "WITHDRAWN"
+    },
+    "NCT00200343: Efficacy and Safety Study of Ursodeoxycholic Acid to Treat Chronic Hepatitis C": {
+      "name": "NCT00200343: Efficacy and Safety Study of Ursodeoxycholic Acid to Treat Chronic Hepatitis C",
+      "category": "infectious_disease",
+      "nct_id": "NCT00200343",
+      "phase": "PHASE3",
+      "target_condition": "Chronic Hepatitis C",
+      "intervention_dosage": "Ursodeoxycholic acid 150mg / day, Ursodeoxycholic acid 600mg / day, Ursodeoxycholic acid 900mg / day",
+      "sample_size": "596 patients",
+      "primary_endpoint": "Alanine Aminotransferase at Baseline",
+      "lead_sponsor": "Tanabe Pharma Corporation",
+      "study_status": "COMPLETED"
+    },
+    "NCT00127010: Immunogenicity and Safety of a Combined Vaccine to Prevent Measles, Mumps, Ru...": {
+      "name": "NCT00127010: Immunogenicity and Safety of a Combined Vaccine to Prevent Measles, Mumps, Ru...",
+      "category": "vaccine_study",
+      "nct_id": "NCT00127010",
+      "phase": "PHASE3",
+      "target_condition": "Measles",
+      "intervention_dosage": "Measles, Mumps, Rubella and Chickenpox (live vaccine)",
+      "sample_size": "750 patients",
+      "primary_endpoint": "Antibody levels after vaccination",
+      "lead_sponsor": "GlaxoSmithKline",
+      "study_status": "COMPLETED"
+    },
+    "NCT03428282: Pain and Anxiety Control During Traditional Mandibular Anesthesia in Children...": {
+      "name": "NCT03428282: Pain and Anxiety Control During Traditional Mandibular Anesthesia in Children...",
+      "category": "medical_device",
+      "nct_id": "NCT03428282",
+      "phase": "NA",
+      "target_condition": "Inferior Alveolar Nerve Block",
+      "intervention_dosage": "VR Box, Tablet Device, Anesthesia",
+      "sample_size": "102 patients",
+      "primary_endpoint": "Pain levels",
+      "lead_sponsor": "Damascus University",
+      "study_status": "COMPLETED"
+    },
+    "NCT04987229: Long-term Safety Extension Study of OLZ/SAM in Pediatric Subjects": {
+      "name": "NCT04987229: Long-term Safety Extension Study of OLZ/SAM in Pediatric Subjects",
+      "category": "pediatric_study",
+      "nct_id": "NCT04987229",
+      "phase": "PHASE3",
+      "target_condition": "Bipolar I Disorder",
+      "intervention_dosage": "OLZ/SAM",
+      "sample_size": "236 patients",
+      "primary_endpoint": "Incidence of adverse events",
+      "lead_sponsor": "Alkermes, Inc.",
+      "study_status": "ENROLLING_BY_INVITATION"
+    },
+    "NCT05186272: mHealth Mindfulness Intervention for Pregnant Black and Latina Women at Risk ...": {
+      "name": "NCT05186272: mHealth Mindfulness Intervention for Pregnant Black and Latina Women at Risk ...",
+      "category": "mental_health",
+      "nct_id": "NCT05186272",
+      "phase": "PHASE3",
+      "target_condition": "Post Partum Depression",
+      "intervention_dosage": "Stress reduction program 'A', Stress reduction program 'B'",
+      "sample_size": "600 patients",
+      "primary_endpoint": "Patient Health Questionnaire-9",
+      "lead_sponsor": "Kaiser Permanente",
+      "study_status": "ACTIVE_NOT_RECRUITING"
+    }
+  }
+}

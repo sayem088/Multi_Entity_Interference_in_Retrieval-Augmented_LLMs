@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_021",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT02547233: Efficacy and Safety of LEO 43204 in Field Treatment of Actinic Keratosis on F...": {
+      "name": "NCT02547233: Efficacy and Safety of LEO 43204 in Field Treatment of Actinic Keratosis on F...",
+      "category": "oncology_trial",
+      "nct_id": "NCT02547233",
+      "phase": "PHASE3",
+      "target_condition": "Actinic Keratosis",
+      "intervention_dosage": "LEO 43204 gel, Vehicle gel",
+      "sample_size": "437 patients",
+      "primary_endpoint": "Percentage of Participants With Complete Clearance of Act...",
+      "lead_sponsor": "LEO Pharma",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "19.1 months",
+      "grade3_toxicity_rate": "33.0%"
+    },
+    "NCT00238836: Anticipatory & Preventive Team Care (APTCare): At Risk Patients of Family Hea...": {
+      "name": "NCT00238836: Anticipatory & Preventive Team Care (APTCare): At Risk Patients of Family Hea...",
+      "category": "cardiology_trial",
+      "nct_id": "NCT00238836",
+      "phase": "PHASE2, PHASE3",
+      "target_condition": "Diabetes",
+      "intervention_dosage": "Self-management of chronic illness",
+      "sample_size": "240 patients",
+      "primary_endpoint": "Clinical Response Rate",
+      "lead_sponsor": "C. T. Lamont Primary Care Research Centre",
+      "study_status": "UNKNOWN"
+    },
+    "NCT01152216: An Extension of the CONCERT Protocol (DIM18)": {
+      "name": "NCT01152216: An Extension of the CONCERT Protocol (DIM18)",
+      "category": "neurology_trial",
+      "nct_id": "NCT01152216",
+      "phase": "PHASE3",
+      "target_condition": "Alzheimer's Disease",
+      "intervention_dosage": "Dimebon",
+      "sample_size": "672 patients",
+      "primary_endpoint": "Safety",
+      "lead_sponsor": "Medivation, Inc.",
+      "study_status": "TERMINATED"
+    },
+    "NCT02858440: A Study to Assess the Immunogenicity and Safety of GSK Biologicals' Infanrix-...": {
+      "name": "NCT02858440: A Study to Assess the Immunogenicity and Safety of GSK Biologicals' Infanrix-...",
+      "category": "infectious_disease",
+      "nct_id": "NCT02858440",
+      "phase": "PHASE3",
+      "target_condition": "Diphtheria",
+      "intervention_dosage": "Infanrix-IPV/Hib",
+      "sample_size": "235 patients",
+      "primary_endpoint": "Number of Seroprotected Subjects for Anti-diphtheria (Ant...",
+      "lead_sponsor": "GlaxoSmithKline",
+      "study_status": "COMPLETED"
+    },
+    "NCT04980391: A Study on the Safety and Immune Response to an Unadjuvanted RSV Maternal Vac...": {
+      "name": "NCT04980391: A Study on the Safety and Immune Response to an Unadjuvanted RSV Maternal Vac...",
+      "category": "vaccine_study",
+      "nct_id": "NCT04980391",
+      "phase": "PHASE3",
+      "target_condition": "Respiratory Syncytial Virus Infections",
+      "intervention_dosage": "RSV MAT, Placebo",
+      "sample_size": "384 patients",
+      "primary_endpoint": "Percentage of Maternal Participants Reporting Any Solicit...",
+      "lead_sponsor": "GlaxoSmithKline",
+      "study_status": "TERMINATED"
+    },
+    "NCT02219308: Pain Control for Intrauterine Device Placement Using Paracervical Block": {
+      "name": "NCT02219308: Pain Control for Intrauterine Device Placement Using Paracervical Block",
+      "category": "medical_device",
+      "nct_id": "NCT02219308",
+      "phase": "NA",
+      "target_condition": "Pain Due to Intrauterine Contraceptive Device",
+      "intervention_dosage": "Paracervical Block (PCB), No Paracervical Block (Sham PCB)",
+      "sample_size": "67 patients",
+      "primary_endpoint": "Pain With Intrauterine Device (IUD) Placement",
+      "lead_sponsor": "University of California, San Diego",
+      "study_status": "COMPLETED"
+    },
+    "NCT05468840: Study of IV Ketamine for Emergency Department Treatment of Adolescent Suicida...": {
+      "name": "NCT05468840: Study of IV Ketamine for Emergency Department Treatment of Adolescent Suicida...",
+      "category": "pediatric_study",
+      "nct_id": "NCT05468840",
+      "phase": "PHASE3",
+      "target_condition": "Suicidal Ideation",
+      "intervention_dosage": "Ketamine Hydrochloride, Normal saline",
+      "sample_size": "20 patients",
+      "primary_endpoint": "Feasibility of the study as measured by the percentage of...",
+      "lead_sponsor": "University of Ottawa",
+      "study_status": "UNKNOWN"
+    },
+    "NCT00006286: Treatment for Adolescents With Depression Study (TADS)": {
+      "name": "NCT00006286: Treatment for Adolescents With Depression Study (TADS)",
+      "category": "mental_health",
+      "nct_id": "NCT00006286",
+      "phase": "PHASE3",
+      "target_condition": "Major Depressive Disorder",
+      "intervention_dosage": "Fluoxetine, Psychotherapy",
+      "sample_size": "432 patients",
+      "primary_endpoint": "Clinical Response Rate",
+      "lead_sponsor": "National Institute of Mental Health (NIMH)",
+      "study_status": "COMPLETED"
+    }
+  }
+}

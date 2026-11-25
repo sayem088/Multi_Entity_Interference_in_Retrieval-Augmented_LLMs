@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_011",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell1_low_sim_low_count",
+  "cell_label": "low_sim_low_count",
+  "cell_description": "2 entities from distinct categories with disjoint attribute schemas.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_09",
+      "category": "oncology_trial",
+      "name": "NCT02547233: Efficacy and Safety of LEO 43204 in Field Treatment of Actinic Keratosis on F...",
+      "attributes": {
+        "name": "NCT02547233: Efficacy and Safety of LEO 43204 in Field Treatment of Actinic Keratosis on F...",
+        "category": "oncology_trial",
+        "nct_id": "NCT02547233",
+        "phase": "PHASE3",
+        "target_condition": "Actinic Keratosis",
+        "intervention_dosage": "LEO 43204 gel, Vehicle gel",
+        "sample_size": "437 patients",
+        "primary_endpoint": "Percentage of Participants With Complete Clearance of Act...",
+        "lead_sponsor": "LEO Pharma",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "19.1 months",
+        "grade3_toxicity_rate": "33.0%"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_03",
+      "category": "infectious_disease",
+      "name": "NCT01374308: NASVAC Phase-III Trial in Chronic Hepatitis B (CHB) Patients",
+      "attributes": {
+        "name": "NCT01374308: NASVAC Phase-III Trial in Chronic Hepatitis B (CHB) Patients",
+        "category": "infectious_disease",
+        "nct_id": "NCT01374308",
+        "phase": "PHASE3",
+        "target_condition": "Chronic Hepatitis B",
+        "intervention_dosage": "NASVAC, Pegylated interferon alpha 2b",
+        "sample_size": "160 patients",
+        "primary_endpoint": "Number of study participants with virological and or bioc...",
+        "lead_sponsor": "Clinical Research Organization, Dhaka, Bangladesh",
+        "study_status": "UNKNOWN"
+      }
+    }
+  ]
+}

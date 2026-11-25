@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_008",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Central London GeoAI & Spatial Infrastructure.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: Royal Brompton Hospital (Category: hospital)\n  - distance_km: 3.6 km\n  - bearing: South-West\n  - travel_time: 9 mins\n  - borough: Royal Borough of Kensington and Chelsea\n  - postcode: SW3 6PY\n  - hospital_capacity: 710 beds\n  - emergency_department: yes\n  - trauma_center_level: Level 1\n  - heliport_access: no\n\nEntity: Homerton Fire Station (Category: fire_station)\n  - distance_km: 7.4 km\n  - bearing: North-East\n  - travel_time: 18 mins\n  - borough: London Borough of Hackney\n  - postcode: E9 6DL\n  - emergency_service: fire_and_rescue\n  - appliances_on_site: 2_pumping_appliances\n  - response_readiness: 24_7_immediate\n  - specialist_rescue: water_and_height\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: Royal Brompton Hospital\n- distance_km: 3.6 km\n- bearing: South-West\n- travel_time: 9 mins\n- borough: Royal Borough of Kensington and Chelsea\n- postcode: SW3 6PY\n- hospital_capacity: 710 beds\n- emergency_department: yes\n- trauma_center_level: Level 1\n- heliport_access: no\n\nEntity: Homerton Fire Station\n- distance_km: 7.4 km\n- bearing: North-East\n- travel_time: 18 mins\n- borough: London Borough of Hackney\n- postcode: E9 6DL\n- emergency_service: fire_and_rescue\n- appliances_on_site: 2_pumping_appliances\n- response_readiness: 24_7_immediate\n- specialist_rescue: water_and_height",
+  "generation_time_sec": 12.894,
+  "timestamp": "2026-11-18T18:02:43.211441"
+}

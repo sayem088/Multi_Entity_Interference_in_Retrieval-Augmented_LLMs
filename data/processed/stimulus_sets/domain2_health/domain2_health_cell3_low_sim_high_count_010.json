@@ -1,0 +1,151 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_010",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell3_low_sim_high_count",
+  "cell_label": "low_sim_high_count",
+  "cell_description": "8 entities from mixed distinct categories with low schema overlap.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_03",
+      "category": "oncology_trial",
+      "name": "NCT06968585: A Study of A166 Versus Trastuzumab Emtansine (T-DM1) in Patients With HER2-Po...",
+      "attributes": {
+        "name": "NCT06968585: A Study of A166 Versus Trastuzumab Emtansine (T-DM1) in Patients With HER2-Po...",
+        "category": "oncology_trial",
+        "nct_id": "NCT06968585",
+        "phase": "PHASE3",
+        "target_condition": "HER2-positive Breast Cancer",
+        "intervention_dosage": "A166, T-DM1",
+        "sample_size": "365 patients",
+        "primary_endpoint": "Progression-free survival (PFS)",
+        "lead_sponsor": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+        "study_status": "ACTIVE_NOT_RECRUITING",
+        "median_overall_survival": "22.0 months",
+        "grade3_toxicity_rate": "41.0%"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_10",
+      "category": "cardiology_trial",
+      "name": "NCT02809131: Perioperative Antibiotic Therapy to Prevent Cardiac Implantable Electronic De...",
+      "attributes": {
+        "name": "NCT02809131: Perioperative Antibiotic Therapy to Prevent Cardiac Implantable Electronic De...",
+        "category": "cardiology_trial",
+        "nct_id": "NCT02809131",
+        "phase": "PHASE3",
+        "target_condition": "Sick Sinus Syndrome",
+        "intervention_dosage": "polymixin/bacitracin, cephalexin, or levofloxacin, or clindamycin, Saline",
+        "sample_size": "1010 patients",
+        "primary_endpoint": "Number of Patients With a Major Cardiac Implantable Elect...",
+        "lead_sponsor": "Vanderbilt University Medical Center",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_09",
+      "category": "neurology_trial",
+      "name": "NCT05026177: Simufilam 50 mg or 100 mg for Mild-to-Moderate Alzheimer's Disease",
+      "attributes": {
+        "name": "NCT05026177: Simufilam 50 mg or 100 mg for Mild-to-Moderate Alzheimer's Disease",
+        "category": "neurology_trial",
+        "nct_id": "NCT05026177",
+        "phase": "PHASE3",
+        "target_condition": "Alzheimer Disease",
+        "intervention_dosage": "Simufilam, Placebo",
+        "sample_size": "1125 patients",
+        "primary_endpoint": "Change From Baseline in the 12-item Alzheimer's Disease A...",
+        "lead_sponsor": "Cassava Sciences, Inc.",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_01",
+      "category": "infectious_disease",
+      "name": "NCT04001608: Study of Seraprevir in Combination With Sofosbuvir in Chronic Genotype 1 Hepa...",
+      "attributes": {
+        "name": "NCT04001608: Study of Seraprevir in Combination With Sofosbuvir in Chronic Genotype 1 Hepa...",
+        "category": "infectious_disease",
+        "nct_id": "NCT04001608",
+        "phase": "PHASE3",
+        "target_condition": "Hepatitis C Virus Infection",
+        "intervention_dosage": "Seraprevir, Sofosbuvir",
+        "sample_size": "206 patients",
+        "primary_endpoint": "Percentage of Participants Achieving a Sustained Virologi...",
+        "lead_sponsor": "Ginkgopharma CO., LTD",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_07",
+      "category": "vaccine_study",
+      "name": "NCT01725217: Immunogenicity and Safety of Meningococcal ACWY Conjugate Vaccine in Healthy ...",
+      "attributes": {
+        "name": "NCT01725217: Immunogenicity and Safety of Meningococcal ACWY Conjugate Vaccine in Healthy ...",
+        "category": "vaccine_study",
+        "nct_id": "NCT01725217",
+        "phase": "PHASE3",
+        "target_condition": "Meningococcal Disease",
+        "intervention_dosage": "MenACWY-CRM",
+        "sample_size": "198 patients",
+        "primary_endpoint": "Percentages of Overall Subjects With Seroresponse After M...",
+        "lead_sponsor": "Novartis Vaccines",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_10",
+      "category": "medical_device",
+      "name": "NCT00884650: Managing Post-operative Pain in Children With Cerebral Palsy Using a Pain Pump",
+      "attributes": {
+        "name": "NCT00884650: Managing Post-operative Pain in Children With Cerebral Palsy Using a Pain Pump",
+        "category": "medical_device",
+        "nct_id": "NCT00884650",
+        "phase": "NA",
+        "target_condition": "Cerebral Palsy",
+        "intervention_dosage": "oral analgesic, intravenous analgesic per pump",
+        "sample_size": "54 patients",
+        "primary_endpoint": "The Amount of Oral Analgesic Each Subject Consumed Over t...",
+        "lead_sponsor": "University of Colorado, Denver",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_10",
+      "category": "pediatric_study",
+      "name": "NCT06055959: A Study to Evaluate Subcutaneous Zilucoplan in Pediatric Participants With Ge...",
+      "attributes": {
+        "name": "NCT06055959: A Study to Evaluate Subcutaneous Zilucoplan in Pediatric Participants With Ge...",
+        "category": "pediatric_study",
+        "nct_id": "NCT06055959",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Generalized Myasthenia Gravis",
+        "intervention_dosage": "Zilucoplan",
+        "sample_size": "8 patients",
+        "primary_endpoint": "Plasma concentrations of zilucoplan (ZLP) sampled at Week...",
+        "lead_sponsor": "UCB Biopharma SRL",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_11",
+      "category": "mental_health",
+      "name": "NCT01429272: Minocycline and Aspirin in the Treatment of Bipolar Depression",
+      "attributes": {
+        "name": "NCT01429272: Minocycline and Aspirin in the Treatment of Bipolar Depression",
+        "category": "mental_health",
+        "nct_id": "NCT01429272",
+        "phase": "PHASE3",
+        "target_condition": "Bipolar Disorder Depression",
+        "intervention_dosage": "Minocycline, Aspirin, placebo",
+        "sample_size": "99 patients",
+        "primary_endpoint": "Treatment Response",
+        "lead_sponsor": "Laureate Institute for Brain Research, Inc.",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

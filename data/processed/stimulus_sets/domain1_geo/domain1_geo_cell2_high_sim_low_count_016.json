@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain1_geo_cell2_high_sim_low_count_016",
+  "domain_id": "domain1_geo",
+  "domain_name": "GeoAI & Spatial Infrastructure (London)",
+  "cell_id": "cell2_high_sim_low_count",
+  "cell_label": "high_sim_low_count",
+  "cell_description": "2 entities from the same category with identical attribute schemas.",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "geo_hospital_06",
+      "category": "hospital",
+      "name": "Cassel Hospital",
+      "attributes": {
+        "name": "Cassel Hospital",
+        "category": "hospital",
+        "distance_km": "15.1 km",
+        "bearing": "South-West",
+        "travel_time": "36 mins",
+        "borough": "London Borough of Richmond upon Thames",
+        "postcode": "TW10 7JF",
+        "hospital_capacity": "1000 beds",
+        "emergency_department": "no",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_01",
+      "category": "hospital",
+      "name": "Homerton University Hospital",
+      "attributes": {
+        "name": "Homerton University Hospital",
+        "category": "hospital",
+        "distance_km": "7.4 km",
+        "bearing": "North-East",
+        "travel_time": "18 mins",
+        "borough": "London Borough of Hackney",
+        "postcode": "E9 6DH",
+        "hospital_capacity": "840 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    }
+  ]
+}

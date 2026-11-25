@@ -1,0 +1,51 @@
+{
+  "scenario_id": "domain2_health_cell2_high_sim_low_count_015",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell2_high_sim_low_count",
+  "cell_label": "high_sim_low_count",
+  "cell_description": "2 entities from the same category with identical attribute schemas.",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_12",
+      "category": "oncology_trial",
+      "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+      "attributes": {
+        "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+        "category": "oncology_trial",
+        "nct_id": "NCT01458717",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Pancreatic Cancer",
+        "intervention_dosage": "Neoadjuvant chemoradiation, Upfront surgery",
+        "sample_size": "58 patients",
+        "primary_endpoint": "2-year survival rate",
+        "lead_sponsor": "Seoul National University Hospital",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "29.0 months",
+        "grade3_toxicity_rate": "18.9%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_09",
+      "category": "oncology_trial",
+      "name": "NCT02547233: Efficacy and Safety of LEO 43204 in Field Treatment of Actinic Keratosis on F...",
+      "attributes": {
+        "name": "NCT02547233: Efficacy and Safety of LEO 43204 in Field Treatment of Actinic Keratosis on F...",
+        "category": "oncology_trial",
+        "nct_id": "NCT02547233",
+        "phase": "PHASE3",
+        "target_condition": "Actinic Keratosis",
+        "intervention_dosage": "LEO 43204 gel, Vehicle gel",
+        "sample_size": "437 patients",
+        "primary_endpoint": "Percentage of Participants With Complete Clearance of Act...",
+        "lead_sponsor": "LEO Pharma",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "19.1 months",
+        "grade3_toxicity_rate": "33.0%"
+      }
+    }
+  ]
+}

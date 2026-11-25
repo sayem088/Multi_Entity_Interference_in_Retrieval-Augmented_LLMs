@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_007",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...": {
+      "name": "NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...",
+      "category": "oncology_trial",
+      "nct_id": "NCT02730091",
+      "phase": "PHASE3",
+      "target_condition": "Breast Cancer",
+      "intervention_dosage": "Letrozole, Anastrozole, Vinorelbine",
+      "sample_size": "98 patients",
+      "primary_endpoint": "progression-free survival (PFS)",
+      "lead_sponsor": "Centre Hospitalier Universitaire de Besancon",
+      "study_status": "TERMINATED",
+      "median_overall_survival": "16.5 months",
+      "grade3_toxicity_rate": "22.1%"
+    },
+    "NCT07596329: Outpatient Hypertonic Saline and Loop Diuretic Combination Therapy in Cardior...": {
+      "name": "NCT07596329: Outpatient Hypertonic Saline and Loop Diuretic Combination Therapy in Cardior...",
+      "category": "cardiology_trial",
+      "nct_id": "NCT07596329",
+      "phase": "PHASE3",
+      "target_condition": "Heart Failure",
+      "intervention_dosage": "Hypertonic sodium chloride 10%, Sodium Chloride 0.9%, Furosemide intravenous solution",
+      "sample_size": "60 patients",
+      "primary_endpoint": "Number of participants rehospitalized for heart failure",
+      "lead_sponsor": "University of Monastir",
+      "study_status": "NOT_YET_RECRUITING"
+    },
+    "NCT00322153: A Study of the Safety and Efficacy of Memantine in Moderate to Severe Alzheim...": {
+      "name": "NCT00322153: A Study of the Safety and Efficacy of Memantine in Moderate to Severe Alzheim...",
+      "category": "neurology_trial",
+      "nct_id": "NCT00322153",
+      "phase": "PHASE3",
+      "target_condition": "Dementia of the Alzheimer's Type",
+      "intervention_dosage": "memantine ER, Placebo",
+      "sample_size": "677 patients",
+      "primary_endpoint": "Change From Baseline in Severe Impairment Battery (SIB) a...",
+      "lead_sponsor": "Forest Laboratories",
+      "study_status": "COMPLETED"
+    },
+    "NCT01935817: Silybin - Vitamin E- Phospholipids Complex Reduces Liver Fibrosis in Patients...": {
+      "name": "NCT01935817: Silybin - Vitamin E- Phospholipids Complex Reduces Liver Fibrosis in Patients...",
+      "category": "infectious_disease",
+      "nct_id": "NCT01935817",
+      "phase": "PHASE3",
+      "target_condition": "Liver Fibrosis",
+      "intervention_dosage": "Silybin 94 mg + vitamin E 90 mg + phospholipids 194 mg complex, Placebo",
+      "sample_size": "64 patients",
+      "primary_endpoint": "transforming growth factor beta",
+      "lead_sponsor": "University of Catania",
+      "study_status": "COMPLETED"
+    },
+    "NCT05669625: A Phase III Clinical Trial to Evaluate the Efficacy and Safety of the Live At...": {
+      "name": "NCT05669625: A Phase III Clinical Trial to Evaluate the Efficacy and Safety of the Live At...",
+      "category": "vaccine_study",
+      "nct_id": "NCT05669625",
+      "phase": "PHASE3",
+      "target_condition": "Varicella",
+      "intervention_dosage": "Investigational live attenuated varicella vaccine, Placebo of live attenuated varicella vaccine",
+      "sample_size": "12440 patients",
+      "primary_endpoint": "The incidences of varicella in each group",
+      "lead_sponsor": "China National Biotec Group Company Limited",
+      "study_status": "UNKNOWN"
+    },
+    "NCT06879938: Concomitant Treatment with Topical Hyaluronic Acid and High Concentration Oxy...": {
+      "name": "NCT06879938: Concomitant Treatment with Topical Hyaluronic Acid and High Concentration Oxy...",
+      "category": "medical_device",
+      "nct_id": "NCT06879938",
+      "phase": "NA",
+      "target_condition": "Genitourinary Syndrome of Menopause",
+      "intervention_dosage": "High-concentration vaginal oxygen therapy (Caress Flow) with topical hyaluronic acid, hyaluronic acid-based gel (Hydeal-D®)",
+      "sample_size": "80 patients",
+      "primary_endpoint": "vaginal dryness one month after the completion of treatment",
+      "lead_sponsor": "Fondazione IRCCS Policlinico San Matteo di Pavia",
+      "study_status": "RECRUITING"
+    },
+    "NCT01155388: A Trial of Ferumoxytol for the Treatment of Iron Deficiency Anemia in Pediatr...": {
+      "name": "NCT01155388: A Trial of Ferumoxytol for the Treatment of Iron Deficiency Anemia in Pediatr...",
+      "category": "pediatric_study",
+      "nct_id": "NCT01155388",
+      "phase": "PHASE3",
+      "target_condition": "Iron Deficiency Anemia",
+      "intervention_dosage": "Ferumoxytol, Oral Iron",
+      "sample_size": "14 patients",
+      "primary_endpoint": "Mean Change In Hemoglobin From Baseline To Week 5",
+      "lead_sponsor": "AMAG Pharmaceuticals, Inc.",
+      "study_status": "TERMINATED"
+    },
+    "NCT00960232: Vitamin D, Blood Pressure, Lipids, Infection and Depression": {
+      "name": "NCT00960232: Vitamin D, Blood Pressure, Lipids, Infection and Depression",
+      "category": "mental_health",
+      "nct_id": "NCT00960232",
+      "phase": "PHASE3",
+      "target_condition": "Hypovitaminosis D",
+      "intervention_dosage": "Cholecalciferol, placebo",
+      "sample_size": "250 patients",
+      "primary_endpoint": "Depression score",
+      "lead_sponsor": "University of Tromso",
+      "study_status": "COMPLETED"
+    }
+  }
+}

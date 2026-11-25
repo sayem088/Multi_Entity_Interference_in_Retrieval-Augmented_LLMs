@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_008",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients": {
+      "name": "NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients",
+      "category": "oncology_trial",
+      "nct_id": "NCT00628043",
+      "phase": "PHASE3",
+      "target_condition": "Anemia",
+      "intervention_dosage": "epoetin beta, placebo",
+      "sample_size": "160 patients",
+      "primary_endpoint": "The proportion of the subjects who receive red blood cell...",
+      "lead_sponsor": "Chugai Pharmaceutical",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "23.6 months",
+      "grade3_toxicity_rate": "26.4%"
+    },
+    "NCT00123903: COREG MR Versus TOPROL-XL On Reduction Of Microalbuminuria In Patients With H...": {
+      "name": "NCT00123903: COREG MR Versus TOPROL-XL On Reduction Of Microalbuminuria In Patients With H...",
+      "category": "cardiology_trial",
+      "nct_id": "NCT00123903",
+      "phase": "PHASE3",
+      "target_condition": "Heart Failure, Congestive and Microalbuminuria",
+      "intervention_dosage": "metoprolol xl, carvedilol MR, lisinopril",
+      "sample_size": "1220 patients",
+      "primary_endpoint": "Change from baseline in urine albumin: creatinine ratio (...",
+      "lead_sponsor": "GlaxoSmithKline",
+      "study_status": "TERMINATED"
+    },
+    "NCT00000177: Estrogen Hormone Protocol": {
+      "name": "NCT00000177: Estrogen Hormone Protocol",
+      "category": "neurology_trial",
+      "nct_id": "NCT00000177",
+      "phase": "PHASE3",
+      "target_condition": "Alzheimer Disease",
+      "intervention_dosage": "Estrogen",
+      "sample_size": "120 patients",
+      "primary_endpoint": "Clinical Response Rate",
+      "lead_sponsor": "National Institute on Aging (NIA)",
+      "study_status": "COMPLETED"
+    },
+    "NCT00391482: Study to Reduce Intravenous Exposures (STRIVE)": {
+      "name": "NCT00391482: Study to Reduce Intravenous Exposures (STRIVE)",
+      "category": "infectious_disease",
+      "nct_id": "NCT00391482",
+      "phase": "PHASE2, PHASE3",
+      "target_condition": "Hepatitis C",
+      "intervention_dosage": "Peer Mentoring Intervention for HCV-Infected IDUs",
+      "sample_size": "750 patients",
+      "primary_endpoint": "Self-reported frequency of distributive sharing of inject...",
+      "lead_sponsor": "National Institute on Drug Abuse (NIDA)",
+      "study_status": "COMPLETED"
+    },
+    "NCT05332197: Booster Vaccine for Yellow Fever": {
+      "name": "NCT05332197: Booster Vaccine for Yellow Fever",
+      "category": "vaccine_study",
+      "nct_id": "NCT05332197",
+      "phase": "PHASE3",
+      "target_condition": "Yellow Fever",
+      "intervention_dosage": "17D Yellow fever vaccine",
+      "sample_size": "750 patients",
+      "primary_endpoint": "Number of participants with a PRNT (Plague Reduction Neut...",
+      "lead_sponsor": "London School of Hygiene and Tropical Medicine",
+      "study_status": "UNKNOWN"
+    },
+    "NCT05207943: Efficacy of the NXSignal Device for the Treatment of Anterior Cruciate Ligame...": {
+      "name": "NCT05207943: Efficacy of the NXSignal Device for the Treatment of Anterior Cruciate Ligame...",
+      "category": "medical_device",
+      "nct_id": "NCT05207943",
+      "phase": "NA",
+      "target_condition": "Anterior Cruciate Ligament Injuries",
+      "intervention_dosage": "Non-invasive Neuromodulation, Placebo Non-invasive Neuromodulation",
+      "sample_size": "40 patients",
+      "primary_endpoint": "Knee circumference",
+      "lead_sponsor": "University of Las Palmas de Gran Canaria",
+      "study_status": "RECRUITING"
+    },
+    "NCT04987229: Long-term Safety Extension Study of OLZ/SAM in Pediatric Subjects": {
+      "name": "NCT04987229: Long-term Safety Extension Study of OLZ/SAM in Pediatric Subjects",
+      "category": "pediatric_study",
+      "nct_id": "NCT04987229",
+      "phase": "PHASE3",
+      "target_condition": "Bipolar I Disorder",
+      "intervention_dosage": "OLZ/SAM",
+      "sample_size": "236 patients",
+      "primary_endpoint": "Incidence of adverse events",
+      "lead_sponsor": "Alkermes, Inc.",
+      "study_status": "ENROLLING_BY_INVITATION"
+    },
+    "NCT02726659: Adjunctive Use of Celecoxib in the Treatment of Bipolar Postpartum Depression": {
+      "name": "NCT02726659: Adjunctive Use of Celecoxib in the Treatment of Bipolar Postpartum Depression",
+      "category": "mental_health",
+      "nct_id": "NCT02726659",
+      "phase": "PHASE3",
+      "target_condition": "Bipolar Disorder",
+      "intervention_dosage": "Celecoxib, Placebo",
+      "sample_size": "1 patients",
+      "primary_endpoint": "Hamilton Rating Scale for Depression (HAM-D)",
+      "lead_sponsor": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's",
+      "study_status": "TERMINATED"
+    }
+  }
+}

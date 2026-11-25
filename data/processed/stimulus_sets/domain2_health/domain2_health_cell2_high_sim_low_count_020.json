@@ -1,0 +1,51 @@
+{
+  "scenario_id": "domain2_health_cell2_high_sim_low_count_020",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell2_high_sim_low_count",
+  "cell_label": "high_sim_low_count",
+  "cell_description": "2 entities from the same category with identical attribute schemas.",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_11",
+      "category": "oncology_trial",
+      "name": "NCT05183035: Venetoclax in Children With Relapsed Acute Myeloid Leukemia (AML)",
+      "attributes": {
+        "name": "NCT05183035: Venetoclax in Children With Relapsed Acute Myeloid Leukemia (AML)",
+        "category": "oncology_trial",
+        "nct_id": "NCT05183035",
+        "phase": "PHASE3",
+        "target_condition": "Acute Myeloid Leukemia",
+        "intervention_dosage": "Fludarabine, Cytarabine, Gemtuzumab Ozogamicin",
+        "sample_size": "120 patients",
+        "primary_endpoint": "Overall Survival (OS)",
+        "lead_sponsor": "PedAL BCU, LLC",
+        "study_status": "ACTIVE_NOT_RECRUITING",
+        "median_overall_survival": "17.4 months",
+        "grade3_toxicity_rate": "42.5%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_09",
+      "category": "oncology_trial",
+      "name": "NCT02547233: Efficacy and Safety of LEO 43204 in Field Treatment of Actinic Keratosis on F...",
+      "attributes": {
+        "name": "NCT02547233: Efficacy and Safety of LEO 43204 in Field Treatment of Actinic Keratosis on F...",
+        "category": "oncology_trial",
+        "nct_id": "NCT02547233",
+        "phase": "PHASE3",
+        "target_condition": "Actinic Keratosis",
+        "intervention_dosage": "LEO 43204 gel, Vehicle gel",
+        "sample_size": "437 patients",
+        "primary_endpoint": "Percentage of Participants With Complete Clearance of Act...",
+        "lead_sponsor": "LEO Pharma",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "19.1 months",
+        "grade3_toxicity_rate": "33.0%"
+      }
+    }
+  ]
+}

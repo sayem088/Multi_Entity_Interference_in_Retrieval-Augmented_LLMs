@@ -1,14 +1,9 @@
-# Model Configuration
+# Inference Model Configuration
 model_name: "Qwen/Qwen2.5-7B-Instruct"
-
-# Provider choices:
-# - "fallback": Mock / rule-based generator for local home development (no GPU required)
-# - "huggingface": PyTorch / Transformers execution for University GPU (CUDA)
-# - "ollama": Local Ollama service (if running ollama run qwen2.5:7b locally)
-provider: "fallback"
-
-device: "cpu"            # Toggle to "cuda" when provider is "huggingface" on GPU
-dtype: "bfloat16"        # Options: "float16", "bfloat16", "float32", "4bit", "8bit"
-temperature: 0.3
+quantization: "nf4_4bit"
+compute_dtype: "float16"
+device: "cuda"
+do_sample: false
+temperature: 0.0
+max_new_tokens: 400
 seed: 42
-max_new_tokens: 300

@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_014",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entity_map": {
+    "NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients": {
+      "name": "NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients",
+      "category": "oncology_trial",
+      "nct_id": "NCT00628043",
+      "phase": "PHASE3",
+      "target_condition": "Anemia",
+      "intervention_dosage": "epoetin beta, placebo",
+      "sample_size": "160 patients",
+      "primary_endpoint": "The proportion of the subjects who receive red blood cell...",
+      "lead_sponsor": "Chugai Pharmaceutical",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "23.6 months",
+      "grade3_toxicity_rate": "26.4%"
+    },
+    "NCT00678431: Randomized Trial of a Nutritional Supplement in Alzheimer's Disease": {
+      "name": "NCT00678431: Randomized Trial of a Nutritional Supplement in Alzheimer's Disease",
+      "category": "neurology_trial",
+      "nct_id": "NCT00678431",
+      "phase": "PHASE3",
+      "target_condition": "Alzheimer's Disease",
+      "intervention_dosage": "Resveratrol with Glucose, and Malate, Placebo",
+      "sample_size": "27 patients",
+      "primary_endpoint": "Alzheimer Disease Assessment Scale (ADAScog)",
+      "lead_sponsor": "US Department of Veterans Affairs",
+      "study_status": "COMPLETED"
+    }
+  }
+}

@@ -1,0 +1,1482 @@
+{
+  "oncology_trial": [
+    {
+      "entity_id": "clinical_oncology_trial_01",
+      "nct_id": "NCT00077233",
+      "category": "oncology_trial",
+      "name": "NCT00077233: FOLFIRI or FOLFOX With or Without Cetuximab in Patients With Metastatic Adeno...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Colorectal Cancer",
+        "intervention_dosage": "cetuximab, 5-FU, irinotecan",
+        "sample_size": "238 patients",
+        "primary_endpoint": "Overall survival",
+        "lead_sponsor": "Alliance for Clinical Trials in Oncology",
+        "study_status": "TERMINATED",
+        "median_overall_survival": "24.5 months",
+        "grade3_toxicity_rate": "34.2%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_02",
+      "nct_id": "NCT03806049",
+      "category": "oncology_trial",
+      "name": "NCT03806049: Trial Comparing Niraparib-bevacizumab-Dostarlimab and Niraparib-bevacizumab t...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Ovarian Cancer",
+        "intervention_dosage": "Niraparib, Bevacizumab, TSR042",
+        "sample_size": "450 patients",
+        "primary_endpoint": "Progression-free Survival",
+        "lead_sponsor": "Nordic Society of Gynaecological Oncology - Clinical Trials Unit",
+        "study_status": "WITHDRAWN",
+        "median_overall_survival": "18.2 months",
+        "grade3_toxicity_rate": "28.5%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_03",
+      "nct_id": "NCT06968585",
+      "category": "oncology_trial",
+      "name": "NCT06968585: A Study of A166 Versus Trastuzumab Emtansine (T-DM1) in Patients With HER2-Po...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "HER2-positive Breast Cancer",
+        "intervention_dosage": "A166, T-DM1",
+        "sample_size": "365 patients",
+        "primary_endpoint": "Progression-free survival (PFS)",
+        "lead_sponsor": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+        "study_status": "ACTIVE_NOT_RECRUITING",
+        "median_overall_survival": "22.0 months",
+        "grade3_toxicity_rate": "41.0%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_04",
+      "nct_id": "NCT00399035",
+      "category": "oncology_trial",
+      "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Metastatic Colorectal Cancer",
+        "intervention_dosage": "Cediranib, FOLFOX (5-fluorouracil, Leucovorin, Oxaliplatin), XELOX (Capecitabine and Oxaliplatin)",
+        "sample_size": "1254 patients",
+        "primary_endpoint": "Progression-free Survival",
+        "lead_sponsor": "AstraZeneca",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "14.8 months",
+        "grade3_toxicity_rate": "19.8%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_05",
+      "nct_id": "NCT00778908",
+      "category": "oncology_trial",
+      "name": "NCT00778908: Late-Course Accelerated Hyperfractionated IMRT for Locoregionally Advanced Na...",
+      "protocol_attributes": {
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Nasopharyngeal Carcinoma",
+        "intervention_dosage": "Late-course accelerated hyperfractionated IMRT, Concomitant cisplatin chemotherapy, Conventionally fractionated IMRT",
+        "sample_size": "120 patients",
+        "primary_endpoint": "Local/regional control rate, Acute and late toxicities",
+        "lead_sponsor": "Guangxi Medical University",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "31.2 months",
+        "grade3_toxicity_rate": "36.4%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_06",
+      "nct_id": "NCT02730091",
+      "category": "oncology_trial",
+      "name": "NCT02730091: A Open Study of Metronomic Oral Vinorelbine in Combination With Aromatase Inh...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Breast Cancer",
+        "intervention_dosage": "Letrozole, Anastrozole, Vinorelbine",
+        "sample_size": "98 patients",
+        "primary_endpoint": "progression-free survival (PFS)",
+        "lead_sponsor": "Centre Hospitalier Universitaire de Besancon",
+        "study_status": "TERMINATED",
+        "median_overall_survival": "16.5 months",
+        "grade3_toxicity_rate": "22.1%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_07",
+      "nct_id": "NCT04134897",
+      "category": "oncology_trial",
+      "name": "NCT04134897: Neoadjuvant Chemotherapy in Patients With Moderate Risk Mid Rectal Cancer",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Rectal Neoplasms Malignant",
+        "intervention_dosage": "Capecitabine, Oxaliplatin, Capecitabine",
+        "sample_size": "316 patients",
+        "primary_endpoint": "2-year local recurrence rate",
+        "lead_sponsor": "Blokhin's Russian Cancer Research Center",
+        "study_status": "UNKNOWN",
+        "median_overall_survival": "20.4 months",
+        "grade3_toxicity_rate": "38.7%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_08",
+      "nct_id": "NCT00291759",
+      "category": "oncology_trial",
+      "name": "NCT00291759: ABCSG 8 - Adjuvant Treatment in Patients With Hormone Receptor-positive Breas...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Breast Cancer",
+        "intervention_dosage": "Tamoxifen, Anastrozole",
+        "sample_size": "3858 patients",
+        "primary_endpoint": "To assess the difference in event free survival and overa...",
+        "lead_sponsor": "AstraZeneca",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "27.8 months",
+        "grade3_toxicity_rate": "15.3%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_09",
+      "nct_id": "NCT02547233",
+      "category": "oncology_trial",
+      "name": "NCT02547233: Efficacy and Safety of LEO 43204 in Field Treatment of Actinic Keratosis on F...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Actinic Keratosis",
+        "intervention_dosage": "LEO 43204 gel, Vehicle gel",
+        "sample_size": "437 patients",
+        "primary_endpoint": "Percentage of Participants With Complete Clearance of Act...",
+        "lead_sponsor": "LEO Pharma",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "19.1 months",
+        "grade3_toxicity_rate": "33.0%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_10",
+      "nct_id": "NCT00628043",
+      "category": "oncology_trial",
+      "name": "NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Anemia",
+        "intervention_dosage": "epoetin beta, placebo",
+        "sample_size": "160 patients",
+        "primary_endpoint": "The proportion of the subjects who receive red blood cell...",
+        "lead_sponsor": "Chugai Pharmaceutical",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "23.6 months",
+        "grade3_toxicity_rate": "26.4%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_11",
+      "nct_id": "NCT05183035",
+      "category": "oncology_trial",
+      "name": "NCT05183035: Venetoclax in Children With Relapsed Acute Myeloid Leukemia (AML)",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Acute Myeloid Leukemia",
+        "intervention_dosage": "Fludarabine, Cytarabine, Gemtuzumab Ozogamicin",
+        "sample_size": "120 patients",
+        "primary_endpoint": "Overall Survival (OS)",
+        "lead_sponsor": "PedAL BCU, LLC",
+        "study_status": "ACTIVE_NOT_RECRUITING",
+        "median_overall_survival": "17.4 months",
+        "grade3_toxicity_rate": "42.5%"
+      }
+    },
+    {
+      "entity_id": "clinical_oncology_trial_12",
+      "nct_id": "NCT01458717",
+      "category": "oncology_trial",
+      "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+      "protocol_attributes": {
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Pancreatic Cancer",
+        "intervention_dosage": "Neoadjuvant chemoradiation, Upfront surgery",
+        "sample_size": "58 patients",
+        "primary_endpoint": "2-year survival rate",
+        "lead_sponsor": "Seoul National University Hospital",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "29.0 months",
+        "grade3_toxicity_rate": "18.9%"
+      }
+    }
+  ],
+  "cardiology_trial": [
+    {
+      "entity_id": "clinical_cardiology_trial_01",
+      "nct_id": "NCT00577135",
+      "category": "cardiology_trial",
+      "name": "NCT00577135: Determining Optimal Dose and Duration of Diuretic Treatment in People With Ac...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Heart Failure",
+        "intervention_dosage": "Furosemide-Q12 hour bolus, Furosemide-Continuous Infusion, Furosemide-Low Intensification",
+        "sample_size": "308 patients",
+        "primary_endpoint": "Patient Well Being, as Determined by a Visual Analog Scale",
+        "lead_sponsor": "Duke University",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_02",
+      "nct_id": "NCT01138683",
+      "category": "cardiology_trial",
+      "name": "NCT01138683: Cardiorenal Interactions During Treatment of Acute Decompensated Heart Failur...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Acute Decompensated Heart Failure",
+        "intervention_dosage": "ultrafiltration, diuretics",
+        "sample_size": "1 patients",
+        "primary_endpoint": "Incidence of AKI and determining factors in patients with...",
+        "lead_sponsor": "University Hospital, Ghent",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_03",
+      "nct_id": "NCT00843986",
+      "category": "cardiology_trial",
+      "name": "NCT00843986: Safety and Efficacy of Conivaptan in Hyponatremic Patients With Symptomatic A...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Hyponatremia",
+        "intervention_dosage": "conivaptan, placebo",
+        "sample_size": "9 patients",
+        "primary_endpoint": "Change in Renal Function From Baseline at 72 Hours Assess...",
+        "lead_sponsor": "Cumberland Pharmaceuticals",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_04",
+      "nct_id": "NCT00123903",
+      "category": "cardiology_trial",
+      "name": "NCT00123903: COREG MR Versus TOPROL-XL On Reduction Of Microalbuminuria In Patients With H...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Heart Failure, Congestive and Microalbuminuria",
+        "intervention_dosage": "metoprolol xl, carvedilol MR, lisinopril",
+        "sample_size": "1220 patients",
+        "primary_endpoint": "Change from baseline in urine albumin: creatinine ratio (...",
+        "lead_sponsor": "GlaxoSmithKline",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_05",
+      "nct_id": "NCT07596329",
+      "category": "cardiology_trial",
+      "name": "NCT07596329: Outpatient Hypertonic Saline and Loop Diuretic Combination Therapy in Cardior...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Heart Failure",
+        "intervention_dosage": "Hypertonic sodium chloride 10%, Sodium Chloride 0.9%, Furosemide intravenous solution",
+        "sample_size": "60 patients",
+        "primary_endpoint": "Number of participants rehospitalized for heart failure",
+        "lead_sponsor": "University of Monastir",
+        "study_status": "NOT_YET_RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_06",
+      "nct_id": "NCT03521934",
+      "category": "cardiology_trial",
+      "name": "NCT03521934: Effect of Sotagliflozin on Cardiovascular Events in Participants With Type 2 ...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Heart Failure",
+        "intervention_dosage": "Sotagliflozin, Placebo",
+        "sample_size": "1222 patients",
+        "primary_endpoint": "Number of Total Occurrences of Cardiovascular (CV) Death,...",
+        "lead_sponsor": "Lexicon Pharmaceuticals",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_07",
+      "nct_id": "NCT00238836",
+      "category": "cardiology_trial",
+      "name": "NCT00238836: Anticipatory & Preventive Team Care (APTCare): At Risk Patients of Family Hea...",
+      "protocol_attributes": {
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Diabetes",
+        "intervention_dosage": "Self-management of chronic illness",
+        "sample_size": "240 patients",
+        "primary_endpoint": "Clinical Response Rate",
+        "lead_sponsor": "C. T. Lamont Primary Care Research Centre",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_08",
+      "nct_id": "NCT00763867",
+      "category": "cardiology_trial",
+      "name": "NCT00763867: Evaluating the Effectiveness of Sildenafil at Improving Health Outcomes and E...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Heart Failure",
+        "intervention_dosage": "Placebo, Sildenafil",
+        "sample_size": "216 patients",
+        "primary_endpoint": "Exercise Capacity, as Determined by Peak Oxygen Uptake",
+        "lead_sponsor": "Duke University",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_09",
+      "nct_id": "NCT06619600",
+      "category": "cardiology_trial",
+      "name": "NCT06619600: Effect of Dapagliflozin in Myocardial Fibrosis and Ventricular Function in Pa...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "ST-segment Elevation Myocardial Infarction (STEMI)",
+        "intervention_dosage": "Dapagliflozin, Placebo",
+        "sample_size": "54 patients",
+        "primary_endpoint": "Extracellular volume (ECV, %)",
+        "lead_sponsor": "Hospital Clinic of Barcelona",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_10",
+      "nct_id": "NCT02809131",
+      "category": "cardiology_trial",
+      "name": "NCT02809131: Perioperative Antibiotic Therapy to Prevent Cardiac Implantable Electronic De...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Sick Sinus Syndrome",
+        "intervention_dosage": "polymixin/bacitracin, cephalexin, or levofloxacin, or clindamycin, Saline",
+        "sample_size": "1010 patients",
+        "primary_endpoint": "Number of Patients With a Major Cardiac Implantable Elect...",
+        "lead_sponsor": "Vanderbilt University Medical Center",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_11",
+      "nct_id": "NCT00944229",
+      "category": "cardiology_trial",
+      "name": "NCT00944229: The Effect of Omega-3 Polyunsaturated Fatty Acids in Congestive Heart Failure",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Heart Failure",
+        "intervention_dosage": "LOVAZA (Omega-3), Placebo",
+        "sample_size": "58 patients",
+        "primary_endpoint": "Change in Peak VO2",
+        "lead_sponsor": "Columbia University",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_12",
+      "nct_id": "NCT00300261",
+      "category": "cardiology_trial",
+      "name": "NCT00300261: Testing the Effects of Telehealth Monitoring on Rehospitalization and Self Ca...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Heart Failure",
+        "intervention_dosage": "Telehealth monitoring",
+        "sample_size": "216 patients",
+        "primary_endpoint": "To learn if using telehealth technology equipment results...",
+        "lead_sponsor": "University of Pennsylvania",
+        "study_status": "COMPLETED"
+      }
+    }
+  ],
+  "neurology_trial": [
+    {
+      "entity_id": "clinical_neurology_trial_01",
+      "nct_id": "NCT05169008",
+      "category": "neurology_trial",
+      "name": "NCT05169008: A Study to Evaluate the Safety and Immunogenicity of Ad5-nCoV and Ad5-nCoV-IH...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "COVID-19",
+        "intervention_dosage": "Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector), Recombinant COVID-19 vaccine (adenovirus type 5 vector) for Inhalation (Ad5-nCoV-IH)",
+        "sample_size": "91 patients",
+        "primary_endpoint": "Incidence of SAE",
+        "lead_sponsor": "CanSino Biologics Inc.",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_02",
+      "nct_id": "NCT04418024",
+      "category": "neurology_trial",
+      "name": "NCT04418024: Efficacy and Safety of AG10 in Subjects with Transthyretin Amyloid Polyneurop...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Transthyretin-Related (ATTR) Familial Amyloid Polyneuropathy",
+        "intervention_dosage": "AG10, Placebo",
+        "sample_size": "450 patients",
+        "primary_endpoint": "Change from baseline to Month 18 of treatment in Modified...",
+        "lead_sponsor": "Eidos Therapeutics, a BridgeBio company",
+        "study_status": "WITHDRAWN"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_03",
+      "nct_id": "NCT07764679",
+      "category": "neurology_trial",
+      "name": "NCT07764679: A Clinical Study Evaluating the Diagnostic Performance and Safety of PET for ...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Mild Cognitive Impairment (MCI)",
+        "intervention_dosage": "[18F]Fluorbetazine injection",
+        "sample_size": "400 patients",
+        "primary_endpoint": "The sensitivity and specificity of PET imaging visual int...",
+        "lead_sponsor": "HTA Co., Ltd.",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_04",
+      "nct_id": "NCT00191009",
+      "category": "neurology_trial",
+      "name": "NCT00191009: Adding Atomoxetine To Standard Medication Treatment In Patients With Alzheime...",
+      "protocol_attributes": {
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Alzheimer Disease",
+        "intervention_dosage": "atomoxetine hydrochloride, placebo",
+        "sample_size": "124 patients",
+        "primary_endpoint": "To see if Alzheimer's patients receiving a stable dose of...",
+        "lead_sponsor": "Eli Lilly and Company",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_05",
+      "nct_id": "NCT01900665",
+      "category": "neurology_trial",
+      "name": "NCT01900665: Progress of Mild Alzheimer's Disease in Participants on Solanezumab Versus Pl...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Alzheimer's Disease",
+        "intervention_dosage": "Solanezumab, Placebo",
+        "sample_size": "2129 patients",
+        "primary_endpoint": "Change From Baseline in Alzheimer's Disease Assessment Sc...",
+        "lead_sponsor": "Eli Lilly and Company",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_06",
+      "nct_id": "NCT05894954",
+      "category": "neurology_trial",
+      "name": "NCT05894954: Precision Medicine Approach for Early Dementia & Mild Cognitive Impairment",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Mild Cognitive Impairment",
+        "intervention_dosage": "Precision Medicine Approach, Hormones and Medications tailored to lab tests, combined with devices that support stress management and brain exercises, Standard-of-Care",
+        "sample_size": "73 patients",
+        "primary_endpoint": "Changes in mean Montreal Cognition Assessment (MoCA) scor...",
+        "lead_sponsor": "Alzheimer's Prevention and Reversal Project, Inc.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_07",
+      "nct_id": "NCT00322153",
+      "category": "neurology_trial",
+      "name": "NCT00322153: A Study of the Safety and Efficacy of Memantine in Moderate to Severe Alzheim...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Dementia of the Alzheimer's Type",
+        "intervention_dosage": "memantine ER, Placebo",
+        "sample_size": "677 patients",
+        "primary_endpoint": "Change From Baseline in Severe Impairment Battery (SIB) a...",
+        "lead_sponsor": "Forest Laboratories",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_08",
+      "nct_id": "NCT00000177",
+      "category": "neurology_trial",
+      "name": "NCT00000177: Estrogen Hormone Protocol",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Alzheimer Disease",
+        "intervention_dosage": "Estrogen",
+        "sample_size": "120 patients",
+        "primary_endpoint": "Clinical Response Rate",
+        "lead_sponsor": "National Institute on Aging (NIA)",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_09",
+      "nct_id": "NCT05026177",
+      "category": "neurology_trial",
+      "name": "NCT05026177: Simufilam 50 mg or 100 mg for Mild-to-Moderate Alzheimer's Disease",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Alzheimer Disease",
+        "intervention_dosage": "Simufilam, Placebo",
+        "sample_size": "1125 patients",
+        "primary_endpoint": "Change From Baseline in the 12-item Alzheimer's Disease A...",
+        "lead_sponsor": "Cassava Sciences, Inc.",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_10",
+      "nct_id": "NCT00678431",
+      "category": "neurology_trial",
+      "name": "NCT00678431: Randomized Trial of a Nutritional Supplement in Alzheimer's Disease",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Alzheimer's Disease",
+        "intervention_dosage": "Resveratrol with Glucose, and Malate, Placebo",
+        "sample_size": "27 patients",
+        "primary_endpoint": "Alzheimer Disease Assessment Scale (ADAScog)",
+        "lead_sponsor": "US Department of Veterans Affairs",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_11",
+      "nct_id": "NCT01152216",
+      "category": "neurology_trial",
+      "name": "NCT01152216: An Extension of the CONCERT Protocol (DIM18)",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Alzheimer's Disease",
+        "intervention_dosage": "Dimebon",
+        "sample_size": "672 patients",
+        "primary_endpoint": "Safety",
+        "lead_sponsor": "Medivation, Inc.",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_12",
+      "nct_id": "NCT06647498",
+      "category": "neurology_trial",
+      "name": "NCT06647498: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for...",
+      "protocol_attributes": {
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Alzheimers Disease",
+        "intervention_dosage": "Remternetug, Matching Placebo (Remternetug)",
+        "sample_size": "280 patients",
+        "primary_endpoint": "Stage 1: Change in amyloid load as measured by centiloid ...",
+        "lead_sponsor": "Washington University School of Medicine",
+        "study_status": "RECRUITING"
+      }
+    }
+  ],
+  "infectious_disease": [
+    {
+      "entity_id": "clinical_infectious_disease_01",
+      "nct_id": "NCT04001608",
+      "category": "infectious_disease",
+      "name": "NCT04001608: Study of Seraprevir in Combination With Sofosbuvir in Chronic Genotype 1 Hepa...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Hepatitis C Virus Infection",
+        "intervention_dosage": "Seraprevir, Sofosbuvir",
+        "sample_size": "206 patients",
+        "primary_endpoint": "Percentage of Participants Achieving a Sustained Virologi...",
+        "lead_sponsor": "Ginkgopharma CO., LTD",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_02",
+      "nct_id": "NCT00230958",
+      "category": "infectious_disease",
+      "name": "NCT00230958: Study of Viramidine to Ribavirin in Patients With Chronic Hepatitis C Who Are...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Chronic Hepatitis C",
+        "intervention_dosage": "Viramidine, Ribavirin, pegylated interferon alfa-2b",
+        "sample_size": "900 patients",
+        "primary_endpoint": "- Efficacy: Undetectable plasma HCV RNA (less than 100 co...",
+        "lead_sponsor": "Bausch Health Americas, Inc.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_03",
+      "nct_id": "NCT01374308",
+      "category": "infectious_disease",
+      "name": "NCT01374308: NASVAC Phase-III Trial in Chronic Hepatitis B (CHB) Patients",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Chronic Hepatitis B",
+        "intervention_dosage": "NASVAC, Pegylated interferon alpha 2b",
+        "sample_size": "160 patients",
+        "primary_endpoint": "Number of study participants with virological and or bioc...",
+        "lead_sponsor": "Clinical Research Organization, Dhaka, Bangladesh",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_04",
+      "nct_id": "NCT00391482",
+      "category": "infectious_disease",
+      "name": "NCT00391482: Study to Reduce Intravenous Exposures (STRIVE)",
+      "protocol_attributes": {
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Hepatitis C",
+        "intervention_dosage": "Peer Mentoring Intervention for HCV-Infected IDUs",
+        "sample_size": "750 patients",
+        "primary_endpoint": "Self-reported frequency of distributive sharing of inject...",
+        "lead_sponsor": "National Institute on Drug Abuse (NIDA)",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_05",
+      "nct_id": "NCT00200343",
+      "category": "infectious_disease",
+      "name": "NCT00200343: Efficacy and Safety Study of Ursodeoxycholic Acid to Treat Chronic Hepatitis C",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Chronic Hepatitis C",
+        "intervention_dosage": "Ursodeoxycholic acid 150mg / day, Ursodeoxycholic acid 600mg / day, Ursodeoxycholic acid 900mg / day",
+        "sample_size": "596 patients",
+        "primary_endpoint": "Alanine Aminotransferase at Baseline",
+        "lead_sponsor": "Tanabe Pharma Corporation",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_06",
+      "nct_id": "NCT02858440",
+      "category": "infectious_disease",
+      "name": "NCT02858440: A Study to Assess the Immunogenicity and Safety of GSK Biologicals' Infanrix-...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Diphtheria",
+        "intervention_dosage": "Infanrix-IPV/Hib",
+        "sample_size": "235 patients",
+        "primary_endpoint": "Number of Seroprotected Subjects for Anti-diphtheria (Ant...",
+        "lead_sponsor": "GlaxoSmithKline",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_07",
+      "nct_id": "NCT01935817",
+      "category": "infectious_disease",
+      "name": "NCT01935817: Silybin - Vitamin E- Phospholipids Complex Reduces Liver Fibrosis in Patients...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Liver Fibrosis",
+        "intervention_dosage": "Silybin 94 mg + vitamin E 90 mg + phospholipids 194 mg complex, Placebo",
+        "sample_size": "64 patients",
+        "primary_endpoint": "transforming growth factor beta",
+        "lead_sponsor": "University of Catania",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_08",
+      "nct_id": "NCT00249860",
+      "category": "infectious_disease",
+      "name": "NCT00249860: A Multicenter Phase 3 Study of Interferon-beta-1a for the Treatment of Chroni...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Hepatitis C",
+        "intervention_dosage": "Interferon-beta-1a, Placebo, Ribavirin plus Interferon-beta-1a",
+        "sample_size": "257 patients",
+        "primary_endpoint": "Percentage of subjects achieving sustained viral response...",
+        "lead_sponsor": "EMD Serono",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_09",
+      "nct_id": "NCT02979613",
+      "category": "infectious_disease",
+      "name": "NCT02979613: Study to Evaluate Efficacy and Safety of Switching From TDF to TAF in Adults ...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Chronic Hepatitis B",
+        "intervention_dosage": "TAF, TDF, TAF Placebo",
+        "sample_size": "490 patients",
+        "primary_endpoint": "Percentage of Participants With Hepatitis B Virus (HBV) D...",
+        "lead_sponsor": "Gilead Sciences",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_10",
+      "nct_id": "NCT06956482",
+      "category": "infectious_disease",
+      "name": "NCT06956482: PROlonged Corticosteroid Treatment or N-ACetylcysteine for Severe Alcoholic H...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Alcoholic Hepatitis",
+        "intervention_dosage": "N-Acetylcysteine (NAC) Treatment, Prednisolone, Placebo of N-acetylcysteine",
+        "sample_size": "477 patients",
+        "primary_endpoint": "Rate of patients alive with compensated liver disease",
+        "lead_sponsor": "University Hospital, Lille",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_11",
+      "nct_id": "NCT05686759",
+      "category": "infectious_disease",
+      "name": "NCT05686759: A Study to Investigate the Safety and Efficacy of Undiluted Intravenous Infus...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Hepatitis B",
+        "intervention_dosage": "Undiluted I.V.-Hepabig inj(GC5103), Diluted I.V.-Hepabig inj(GC5103)",
+        "sample_size": "105 patients",
+        "primary_endpoint": "Adverse events occurred during clinical trials",
+        "lead_sponsor": "GC Biopharma Corp",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_12",
+      "nct_id": "NCT00693186",
+      "category": "infectious_disease",
+      "name": "NCT00693186: A Study to Assess the Anamnestic Immune Response in Healthy 4 to 7 Year-old C...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Hepatitis B",
+        "intervention_dosage": "HBVaxPRO® 5 µg / 0.5 mL, Engerix B® 10 µg / 0.5 mL",
+        "sample_size": "410 patients",
+        "primary_endpoint": "Percentage of subjects with anti-HBs antibody titres >=10...",
+        "lead_sponsor": "Sanofi Pasteur, a Sanofi Company",
+        "study_status": "COMPLETED"
+      }
+    }
+  ],
+  "vaccine_study": [
+    {
+      "entity_id": "clinical_vaccine_study_01",
+      "nct_id": "NCT01317238",
+      "category": "vaccine_study",
+      "name": "NCT01317238: Safety and Efficacy of CJ Smallpox Vaccine in Previously Vaccinated Healthy V...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Smallpox",
+        "intervention_dosage": "smallpox vaccine CJ-50300",
+        "sample_size": "145 patients",
+        "primary_endpoint": "Pocket formation",
+        "lead_sponsor": "Seoul National University Hospital",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_02",
+      "nct_id": "NCT04980391",
+      "category": "vaccine_study",
+      "name": "NCT04980391: A Study on the Safety and Immune Response to an Unadjuvanted RSV Maternal Vac...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Respiratory Syncytial Virus Infections",
+        "intervention_dosage": "RSV MAT, Placebo",
+        "sample_size": "384 patients",
+        "primary_endpoint": "Percentage of Maternal Participants Reporting Any Solicit...",
+        "lead_sponsor": "GlaxoSmithKline",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_03",
+      "nct_id": "NCT00329849",
+      "category": "vaccine_study",
+      "name": "NCT00329849: Safety and Immunogenicity of Meningococcal ACWY Conjugate Versus Polysacchari...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Meningococcal Disease",
+        "intervention_dosage": "Meningococcal ACWY-CRM conjugate vaccine, Meningococcal ACWY-PS polysaccharide vaccine",
+        "sample_size": "1500 patients",
+        "primary_endpoint": "Percentage of Subjects With hSBA Seroresponse Against Ser...",
+        "lead_sponsor": "Novartis Vaccines",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_04",
+      "nct_id": "NCT04381689",
+      "category": "vaccine_study",
+      "name": "NCT04381689: Phase 3 Study to Evaluate the Immunogenicity and Safety of Inactived Split In...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Healthy",
+        "intervention_dosage": "IL-YANG FLU Vaccine Prefilled Syringe INJ., Fluarix Tetra Pre-filled Syringe",
+        "sample_size": "260 patients",
+        "primary_endpoint": "Primary immunogenicity endpoints",
+        "lead_sponsor": "Il-Yang Pharm. Co., Ltd.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_05",
+      "nct_id": "NCT05332197",
+      "category": "vaccine_study",
+      "name": "NCT05332197: Booster Vaccine for Yellow Fever",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Yellow Fever",
+        "intervention_dosage": "17D Yellow fever vaccine",
+        "sample_size": "750 patients",
+        "primary_endpoint": "Number of participants with a PRNT (Plague Reduction Neut...",
+        "lead_sponsor": "London School of Hygiene and Tropical Medicine",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_06",
+      "nct_id": "NCT05083585",
+      "category": "vaccine_study",
+      "name": "NCT05083585: A Study Evaluating the Immunogenicity of Different Clinical Trial Materials o...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Respiratory Syncytial Virus Prevention",
+        "intervention_dosage": "Ad26.RSV.preF-based vaccine",
+        "sample_size": "250 patients",
+        "primary_endpoint": "Geometric Mean Titers (GMTs) of Prefusion F-protein (preF...",
+        "lead_sponsor": "Janssen Vaccines & Prevention B.V.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_07",
+      "nct_id": "NCT01725217",
+      "category": "vaccine_study",
+      "name": "NCT01725217: Immunogenicity and Safety of Meningococcal ACWY Conjugate Vaccine in Healthy ...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Meningococcal Disease",
+        "intervention_dosage": "MenACWY-CRM",
+        "sample_size": "198 patients",
+        "primary_endpoint": "Percentages of Overall Subjects With Seroresponse After M...",
+        "lead_sponsor": "Novartis Vaccines",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_08",
+      "nct_id": "NCT00127010",
+      "category": "vaccine_study",
+      "name": "NCT00127010: Immunogenicity and Safety of a Combined Vaccine to Prevent Measles, Mumps, Ru...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Measles",
+        "intervention_dosage": "Measles, Mumps, Rubella and Chickenpox (live vaccine)",
+        "sample_size": "750 patients",
+        "primary_endpoint": "Antibody levels after vaccination",
+        "lead_sponsor": "GlaxoSmithKline",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_09",
+      "nct_id": "NCT05669625",
+      "category": "vaccine_study",
+      "name": "NCT05669625: A Phase III Clinical Trial to Evaluate the Efficacy and Safety of the Live At...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Varicella",
+        "intervention_dosage": "Investigational live attenuated varicella vaccine, Placebo of live attenuated varicella vaccine",
+        "sample_size": "12440 patients",
+        "primary_endpoint": "The incidences of varicella in each group",
+        "lead_sponsor": "China National Biotec Group Company Limited",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_10",
+      "nct_id": "NCT00996125",
+      "category": "vaccine_study",
+      "name": "NCT00996125: Immunogenicity and Safety Study of GSK Biologicals' Human Papillomavirus 5802...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Infections, Papillomavirus",
+        "intervention_dosage": "CervarixTM, Control",
+        "sample_size": "750 patients",
+        "primary_endpoint": "Geometric Mean Titers (GMTs) for Antibodies Against Human...",
+        "lead_sponsor": "GlaxoSmithKline",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_11",
+      "nct_id": "NCT03699124",
+      "category": "vaccine_study",
+      "name": "NCT03699124: Freeze-Dried MVA-BN® Lot Consistency Smallpox Trial",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Smallpox",
+        "intervention_dosage": "FD MVA-BN",
+        "sample_size": "1129 patients",
+        "primary_endpoint": "Vaccinia-Specific Neutralizing Antibodies Measured by Pla...",
+        "lead_sponsor": "Bavarian Nordic",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_12",
+      "nct_id": "NCT02509494",
+      "category": "vaccine_study",
+      "name": "NCT02509494: Staged Phase 3 Study to Assess the Safety and Immunogenicity of Ebola Candida...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Ebola Virus Disease",
+        "intervention_dosage": "Ad26.ZEBOV, MVA-BN-Filo, MenACWY",
+        "sample_size": "1023 patients",
+        "primary_endpoint": "Stages 1 and 2: Number of Participants With Solicited Loc...",
+        "lead_sponsor": "Janssen Vaccines & Prevention B.V.",
+        "study_status": "COMPLETED"
+      }
+    }
+  ],
+  "medical_device": [
+    {
+      "entity_id": "clinical_medical_device_01",
+      "nct_id": "NCT04630626",
+      "category": "medical_device",
+      "name": "NCT04630626: Post-Approval Study Protocol for the Simplify Cervical Artificial Disc",
+      "protocol_attributes": {
+        "phase": "NA",
+        "target_condition": "Cervical Degenerative Disc Disorder",
+        "intervention_dosage": "Simplify Disc, ACDF",
+        "sample_size": "145 patients",
+        "primary_endpoint": "Number of Participants With Clinical Composite Success, P...",
+        "lead_sponsor": "NuVasive",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_02",
+      "nct_id": "NCT02064478",
+      "category": "medical_device",
+      "name": "NCT02064478: Clinical Survey of Oticon Medical Ponto Implants and a Surgical Technique Wit...",
+      "protocol_attributes": {
+        "phase": "Not Specified",
+        "target_condition": "Conductive Hearing Loss",
+        "intervention_dosage": "Standard of Care",
+        "sample_size": "25 patients",
+        "primary_endpoint": "Numbness around implant, specifically mean Total sensibility",
+        "lead_sponsor": "Oticon Medical",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_03",
+      "nct_id": "NCT00182208",
+      "category": "medical_device",
+      "name": "NCT00182208: Evaluation of a Venous-Return Assist Device (Venowave) to Treat Post-Thrombot...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Postphlebitic Syndrome",
+        "intervention_dosage": "Veno-device (Venowave)",
+        "sample_size": "32 patients",
+        "primary_endpoint": "Clinical Success measured with the Global Rating Instrument",
+        "lead_sponsor": "Hamilton Health Sciences Corporation",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_04",
+      "nct_id": "NCT03428282",
+      "category": "medical_device",
+      "name": "NCT03428282: Pain and Anxiety Control During Traditional Mandibular Anesthesia in Children...",
+      "protocol_attributes": {
+        "phase": "NA",
+        "target_condition": "Inferior Alveolar Nerve Block",
+        "intervention_dosage": "VR Box, Tablet Device, Anesthesia",
+        "sample_size": "102 patients",
+        "primary_endpoint": "Pain levels",
+        "lead_sponsor": "Damascus University",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_05",
+      "nct_id": "NCT05748782",
+      "category": "medical_device",
+      "name": "NCT05748782: BASKA Mask in Otologic Surgery in Lateral Position",
+      "protocol_attributes": {
+        "phase": "Not Specified",
+        "target_condition": "Airway Device",
+        "intervention_dosage": "Baska Mask, Endotracheal tube",
+        "sample_size": "100 patients",
+        "primary_endpoint": "The primary outcome will be the intraoperative peak inspi...",
+        "lead_sponsor": "Assiut University",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_06",
+      "nct_id": "NCT05482555",
+      "category": "medical_device",
+      "name": "NCT05482555: Percutaneous Plug-based Femoral Arteriotomy Closure Device Use in Surgery for...",
+      "protocol_attributes": {
+        "phase": "Not Specified",
+        "target_condition": "Aortic Dissection",
+        "intervention_dosage": "Percutaneous arteriotomy closed using a plug-based arteriotomy closure device, Surgical cut-down and arterial puncture under direct vision",
+        "sample_size": "171 patients",
+        "primary_endpoint": "Femoral access site complication",
+        "lead_sponsor": "Karolinska University Hospital",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_07",
+      "nct_id": "NCT05207943",
+      "category": "medical_device",
+      "name": "NCT05207943: Efficacy of the NXSignal Device for the Treatment of Anterior Cruciate Ligame...",
+      "protocol_attributes": {
+        "phase": "NA",
+        "target_condition": "Anterior Cruciate Ligament Injuries",
+        "intervention_dosage": "Non-invasive Neuromodulation, Placebo Non-invasive Neuromodulation",
+        "sample_size": "40 patients",
+        "primary_endpoint": "Knee circumference",
+        "lead_sponsor": "University of Las Palmas de Gran Canaria",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_08",
+      "nct_id": "NCT04613635",
+      "category": "medical_device",
+      "name": "NCT04613635: Stratafix vs. Vicryl OAGB / MGB Suture Study",
+      "protocol_attributes": {
+        "phase": "NA",
+        "target_condition": "Morbid Obesity",
+        "intervention_dosage": "Stratafix, Vicryl",
+        "sample_size": "100 patients",
+        "primary_endpoint": "Closure of gastrojejunostomy",
+        "lead_sponsor": "St. Franziskus Hospital",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_09",
+      "nct_id": "NCT02219308",
+      "category": "medical_device",
+      "name": "NCT02219308: Pain Control for Intrauterine Device Placement Using Paracervical Block",
+      "protocol_attributes": {
+        "phase": "NA",
+        "target_condition": "Pain Due to Intrauterine Contraceptive Device",
+        "intervention_dosage": "Paracervical Block (PCB), No Paracervical Block (Sham PCB)",
+        "sample_size": "67 patients",
+        "primary_endpoint": "Pain With Intrauterine Device (IUD) Placement",
+        "lead_sponsor": "University of California, San Diego",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_10",
+      "nct_id": "NCT00884650",
+      "category": "medical_device",
+      "name": "NCT00884650: Managing Post-operative Pain in Children With Cerebral Palsy Using a Pain Pump",
+      "protocol_attributes": {
+        "phase": "NA",
+        "target_condition": "Cerebral Palsy",
+        "intervention_dosage": "oral analgesic, intravenous analgesic per pump",
+        "sample_size": "54 patients",
+        "primary_endpoint": "The Amount of Oral Analgesic Each Subject Consumed Over t...",
+        "lead_sponsor": "University of Colorado, Denver",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_11",
+      "nct_id": "NCT05206474",
+      "category": "medical_device",
+      "name": "NCT05206474: To Evaluate the Performance and Safety of the Medical Device IRADYN in Subjec...",
+      "protocol_attributes": {
+        "phase": "NA",
+        "target_condition": "Knee Osteoarthritis",
+        "intervention_dosage": "IRADYN",
+        "sample_size": "50 patients",
+        "primary_endpoint": "Change in Range of Motion (ROM)",
+        "lead_sponsor": "I.R.A. Istituto Ricerche Applicate S.p.A.",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_12",
+      "nct_id": "NCT06879938",
+      "category": "medical_device",
+      "name": "NCT06879938: Concomitant Treatment with Topical Hyaluronic Acid and High Concentration Oxy...",
+      "protocol_attributes": {
+        "phase": "NA",
+        "target_condition": "Genitourinary Syndrome of Menopause",
+        "intervention_dosage": "High-concentration vaginal oxygen therapy (Caress Flow) with topical hyaluronic acid, hyaluronic acid-based gel (Hydeal-D®)",
+        "sample_size": "80 patients",
+        "primary_endpoint": "vaginal dryness one month after the completion of treatment",
+        "lead_sponsor": "Fondazione IRCCS Policlinico San Matteo di Pavia",
+        "study_status": "RECRUITING"
+      }
+    }
+  ],
+  "pediatric_study": [
+    {
+      "entity_id": "clinical_pediatric_study_01",
+      "nct_id": "NCT01444417",
+      "category": "pediatric_study",
+      "name": "NCT01444417: Safety and Efficacy Study of Romiplostim to Treat Immune Thrombocytopenia (IT...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Idiopathic Thrombocytopenic Purpura",
+        "intervention_dosage": "Romiplostim, Placebo",
+        "sample_size": "62 patients",
+        "primary_endpoint": "Percentage of Participants With a Durable Platelet Response",
+        "lead_sponsor": "Amgen",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_02",
+      "nct_id": "NCT01364597",
+      "category": "pediatric_study",
+      "name": "NCT01364597: Open-label Long-term Study of Adjunctive Brivaracetam in Pediatric Subjects W...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Epilepsy",
+        "intervention_dosage": "Brivaracetam (BRV)",
+        "sample_size": "257 patients",
+        "primary_endpoint": "Percentage of Participants With Treatment-emergent Advers...",
+        "lead_sponsor": "UCB Pharma SA",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_03",
+      "nct_id": "NCT00716859",
+      "category": "pediatric_study",
+      "name": "NCT00716859: A Phase 3 Prospective, Randomized, Double-Masked, 12-Week, Parallel Group Stu...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Glaucoma",
+        "intervention_dosage": "Timolol, latanoprost",
+        "sample_size": "139 patients",
+        "primary_endpoint": "Reduction From Baseline in Mean IOP at Week 12, Last Obse...",
+        "lead_sponsor": "Pfizer's Upjohn has merged with Mylan to form Viatris Inc.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_04",
+      "nct_id": "NCT02201290",
+      "category": "pediatric_study",
+      "name": "NCT02201290: A Long-term Safety Study of Eltrombopag in Pediatric Patients With Chronic Im...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Purpura, Thrombocytopenic, Idiopathic",
+        "intervention_dosage": "Eltrombopag Tablets, Eltrombopag PfOS",
+        "sample_size": "9 patients",
+        "primary_endpoint": "Number of Participants With Adverse Events",
+        "lead_sponsor": "Novartis Pharmaceuticals",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_05",
+      "nct_id": "NCT01617447",
+      "category": "pediatric_study",
+      "name": "NCT01617447: A Short Treatment Study of Aripiprazole in Pediatric Patients With Autistic D...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Autistic Disorder",
+        "intervention_dosage": "Placebo of Aripiprazole, Aripiprazole",
+        "sample_size": "92 patients",
+        "primary_endpoint": "Mean Change From Baseline in the Aberrant Behavior Checkl...",
+        "lead_sponsor": "Otsuka Pharmaceutical Co., Ltd.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_06",
+      "nct_id": "NCT05753774",
+      "category": "pediatric_study",
+      "name": "NCT05753774: Effect of Fecal Microbiota Transplantation (FMT) in Pediatric Functional Gast...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Functional Gastrointestinal Disorders",
+        "intervention_dosage": "FMT, Conventional drugs",
+        "sample_size": "47 patients",
+        "primary_endpoint": "The composite response",
+        "lead_sponsor": "Biao Zou",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_07",
+      "nct_id": "NCT00289874",
+      "category": "pediatric_study",
+      "name": "NCT00289874: Montelukast in Pediatric Allergic Asthma (0476-336)(COMPLETED)",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Asthma",
+        "intervention_dosage": "montelukast sodium, Comparator: Placebo",
+        "sample_size": "421 patients",
+        "primary_endpoint": "Percent Change From Baseline in Forced Expiratory Volume ...",
+        "lead_sponsor": "Organon and Co",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_08",
+      "nct_id": "NCT04987229",
+      "category": "pediatric_study",
+      "name": "NCT04987229: Long-term Safety Extension Study of OLZ/SAM in Pediatric Subjects",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Bipolar I Disorder",
+        "intervention_dosage": "OLZ/SAM",
+        "sample_size": "236 patients",
+        "primary_endpoint": "Incidence of adverse events",
+        "lead_sponsor": "Alkermes, Inc.",
+        "study_status": "ENROLLING_BY_INVITATION"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_09",
+      "nct_id": "NCT00035854",
+      "category": "pediatric_study",
+      "name": "NCT00035854: New Antibiotic to Treat Pediatric Patients With Infections Due to a Specific ...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Bacterial Infections",
+        "intervention_dosage": "Zyvox® / Linezolid",
+        "sample_size": "13 patients",
+        "primary_endpoint": "Investigator's and sponsor's evaluation of patient clinic...",
+        "lead_sponsor": "Pfizer",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_10",
+      "nct_id": "NCT06055959",
+      "category": "pediatric_study",
+      "name": "NCT06055959: A Study to Evaluate Subcutaneous Zilucoplan in Pediatric Participants With Ge...",
+      "protocol_attributes": {
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Generalized Myasthenia Gravis",
+        "intervention_dosage": "Zilucoplan",
+        "sample_size": "8 patients",
+        "primary_endpoint": "Plasma concentrations of zilucoplan (ZLP) sampled at Week...",
+        "lead_sponsor": "UCB Biopharma SRL",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_11",
+      "nct_id": "NCT05468840",
+      "category": "pediatric_study",
+      "name": "NCT05468840: Study of IV Ketamine for Emergency Department Treatment of Adolescent Suicida...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Suicidal Ideation",
+        "intervention_dosage": "Ketamine Hydrochloride, Normal saline",
+        "sample_size": "20 patients",
+        "primary_endpoint": "Feasibility of the study as measured by the percentage of...",
+        "lead_sponsor": "University of Ottawa",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_12",
+      "nct_id": "NCT01155388",
+      "category": "pediatric_study",
+      "name": "NCT01155388: A Trial of Ferumoxytol for the Treatment of Iron Deficiency Anemia in Pediatr...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Iron Deficiency Anemia",
+        "intervention_dosage": "Ferumoxytol, Oral Iron",
+        "sample_size": "14 patients",
+        "primary_endpoint": "Mean Change In Hemoglobin From Baseline To Week 5",
+        "lead_sponsor": "AMAG Pharmaceuticals, Inc.",
+        "study_status": "TERMINATED"
+      }
+    }
+  ],
+  "mental_health": [
+    {
+      "entity_id": "clinical_mental_health_01",
+      "nct_id": "NCT02726659",
+      "category": "mental_health",
+      "name": "NCT02726659: Adjunctive Use of Celecoxib in the Treatment of Bipolar Postpartum Depression",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Bipolar Disorder",
+        "intervention_dosage": "Celecoxib, Placebo",
+        "sample_size": "1 patients",
+        "primary_endpoint": "Hamilton Rating Scale for Depression (HAM-D)",
+        "lead_sponsor": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_02",
+      "nct_id": "NCT00344474",
+      "category": "mental_health",
+      "name": "NCT00344474: Personality-targeted Interventions for Adolescent Alcohol Misuse",
+      "protocol_attributes": {
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Alcohol Abuse",
+        "intervention_dosage": "PRE-Venture: Personality Risk Education",
+        "sample_size": "710 patients",
+        "primary_endpoint": "Time to onset and severity of drug use",
+        "lead_sponsor": "King's College London",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_03",
+      "nct_id": "NCT02218008",
+      "category": "mental_health",
+      "name": "NCT02218008: A Study of ALKS 5461 for the Treatment of Major Depressive Disorder (MDD) - F...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Major Depressive Disorder",
+        "intervention_dosage": "ALKS 5461, Placebo",
+        "sample_size": "407 patients",
+        "primary_endpoint": "Change in Montgomery Asberg Depression Rating Scale (MADR...",
+        "lead_sponsor": "Alkermes, Inc.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_04",
+      "nct_id": "NCT00158990",
+      "category": "mental_health",
+      "name": "NCT00158990: Triiodothyronine (T3) Supplementation in the Treatment of Bipolar and Unipola...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Major Depression",
+        "intervention_dosage": "triiodothyronine, sertraline",
+        "sample_size": "220 patients",
+        "primary_endpoint": "Response - HAM-D-21 improvement >50% at 8 weeks",
+        "lead_sponsor": "Hadassah Medical Organization",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_05",
+      "nct_id": "NCT00035048",
+      "category": "mental_health",
+      "name": "NCT00035048: Treatment of Patients With Major Depressive Disorder With MK0869 (0869-068)(C...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Major Depressive Disorder",
+        "intervention_dosage": "aprepitant, Comparator: placebo (unspecified)",
+        "sample_size": "540 patients",
+        "primary_endpoint": "HAMD-17 score </= 10 after 10 weeks; maintenance of antid...",
+        "lead_sponsor": "Merck Sharp & Dohme LLC",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_06",
+      "nct_id": "NCT00006286",
+      "category": "mental_health",
+      "name": "NCT00006286: Treatment for Adolescents With Depression Study (TADS)",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Major Depressive Disorder",
+        "intervention_dosage": "Fluoxetine, Psychotherapy",
+        "sample_size": "432 patients",
+        "primary_endpoint": "Clinical Response Rate",
+        "lead_sponsor": "National Institute of Mental Health (NIMH)",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_07",
+      "nct_id": "NCT00252356",
+      "category": "mental_health",
+      "name": "NCT00252356: Efficacy and Safety of SR58611A in Patients With Major Depressive Disorder",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Major Depressive Disorder",
+        "intervention_dosage": "SR58611A",
+        "sample_size": "468 patients",
+        "primary_endpoint": "17-item Hamilton Depression Rating Scale (HAM-D) total score",
+        "lead_sponsor": "Sanofi",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_08",
+      "nct_id": "NCT01110902",
+      "category": "mental_health",
+      "name": "NCT01110902: Efficacy, Safety and Tolerability of Agomelatine Sublingual Tablets in the Tr...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Major Depressive Disorder",
+        "intervention_dosage": "Agomelatine (AGO178C), Placebo",
+        "sample_size": "589 patients",
+        "primary_endpoint": "Change from Baseline to endpoint at Week 8 using the tota...",
+        "lead_sponsor": "Novartis Pharmaceuticals",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_09",
+      "nct_id": "NCT00960232",
+      "category": "mental_health",
+      "name": "NCT00960232: Vitamin D, Blood Pressure, Lipids, Infection and Depression",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Hypovitaminosis D",
+        "intervention_dosage": "Cholecalciferol, placebo",
+        "sample_size": "250 patients",
+        "primary_endpoint": "Depression score",
+        "lead_sponsor": "University of Tromso",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_10",
+      "nct_id": "NCT05186272",
+      "category": "mental_health",
+      "name": "NCT05186272: mHealth Mindfulness Intervention for Pregnant Black and Latina Women at Risk ...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Post Partum Depression",
+        "intervention_dosage": "Stress reduction program 'A', Stress reduction program 'B'",
+        "sample_size": "600 patients",
+        "primary_endpoint": "Patient Health Questionnaire-9",
+        "lead_sponsor": "Kaiser Permanente",
+        "study_status": "ACTIVE_NOT_RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_11",
+      "nct_id": "NCT01429272",
+      "category": "mental_health",
+      "name": "NCT01429272: Minocycline and Aspirin in the Treatment of Bipolar Depression",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Bipolar Disorder Depression",
+        "intervention_dosage": "Minocycline, Aspirin, placebo",
+        "sample_size": "99 patients",
+        "primary_endpoint": "Treatment Response",
+        "lead_sponsor": "Laureate Institute for Brain Research, Inc.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_12",
+      "nct_id": "NCT07412132",
+      "category": "mental_health",
+      "name": "NCT07412132: Evaluation of the Efficacy, Safety, and Tolerability of Lacosamide in Major D...",
+      "protocol_attributes": {
+        "phase": "PHASE3",
+        "target_condition": "Bipolar Affective Disorder",
+        "intervention_dosage": "Lacosamide, Placebo",
+        "sample_size": "40 patients",
+        "primary_endpoint": "Primary outcome",
+        "lead_sponsor": "University of Sao Paulo",
+        "study_status": "RECRUITING"
+      }
+    }
+  ]
+}

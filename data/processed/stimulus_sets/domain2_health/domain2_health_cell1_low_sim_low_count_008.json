@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_008",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell1_low_sim_low_count",
+  "cell_label": "low_sim_low_count",
+  "cell_description": "2 entities from distinct categories with disjoint attribute schemas.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_05",
+      "category": "oncology_trial",
+      "name": "NCT00778908: Late-Course Accelerated Hyperfractionated IMRT for Locoregionally Advanced Na...",
+      "attributes": {
+        "name": "NCT00778908: Late-Course Accelerated Hyperfractionated IMRT for Locoregionally Advanced Na...",
+        "category": "oncology_trial",
+        "nct_id": "NCT00778908",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Nasopharyngeal Carcinoma",
+        "intervention_dosage": "Late-course accelerated hyperfractionated IMRT, Concomitant cisplatin chemotherapy, Conventionally fractionated IMRT",
+        "sample_size": "120 patients",
+        "primary_endpoint": "Local/regional control rate, Acute and late toxicities",
+        "lead_sponsor": "Guangxi Medical University",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "31.2 months",
+        "grade3_toxicity_rate": "36.4%"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_09",
+      "category": "pediatric_study",
+      "name": "NCT00035854: New Antibiotic to Treat Pediatric Patients With Infections Due to a Specific ...",
+      "attributes": {
+        "name": "NCT00035854: New Antibiotic to Treat Pediatric Patients With Infections Due to a Specific ...",
+        "category": "pediatric_study",
+        "nct_id": "NCT00035854",
+        "phase": "PHASE3",
+        "target_condition": "Bacterial Infections",
+        "intervention_dosage": "Zyvox® / Linezolid",
+        "sample_size": "13 patients",
+        "primary_endpoint": "Investigator's and sponsor's evaluation of patient clinic...",
+        "lead_sponsor": "Pfizer",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

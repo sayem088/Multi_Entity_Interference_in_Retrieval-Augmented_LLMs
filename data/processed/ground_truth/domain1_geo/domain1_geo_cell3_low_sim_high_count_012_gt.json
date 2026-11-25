@@ -1,0 +1,113 @@
+{
+  "scenario_id": "domain1_geo_cell3_low_sim_high_count_012",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 8,
+  "entity_map": {
+    "Until SOHO": {
+      "name": "Until SOHO",
+      "category": "hospital",
+      "distance_km": "0.7 km",
+      "bearing": "North",
+      "travel_time": "2 mins",
+      "borough": "London Borough of Camden",
+      "postcode": "WC2H 0DT",
+      "hospital_capacity": "430 beds",
+      "emergency_department": "no",
+      "trauma_center_level": "Level 2",
+      "heliport_access": "no"
+    },
+    "Moorgate": {
+      "name": "Moorgate",
+      "category": "park",
+      "distance_km": "2.9 km",
+      "bearing": "East",
+      "travel_time": "7 mins",
+      "borough": "Greater London",
+      "postcode": "SW1A 5AA",
+      "leisure_type": "public_park",
+      "surface_material": "grass_and_woodland",
+      "dog_friendly": "yes",
+      "entry_fee": "free"
+    },
+    "ABC International Bank plc": {
+      "name": "ABC International Bank plc",
+      "category": "bank",
+      "distance_km": "2.8 km",
+      "bearing": "East",
+      "travel_time": "7 mins",
+      "borough": "Leadenhall Market",
+      "postcode": "EC2R 6JH",
+      "financial_service": "retail_and_commercial",
+      "atm_available": "yes",
+      "vault_reserves": "secure_deposit",
+      "branch_hours": "09:30-16:30"
+    },
+    "Silverfields Pharmacy": {
+      "name": "Silverfields Pharmacy",
+      "category": "pharmacy",
+      "distance_km": "7.5 km",
+      "bearing": "North-East",
+      "travel_time": "18 mins",
+      "borough": "London Borough of Hackney",
+      "postcode": "E9 6AS",
+      "prescription_dispensing": "yes",
+      "vaccination_service": "available",
+      "pharmacist_on_duty": "yes",
+      "operating_hours": "08:00-20:00"
+    },
+    "Prezzo": {
+      "name": "Prezzo",
+      "category": "restaurant",
+      "distance_km": "0.1 km",
+      "bearing": "South-East",
+      "travel_time": "2 mins",
+      "borough": "Covent Garden",
+      "postcode": "WC2N 5HR",
+      "dining_service": "dine_in_and_takeaway",
+      "cuisine_specialty": "british_and_international",
+      "table_reservation": "recommended",
+      "food_hygiene_rating": "5_stars"
+    },
+    "Ealing Fire Station (G25)": {
+      "name": "Ealing Fire Station (G25)",
+      "category": "fire_station",
+      "distance_km": "12.9 km",
+      "bearing": "West",
+      "travel_time": "31 mins",
+      "borough": "London Borough of Ealing",
+      "postcode": "W13 8RA",
+      "emergency_service": "fire_and_rescue",
+      "appliances_on_site": "2_pumping_appliances",
+      "response_readiness": "24_7_immediate",
+      "specialist_rescue": "water_and_height"
+    },
+    "Polish Institute and Sikorski Museum": {
+      "name": "Polish Institute and Sikorski Museum",
+      "category": "museum",
+      "distance_km": "3.2 km",
+      "bearing": "West",
+      "travel_time": "8 mins",
+      "borough": "Knightsbridge",
+      "postcode": "SW7 1PT",
+      "cultural_heritage": "exhibitions_and_galleries",
+      "admission_policy": "free_public_entry",
+      "guided_tours": "available",
+      "curatorial_archives": "historical"
+    },
+    "Royal College of Art, Kensington": {
+      "name": "Royal College of Art, Kensington",
+      "category": "university",
+      "distance_km": "3.6 km",
+      "bearing": "West",
+      "travel_time": "9 mins",
+      "borough": "Knightsbridge",
+      "postcode": "SW7 2EP",
+      "education_level": "higher_education_and_research",
+      "degree_granting": "undergraduate_and_postgraduate",
+      "campus_library": "24_hour_access",
+      "research_accreditation": "recognized"
+    }
+  }
+}

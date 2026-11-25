@@ -1,0 +1,151 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_019",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell3_low_sim_high_count",
+  "cell_label": "low_sim_high_count",
+  "cell_description": "8 entities from mixed distinct categories with low schema overlap.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_12",
+      "category": "oncology_trial",
+      "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+      "attributes": {
+        "name": "NCT01458717: Neoadjuvant Chemoradiation in Patients With Borderline Resectable Pancreatic ...",
+        "category": "oncology_trial",
+        "nct_id": "NCT01458717",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Pancreatic Cancer",
+        "intervention_dosage": "Neoadjuvant chemoradiation, Upfront surgery",
+        "sample_size": "58 patients",
+        "primary_endpoint": "2-year survival rate",
+        "lead_sponsor": "Seoul National University Hospital",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "29.0 months",
+        "grade3_toxicity_rate": "18.9%"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_04",
+      "category": "cardiology_trial",
+      "name": "NCT00123903: COREG MR Versus TOPROL-XL On Reduction Of Microalbuminuria In Patients With H...",
+      "attributes": {
+        "name": "NCT00123903: COREG MR Versus TOPROL-XL On Reduction Of Microalbuminuria In Patients With H...",
+        "category": "cardiology_trial",
+        "nct_id": "NCT00123903",
+        "phase": "PHASE3",
+        "target_condition": "Heart Failure, Congestive and Microalbuminuria",
+        "intervention_dosage": "metoprolol xl, carvedilol MR, lisinopril",
+        "sample_size": "1220 patients",
+        "primary_endpoint": "Change from baseline in urine albumin: creatinine ratio (...",
+        "lead_sponsor": "GlaxoSmithKline",
+        "study_status": "TERMINATED"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_02",
+      "category": "neurology_trial",
+      "name": "NCT04418024: Efficacy and Safety of AG10 in Subjects with Transthyretin Amyloid Polyneurop...",
+      "attributes": {
+        "name": "NCT04418024: Efficacy and Safety of AG10 in Subjects with Transthyretin Amyloid Polyneurop...",
+        "category": "neurology_trial",
+        "nct_id": "NCT04418024",
+        "phase": "PHASE3",
+        "target_condition": "Transthyretin-Related (ATTR) Familial Amyloid Polyneuropathy",
+        "intervention_dosage": "AG10, Placebo",
+        "sample_size": "450 patients",
+        "primary_endpoint": "Change from baseline to Month 18 of treatment in Modified...",
+        "lead_sponsor": "Eidos Therapeutics, a BridgeBio company",
+        "study_status": "WITHDRAWN"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_10",
+      "category": "infectious_disease",
+      "name": "NCT06956482: PROlonged Corticosteroid Treatment or N-ACetylcysteine for Severe Alcoholic H...",
+      "attributes": {
+        "name": "NCT06956482: PROlonged Corticosteroid Treatment or N-ACetylcysteine for Severe Alcoholic H...",
+        "category": "infectious_disease",
+        "nct_id": "NCT06956482",
+        "phase": "PHASE3",
+        "target_condition": "Alcoholic Hepatitis",
+        "intervention_dosage": "N-Acetylcysteine (NAC) Treatment, Prednisolone, Placebo of N-acetylcysteine",
+        "sample_size": "477 patients",
+        "primary_endpoint": "Rate of patients alive with compensated liver disease",
+        "lead_sponsor": "University Hospital, Lille",
+        "study_status": "RECRUITING"
+      }
+    },
+    {
+      "entity_id": "clinical_vaccine_study_12",
+      "category": "vaccine_study",
+      "name": "NCT02509494: Staged Phase 3 Study to Assess the Safety and Immunogenicity of Ebola Candida...",
+      "attributes": {
+        "name": "NCT02509494: Staged Phase 3 Study to Assess the Safety and Immunogenicity of Ebola Candida...",
+        "category": "vaccine_study",
+        "nct_id": "NCT02509494",
+        "phase": "PHASE3",
+        "target_condition": "Ebola Virus Disease",
+        "intervention_dosage": "Ad26.ZEBOV, MVA-BN-Filo, MenACWY",
+        "sample_size": "1023 patients",
+        "primary_endpoint": "Stages 1 and 2: Number of Participants With Solicited Loc...",
+        "lead_sponsor": "Janssen Vaccines & Prevention B.V.",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_11",
+      "category": "medical_device",
+      "name": "NCT05206474: To Evaluate the Performance and Safety of the Medical Device IRADYN in Subjec...",
+      "attributes": {
+        "name": "NCT05206474: To Evaluate the Performance and Safety of the Medical Device IRADYN in Subjec...",
+        "category": "medical_device",
+        "nct_id": "NCT05206474",
+        "phase": "NA",
+        "target_condition": "Knee Osteoarthritis",
+        "intervention_dosage": "IRADYN",
+        "sample_size": "50 patients",
+        "primary_endpoint": "Change in Range of Motion (ROM)",
+        "lead_sponsor": "I.R.A. Istituto Ricerche Applicate S.p.A.",
+        "study_status": "UNKNOWN"
+      }
+    },
+    {
+      "entity_id": "clinical_pediatric_study_04",
+      "category": "pediatric_study",
+      "name": "NCT02201290: A Long-term Safety Study of Eltrombopag in Pediatric Patients With Chronic Im...",
+      "attributes": {
+        "name": "NCT02201290: A Long-term Safety Study of Eltrombopag in Pediatric Patients With Chronic Im...",
+        "category": "pediatric_study",
+        "nct_id": "NCT02201290",
+        "phase": "PHASE3",
+        "target_condition": "Purpura, Thrombocytopenic, Idiopathic",
+        "intervention_dosage": "Eltrombopag Tablets, Eltrombopag PfOS",
+        "sample_size": "9 patients",
+        "primary_endpoint": "Number of Participants With Adverse Events",
+        "lead_sponsor": "Novartis Pharmaceuticals",
+        "study_status": "COMPLETED"
+      }
+    },
+    {
+      "entity_id": "clinical_mental_health_02",
+      "category": "mental_health",
+      "name": "NCT00344474: Personality-targeted Interventions for Adolescent Alcohol Misuse",
+      "attributes": {
+        "name": "NCT00344474: Personality-targeted Interventions for Adolescent Alcohol Misuse",
+        "category": "mental_health",
+        "nct_id": "NCT00344474",
+        "phase": "PHASE2, PHASE3",
+        "target_condition": "Alcohol Abuse",
+        "intervention_dosage": "PRE-Venture: Personality Risk Education",
+        "sample_size": "710 patients",
+        "primary_endpoint": "Time to onset and severity of drug use",
+        "lead_sponsor": "King's College London",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

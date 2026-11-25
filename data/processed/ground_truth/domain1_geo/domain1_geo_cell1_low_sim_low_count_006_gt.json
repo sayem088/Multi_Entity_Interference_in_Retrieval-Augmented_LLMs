@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_006",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entity_map": {
+    "Homerton University Hospital": {
+      "name": "Homerton University Hospital",
+      "category": "hospital",
+      "distance_km": "7.4 km",
+      "bearing": "North-East",
+      "travel_time": "18 mins",
+      "borough": "London Borough of Hackney",
+      "postcode": "E9 6DH",
+      "hospital_capacity": "840 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 1",
+      "heliport_access": "yes"
+    },
+    "Lume London": {
+      "name": "Lume London",
+      "category": "restaurant",
+      "distance_km": "4.5 km",
+      "bearing": "North-West",
+      "travel_time": "11 mins",
+      "borough": "London Borough of Camden",
+      "postcode": "NW3 3AD",
+      "dining_service": "dine_in_and_takeaway",
+      "cuisine_specialty": "british_and_international",
+      "table_reservation": "recommended",
+      "food_hygiene_rating": "5_stars"
+    }
+  }
+}

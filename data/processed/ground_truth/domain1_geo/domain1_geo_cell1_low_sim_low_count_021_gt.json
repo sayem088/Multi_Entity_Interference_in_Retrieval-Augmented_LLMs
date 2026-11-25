@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_021",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entity_map": {
+    "St Bartholomew's Hospital": {
+      "name": "St Bartholomew's Hospital",
+      "category": "hospital",
+      "distance_km": "2.2 km",
+      "bearing": "North-East",
+      "travel_time": "5 mins",
+      "borough": "West Smithfield",
+      "postcode": "EC1A 9DE",
+      "hospital_capacity": "950 beds",
+      "emergency_department": "yes",
+      "trauma_center_level": "Level 1",
+      "heliport_access": "yes"
+    },
+    "Richmond Fire Station": {
+      "name": "Richmond Fire Station",
+      "category": "fire_station",
+      "distance_km": "11.8 km",
+      "bearing": "South-West",
+      "travel_time": "28 mins",
+      "borough": "London Borough of Richmond upon Thames",
+      "postcode": "TW9 4PN",
+      "emergency_service": "fire_and_rescue",
+      "appliances_on_site": "2_pumping_appliances",
+      "response_readiness": "24_7_immediate",
+      "specialist_rescue": "water_and_height"
+    }
+  }
+}

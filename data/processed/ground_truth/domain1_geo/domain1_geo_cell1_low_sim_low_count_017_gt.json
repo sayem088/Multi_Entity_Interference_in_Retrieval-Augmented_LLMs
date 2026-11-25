@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_017",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entity_map": {
+    "Cassel Hospital": {
+      "name": "Cassel Hospital",
+      "category": "hospital",
+      "distance_km": "15.1 km",
+      "bearing": "South-West",
+      "travel_time": "36 mins",
+      "borough": "London Borough of Richmond upon Thames",
+      "postcode": "TW10 7JF",
+      "hospital_capacity": "1000 beds",
+      "emergency_department": "no",
+      "trauma_center_level": "Level 1",
+      "heliport_access": "yes"
+    },
+    "Primrose Hill": {
+      "name": "Primrose Hill",
+      "category": "park",
+      "distance_km": "4.2 km",
+      "bearing": "North-West",
+      "travel_time": "10 mins",
+      "borough": "London Borough of Camden",
+      "postcode": "NW8 7LS",
+      "leisure_type": "public_park",
+      "surface_material": "grass_and_woodland",
+      "dog_friendly": "yes",
+      "entry_fee": "free"
+    }
+  }
+}

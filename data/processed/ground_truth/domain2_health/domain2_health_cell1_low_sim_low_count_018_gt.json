@@ -1,0 +1,35 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_018",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entity_map": {
+    "NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients": {
+      "name": "NCT00628043: Clinical Study of Epoetin Beta to Chemotherapy-Induced Anemia (CIA) Patients",
+      "category": "oncology_trial",
+      "nct_id": "NCT00628043",
+      "phase": "PHASE3",
+      "target_condition": "Anemia",
+      "intervention_dosage": "epoetin beta, placebo",
+      "sample_size": "160 patients",
+      "primary_endpoint": "The proportion of the subjects who receive red blood cell...",
+      "lead_sponsor": "Chugai Pharmaceutical",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "23.6 months",
+      "grade3_toxicity_rate": "26.4%"
+    },
+    "NCT05186272: mHealth Mindfulness Intervention for Pregnant Black and Latina Women at Risk ...": {
+      "name": "NCT05186272: mHealth Mindfulness Intervention for Pregnant Black and Latina Women at Risk ...",
+      "category": "mental_health",
+      "nct_id": "NCT05186272",
+      "phase": "PHASE3",
+      "target_condition": "Post Partum Depression",
+      "intervention_dosage": "Stress reduction program 'A', Stress reduction program 'B'",
+      "sample_size": "600 patients",
+      "primary_endpoint": "Patient Health Questionnaire-9",
+      "lead_sponsor": "Kaiser Permanente",
+      "study_status": "ACTIVE_NOT_RECRUITING"
+    }
+  }
+}

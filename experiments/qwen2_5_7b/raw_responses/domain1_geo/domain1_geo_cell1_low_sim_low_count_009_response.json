@@ -1,0 +1,13 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_009",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "model_name": "Qwen2.5-7B-Instruct",
+  "mode": "live",
+  "prompt": "You are a precise, factual information extraction assistant specializing in Central London GeoAI & Spatial Infrastructure.\nRead the retrieved context below carefully. Answer the question relying ONLY on the explicit facts provided.\nCRITICAL INSTRUCTION: Do NOT confuse, mix, or interchange attributes between different entities. Every attribute must remain strictly bound to its correct entity.\n\n[RETRIEVED CONTEXT]\nEntity: Tunica Diagnostics (Category: hospital)\n  - distance_km: 0.7 km\n  - bearing: North\n  - travel_time: 2 mins\n  - borough: London Borough of Camden\n  - postcode: WC2H 0DT\n  - hospital_capacity: 580 beds\n  - emergency_department: yes\n  - trauma_center_level: Level 2\n  - heliport_access: no\n\nEntity: Twickenham Fire Station (Category: fire_station)\n  - distance_km: 17.2 km\n  - bearing: South-West\n  - travel_time: 41 mins\n  - borough: London Borough of Richmond upon Thames\n  - postcode: TW2 5NP\n  - emergency_service: fire_and_rescue\n  - appliances_on_site: 2_pumping_appliances\n  - response_readiness: 24_7_immediate\n  - specialist_rescue: water_and_height\n\n[QUESTION]\nFor every entity listed above, output its exact name and all of its associated attributes in the exact format:\nEntity: <Entity Name>\n- <attribute_name>: <attribute_value>\n...",
+  "raw_response": "Entity: Tunica Diagnostics\n- distance_km: 0.7 km\n- bearing: North\n- travel_time: 2 mins\n- borough: London Borough of Camden\n- postcode: WC2H 0DT\n- hospital_capacity: 580 beds\n- emergency_department: yes\n- trauma_center_level: Level 2\n- heliport_access: no\n\nEntity: Twickenham Fire Station\n- distance_km: 17.2 km\n- bearing: South-West\n- travel_time: 41 mins\n- borough: London Borough of Richmond upon Thames\n- postcode: TW2 5NP\n- emergency_service: fire_and_rescue\n- appliances_on_site: 2_pumping_appliances\n- response_readiness: 24_7_immediate\n- specialist_rescue: water_and_height",
+  "generation_time_sec": 12.531,
+  "timestamp": "2026-11-18T18:02:55.747288"
+}

@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain1_geo_cell1_low_sim_low_count_017",
+  "domain_id": "domain1_geo",
+  "domain_name": "GeoAI & Spatial Infrastructure (London)",
+  "cell_id": "cell1_low_sim_low_count",
+  "cell_label": "low_sim_low_count",
+  "cell_description": "2 entities from distinct categories with disjoint attribute schemas.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.4667,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "geo_hospital_06",
+      "category": "hospital",
+      "name": "Cassel Hospital",
+      "attributes": {
+        "name": "Cassel Hospital",
+        "category": "hospital",
+        "distance_km": "15.1 km",
+        "bearing": "South-West",
+        "travel_time": "36 mins",
+        "borough": "London Borough of Richmond upon Thames",
+        "postcode": "TW10 7JF",
+        "hospital_capacity": "1000 beds",
+        "emergency_department": "no",
+        "trauma_center_level": "Level 1",
+        "heliport_access": "yes"
+      }
+    },
+    {
+      "entity_id": "geo_park_06",
+      "category": "park",
+      "name": "Primrose Hill",
+      "attributes": {
+        "name": "Primrose Hill",
+        "category": "park",
+        "distance_km": "4.2 km",
+        "bearing": "North-West",
+        "travel_time": "10 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW8 7LS",
+        "leisure_type": "public_park",
+        "surface_material": "grass_and_woodland",
+        "dog_friendly": "yes",
+        "entry_fee": "free"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "scenario_id": "domain2_health_cell3_low_sim_high_count_003",
+  "domain_id": "domain2_health",
+  "cell_label": "low_sim_high_count",
+  "schema_similarity_score": 0.9583,
+  "entity_count": 8,
+  "entity_map": {
+    "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...": {
+      "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+      "category": "oncology_trial",
+      "nct_id": "NCT00399035",
+      "phase": "PHASE3",
+      "target_condition": "Metastatic Colorectal Cancer",
+      "intervention_dosage": "Cediranib, FOLFOX (5-fluorouracil, Leucovorin, Oxaliplatin), XELOX (Capecitabine and Oxaliplatin)",
+      "sample_size": "1254 patients",
+      "primary_endpoint": "Progression-free Survival",
+      "lead_sponsor": "AstraZeneca",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "14.8 months",
+      "grade3_toxicity_rate": "19.8%"
+    },
+    "NCT07596329: Outpatient Hypertonic Saline and Loop Diuretic Combination Therapy in Cardior...": {
+      "name": "NCT07596329: Outpatient Hypertonic Saline and Loop Diuretic Combination Therapy in Cardior...",
+      "category": "cardiology_trial",
+      "nct_id": "NCT07596329",
+      "phase": "PHASE3",
+      "target_condition": "Heart Failure",
+      "intervention_dosage": "Hypertonic sodium chloride 10%, Sodium Chloride 0.9%, Furosemide intravenous solution",
+      "sample_size": "60 patients",
+      "primary_endpoint": "Number of participants rehospitalized for heart failure",
+      "lead_sponsor": "University of Monastir",
+      "study_status": "NOT_YET_RECRUITING"
+    },
+    "NCT05894954: Precision Medicine Approach for Early Dementia & Mild Cognitive Impairment": {
+      "name": "NCT05894954: Precision Medicine Approach for Early Dementia & Mild Cognitive Impairment",
+      "category": "neurology_trial",
+      "nct_id": "NCT05894954",
+      "phase": "PHASE3",
+      "target_condition": "Mild Cognitive Impairment",
+      "intervention_dosage": "Precision Medicine Approach, Hormones and Medications tailored to lab tests, combined with devices that support stress management and brain exercises, Standard-of-Care",
+      "sample_size": "73 patients",
+      "primary_endpoint": "Changes in mean Montreal Cognition Assessment (MoCA) scor...",
+      "lead_sponsor": "Alzheimer's Prevention and Reversal Project, Inc.",
+      "study_status": "COMPLETED"
+    },
+    "NCT02858440: A Study to Assess the Immunogenicity and Safety of GSK Biologicals' Infanrix-...": {
+      "name": "NCT02858440: A Study to Assess the Immunogenicity and Safety of GSK Biologicals' Infanrix-...",
+      "category": "infectious_disease",
+      "nct_id": "NCT02858440",
+      "phase": "PHASE3",
+      "target_condition": "Diphtheria",
+      "intervention_dosage": "Infanrix-IPV/Hib",
+      "sample_size": "235 patients",
+      "primary_endpoint": "Number of Seroprotected Subjects for Anti-diphtheria (Ant...",
+      "lead_sponsor": "GlaxoSmithKline",
+      "study_status": "COMPLETED"
+    },
+    "NCT05669625: A Phase III Clinical Trial to Evaluate the Efficacy and Safety of the Live At...": {
+      "name": "NCT05669625: A Phase III Clinical Trial to Evaluate the Efficacy and Safety of the Live At...",
+      "category": "vaccine_study",
+      "nct_id": "NCT05669625",
+      "phase": "PHASE3",
+      "target_condition": "Varicella",
+      "intervention_dosage": "Investigational live attenuated varicella vaccine, Placebo of live attenuated varicella vaccine",
+      "sample_size": "12440 patients",
+      "primary_endpoint": "The incidences of varicella in each group",
+      "lead_sponsor": "China National Biotec Group Company Limited",
+      "study_status": "UNKNOWN"
+    },
+    "NCT02064478: Clinical Survey of Oticon Medical Ponto Implants and a Surgical Technique Wit...": {
+      "name": "NCT02064478: Clinical Survey of Oticon Medical Ponto Implants and a Surgical Technique Wit...",
+      "category": "medical_device",
+      "nct_id": "NCT02064478",
+      "phase": "Not Specified",
+      "target_condition": "Conductive Hearing Loss",
+      "intervention_dosage": "Standard of Care",
+      "sample_size": "25 patients",
+      "primary_endpoint": "Numbness around implant, specifically mean Total sensibility",
+      "lead_sponsor": "Oticon Medical",
+      "study_status": "COMPLETED"
+    },
+    "NCT00716859: A Phase 3 Prospective, Randomized, Double-Masked, 12-Week, Parallel Group Stu...": {
+      "name": "NCT00716859: A Phase 3 Prospective, Randomized, Double-Masked, 12-Week, Parallel Group Stu...",
+      "category": "pediatric_study",
+      "nct_id": "NCT00716859",
+      "phase": "PHASE3",
+      "target_condition": "Glaucoma",
+      "intervention_dosage": "Timolol, latanoprost",
+      "sample_size": "139 patients",
+      "primary_endpoint": "Reduction From Baseline in Mean IOP at Week 12, Last Obse...",
+      "lead_sponsor": "Pfizer's Upjohn has merged with Mylan to form Viatris Inc.",
+      "study_status": "COMPLETED"
+    },
+    "NCT02218008: A Study of ALKS 5461 for the Treatment of Major Depressive Disorder (MDD) - F...": {
+      "name": "NCT02218008: A Study of ALKS 5461 for the Treatment of Major Depressive Disorder (MDD) - F...",
+      "category": "mental_health",
+      "nct_id": "NCT02218008",
+      "phase": "PHASE3",
+      "target_condition": "Major Depressive Disorder",
+      "intervention_dosage": "ALKS 5461, Placebo",
+      "sample_size": "407 patients",
+      "primary_endpoint": "Change in Montgomery Asberg Depression Rating Scale (MADR...",
+      "lead_sponsor": "Alkermes, Inc.",
+      "study_status": "COMPLETED"
+    }
+  }
+}

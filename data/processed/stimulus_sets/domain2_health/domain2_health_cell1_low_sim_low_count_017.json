@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain2_health_cell1_low_sim_low_count_017",
+  "domain_id": "domain2_health",
+  "domain_name": "Healthcare & Biomedical Clinical Protocols",
+  "cell_id": "cell1_low_sim_low_count",
+  "cell_label": "low_sim_low_count",
+  "cell_description": "2 entities from distinct categories with disjoint attribute schemas.",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.8333,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_oncology_trial_04",
+      "category": "oncology_trial",
+      "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+      "attributes": {
+        "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+        "category": "oncology_trial",
+        "nct_id": "NCT00399035",
+        "phase": "PHASE3",
+        "target_condition": "Metastatic Colorectal Cancer",
+        "intervention_dosage": "Cediranib, FOLFOX (5-fluorouracil, Leucovorin, Oxaliplatin), XELOX (Capecitabine and Oxaliplatin)",
+        "sample_size": "1254 patients",
+        "primary_endpoint": "Progression-free Survival",
+        "lead_sponsor": "AstraZeneca",
+        "study_status": "COMPLETED",
+        "median_overall_survival": "14.8 months",
+        "grade3_toxicity_rate": "19.8%"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_07",
+      "category": "infectious_disease",
+      "name": "NCT01935817: Silybin - Vitamin E- Phospholipids Complex Reduces Liver Fibrosis in Patients...",
+      "attributes": {
+        "name": "NCT01935817: Silybin - Vitamin E- Phospholipids Complex Reduces Liver Fibrosis in Patients...",
+        "category": "infectious_disease",
+        "nct_id": "NCT01935817",
+        "phase": "PHASE3",
+        "target_condition": "Liver Fibrosis",
+        "intervention_dosage": "Silybin 94 mg + vitamin E 90 mg + phospholipids 194 mg complex, Placebo",
+        "sample_size": "64 patients",
+        "primary_endpoint": "transforming growth factor beta",
+        "lead_sponsor": "University of Catania",
+        "study_status": "COMPLETED"
+      }
+    }
+  ]
+}

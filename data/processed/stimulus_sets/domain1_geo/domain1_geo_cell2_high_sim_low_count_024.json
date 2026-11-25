@@ -1,0 +1,49 @@
+{
+  "scenario_id": "domain1_geo_cell2_high_sim_low_count_024",
+  "domain_id": "domain1_geo",
+  "domain_name": "GeoAI & Spatial Infrastructure (London)",
+  "cell_id": "cell2_high_sim_low_count",
+  "cell_label": "high_sim_low_count",
+  "cell_description": "2 entities from the same category with identical attribute schemas.",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "geo_hospital_11",
+      "category": "hospital",
+      "name": "St Thomas' Hospital",
+      "attributes": {
+        "name": "St Thomas' Hospital",
+        "category": "hospital",
+        "distance_km": "1.2 km",
+        "bearing": "South-East",
+        "travel_time": "3 mins",
+        "borough": "London Borough of Lambeth",
+        "postcode": "SE1 7EH",
+        "hospital_capacity": "490 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    },
+    {
+      "entity_id": "geo_hospital_08",
+      "category": "hospital",
+      "name": "Royal Free Hospital",
+      "attributes": {
+        "name": "Royal Free Hospital",
+        "category": "hospital",
+        "distance_km": "5.6 km",
+        "bearing": "North-West",
+        "travel_time": "14 mins",
+        "borough": "London Borough of Camden",
+        "postcode": "NW3 2QG",
+        "hospital_capacity": "380 beds",
+        "emergency_department": "yes",
+        "trauma_center_level": "Level 2",
+        "heliport_access": "no"
+      }
+    }
+  ]
+}

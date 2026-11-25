@@ -1,0 +1,37 @@
+{
+  "scenario_id": "domain2_health_cell2_high_sim_low_count_005",
+  "domain_id": "domain2_health",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entity_map": {
+    "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...": {
+      "name": "NCT00399035: Cediranib (AZD2171, RECENTIN™) in Addition to Chemotherapy in Patients With U...",
+      "category": "oncology_trial",
+      "nct_id": "NCT00399035",
+      "phase": "PHASE3",
+      "target_condition": "Metastatic Colorectal Cancer",
+      "intervention_dosage": "Cediranib, FOLFOX (5-fluorouracil, Leucovorin, Oxaliplatin), XELOX (Capecitabine and Oxaliplatin)",
+      "sample_size": "1254 patients",
+      "primary_endpoint": "Progression-free Survival",
+      "lead_sponsor": "AstraZeneca",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "14.8 months",
+      "grade3_toxicity_rate": "19.8%"
+    },
+    "NCT00291759: ABCSG 8 - Adjuvant Treatment in Patients With Hormone Receptor-positive Breas...": {
+      "name": "NCT00291759: ABCSG 8 - Adjuvant Treatment in Patients With Hormone Receptor-positive Breas...",
+      "category": "oncology_trial",
+      "nct_id": "NCT00291759",
+      "phase": "PHASE3",
+      "target_condition": "Breast Cancer",
+      "intervention_dosage": "Tamoxifen, Anastrozole",
+      "sample_size": "3858 patients",
+      "primary_endpoint": "To assess the difference in event free survival and overa...",
+      "lead_sponsor": "AstraZeneca",
+      "study_status": "COMPLETED",
+      "median_overall_survival": "27.8 months",
+      "grade3_toxicity_rate": "15.3%"
+    }
+  }
+}
