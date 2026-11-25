@@ -1,0 +1,36 @@
+{
+  "scenario_id": "domain3_wiki_high_sim_low_count_013",
+  "domain_id": "domain3_wiki",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "wiki_stadium_43",
+      "category": "stadium",
+      "name": "Grand Stadium 43",
+      "attributes": {
+        "name": "Grand Stadium 43",
+        "established": "1923",
+        "location": "London, UK",
+        "students_or_employees": "90,000 capacity",
+        "budget_or_gdp": "$1.2 billion construction",
+        "website": "https://stadium.org"
+      }
+    },
+    {
+      "entity_id": "wiki_stadium_26",
+      "category": "stadium",
+      "name": "Grand Stadium 26",
+      "attributes": {
+        "name": "Grand Stadium 26",
+        "established": "1923",
+        "location": "London, UK",
+        "students_or_employees": "90,000 capacity",
+        "budget_or_gdp": "$1.2 billion construction",
+        "website": "https://stadium.org"
+      }
+    }
+  ]
+}

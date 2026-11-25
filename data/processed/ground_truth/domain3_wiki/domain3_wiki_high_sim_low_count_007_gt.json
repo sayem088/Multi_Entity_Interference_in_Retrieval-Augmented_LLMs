@@ -1,0 +1,18 @@
+{
+  "scenario_id": "domain3_wiki_high_sim_low_count_007",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Grand River 96": {
+      "name": "Grand River 96",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand River 67": {
+      "name": "Grand River 67",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    }
+  }
+}

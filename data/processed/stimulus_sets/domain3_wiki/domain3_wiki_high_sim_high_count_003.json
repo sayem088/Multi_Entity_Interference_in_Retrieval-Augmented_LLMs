@@ -1,0 +1,98 @@
+{
+  "scenario_id": "domain3_wiki_high_sim_high_count_003",
+  "domain_id": "domain3_wiki",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "wiki_river_24",
+      "category": "river",
+      "name": "Grand River 24",
+      "attributes": {
+        "name": "Grand River 24",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_river_57",
+      "category": "river",
+      "name": "Grand River 57",
+      "attributes": {
+        "name": "Grand River 57",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_river_44",
+      "category": "river",
+      "name": "Grand River 44",
+      "attributes": {
+        "name": "Grand River 44",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_river_54",
+      "category": "river",
+      "name": "Grand River 54",
+      "attributes": {
+        "name": "Grand River 54",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_river_47",
+      "category": "river",
+      "name": "Grand River 47",
+      "attributes": {
+        "name": "Grand River 47",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_river_18",
+      "category": "river",
+      "name": "Grand River 18",
+      "attributes": {
+        "name": "Grand River 18",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_river_90",
+      "category": "river",
+      "name": "Grand River 90",
+      "attributes": {
+        "name": "Grand River 90",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_river_91",
+      "category": "river",
+      "name": "Grand River 91",
+      "attributes": {
+        "name": "Grand River 91",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    }
+  ]
+}

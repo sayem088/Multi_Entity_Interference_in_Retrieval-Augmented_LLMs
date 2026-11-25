@@ -1,0 +1,38 @@
+{
+  "scenario_id": "domain3_wiki_high_sim_low_count_030",
+  "domain_id": "domain3_wiki",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "wiki_company_89",
+      "category": "company",
+      "name": "Grand Company 89",
+      "attributes": {
+        "name": "Grand Company 89",
+        "established": "2237",
+        "location": "Mountain View, CA",
+        "students_or_employees": "183000 employees",
+        "budget_or_gdp": "$280 billion revenue",
+        "motto": "Organize the world's information",
+        "website": "https://company.com"
+      }
+    },
+    {
+      "entity_id": "wiki_company_39",
+      "category": "company",
+      "name": "Grand Company 39",
+      "attributes": {
+        "name": "Grand Company 39",
+        "established": "2087",
+        "location": "Mountain View, CA",
+        "students_or_employees": "83000 employees",
+        "budget_or_gdp": "$280 billion revenue",
+        "motto": "Organize the world's information",
+        "website": "https://company.com"
+      }
+    }
+  ]
+}

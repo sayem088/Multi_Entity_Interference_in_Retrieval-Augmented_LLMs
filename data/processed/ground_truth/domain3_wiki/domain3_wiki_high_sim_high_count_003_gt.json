@@ -1,0 +1,54 @@
+{
+  "scenario_id": "domain3_wiki_high_sim_high_count_003",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "Grand River 24": {
+      "name": "Grand River 24",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand River 57": {
+      "name": "Grand River 57",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand River 44": {
+      "name": "Grand River 44",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand River 54": {
+      "name": "Grand River 54",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand River 47": {
+      "name": "Grand River 47",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand River 18": {
+      "name": "Grand River 18",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand River 90": {
+      "name": "Grand River 90",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand River 91": {
+      "name": "Grand River 91",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    }
+  }
+}

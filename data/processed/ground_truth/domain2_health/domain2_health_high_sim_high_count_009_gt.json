@@ -1,0 +1,86 @@
+{
+  "scenario_id": "domain2_health_high_sim_high_count_009",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "Vaccine Study Study 58": {
+      "study_or_drug_name": "Vaccine Study Study 58",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Vaccine Study Study 14": {
+      "study_or_drug_name": "Vaccine Study Study 14",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Vaccine Study Study 24": {
+      "study_or_drug_name": "Vaccine Study Study 24",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Vaccine Study Study 47": {
+      "study_or_drug_name": "Vaccine Study Study 47",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Vaccine Study Study 11": {
+      "study_or_drug_name": "Vaccine Study Study 11",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Vaccine Study Study 85": {
+      "study_or_drug_name": "Vaccine Study Study 85",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Vaccine Study Study 48": {
+      "study_or_drug_name": "Vaccine Study Study 48",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Vaccine Study Study 67": {
+      "study_or_drug_name": "Vaccine Study Study 67",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    }
+  }
+}

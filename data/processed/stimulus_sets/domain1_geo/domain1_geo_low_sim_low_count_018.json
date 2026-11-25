@@ -1,0 +1,39 @@
+{
+  "scenario_id": "domain1_geo_low_sim_low_count_018",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.15384615384615385,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "osm_park_84",
+      "category": "park",
+      "name": "Park Site 84",
+      "attributes": {
+        "name": "Park Site 84",
+        "leisure": "park",
+        "opening_hours": "06:00-21:00",
+        "dog_friendly": "yes",
+        "fee": "no",
+        "surface": "grass"
+      }
+    },
+    {
+      "entity_id": "osm_restaurant_64",
+      "category": "restaurant",
+      "name": "Restaurant Site 64",
+      "attributes": {
+        "name": "Restaurant Site 64",
+        "cuisine": "italian",
+        "opening_hours": "11:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0144",
+        "website": "https://bistro.com",
+        "postcode": "10002",
+        "rating": "4.0 stars"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "scenario_id": "domain3_wiki_high_sim_high_count_009",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "Grand Stadium 17": {
+      "name": "Grand Stadium 17",
+      "established": "1923",
+      "location": "London, UK",
+      "students_or_employees": "90,000 capacity",
+      "budget_or_gdp": "$1.2 billion construction",
+      "website": "https://stadium.org"
+    },
+    "Grand Stadium 39": {
+      "name": "Grand Stadium 39",
+      "established": "1923",
+      "location": "London, UK",
+      "students_or_employees": "90,000 capacity",
+      "budget_or_gdp": "$1.2 billion construction",
+      "website": "https://stadium.org"
+    },
+    "Grand Stadium 49": {
+      "name": "Grand Stadium 49",
+      "established": "1923",
+      "location": "London, UK",
+      "students_or_employees": "90,000 capacity",
+      "budget_or_gdp": "$1.2 billion construction",
+      "website": "https://stadium.org"
+    },
+    "Grand Stadium 95": {
+      "name": "Grand Stadium 95",
+      "established": "1923",
+      "location": "London, UK",
+      "students_or_employees": "90,000 capacity",
+      "budget_or_gdp": "$1.2 billion construction",
+      "website": "https://stadium.org"
+    },
+    "Grand Stadium 33": {
+      "name": "Grand Stadium 33",
+      "established": "1923",
+      "location": "London, UK",
+      "students_or_employees": "90,000 capacity",
+      "budget_or_gdp": "$1.2 billion construction",
+      "website": "https://stadium.org"
+    },
+    "Grand Stadium 36": {
+      "name": "Grand Stadium 36",
+      "established": "1923",
+      "location": "London, UK",
+      "students_or_employees": "90,000 capacity",
+      "budget_or_gdp": "$1.2 billion construction",
+      "website": "https://stadium.org"
+    },
+    "Grand Stadium 61": {
+      "name": "Grand Stadium 61",
+      "established": "1923",
+      "location": "London, UK",
+      "students_or_employees": "90,000 capacity",
+      "budget_or_gdp": "$1.2 billion construction",
+      "website": "https://stadium.org"
+    },
+    "Grand Stadium 15": {
+      "name": "Grand Stadium 15",
+      "established": "1923",
+      "location": "London, UK",
+      "students_or_employees": "90,000 capacity",
+      "budget_or_gdp": "$1.2 billion construction",
+      "website": "https://stadium.org"
+    }
+  }
+}

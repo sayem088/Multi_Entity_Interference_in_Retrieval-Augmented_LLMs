@@ -1,0 +1,16 @@
+% IEEE TPAMI Manuscript Deliverable: Table 2
+% Domain Comparison Breakdown (GeoAI vs Healthcare)
+\begin{table}[t]
+\centering
+\small
+\caption{Domain-Specific Comparison of Multi-Entity Binding Resilience on QWEN_7B.}
+\label{tab:domain_breakdown_qwen_7b}
+\begin{tabular}{lcccccc}
+\toprule
+\textbf{Domain} & \textbf{$N$} & \textbf{$BER_k$ $\downarrow$} & \textbf{$EA\text{-}F1$ $\uparrow$} & \textbf{RAGAS $\uparrow$} & \textbf{$\Delta_{\text{blind}}$ $\uparrow$} & \textbf{Time} \\
+\midrule
+  GeoAI \& Spatial Infrastructure & 100 & 0.000 & 0.872 & 0.840 & 0.121 & 20.9s \\
+  Clinical Protocols \& Healthcare & 100 & 0.000 & 0.684 & 0.877 & 0.312 & 26.3s \\
+\bottomrule
+\end{tabular}
+\end{table}

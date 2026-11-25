@@ -1,0 +1,20 @@
+{
+  "scenario_id": "domain1_geo_low_sim_low_count_006",
+  "cell_label": "low_sim_low_count",
+  "entity_map": {
+    "School Site 55": {
+      "name": "School Site 55",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Park Site 44": {
+      "name": "Park Site 44",
+      "leisure": "park",
+      "opening_hours": "06:00-21:00",
+      "dog_friendly": "yes",
+      "fee": "no",
+      "surface": "grass"
+    }
+  }
+}

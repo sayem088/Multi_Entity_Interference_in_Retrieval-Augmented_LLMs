@@ -1,0 +1,54 @@
+{
+  "scenario_id": "domain1_geo_high_sim_high_count_001",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "Airport Site 98": {
+      "name": "Airport Site 98",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Airport Site 38": {
+      "name": "Airport Site 38",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Airport Site 29": {
+      "name": "Airport Site 29",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Airport Site 67": {
+      "name": "Airport Site 67",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Airport Site 14": {
+      "name": "Airport Site 14",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Airport Site 12": {
+      "name": "Airport Site 12",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Airport Site 94": {
+      "name": "Airport Site 94",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Airport Site 78": {
+      "name": "Airport Site 78",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    }
+  }
+}

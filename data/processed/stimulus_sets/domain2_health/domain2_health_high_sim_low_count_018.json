@@ -1,0 +1,40 @@
+{
+  "scenario_id": "domain2_health_high_sim_low_count_018",
+  "domain_id": "domain2_health",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_pharmaceutical_drug_11",
+      "category": "pharmaceutical_drug",
+      "name": "Pharmaceutical Drug Study 11",
+      "attributes": {
+        "study_or_drug_name": "Pharmaceutical Drug Study 11",
+        "phase": "Approved Monograph",
+        "target_condition": "Type 2 Diabetes Mellitus",
+        "intervention_dosage": "Semaglutide 1.0mg SubQ Weekly",
+        "sample_size": "FDA Label Indication",
+        "primary_endpoint": "HbA1c Reduction 1.5%",
+        "adverse_event_rate": "Nausea / GI 20%",
+        "completion_year": "2022"
+      }
+    },
+    {
+      "entity_id": "clinical_pharmaceutical_drug_38",
+      "category": "pharmaceutical_drug",
+      "name": "Pharmaceutical Drug Study 38",
+      "attributes": {
+        "study_or_drug_name": "Pharmaceutical Drug Study 38",
+        "phase": "Approved Monograph",
+        "target_condition": "Type 2 Diabetes Mellitus",
+        "intervention_dosage": "Semaglutide 1.0mg SubQ Weekly",
+        "sample_size": "FDA Label Indication",
+        "primary_endpoint": "HbA1c Reduction 1.5%",
+        "adverse_event_rate": "Nausea / GI 20%",
+        "completion_year": "2022"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "scenario_id": "domain3_wiki_high_sim_high_count_008",
+  "domain_id": "domain3_wiki",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "wiki_museum_19",
+      "category": "museum",
+      "name": "Grand Museum 19",
+      "attributes": {
+        "name": "Grand Museum 19",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_museum_72",
+      "category": "museum",
+      "name": "Grand Museum 72",
+      "attributes": {
+        "name": "Grand Museum 72",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_museum_85",
+      "category": "museum",
+      "name": "Grand Museum 85",
+      "attributes": {
+        "name": "Grand Museum 85",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_museum_31",
+      "category": "museum",
+      "name": "Grand Museum 31",
+      "attributes": {
+        "name": "Grand Museum 31",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_museum_13",
+      "category": "museum",
+      "name": "Grand Museum 13",
+      "attributes": {
+        "name": "Grand Museum 13",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_museum_51",
+      "category": "museum",
+      "name": "Grand Museum 51",
+      "attributes": {
+        "name": "Grand Museum 51",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_museum_63",
+      "category": "museum",
+      "name": "Grand Museum 63",
+      "attributes": {
+        "name": "Grand Museum 63",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_museum_18",
+      "category": "museum",
+      "name": "Grand Museum 18",
+      "attributes": {
+        "name": "Grand Museum 18",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    }
+  ]
+}

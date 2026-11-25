@@ -1,0 +1,26 @@
+{
+  "scenario_id": "domain1_geo_high_sim_low_count_032",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Hospital Site 80": {
+      "name": "Hospital Site 80",
+      "capacity": "2100 beds",
+      "opening_hours": "24/7",
+      "emergency": "yes",
+      "wheelchair": "yes",
+      "phone": "+1-555-0190",
+      "website": "https://hospital.org",
+      "postcode": "10001"
+    },
+    "Hospital Site 11": {
+      "name": "Hospital Site 11",
+      "capacity": "375 beds",
+      "opening_hours": "24/7",
+      "emergency": "yes",
+      "wheelchair": "yes",
+      "phone": "+1-555-0121",
+      "website": "https://hospital.org",
+      "postcode": "10001"
+    }
+  }
+}

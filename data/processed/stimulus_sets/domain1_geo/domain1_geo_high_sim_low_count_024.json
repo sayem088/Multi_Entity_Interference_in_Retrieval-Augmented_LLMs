@@ -1,0 +1,40 @@
+{
+  "scenario_id": "domain1_geo_high_sim_low_count_024",
+  "domain_id": "domain1_geo",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "osm_hospital_96",
+      "category": "hospital",
+      "name": "Hospital Site 96",
+      "attributes": {
+        "name": "Hospital Site 96",
+        "capacity": "2500 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-01106",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    },
+    {
+      "entity_id": "osm_hospital_41",
+      "category": "hospital",
+      "name": "Hospital Site 41",
+      "attributes": {
+        "name": "Hospital Site 41",
+        "capacity": "1125 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0151",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    }
+  ]
+}

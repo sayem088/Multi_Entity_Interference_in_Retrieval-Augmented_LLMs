@@ -1,0 +1,18 @@
+{
+  "scenario_id": "domain1_geo_high_sim_low_count_026",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Airport Site 65": {
+      "name": "Airport Site 65",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Airport Site 68": {
+      "name": "Airport Site 68",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    }
+  }
+}

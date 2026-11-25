@@ -1,0 +1,86 @@
+{
+  "scenario_id": "domain2_health_high_sim_high_count_024",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "Infectious Disease Trial Study 97": {
+      "study_or_drug_name": "Infectious Disease Trial Study 97",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Infectious Disease Trial Study 09": {
+      "study_or_drug_name": "Infectious Disease Trial Study 09",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Infectious Disease Trial Study 67": {
+      "study_or_drug_name": "Infectious Disease Trial Study 67",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Infectious Disease Trial Study 14": {
+      "study_or_drug_name": "Infectious Disease Trial Study 14",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Infectious Disease Trial Study 15": {
+      "study_or_drug_name": "Infectious Disease Trial Study 15",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Infectious Disease Trial Study 72": {
+      "study_or_drug_name": "Infectious Disease Trial Study 72",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Infectious Disease Trial Study 82": {
+      "study_or_drug_name": "Infectious Disease Trial Study 82",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Infectious Disease Trial Study 40": {
+      "study_or_drug_name": "Infectious Disease Trial Study 40",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    }
+  }
+}

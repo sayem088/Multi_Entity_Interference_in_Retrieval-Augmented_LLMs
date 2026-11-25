@@ -1,0 +1,36 @@
+{
+  "scenario_id": "domain1_geo_low_sim_low_count_016",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.2,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "osm_pharmacy_89",
+      "category": "pharmacy",
+      "name": "Pharmacy Site 89",
+      "attributes": {
+        "name": "Pharmacy Site 89",
+        "dispensing": "yes",
+        "opening_hours": "08:00-22:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0177",
+        "postcode": "10004"
+      }
+    },
+    {
+      "entity_id": "osm_park_72",
+      "category": "park",
+      "name": "Park Site 72",
+      "attributes": {
+        "name": "Park Site 72",
+        "leisure": "park",
+        "opening_hours": "06:00-21:00",
+        "dog_friendly": "yes",
+        "fee": "no",
+        "surface": "grass"
+      }
+    }
+  ]
+}

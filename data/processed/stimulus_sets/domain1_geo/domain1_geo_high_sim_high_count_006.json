@@ -1,0 +1,98 @@
+{
+  "scenario_id": "domain1_geo_high_sim_high_count_006",
+  "domain_id": "domain1_geo",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "osm_airport_72",
+      "category": "airport",
+      "name": "Airport Site 72",
+      "attributes": {
+        "name": "Airport Site 72",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_airport_78",
+      "category": "airport",
+      "name": "Airport Site 78",
+      "attributes": {
+        "name": "Airport Site 78",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_airport_73",
+      "category": "airport",
+      "name": "Airport Site 73",
+      "attributes": {
+        "name": "Airport Site 73",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_airport_49",
+      "category": "airport",
+      "name": "Airport Site 49",
+      "attributes": {
+        "name": "Airport Site 49",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_airport_67",
+      "category": "airport",
+      "name": "Airport Site 67",
+      "attributes": {
+        "name": "Airport Site 67",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_airport_86",
+      "category": "airport",
+      "name": "Airport Site 86",
+      "attributes": {
+        "name": "Airport Site 86",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_airport_6",
+      "category": "airport",
+      "name": "Airport Site 6",
+      "attributes": {
+        "name": "Airport Site 6",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_airport_14",
+      "category": "airport",
+      "name": "Airport Site 14",
+      "attributes": {
+        "name": "Airport Site 14",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    }
+  ]
+}

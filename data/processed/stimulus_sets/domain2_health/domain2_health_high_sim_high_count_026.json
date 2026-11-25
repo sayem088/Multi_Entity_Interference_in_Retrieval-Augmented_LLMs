@@ -1,0 +1,130 @@
+{
+  "scenario_id": "domain2_health_high_sim_high_count_026",
+  "domain_id": "domain2_health",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_cardiology_trial_57",
+      "category": "cardiology_trial",
+      "name": "Cardiology Trial Study 57",
+      "attributes": {
+        "study_or_drug_name": "Cardiology Trial Study 57",
+        "phase": "Phase 3",
+        "target_condition": "Heart Failure with Reduced Ejection Fraction",
+        "intervention_dosage": "Dapagliflozin 10mg Daily",
+        "sample_size": "17250 patients",
+        "primary_endpoint": "Cardiovascular Death Reduction 18%",
+        "adverse_event_rate": "Hypotension 2.3%",
+        "completion_year": "2023"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_76",
+      "category": "cardiology_trial",
+      "name": "Cardiology Trial Study 76",
+      "attributes": {
+        "study_or_drug_name": "Cardiology Trial Study 76",
+        "phase": "Phase 3",
+        "target_condition": "Heart Failure with Reduced Ejection Fraction",
+        "intervention_dosage": "Dapagliflozin 10mg Daily",
+        "sample_size": "22000 patients",
+        "primary_endpoint": "Cardiovascular Death Reduction 18%",
+        "adverse_event_rate": "Hypotension 1.5%",
+        "completion_year": "2023"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_86",
+      "category": "cardiology_trial",
+      "name": "Cardiology Trial Study 86",
+      "attributes": {
+        "study_or_drug_name": "Cardiology Trial Study 86",
+        "phase": "Phase 3",
+        "target_condition": "Heart Failure with Reduced Ejection Fraction",
+        "intervention_dosage": "Dapagliflozin 10mg Daily",
+        "sample_size": "24500 patients",
+        "primary_endpoint": "Cardiovascular Death Reduction 18%",
+        "adverse_event_rate": "Hypotension 3.1%",
+        "completion_year": "2023"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_1",
+      "category": "cardiology_trial",
+      "name": "Cardiology Trial Study 01",
+      "attributes": {
+        "study_or_drug_name": "Cardiology Trial Study 01",
+        "phase": "Phase 3",
+        "target_condition": "Heart Failure with Reduced Ejection Fraction",
+        "intervention_dosage": "Dapagliflozin 10mg Daily",
+        "sample_size": "3250 patients",
+        "primary_endpoint": "Cardiovascular Death Reduction 18%",
+        "adverse_event_rate": "Hypotension 2.3%",
+        "completion_year": "2023"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_40",
+      "category": "cardiology_trial",
+      "name": "Cardiology Trial Study 40",
+      "attributes": {
+        "study_or_drug_name": "Cardiology Trial Study 40",
+        "phase": "Phase 3",
+        "target_condition": "Heart Failure with Reduced Ejection Fraction",
+        "intervention_dosage": "Dapagliflozin 10mg Daily",
+        "sample_size": "13000 patients",
+        "primary_endpoint": "Cardiovascular Death Reduction 18%",
+        "adverse_event_rate": "Hypotension 1.5%",
+        "completion_year": "2023"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_58",
+      "category": "cardiology_trial",
+      "name": "Cardiology Trial Study 58",
+      "attributes": {
+        "study_or_drug_name": "Cardiology Trial Study 58",
+        "phase": "Phase 3",
+        "target_condition": "Heart Failure with Reduced Ejection Fraction",
+        "intervention_dosage": "Dapagliflozin 10mg Daily",
+        "sample_size": "17500 patients",
+        "primary_endpoint": "Cardiovascular Death Reduction 18%",
+        "adverse_event_rate": "Hypotension 3.1%",
+        "completion_year": "2023"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_5",
+      "category": "cardiology_trial",
+      "name": "Cardiology Trial Study 05",
+      "attributes": {
+        "study_or_drug_name": "Cardiology Trial Study 05",
+        "phase": "Phase 3",
+        "target_condition": "Heart Failure with Reduced Ejection Fraction",
+        "intervention_dosage": "Dapagliflozin 10mg Daily",
+        "sample_size": "4250 patients",
+        "primary_endpoint": "Cardiovascular Death Reduction 18%",
+        "adverse_event_rate": "Hypotension 2.3%",
+        "completion_year": "2023"
+      }
+    },
+    {
+      "entity_id": "clinical_cardiology_trial_65",
+      "category": "cardiology_trial",
+      "name": "Cardiology Trial Study 65",
+      "attributes": {
+        "study_or_drug_name": "Cardiology Trial Study 65",
+        "phase": "Phase 3",
+        "target_condition": "Heart Failure with Reduced Ejection Fraction",
+        "intervention_dosage": "Dapagliflozin 10mg Daily",
+        "sample_size": "19250 patients",
+        "primary_endpoint": "Cardiovascular Death Reduction 18%",
+        "adverse_event_rate": "Hypotension 2.3%",
+        "completion_year": "2023"
+      }
+    }
+  ]
+}

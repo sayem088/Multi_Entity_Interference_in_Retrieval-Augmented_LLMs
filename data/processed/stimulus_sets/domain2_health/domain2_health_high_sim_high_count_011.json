@@ -1,0 +1,130 @@
+{
+  "scenario_id": "domain2_health_high_sim_high_count_011",
+  "domain_id": "domain2_health",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_medical_device_9",
+      "category": "medical_device",
+      "name": "Medical Device Study 09",
+      "attributes": {
+        "study_or_drug_name": "Medical Device Study 09",
+        "phase": "Phase 2",
+        "target_condition": "Cardiometabolic Syndrome",
+        "intervention_dosage": "Investigational Agent 50mg",
+        "sample_size": "350 patients",
+        "primary_endpoint": "Biomarker Normalization",
+        "adverse_event_rate": "Mild headache 8%",
+        "completion_year": "2025"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_53",
+      "category": "medical_device",
+      "name": "Medical Device Study 53",
+      "attributes": {
+        "study_or_drug_name": "Medical Device Study 53",
+        "phase": "Phase 2",
+        "target_condition": "Cardiometabolic Syndrome",
+        "intervention_dosage": "Investigational Agent 50mg",
+        "sample_size": "350 patients",
+        "primary_endpoint": "Biomarker Normalization",
+        "adverse_event_rate": "Mild headache 8%",
+        "completion_year": "2025"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_52",
+      "category": "medical_device",
+      "name": "Medical Device Study 52",
+      "attributes": {
+        "study_or_drug_name": "Medical Device Study 52",
+        "phase": "Phase 2",
+        "target_condition": "Cardiometabolic Syndrome",
+        "intervention_dosage": "Investigational Agent 50mg",
+        "sample_size": "350 patients",
+        "primary_endpoint": "Biomarker Normalization",
+        "adverse_event_rate": "Mild headache 8%",
+        "completion_year": "2025"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_56",
+      "category": "medical_device",
+      "name": "Medical Device Study 56",
+      "attributes": {
+        "study_or_drug_name": "Medical Device Study 56",
+        "phase": "Phase 2",
+        "target_condition": "Cardiometabolic Syndrome",
+        "intervention_dosage": "Investigational Agent 50mg",
+        "sample_size": "350 patients",
+        "primary_endpoint": "Biomarker Normalization",
+        "adverse_event_rate": "Mild headache 8%",
+        "completion_year": "2025"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_6",
+      "category": "medical_device",
+      "name": "Medical Device Study 06",
+      "attributes": {
+        "study_or_drug_name": "Medical Device Study 06",
+        "phase": "Phase 2",
+        "target_condition": "Cardiometabolic Syndrome",
+        "intervention_dosage": "Investigational Agent 50mg",
+        "sample_size": "350 patients",
+        "primary_endpoint": "Biomarker Normalization",
+        "adverse_event_rate": "Mild headache 8%",
+        "completion_year": "2025"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_91",
+      "category": "medical_device",
+      "name": "Medical Device Study 91",
+      "attributes": {
+        "study_or_drug_name": "Medical Device Study 91",
+        "phase": "Phase 2",
+        "target_condition": "Cardiometabolic Syndrome",
+        "intervention_dosage": "Investigational Agent 50mg",
+        "sample_size": "350 patients",
+        "primary_endpoint": "Biomarker Normalization",
+        "adverse_event_rate": "Mild headache 8%",
+        "completion_year": "2025"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_70",
+      "category": "medical_device",
+      "name": "Medical Device Study 70",
+      "attributes": {
+        "study_or_drug_name": "Medical Device Study 70",
+        "phase": "Phase 2",
+        "target_condition": "Cardiometabolic Syndrome",
+        "intervention_dosage": "Investigational Agent 50mg",
+        "sample_size": "350 patients",
+        "primary_endpoint": "Biomarker Normalization",
+        "adverse_event_rate": "Mild headache 8%",
+        "completion_year": "2025"
+      }
+    },
+    {
+      "entity_id": "clinical_medical_device_15",
+      "category": "medical_device",
+      "name": "Medical Device Study 15",
+      "attributes": {
+        "study_or_drug_name": "Medical Device Study 15",
+        "phase": "Phase 2",
+        "target_condition": "Cardiometabolic Syndrome",
+        "intervention_dosage": "Investigational Agent 50mg",
+        "sample_size": "350 patients",
+        "primary_endpoint": "Biomarker Normalization",
+        "adverse_event_rate": "Mild headache 8%",
+        "completion_year": "2025"
+      }
+    }
+  ]
+}

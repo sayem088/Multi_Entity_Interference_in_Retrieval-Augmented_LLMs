@@ -1,0 +1,24 @@
+{
+  "scenario_id": "domain1_geo_low_sim_low_count_037",
+  "cell_label": "low_sim_low_count",
+  "entity_map": {
+    "Park Site 76": {
+      "name": "Park Site 76",
+      "leisure": "park",
+      "opening_hours": "06:00-21:00",
+      "dog_friendly": "yes",
+      "fee": "no",
+      "surface": "grass"
+    },
+    "Hospital Site 71": {
+      "name": "Hospital Site 71",
+      "capacity": "1875 beds",
+      "opening_hours": "24/7",
+      "emergency": "yes",
+      "wheelchair": "yes",
+      "phone": "+1-555-0181",
+      "website": "https://hospital.org",
+      "postcode": "10001"
+    }
+  }
+}

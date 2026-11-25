@@ -1,0 +1,22 @@
+{
+  "scenario_id": "domain1_geo_high_sim_low_count_035",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Park Site 31": {
+      "name": "Park Site 31",
+      "leisure": "park",
+      "opening_hours": "06:00-21:00",
+      "dog_friendly": "yes",
+      "fee": "no",
+      "surface": "grass"
+    },
+    "Park Site 34": {
+      "name": "Park Site 34",
+      "leisure": "park",
+      "opening_hours": "06:00-21:00",
+      "dog_friendly": "yes",
+      "fee": "no",
+      "surface": "grass"
+    }
+  }
+}

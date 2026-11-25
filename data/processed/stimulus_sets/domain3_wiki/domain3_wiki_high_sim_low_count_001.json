@@ -1,0 +1,32 @@
+{
+  "scenario_id": "domain3_wiki_high_sim_low_count_001",
+  "domain_id": "domain3_wiki",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "wiki_bridge_17",
+      "category": "bridge",
+      "name": "Grand Bridge 17",
+      "attributes": {
+        "name": "Grand Bridge 17",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    },
+    {
+      "entity_id": "wiki_bridge_27",
+      "category": "bridge",
+      "name": "Grand Bridge 27",
+      "attributes": {
+        "name": "Grand Bridge 27",
+        "established": "1900",
+        "location": "Global",
+        "website": "https://example.org"
+      }
+    }
+  ]
+}

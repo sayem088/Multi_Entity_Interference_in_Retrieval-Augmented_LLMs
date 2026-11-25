@@ -1,0 +1,24 @@
+{
+  "scenario_id": "domain3_wiki_high_sim_low_count_010",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Grand Country 47": {
+      "name": "Grand Country 47",
+      "established": "1776",
+      "location": "North America",
+      "students_or_employees": "330 million residents",
+      "budget_or_gdp": "$25 trillion",
+      "motto": "In God We Trust",
+      "website": "https://gov.portal"
+    },
+    "Grand Country 8": {
+      "name": "Grand Country 8",
+      "established": "1776",
+      "location": "North America",
+      "students_or_employees": "330 million residents",
+      "budget_or_gdp": "$25 trillion",
+      "motto": "In God We Trust",
+      "website": "https://gov.portal"
+    }
+  }
+}

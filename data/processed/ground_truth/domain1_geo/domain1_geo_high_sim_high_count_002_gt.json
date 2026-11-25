@@ -1,0 +1,70 @@
+{
+  "scenario_id": "domain1_geo_high_sim_high_count_002",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "Park Site 31": {
+      "name": "Park Site 31",
+      "leisure": "park",
+      "opening_hours": "06:00-21:00",
+      "dog_friendly": "yes",
+      "fee": "no",
+      "surface": "grass"
+    },
+    "Park Site 86": {
+      "name": "Park Site 86",
+      "leisure": "park",
+      "opening_hours": "06:00-21:00",
+      "dog_friendly": "yes",
+      "fee": "no",
+      "surface": "grass"
+    },
+    "Park Site 64": {
+      "name": "Park Site 64",
+      "leisure": "park",
+      "opening_hours": "06:00-21:00",
+      "dog_friendly": "yes",
+      "fee": "no",
+      "surface": "grass"
+    },
+    "Park Site 90": {
+      "name": "Park Site 90",
+      "leisure": "park",
+      "opening_hours": "06:00-21:00",
+      "dog_friendly": "yes",
+      "fee": "no",
+      "surface": "grass"
+    },
+    "Park Site 56": {
+      "name": "Park Site 56",
+      "leisure": "park",
+      "opening_hours": "06:00-21:00",
+      "dog_friendly": "yes",
+      "fee": "no",
+      "surface": "grass"
+    },
+    "Park Site 54": {
+      "name": "Park Site 54",
+      "leisure": "park",
+      "opening_hours": "06:00-21:00",
+      "dog_friendly": "yes",
+      "fee": "no",
+      "surface": "grass"
+    },
+    "Park Site 8": {
+      "name": "Park Site 8",
+      "leisure": "park",
+      "opening_hours": "06:00-21:00",
+      "dog_friendly": "yes",
+      "fee": "no",
+      "surface": "grass"
+    },
+    "Park Site 82": {
+      "name": "Park Site 82",
+      "leisure": "park",
+      "opening_hours": "06:00-21:00",
+      "dog_friendly": "yes",
+      "fee": "no",
+      "surface": "grass"
+    }
+  }
+}

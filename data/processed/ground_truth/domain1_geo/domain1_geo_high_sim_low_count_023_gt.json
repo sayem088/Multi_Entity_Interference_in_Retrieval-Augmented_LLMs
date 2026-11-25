@@ -1,0 +1,22 @@
+{
+  "scenario_id": "domain1_geo_high_sim_low_count_023",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Pharmacy Site 28": {
+      "name": "Pharmacy Site 28",
+      "dispensing": "yes",
+      "opening_hours": "08:00-22:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0177",
+      "postcode": "10004"
+    },
+    "Pharmacy Site 8": {
+      "name": "Pharmacy Site 8",
+      "dispensing": "yes",
+      "opening_hours": "08:00-22:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0177",
+      "postcode": "10004"
+    }
+  }
+}

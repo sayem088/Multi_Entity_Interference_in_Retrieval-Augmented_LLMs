@@ -1,0 +1,130 @@
+{
+  "scenario_id": "domain1_geo_high_sim_high_count_032",
+  "domain_id": "domain1_geo",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "osm_hospital_92",
+      "category": "hospital",
+      "name": "Hospital Site 92",
+      "attributes": {
+        "name": "Hospital Site 92",
+        "capacity": "2400 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-01102",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    },
+    {
+      "entity_id": "osm_hospital_77",
+      "category": "hospital",
+      "name": "Hospital Site 77",
+      "attributes": {
+        "name": "Hospital Site 77",
+        "capacity": "2025 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0187",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    },
+    {
+      "entity_id": "osm_hospital_63",
+      "category": "hospital",
+      "name": "Hospital Site 63",
+      "attributes": {
+        "name": "Hospital Site 63",
+        "capacity": "1675 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0173",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    },
+    {
+      "entity_id": "osm_hospital_56",
+      "category": "hospital",
+      "name": "Hospital Site 56",
+      "attributes": {
+        "name": "Hospital Site 56",
+        "capacity": "1500 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0166",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    },
+    {
+      "entity_id": "osm_hospital_91",
+      "category": "hospital",
+      "name": "Hospital Site 91",
+      "attributes": {
+        "name": "Hospital Site 91",
+        "capacity": "2375 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-01101",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    },
+    {
+      "entity_id": "osm_hospital_98",
+      "category": "hospital",
+      "name": "Hospital Site 98",
+      "attributes": {
+        "name": "Hospital Site 98",
+        "capacity": "2550 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-01108",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    },
+    {
+      "entity_id": "osm_hospital_18",
+      "category": "hospital",
+      "name": "Hospital Site 18",
+      "attributes": {
+        "name": "Hospital Site 18",
+        "capacity": "550 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0128",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    },
+    {
+      "entity_id": "osm_hospital_51",
+      "category": "hospital",
+      "name": "Hospital Site 51",
+      "attributes": {
+        "name": "Hospital Site 51",
+        "capacity": "1375 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0161",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    }
+  ]
+}

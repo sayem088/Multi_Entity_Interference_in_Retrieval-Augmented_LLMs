@@ -10,6 +10,7 @@ from pathlib import Path
 from typing import List, Dict, Any
 from mei.schema.similarity import compute_scenario_schema_similarity
 from mei.retrieval.osm_client import OSMClient
+from mei.retrieval.clinical_client import ClinicalClient
 from mei.retrieval.wiki_client import WikiClient
 
 class StimulusBuilder:
@@ -17,6 +18,7 @@ class StimulusBuilder:
         self.seed = seed
         random.seed(seed)
         self.osm_client = OSMClient()
+        self.clinical_client = ClinicalClient()
         self.wiki_client = WikiClient()
 
     def build_domain_stimulus_set(
@@ -42,8 +44,10 @@ class StimulusBuilder:
         # Pull pools of entities per category
         entity_pool: Dict[str, List[Dict[str, Any]]] = {}
         for cat in categories:
-            if "poi" in domain_id or "osm" in domain_id:
+            if "geo" in domain_id or "osm" in domain_id or "poi" in domain_id:
                 entity_pool[cat] = self.osm_client.fetch_pois_by_category(cat, limit=100)
+            elif "health" in domain_id or "clinical" in domain_id:
+                entity_pool[cat] = self.clinical_client.fetch_entities_by_category(cat, limit=100)
             else:
                 entity_pool[cat] = self.wiki_client.fetch_entities_by_category(cat, limit=100)
 

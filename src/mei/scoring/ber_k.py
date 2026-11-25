@@ -12,63 +12,91 @@ Note: Pure hallucinations (values absent from context entirely) are excluded fro
 import re
 from typing import Dict, Any, List, Tuple, Set
 
-def _entity_matches_text(ent_name: str, text: str) -> bool:
-    """Checks if entity name or its unique core words appear in text."""
-    ent_lower = ent_name.lower()
-    text_lower = text.lower()
-    
-    if ent_lower in text_lower:
-        return True
-        
-    # Extract distinct non-generic words (ignore common categories like hospital, university, company, etc.)
-    stopwords = {"hospital", "university", "company", "bank", "restaurant", "site", "park", "pharmacy", "stadium", "the", "grand", "city"}
-    words = [w for w in re.findall(r'\w+', ent_lower) if w not in stopwords]
-    
-    if words and all(w in text_lower for w in words):
-        return True
-        
-    return False
+def _find_entity_for_line(line: str, entity_names: List[str]) -> str:
+    """Finds the unambiguous entity that this text line belongs to."""
+    clean_line = re.sub(r'[^\w\s]', ' ', line.lower())
+    matched_ent = None
+
+    for ent_name in entity_names:
+        clean_ent = re.sub(r'[^\w\s]', ' ', ent_name.lower())
+        if clean_ent in clean_line or ent_name.lower() in line.lower():
+            if matched_ent is None or len(ent_name) > len(matched_ent):
+                matched_ent = ent_name
+
+    return matched_ent
 
 
 def extract_triples_from_text(response_text: str, ground_truth: Dict[str, Any]) -> List[Tuple[str, str, str]]:
     """
-    Extracts (entity, attribute, value) claims from response_text matching the known ground_truth schema.
+    Extracts (entity, attribute, value) claims from response_text matching the known ground_truth schema,
+    as well as novel/hallucinated attribute assertions.
     """
     entity_map = ground_truth.get("entity_map", {})
     extracted_claims = []
-    
+    entity_names = list(entity_map.keys())
+
+    # Build pool of all known attribute keys and all valid values for each key in this scenario
+    all_known_attrs: Dict[str, Set[str]] = {}
+    for ent, attrs in entity_map.items():
+        for k, v in attrs.items():
+            if k not in ["name", "study_or_drug_name"]:
+                all_known_attrs.setdefault(k, set()).add(str(v).strip())
+
     lines = [line.strip() for line in response_text.split("\n") if line.strip()]
 
-    # Collect all known attribute values across ground truth
-    all_known_attrs = []
-    for ent_name, attrs in entity_map.items():
-        for k, v in attrs.items():
-            if k != "name":
-                all_known_attrs.append((ent_name, k, str(v).strip()))
-
-    # Process line by line to determine entity context
     for line in lines:
-        for ent_name in entity_map.keys():
-            if _entity_matches_text(ent_name, line):
-                # Search for any known attribute values in this line
-                for orig_ent, k, val in all_known_attrs:
-                    if val.lower() in line.lower():
-                        claim = (ent_name, k, val)
-                        if claim not in extracted_claims:
-                            extracted_claims.append(claim)
+        matched_ent = _find_entity_for_line(line, entity_names)
+        if not matched_ent:
+            continue
 
-    # Check for hallucinated attributes explicitly mentioned near an entity
-    if not extracted_claims or "has" in response_text.lower():
-        # Generic regex to capture "has <attribute> as <value>"
-        matches = re.findall(r'(\w+[\w\s]*?)\s+has\s+(\w+)\s+as\s+([^.,\n]+)', response_text, re.IGNORECASE)
-        for matched_ent, matched_attr, matched_val in matches:
-            matched_ent_clean = matched_ent.strip()
-            matched_val_clean = matched_val.strip()
-            for ent_name in entity_map.keys():
-                if _entity_matches_text(ent_name, matched_ent_clean):
-                    claim = (ent_name, matched_attr.strip(), matched_val_clean)
-                    if claim not in extracted_claims:
-                        extracted_claims.append(claim)
+        seen_attrs = set()
+
+        # 1. Check known schema attributes
+        for k, possible_vals in all_known_attrs.items():
+            key_variants = [k.lower(), k.replace("_", " ").lower(), k.replace("_", "-").lower()]
+
+            key_found = False
+            for kv in key_variants:
+                if re.search(r'\b' + re.escape(kv) + r'\b', line, re.IGNORECASE):
+                    key_found = True
+                    break
+
+            if not key_found:
+                continue
+
+            sorted_vals = sorted(list(possible_vals), key=len, reverse=True)
+            for val in sorted_vals:
+                str_val = str(val).strip()
+                val_pattern = r'(?:^|[^\w])' + re.escape(str_val) + r'(?:[^\w]|$)'
+                if re.search(val_pattern, line, re.IGNORECASE):
+                    if k not in seen_attrs:
+                        extracted_claims.append((matched_ent, k, str_val))
+                        seen_attrs.add(k)
+                    break
+
+        # 2. Check for explicit "<attribute> as <value>" or "<attribute>: <value>" patterns (captures hallucinations)
+        if all_known_attrs:
+            key_regex_parts = []
+            for k in all_known_attrs.keys():
+                key_regex_parts.append(re.escape(k))
+                key_regex_parts.append(re.escape(k.replace("_", " ")))
+            attr_pattern = "|".join(key_regex_parts)
+
+            pattern = rf'(?:^|[,\s])(\b(?:{attr_pattern})\b)\s*(?::|\bas\b|=)\s*([^,.\n]+)'
+            for m in re.finditer(pattern, line, re.IGNORECASE):
+                raw_attr = m.group(1).strip().lower().replace(" ", "_")
+                raw_val = m.group(2).strip()
+
+                # Normalize attribute name against known keys
+                canonical_attr = None
+                for k in all_known_attrs.keys():
+                    if raw_attr in [k.lower(), k.replace("_", " ").lower()]:
+                        canonical_attr = k
+                        break
+
+                if canonical_attr and canonical_attr not in seen_attrs:
+                    extracted_claims.append((matched_ent, canonical_attr, raw_val))
+                    seen_attrs.add(canonical_attr)
 
     return extracted_claims
 

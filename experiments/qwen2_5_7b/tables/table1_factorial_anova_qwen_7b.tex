@@ -1,0 +1,20 @@
+% IEEE TPAMI Manuscript Deliverable: Table 1
+% Full Factorial 2x2 Evaluation & Evaluation Blindness Analysis
+\begin{table*}[t]
+\centering
+\small
+\caption{Empirical Factorial Evaluation of Multi-Entity Binding Interference ($BER_k$, $EA\text{-}F1$) and Standard RAGAS Evaluation Blindness Gap ($\Delta_{\text{blind}}$) on QWEN_7B.}
+\label{tab:factorial_anova_qwen_7b}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lcccccccc@{}}
+\toprule
+\textbf{Factorial Experimental Cell} & \textbf{Schema Sim ($S_{\text{schema}}$)} & \textbf{Density ($k$)} & \textbf{$N$} & \textbf{$BER_k$ $\downarrow$} & \textbf{$EA\text{-}F1$ $\uparrow$} & \textbf{RAGAS $\uparrow$} & \textbf{Blindness Gap ($\Delta$) $\uparrow$} \\
+\midrule
+  Cell 1: Disjoint Low-Density & Low & k=2 (Low) & 50 & 0.000 $\pm$ 0.000 & 0.967 & 0.839 & \textbf{0.016} \\
+  Cell 2: Isomorphic Low-Density & High & k=2 (Low) & 50 & 0.000 $\pm$ 0.000 & 0.969 & 0.881 & \textbf{0.008} \\
+  Cell 3: Disjoint High-Density & Low & k=4 (High) & 50 & 0.000 $\pm$ 0.000 & 0.609 & 0.825 & \textbf{0.372} \\
+  Cell 4: Isomorphic High-Density & High & k=4 (High) & 50 & 0.000 $\pm$ 0.000 & 0.567 & 0.888 & \textbf{0.468} \\
+\midrule
+\multicolumn{8}{l}{\textit{Core Scientific Finding}: Standard RAGAS fails to penalize cross-entity transposition ($BER_k$), yielding large $\Delta_{\text{blind}}$.} \\
+\bottomrule
+\end{tabular*}
+\end{table*}

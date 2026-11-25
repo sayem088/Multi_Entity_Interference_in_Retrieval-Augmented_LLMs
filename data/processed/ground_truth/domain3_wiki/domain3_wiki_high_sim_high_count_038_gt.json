@@ -1,0 +1,54 @@
+{
+  "scenario_id": "domain3_wiki_high_sim_high_count_038",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "Grand Spacecraft 5": {
+      "name": "Grand Spacecraft 5",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Spacecraft 29": {
+      "name": "Grand Spacecraft 29",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Spacecraft 93": {
+      "name": "Grand Spacecraft 93",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Spacecraft 21": {
+      "name": "Grand Spacecraft 21",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Spacecraft 86": {
+      "name": "Grand Spacecraft 86",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Spacecraft 84": {
+      "name": "Grand Spacecraft 84",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Spacecraft 32": {
+      "name": "Grand Spacecraft 32",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Spacecraft 85": {
+      "name": "Grand Spacecraft 85",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    }
+  }
+}

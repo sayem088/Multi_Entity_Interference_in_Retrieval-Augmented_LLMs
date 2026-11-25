@@ -1,0 +1,28 @@
+{
+  "scenario_id": "domain1_geo_high_sim_low_count_008",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Restaurant Site 8": {
+      "name": "Restaurant Site 8",
+      "cuisine": "italian",
+      "opening_hours": "11:00-23:00",
+      "takeaway": "yes",
+      "wheelchair": "yes",
+      "phone": "+1-555-0144",
+      "website": "https://bistro.com",
+      "postcode": "10002",
+      "rating": "4.5 stars"
+    },
+    "Restaurant Site 52": {
+      "name": "Restaurant Site 52",
+      "cuisine": "italian",
+      "opening_hours": "11:00-23:00",
+      "takeaway": "yes",
+      "wheelchair": "yes",
+      "phone": "+1-555-0144",
+      "website": "https://bistro.com",
+      "postcode": "10002",
+      "rating": "4.0 stars"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "scenario_id": "domain1_geo_high_sim_high_count_008",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "Hotel Site 51": {
+      "name": "Hotel Site 51",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Hotel Site 92": {
+      "name": "Hotel Site 92",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Hotel Site 96": {
+      "name": "Hotel Site 96",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Hotel Site 6": {
+      "name": "Hotel Site 6",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Hotel Site 45": {
+      "name": "Hotel Site 45",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Hotel Site 83": {
+      "name": "Hotel Site 83",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Hotel Site 57": {
+      "name": "Hotel Site 57",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Hotel Site 59": {
+      "name": "Hotel Site 59",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    }
+  }
+}

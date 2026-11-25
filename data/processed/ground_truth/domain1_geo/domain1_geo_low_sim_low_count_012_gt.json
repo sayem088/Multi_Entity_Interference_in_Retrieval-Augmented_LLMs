@@ -1,0 +1,25 @@
+{
+  "scenario_id": "domain1_geo_low_sim_low_count_012",
+  "cell_label": "low_sim_low_count",
+  "entity_map": {
+    "Park Site 48": {
+      "name": "Park Site 48",
+      "leisure": "park",
+      "opening_hours": "06:00-21:00",
+      "dog_friendly": "yes",
+      "fee": "no",
+      "surface": "grass"
+    },
+    "Restaurant Site 46": {
+      "name": "Restaurant Site 46",
+      "cuisine": "italian",
+      "opening_hours": "11:00-23:00",
+      "takeaway": "yes",
+      "wheelchair": "yes",
+      "phone": "+1-555-0144",
+      "website": "https://bistro.com",
+      "postcode": "10002",
+      "rating": "4.0 stars"
+    }
+  }
+}

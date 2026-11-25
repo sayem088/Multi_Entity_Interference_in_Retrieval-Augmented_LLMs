@@ -1,0 +1,98 @@
+{
+  "scenario_id": "domain1_geo_high_sim_high_count_027",
+  "domain_id": "domain1_geo",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "osm_school_13",
+      "category": "school",
+      "name": "School Site 13",
+      "attributes": {
+        "name": "School Site 13",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_school_65",
+      "category": "school",
+      "name": "School Site 65",
+      "attributes": {
+        "name": "School Site 65",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_school_91",
+      "category": "school",
+      "name": "School Site 91",
+      "attributes": {
+        "name": "School Site 91",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_school_61",
+      "category": "school",
+      "name": "School Site 61",
+      "attributes": {
+        "name": "School Site 61",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_school_69",
+      "category": "school",
+      "name": "School Site 69",
+      "attributes": {
+        "name": "School Site 69",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_school_41",
+      "category": "school",
+      "name": "School Site 41",
+      "attributes": {
+        "name": "School Site 41",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_school_14",
+      "category": "school",
+      "name": "School Site 14",
+      "attributes": {
+        "name": "School Site 14",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_school_78",
+      "category": "school",
+      "name": "School Site 78",
+      "attributes": {
+        "name": "School Site 78",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    }
+  ]
+}

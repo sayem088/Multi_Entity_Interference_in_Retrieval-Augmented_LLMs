@@ -1,0 +1,130 @@
+{
+  "scenario_id": "domain2_health_high_sim_high_count_012",
+  "domain_id": "domain2_health",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "clinical_neurology_trial_28",
+      "category": "neurology_trial",
+      "name": "Neurology Trial Study 28",
+      "attributes": {
+        "study_or_drug_name": "Neurology Trial Study 28",
+        "phase": "Phase 2b",
+        "target_condition": "Early Alzheimer's Disease",
+        "intervention_dosage": "Lecanemab 10mg/kg Biweekly",
+        "sample_size": "856 patients",
+        "primary_endpoint": "CDR-SB Slowing 27%",
+        "adverse_event_rate": "ARIA-E 12.6%",
+        "completion_year": "2024"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_75",
+      "category": "neurology_trial",
+      "name": "Neurology Trial Study 75",
+      "attributes": {
+        "study_or_drug_name": "Neurology Trial Study 75",
+        "phase": "Phase 2b",
+        "target_condition": "Early Alzheimer's Disease",
+        "intervention_dosage": "Lecanemab 10mg/kg Biweekly",
+        "sample_size": "856 patients",
+        "primary_endpoint": "CDR-SB Slowing 27%",
+        "adverse_event_rate": "ARIA-E 12.6%",
+        "completion_year": "2024"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_17",
+      "category": "neurology_trial",
+      "name": "Neurology Trial Study 17",
+      "attributes": {
+        "study_or_drug_name": "Neurology Trial Study 17",
+        "phase": "Phase 2b",
+        "target_condition": "Early Alzheimer's Disease",
+        "intervention_dosage": "Lecanemab 10mg/kg Biweekly",
+        "sample_size": "856 patients",
+        "primary_endpoint": "CDR-SB Slowing 27%",
+        "adverse_event_rate": "ARIA-E 12.6%",
+        "completion_year": "2024"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_63",
+      "category": "neurology_trial",
+      "name": "Neurology Trial Study 63",
+      "attributes": {
+        "study_or_drug_name": "Neurology Trial Study 63",
+        "phase": "Phase 2b",
+        "target_condition": "Early Alzheimer's Disease",
+        "intervention_dosage": "Lecanemab 10mg/kg Biweekly",
+        "sample_size": "856 patients",
+        "primary_endpoint": "CDR-SB Slowing 27%",
+        "adverse_event_rate": "ARIA-E 12.6%",
+        "completion_year": "2024"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_68",
+      "category": "neurology_trial",
+      "name": "Neurology Trial Study 68",
+      "attributes": {
+        "study_or_drug_name": "Neurology Trial Study 68",
+        "phase": "Phase 2b",
+        "target_condition": "Early Alzheimer's Disease",
+        "intervention_dosage": "Lecanemab 10mg/kg Biweekly",
+        "sample_size": "856 patients",
+        "primary_endpoint": "CDR-SB Slowing 27%",
+        "adverse_event_rate": "ARIA-E 12.6%",
+        "completion_year": "2024"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_71",
+      "category": "neurology_trial",
+      "name": "Neurology Trial Study 71",
+      "attributes": {
+        "study_or_drug_name": "Neurology Trial Study 71",
+        "phase": "Phase 2b",
+        "target_condition": "Early Alzheimer's Disease",
+        "intervention_dosage": "Lecanemab 10mg/kg Biweekly",
+        "sample_size": "856 patients",
+        "primary_endpoint": "CDR-SB Slowing 27%",
+        "adverse_event_rate": "ARIA-E 12.6%",
+        "completion_year": "2024"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_38",
+      "category": "neurology_trial",
+      "name": "Neurology Trial Study 38",
+      "attributes": {
+        "study_or_drug_name": "Neurology Trial Study 38",
+        "phase": "Phase 2b",
+        "target_condition": "Early Alzheimer's Disease",
+        "intervention_dosage": "Lecanemab 10mg/kg Biweekly",
+        "sample_size": "856 patients",
+        "primary_endpoint": "CDR-SB Slowing 27%",
+        "adverse_event_rate": "ARIA-E 12.6%",
+        "completion_year": "2024"
+      }
+    },
+    {
+      "entity_id": "clinical_neurology_trial_99",
+      "category": "neurology_trial",
+      "name": "Neurology Trial Study 99",
+      "attributes": {
+        "study_or_drug_name": "Neurology Trial Study 99",
+        "phase": "Phase 2b",
+        "target_condition": "Early Alzheimer's Disease",
+        "intervention_dosage": "Lecanemab 10mg/kg Biweekly",
+        "sample_size": "856 patients",
+        "primary_endpoint": "CDR-SB Slowing 27%",
+        "adverse_event_rate": "ARIA-E 12.6%",
+        "completion_year": "2024"
+      }
+    }
+  ]
+}

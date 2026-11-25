@@ -1,0 +1,18 @@
+{
+  "scenario_id": "domain3_wiki_high_sim_low_count_008",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Grand Museum 77": {
+      "name": "Grand Museum 77",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    },
+    "Grand Museum 50": {
+      "name": "Grand Museum 50",
+      "established": "1900",
+      "location": "Global",
+      "website": "https://example.org"
+    }
+  }
+}

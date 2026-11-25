@@ -1,0 +1,22 @@
+{
+  "scenario_id": "domain1_geo_low_sim_low_count_029",
+  "cell_label": "low_sim_low_count",
+  "entity_map": {
+    "Hospital Site 47": {
+      "name": "Hospital Site 47",
+      "capacity": "1275 beds",
+      "opening_hours": "24/7",
+      "emergency": "yes",
+      "wheelchair": "yes",
+      "phone": "+1-555-0157",
+      "website": "https://hospital.org",
+      "postcode": "10001"
+    },
+    "Airport Site 40": {
+      "name": "Airport Site 40",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "scenario_id": "domain2_health_high_sim_low_count_014",
+  "domain_id": "domain2_health",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "clinical_infectious_disease_trial_10",
+      "category": "infectious_disease_trial",
+      "name": "Infectious Disease Trial Study 10",
+      "attributes": {
+        "study_or_drug_name": "Infectious Disease Trial Study 10",
+        "phase": "Phase 2",
+        "target_condition": "Cardiometabolic Syndrome",
+        "intervention_dosage": "Investigational Agent 50mg",
+        "sample_size": "350 patients",
+        "primary_endpoint": "Biomarker Normalization",
+        "adverse_event_rate": "Mild headache 8%",
+        "completion_year": "2025"
+      }
+    },
+    {
+      "entity_id": "clinical_infectious_disease_trial_11",
+      "category": "infectious_disease_trial",
+      "name": "Infectious Disease Trial Study 11",
+      "attributes": {
+        "study_or_drug_name": "Infectious Disease Trial Study 11",
+        "phase": "Phase 2",
+        "target_condition": "Cardiometabolic Syndrome",
+        "intervention_dosage": "Investigational Agent 50mg",
+        "sample_size": "350 patients",
+        "primary_endpoint": "Biomarker Normalization",
+        "adverse_event_rate": "Mild headache 8%",
+        "completion_year": "2025"
+      }
+    }
+  ]
+}

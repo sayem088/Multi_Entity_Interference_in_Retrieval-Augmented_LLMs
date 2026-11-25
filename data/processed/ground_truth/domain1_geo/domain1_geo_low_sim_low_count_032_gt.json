@@ -1,0 +1,23 @@
+{
+  "scenario_id": "domain1_geo_low_sim_low_count_032",
+  "cell_label": "low_sim_low_count",
+  "entity_map": {
+    "School Site 85": {
+      "name": "School Site 85",
+      "opening_hours": "09:00-18:00",
+      "wheelchair": "yes",
+      "phone": "+1-555-0000"
+    },
+    "Restaurant Site 61": {
+      "name": "Restaurant Site 61",
+      "cuisine": "italian",
+      "opening_hours": "11:00-23:00",
+      "takeaway": "yes",
+      "wheelchair": "yes",
+      "phone": "+1-555-0144",
+      "website": "https://bistro.com",
+      "postcode": "10002",
+      "rating": "4.0 stars"
+    }
+  }
+}

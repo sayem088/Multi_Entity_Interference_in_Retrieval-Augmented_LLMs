@@ -1,0 +1,25 @@
+{
+  "scenario_id": "domain1_geo_low_sim_low_count_039",
+  "cell_label": "low_sim_low_count",
+  "entity_map": {
+    "Bank Site 5": {
+      "name": "Bank Site 5",
+      "atm": "yes",
+      "opening_hours": "09:00-17:00",
+      "drive_through": "no",
+      "wheelchair": "yes",
+      "phone": "+1-555-0188",
+      "postcode": "10003"
+    },
+    "Hospital Site 43": {
+      "name": "Hospital Site 43",
+      "capacity": "1175 beds",
+      "opening_hours": "24/7",
+      "emergency": "yes",
+      "wheelchair": "yes",
+      "phone": "+1-555-0153",
+      "website": "https://hospital.org",
+      "postcode": "10001"
+    }
+  }
+}

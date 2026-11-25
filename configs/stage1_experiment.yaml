@@ -1,8 +1,9 @@
 experiment_name: "stage1_measurement_mei"
 version: "1.0.0"
 domains:
-  - "domain1_poi"
-  - "domain2_wiki"
+  - "domain1_geo"
+  - "domain2_health"
+  - "domain3_wiki"
 
 paths:
   raw_data_dir: "data/raw"

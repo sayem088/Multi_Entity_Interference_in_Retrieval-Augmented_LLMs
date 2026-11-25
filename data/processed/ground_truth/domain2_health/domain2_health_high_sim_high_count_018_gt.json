@@ -1,0 +1,86 @@
+{
+  "scenario_id": "domain2_health_high_sim_high_count_018",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "Oncology Trial Study 90": {
+      "study_or_drug_name": "Oncology Trial Study 90",
+      "phase": "Phase 3",
+      "target_condition": "Non-Small Cell Lung Cancer",
+      "intervention_dosage": "Pembrolizumab 200mg IV Q3W",
+      "sample_size": "4100 patients",
+      "primary_endpoint": "Overall Survival 18.0 months",
+      "adverse_event_rate": "Grade 3/4 toxicity 20%",
+      "completion_year": "2024"
+    },
+    "Oncology Trial Study 20": {
+      "study_or_drug_name": "Oncology Trial Study 20",
+      "phase": "Phase 3",
+      "target_condition": "Non-Small Cell Lung Cancer",
+      "intervention_dosage": "Pembrolizumab 200mg IV Q3W",
+      "sample_size": "1300 patients",
+      "primary_endpoint": "Overall Survival 18.0 months",
+      "adverse_event_rate": "Grade 3/4 toxicity 28%",
+      "completion_year": "2024"
+    },
+    "Oncology Trial Study 49": {
+      "study_or_drug_name": "Oncology Trial Study 49",
+      "phase": "Phase 3",
+      "target_condition": "Non-Small Cell Lung Cancer",
+      "intervention_dosage": "Pembrolizumab 200mg IV Q3W",
+      "sample_size": "2460 patients",
+      "primary_endpoint": "Overall Survival 28.0 months",
+      "adverse_event_rate": "Grade 3/4 toxicity 24%",
+      "completion_year": "2024"
+    },
+    "Oncology Trial Study 87": {
+      "study_or_drug_name": "Oncology Trial Study 87",
+      "phase": "Phase 3",
+      "target_condition": "Non-Small Cell Lung Cancer",
+      "intervention_dosage": "Pembrolizumab 200mg IV Q3W",
+      "sample_size": "3980 patients",
+      "primary_endpoint": "Overall Survival 23.0 months",
+      "adverse_event_rate": "Grade 3/4 toxicity 32%",
+      "completion_year": "2024"
+    },
+    "Oncology Trial Study 81": {
+      "study_or_drug_name": "Oncology Trial Study 81",
+      "phase": "Phase 3",
+      "target_condition": "Non-Small Cell Lung Cancer",
+      "intervention_dosage": "Pembrolizumab 200mg IV Q3W",
+      "sample_size": "3740 patients",
+      "primary_endpoint": "Overall Survival 20.5 months",
+      "adverse_event_rate": "Grade 3/4 toxicity 32%",
+      "completion_year": "2024"
+    },
+    "Oncology Trial Study 76": {
+      "study_or_drug_name": "Oncology Trial Study 76",
+      "phase": "Phase 3",
+      "target_condition": "Non-Small Cell Lung Cancer",
+      "intervention_dosage": "Pembrolizumab 200mg IV Q3W",
+      "sample_size": "3540 patients",
+      "primary_endpoint": "Overall Survival 20.5 months",
+      "adverse_event_rate": "Grade 3/4 toxicity 36%",
+      "completion_year": "2024"
+    },
+    "Oncology Trial Study 16": {
+      "study_or_drug_name": "Oncology Trial Study 16",
+      "phase": "Phase 3",
+      "target_condition": "Non-Small Cell Lung Cancer",
+      "intervention_dosage": "Pembrolizumab 200mg IV Q3W",
+      "sample_size": "1140 patients",
+      "primary_endpoint": "Overall Survival 20.5 months",
+      "adverse_event_rate": "Grade 3/4 toxicity 36%",
+      "completion_year": "2024"
+    },
+    "Oncology Trial Study 34": {
+      "study_or_drug_name": "Oncology Trial Study 34",
+      "phase": "Phase 3",
+      "target_condition": "Non-Small Cell Lung Cancer",
+      "intervention_dosage": "Pembrolizumab 200mg IV Q3W",
+      "sample_size": "1860 patients",
+      "primary_endpoint": "Overall Survival 28.0 months",
+      "adverse_event_rate": "Grade 3/4 toxicity 36%",
+      "completion_year": "2024"
+    }
+  }
+}

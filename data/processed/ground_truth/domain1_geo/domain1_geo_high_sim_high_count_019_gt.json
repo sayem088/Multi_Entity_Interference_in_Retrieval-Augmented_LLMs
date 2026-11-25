@@ -1,0 +1,78 @@
+{
+  "scenario_id": "domain1_geo_high_sim_high_count_019",
+  "cell_label": "high_sim_high_count",
+  "entity_map": {
+    "Bank Site 12": {
+      "name": "Bank Site 12",
+      "atm": "yes",
+      "opening_hours": "09:00-17:00",
+      "drive_through": "no",
+      "wheelchair": "yes",
+      "phone": "+1-555-0188",
+      "postcode": "10003"
+    },
+    "Bank Site 92": {
+      "name": "Bank Site 92",
+      "atm": "yes",
+      "opening_hours": "09:00-17:00",
+      "drive_through": "no",
+      "wheelchair": "yes",
+      "phone": "+1-555-0188",
+      "postcode": "10003"
+    },
+    "Bank Site 77": {
+      "name": "Bank Site 77",
+      "atm": "yes",
+      "opening_hours": "09:00-17:00",
+      "drive_through": "no",
+      "wheelchair": "yes",
+      "phone": "+1-555-0188",
+      "postcode": "10003"
+    },
+    "Bank Site 85": {
+      "name": "Bank Site 85",
+      "atm": "yes",
+      "opening_hours": "09:00-17:00",
+      "drive_through": "no",
+      "wheelchair": "yes",
+      "phone": "+1-555-0188",
+      "postcode": "10003"
+    },
+    "Bank Site 52": {
+      "name": "Bank Site 52",
+      "atm": "yes",
+      "opening_hours": "09:00-17:00",
+      "drive_through": "no",
+      "wheelchair": "yes",
+      "phone": "+1-555-0188",
+      "postcode": "10003"
+    },
+    "Bank Site 34": {
+      "name": "Bank Site 34",
+      "atm": "yes",
+      "opening_hours": "09:00-17:00",
+      "drive_through": "no",
+      "wheelchair": "yes",
+      "phone": "+1-555-0188",
+      "postcode": "10003"
+    },
+    "Bank Site 19": {
+      "name": "Bank Site 19",
+      "atm": "yes",
+      "opening_hours": "09:00-17:00",
+      "drive_through": "no",
+      "wheelchair": "yes",
+      "phone": "+1-555-0188",
+      "postcode": "10003"
+    },
+    "Bank Site 44": {
+      "name": "Bank Site 44",
+      "atm": "yes",
+      "opening_hours": "09:00-17:00",
+      "drive_through": "no",
+      "wheelchair": "yes",
+      "phone": "+1-555-0188",
+      "postcode": "10003"
+    }
+  }
+}

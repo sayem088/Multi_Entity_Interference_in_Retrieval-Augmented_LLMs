@@ -1,0 +1,98 @@
+{
+  "scenario_id": "domain1_geo_high_sim_high_count_008",
+  "domain_id": "domain1_geo",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "osm_hotel_51",
+      "category": "hotel",
+      "name": "Hotel Site 51",
+      "attributes": {
+        "name": "Hotel Site 51",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_hotel_92",
+      "category": "hotel",
+      "name": "Hotel Site 92",
+      "attributes": {
+        "name": "Hotel Site 92",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_hotel_96",
+      "category": "hotel",
+      "name": "Hotel Site 96",
+      "attributes": {
+        "name": "Hotel Site 96",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_hotel_6",
+      "category": "hotel",
+      "name": "Hotel Site 6",
+      "attributes": {
+        "name": "Hotel Site 6",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_hotel_45",
+      "category": "hotel",
+      "name": "Hotel Site 45",
+      "attributes": {
+        "name": "Hotel Site 45",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_hotel_83",
+      "category": "hotel",
+      "name": "Hotel Site 83",
+      "attributes": {
+        "name": "Hotel Site 83",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_hotel_57",
+      "category": "hotel",
+      "name": "Hotel Site 57",
+      "attributes": {
+        "name": "Hotel Site 57",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    },
+    {
+      "entity_id": "osm_hotel_59",
+      "category": "hotel",
+      "name": "Hotel Site 59",
+      "attributes": {
+        "name": "Hotel Site 59",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    }
+  ]
+}

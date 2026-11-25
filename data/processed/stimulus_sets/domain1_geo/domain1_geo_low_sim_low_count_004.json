@@ -1,0 +1,36 @@
+{
+  "scenario_id": "domain1_geo_low_sim_low_count_004",
+  "domain_id": "domain1_geo",
+  "cell_label": "low_sim_low_count",
+  "schema_similarity_type": "low",
+  "schema_similarity_score": 0.5,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "osm_hospital_28",
+      "category": "hospital",
+      "name": "Hospital Site 28",
+      "attributes": {
+        "name": "Hospital Site 28",
+        "capacity": "800 beds",
+        "opening_hours": "24/7",
+        "emergency": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0138",
+        "website": "https://hospital.org",
+        "postcode": "10001"
+      }
+    },
+    {
+      "entity_id": "osm_airport_30",
+      "category": "airport",
+      "name": "Airport Site 30",
+      "attributes": {
+        "name": "Airport Site 30",
+        "opening_hours": "09:00-18:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0000"
+      }
+    }
+  ]
+}

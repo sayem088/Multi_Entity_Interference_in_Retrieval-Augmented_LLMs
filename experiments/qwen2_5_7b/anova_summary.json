@@ -1,0 +1,70 @@
+{
+  "model": "Qwen2.5-7B-Instruct",
+  "total_scenarios": 200,
+  "anova_blindness_gap": {
+    "C(Factor_Schema_Similarity)": {
+      "sum_sq": 0.094917,
+      "df": 1,
+      "F": 5.2147,
+      "p_value": 0.0234686961708284,
+      "eta_p_sq": 0.0259
+    },
+    "C(Factor_Entity_Density)": {
+      "sum_sq": 8.338466,
+      "df": 1,
+      "F": 458.1126,
+      "p_value": 3.4578854047087934e-53,
+      "eta_p_sq": 0.7004
+    },
+    "C(Factor_Schema_Similarity):C(Factor_Entity_Density)": {
+      "sum_sq": 0.137309,
+      "df": 1,
+      "F": 7.5437,
+      "p_value": 0.006583011367918562,
+      "eta_p_sq": 0.0371
+    },
+    "Residual": {
+      "sum_sq": 3.567549,
+      "df": 196,
+      "F": null,
+      "p_value": null,
+      "eta_p_sq": null
+    }
+  },
+  "anova_ea_f1": {
+    "C(Factor_Schema_Similarity)": {
+      "sum_sq": 0.019283,
+      "df": 1,
+      "F": 1.4336,
+      "p_value": 0.23261862292207786,
+      "eta_p_sq": 0.0073
+    },
+    "C(Factor_Entity_Density)": {
+      "sum_sq": 7.213162,
+      "df": 1,
+      "F": 536.2891,
+      "p_value": 5.3003733957009415e-58,
+      "eta_p_sq": 0.7323
+    },
+    "C(Factor_Schema_Similarity):C(Factor_Entity_Density)": {
+      "sum_sq": 0.024354,
+      "df": 1,
+      "F": 1.8107,
+      "p_value": 0.17997811428564434,
+      "eta_p_sq": 0.0092
+    },
+    "Residual": {
+      "sum_sq": 2.636227,
+      "df": 196,
+      "F": null,
+      "p_value": null,
+      "eta_p_sq": null
+    }
+  },
+  "blindness_t_test": {
+    "mean_gap": 0.2162,
+    "std_gap": 0.247,
+    "t_statistic": 12.3774,
+    "p_value_one_tailed": 9.102166650069078e-27
+  }
+}

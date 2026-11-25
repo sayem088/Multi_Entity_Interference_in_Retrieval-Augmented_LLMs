@@ -1,0 +1,22 @@
+{
+  "scenario_id": "domain3_wiki_high_sim_low_count_034",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Grand Stadium 63": {
+      "name": "Grand Stadium 63",
+      "established": "1923",
+      "location": "London, UK",
+      "students_or_employees": "90,000 capacity",
+      "budget_or_gdp": "$1.2 billion construction",
+      "website": "https://stadium.org"
+    },
+    "Grand Stadium 80": {
+      "name": "Grand Stadium 80",
+      "established": "1923",
+      "location": "London, UK",
+      "students_or_employees": "90,000 capacity",
+      "budget_or_gdp": "$1.2 billion construction",
+      "website": "https://stadium.org"
+    }
+  }
+}

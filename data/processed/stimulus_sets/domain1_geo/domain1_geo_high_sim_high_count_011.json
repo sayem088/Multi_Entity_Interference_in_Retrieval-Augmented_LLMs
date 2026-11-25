@@ -1,0 +1,114 @@
+{
+  "scenario_id": "domain1_geo_high_sim_high_count_011",
+  "domain_id": "domain1_geo",
+  "cell_label": "high_sim_high_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 8,
+  "entities": [
+    {
+      "entity_id": "osm_pharmacy_46",
+      "category": "pharmacy",
+      "name": "Pharmacy Site 46",
+      "attributes": {
+        "name": "Pharmacy Site 46",
+        "dispensing": "yes",
+        "opening_hours": "08:00-22:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0177",
+        "postcode": "10004"
+      }
+    },
+    {
+      "entity_id": "osm_pharmacy_88",
+      "category": "pharmacy",
+      "name": "Pharmacy Site 88",
+      "attributes": {
+        "name": "Pharmacy Site 88",
+        "dispensing": "yes",
+        "opening_hours": "08:00-22:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0177",
+        "postcode": "10004"
+      }
+    },
+    {
+      "entity_id": "osm_pharmacy_45",
+      "category": "pharmacy",
+      "name": "Pharmacy Site 45",
+      "attributes": {
+        "name": "Pharmacy Site 45",
+        "dispensing": "yes",
+        "opening_hours": "08:00-22:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0177",
+        "postcode": "10004"
+      }
+    },
+    {
+      "entity_id": "osm_pharmacy_32",
+      "category": "pharmacy",
+      "name": "Pharmacy Site 32",
+      "attributes": {
+        "name": "Pharmacy Site 32",
+        "dispensing": "yes",
+        "opening_hours": "08:00-22:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0177",
+        "postcode": "10004"
+      }
+    },
+    {
+      "entity_id": "osm_pharmacy_36",
+      "category": "pharmacy",
+      "name": "Pharmacy Site 36",
+      "attributes": {
+        "name": "Pharmacy Site 36",
+        "dispensing": "yes",
+        "opening_hours": "08:00-22:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0177",
+        "postcode": "10004"
+      }
+    },
+    {
+      "entity_id": "osm_pharmacy_58",
+      "category": "pharmacy",
+      "name": "Pharmacy Site 58",
+      "attributes": {
+        "name": "Pharmacy Site 58",
+        "dispensing": "yes",
+        "opening_hours": "08:00-22:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0177",
+        "postcode": "10004"
+      }
+    },
+    {
+      "entity_id": "osm_pharmacy_7",
+      "category": "pharmacy",
+      "name": "Pharmacy Site 7",
+      "attributes": {
+        "name": "Pharmacy Site 7",
+        "dispensing": "yes",
+        "opening_hours": "08:00-22:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0177",
+        "postcode": "10004"
+      }
+    },
+    {
+      "entity_id": "osm_pharmacy_42",
+      "category": "pharmacy",
+      "name": "Pharmacy Site 42",
+      "attributes": {
+        "name": "Pharmacy Site 42",
+        "dispensing": "yes",
+        "opening_hours": "08:00-22:00",
+        "wheelchair": "yes",
+        "phone": "+1-555-0177",
+        "postcode": "10004"
+      }
+    }
+  ]
+}

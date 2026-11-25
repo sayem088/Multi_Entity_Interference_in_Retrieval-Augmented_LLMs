@@ -1,0 +1,42 @@
+{
+  "scenario_id": "domain1_geo_high_sim_low_count_038",
+  "domain_id": "domain1_geo",
+  "cell_label": "high_sim_low_count",
+  "schema_similarity_type": "high",
+  "schema_similarity_score": 1.0,
+  "entity_count": 2,
+  "entities": [
+    {
+      "entity_id": "osm_restaurant_2",
+      "category": "restaurant",
+      "name": "Restaurant Site 2",
+      "attributes": {
+        "name": "Restaurant Site 2",
+        "cuisine": "italian",
+        "opening_hours": "11:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0144",
+        "website": "https://bistro.com",
+        "postcode": "10002",
+        "rating": "4.5 stars"
+      }
+    },
+    {
+      "entity_id": "osm_restaurant_59",
+      "category": "restaurant",
+      "name": "Restaurant Site 59",
+      "attributes": {
+        "name": "Restaurant Site 59",
+        "cuisine": "italian",
+        "opening_hours": "11:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "phone": "+1-555-0144",
+        "website": "https://bistro.com",
+        "postcode": "10002",
+        "rating": "4.5 stars"
+      }
+    }
+  ]
+}

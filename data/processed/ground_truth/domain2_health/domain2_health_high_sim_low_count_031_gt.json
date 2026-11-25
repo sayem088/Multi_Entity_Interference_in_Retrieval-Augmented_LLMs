@@ -1,0 +1,26 @@
+{
+  "scenario_id": "domain2_health_high_sim_low_count_031",
+  "cell_label": "high_sim_low_count",
+  "entity_map": {
+    "Diagnostic Facility Study 86": {
+      "study_or_drug_name": "Diagnostic Facility Study 86",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    },
+    "Diagnostic Facility Study 17": {
+      "study_or_drug_name": "Diagnostic Facility Study 17",
+      "phase": "Phase 2",
+      "target_condition": "Cardiometabolic Syndrome",
+      "intervention_dosage": "Investigational Agent 50mg",
+      "sample_size": "350 patients",
+      "primary_endpoint": "Biomarker Normalization",
+      "adverse_event_rate": "Mild headache 8%",
+      "completion_year": "2025"
+    }
+  }
+}
