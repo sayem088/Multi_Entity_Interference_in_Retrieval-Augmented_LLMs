@@ -160,26 +160,11 @@ python scripts/04_run_analysis.py
 │   ├── scoring/                          # Zero-LLM BER_k, EA-F1, & RAGAS wrapper
 │   └── analysis/                         # Statistical summary & discriminant validity
 ├── tests/                                # Automated unit test suite
-├── CITATION.cff                          # Standard repository citation metadata
 ├── LICENSE                               # MIT License
 └── pyproject.toml                        # Package build configuration
 ```
 
 ---
-
-## Citation
-
-If you use this benchmark dataset, deterministic auditing engine, or experimental findings in your work, please cite:
-
-```bibtex
-@software{sarker2026mei,
-  author       = {Sarker, Md Abu Sayem},
-  title        = {Multi-Entity Interference in Retrieval-Augmented Language Models: Measurement, Mechanism, and Mitigation},
-  year         = {2026},
-  version      = {1.0.0},
-  url          = {https://github.com/sayem088/Multi_Entity_Interference_in_Retrieval-Augmented_LLMs}
-}
-```
 
 ## License
 
